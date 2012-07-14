@@ -1,0 +1,2 @@
+<a href="http://www.splitbrain.org/go/dokuwiki">Hotfix Release</a> available. [36.2] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%

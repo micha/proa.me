@@ -1,31 +1,9 @@
 This is my sailing kayak Flounder.  It is not a proa.  Still, I'm using the new wikiproa home to make a quick web page for this.  Thus:
  
-{{:flounder_model_2_1024x768.jpg?200|}}
+{{:flounder_model_2_1024x768.jpg?200|}}{{:flounder_model_3_1024x768.jpg?200|}}{{:flounder_model_4_1024x768.jpg?200|}}
 
-{{:flounder_model_3_1024x768.jpg?200|}}
+{{:flounder_model_6_1024x768.jpg?200|}}{{:flounder_model_6_1024x768.jpg?200|}}{{:flounder_model_7_1024x768.jpg?200|}}
 
-{{:flounder_model_4_1024x768.jpg?200|}}
-
-{{:flounder_model_6_1024x768.jpg?200|}}
-
-{{:flounder_model_6_1024x768.jpg?200|}}
-
-{{:flounder_model_7_1024x768.jpg?200|}}
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 This was the original idea.  I want a very light sailing kayak I can put on top of my car and take into the very shallow bays around here.  I want it as light as possible, as fast to set up as possible, and able to sail to windward in as shallow a puddle as you can imagine.  Also, less that 14' so I don't have to bother registering it.  Also, as little epoxy use as possible.
  
 So this is the model I came up with.  13' 10" long, 28" wide, square.  The sail is a sail I thought Bacon had, but they didn't. 
@@ -295,23 +273,23 @@ Stringers with blocks screwed and glued in place.
 Stringers clamped in place.  I made some little corner roundings for the corners of the cockpit, and some little triangular knees to keep the whole thing from twisting sideways under stress.
  
 Remaining to do:  
-Flip on side, plug screw holes in sides, apply patches to some of the framing inside the cockpit.  
-Flip over, do the same for the other side.
-Figure routing for rudder up/down lines and steering lines.
-Install stainless U bolts in bow and stern, front for painter, back for mainsheet block.
-Install pedal steering in cockpit.
-Finish sail.
-Make sail bag.  
-Figure out what to use for sheet.  
-Make mast cap for top of sail.
-Install decks.
-Tape deck seams.
-Install deck hardware; mainsheet block, cleats, steering line routing
-Epoxy exterior.
-Paint.
-Make rack for truck.
- 
-Go sailing!
+
+  * Flip on side, plug screw holes in sides, apply patches to some of the framing inside the cockpit.   
+  * Flip over, do the same for the other side.
+  * Figure routing for rudder up/down lines and steering lines.
+  * Install stainless U bolts in bow and stern, front for painter, back for mainsheet block.
+  * Install pedal steering in cockpit.
+  * Finish sail.
+  * Make sail bag.  
+  * Figure out what to use for sheet.  
+  * Make mast cap for top of sail.
+  * Install decks.
+  * Tape deck seams.
+  * Install deck hardware; mainsheet block, cleats, steering line routing
+  * Epoxy exterior.
+  * Paint.
+  * Make rack for truck.
+  * Go sailing!
  
 July 11:
  
@@ -360,9 +338,66 @@ First, installed decks:
 
 {{:frames_in_1024x768.jpg?200|}}
 
-{{:kevin:cockpit_corners_576x768.jpg?200|
+{{:kevin:cockpit_corners_576x768.jpg?200|}}
 
-{{:kevin:decks_2_576x768.jpg?200|}}}}
+{{:kevin:decks_2_576x768.jpg?200|}}
+
+{{:kevin:decks_576x768.jpg?200|}}
+
+{{:kevin:decks_cut_out_1024x768.jpg?200|}}
+
+{{:kevin:decks_cut_out_2_576x768.jpg?200|}}
+
+{{:kevin:decks_cut_out_3_576x768.jpg?200|}}
+
+{{:kevin:installing_decks_1_1024x768.jpg?200|}}
+
+{{:kevin:installing_decks_2_576x768.jpg?200|}}
+
+Irritatingly, my nail gun doesn't like the little 5/8" stainless brads I bought for it, so it stopped working.  I fixed it for a bit, but it really doesn't like them.  So I used clamps, weights and in places installed the little stainless brads by hand with needle nose pliers and a hammer.  Pain in the neck.  But it worked. 
+
+{{:kevin:decks_on_1_576x768.jpg?200|}}
+
+{{:kevin:decks_on_2_1024x768.jpg?200|}}
+
+{{:kevin:decks_on_4_1024x768.jpg?200|}}
+
+{{:kevin:decks_on_5_1024x768.jpg?200|}}
+
+{{:kevin:decks_on_6_576x768.jpg?200|}}
+
+{{:kevin:decks_on_7_1024x768.jpg?200|}}
+
+The decks are on!  Yay.  I did a cursory run over the whole thing to remove burrs and sharp edges, but put off really feathering the edges of the tape until I got an idea where the deck hardware should go.
+
+{{:kevin:inside_aft_1024x768.jpg?200|}}{{:kevin:inside_bow_576x768.jpg?200|}}
+
+Seems to have bonded pretty well.  The drips aren't pretty, but that's the price of blind gluing, I guess.
+
+{{:kevin:inside_cockpit_1024x768.jpg?200|}}
+
+The knees look crude to me now.  I wish I had taken the time to make nice curved ones.
+
+{{:kevin:in_the_water_1_1024x768.jpg?200|}}{{:kevin:in_the_water_2_1024x768.jpg?200|}}{{:kevin:in_the_water_3_1024x768.jpg?200|}}{{:kevin:in_the_water_4_1024x768.jpg?200|}}{{:kevin:in_the_water_5_1024x768.jpg?200|}}{{:kevin:in_the_water_6_576x768.jpg?200|}}
+
+It works!  I wanted the stern just clear of the water, so that seems about right.  With a small sail up it should sail a bit more bow down.  It's pretty comfortable to sit in, and it actually paddles surprisingly well.
+
+{{:kevin:joy_paddling_1_1024x768.jpg?200|}}{{:kevin:joy_paddling_2_1024x768.jpg?200|}}
+
+I even talked my wife into trying it!  
+
+{{:kevin:pedals_576x768.jpg?200|}}
+
+Salvaged pedals from my old sit inside outrigger canoe.
+
+{{:kevin:rudder_2_1024x768.jpg?200|}}
+
+Rudder from the same canoe.  I knew I kept that for a reason.
+
+So, pretty good so far.  I have to finish the sail and I'll try a short sail tomorrow.
+
+
+
 
 
  

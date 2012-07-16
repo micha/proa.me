@@ -12,4 +12,4 @@
 tdem:REDACTED:Thomas de Meijer:106498@gmail.com:admin,user
 admin:REDACTED:Administrator:106498@gmail.com:admin,user
 micha:REDACTED:Micha Niskin:micha.niskin@gmail.com:admin,user
-kevin_o_neill:REDACTED:Kevin O'Neill:K_S_ONeill@yahoo.com:user
+kevin_o_neill:REDACTED:Kevin O'Neill:K_S_ONeill@yahoo.com:admin,user

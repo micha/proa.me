@@ -2,106 +2,106 @@ This is my sailing kayak <del>Flounder</del>.  (My wife has decided that "Flound
 
 It is not a proa.  Still, I'm using the new wikiproa home to make a quick web page for this.  Thus:
  
-{{:flounder_model_2_1024x768.jpg?200|}}{{:flounder_model_3_1024x768.jpg?200|}}{{:flounder_model_4_1024x768.jpg?200|}}
+{{kevin:flounder_model_2_1024x768.jpg?300x225|}}{{kevin:flounder_model_3_1024x768.jpg?300x225|}}{{kevin:flounder_model_4_1024x768.jpg?300x225|}}
 
-{{:flounder_model_6_1024x768.jpg?200|}}{{:flounder_model_6_1024x768.jpg?200|}}{{:flounder_model_7_1024x768.jpg?200|}}
+{{kevin:flounder_model_5_1024x768.jpg?300x225|}}{{kevin:flounder_model_6_1024x768.jpg?300x225|}}{{kevin:flounder_model_7_1024x768.jpg?300x225|}}
 
 This was the original idea.  I want a very light sailing kayak I can put on top of my car and take into the very shallow bays around here.  I want it as light as possible, as fast to set up as possible, and able to sail to windward in as shallow a puddle as you can imagine.  Also, less that 14' so I don't have to bother registering it.  Also, as little epoxy use as possible.
  
 So this is the model I came up with.  13' 10" long, 28" wide, square.  The sail is a sail I thought Bacon had, but they didn't. 
  
-June 18:
+**June 18:**
  
-{{:kevin:cheapo_scarphs_1024x768.jpg?200|}}{{:kevin:clamping_stringers_1024x768.jpg?200|}}
+{{:kevin:cheapo_scarphs_1024x768.jpg?300x225x200|}}{{:kevin:clamping_stringers_1024x768.jpg?300x225x200|}}
 
-{{:kevin:panels_2_576x768.jpg?200|}}{{:kevin:flounder_panels_1_576x768.jpg?200|}}
+{{:kevin:panels_2_576x768.jpg?300x225x200|}}{{:kevin:flounder_panels_1_576x768.jpg?300x225x200|}}
 
 Scarphed with gorilla glue, chines on with gorilla glue.  Very fast way to work. 
  
-June 19:
+**June 19:**
  
-{{:kevin:panels_3_1024x768.jpg?200|}}{{:kevin:panels_4_576x768.jpg?200|}}{{:kevin:panels_5_1024x768.jpg?200|}}
+{{:kevin:panels_3_1024x768.jpg?300x225|}}{{:kevin:panels_4_576x768.jpg?300x225|}}{{:kevin:panels_5_1024x768.jpg?300x225|}}
 
  
-June 20:
+**June 20:**
  
-{{:kevin:transom_1_576x768.jpg?200|}}
+{{:kevin:transom_1_576x768.jpg?300x225|}}
  
 Cut out transom notches for chines.
  
-{{:kevin:transom_2_576x768.jpg?200|}}
+{{:kevin:transom_2_576x768.jpg?300x225|}}
  
 Looks like an iron cross.
  
-{{:kevin:transom_576x768.jpg?200|}}
+{{:kevin:transom_576x768.jpg?300x225|}}
  
 Hey, it fit!
  
-{{:kevin:bottom_on_1_576x768.jpg?200|}}{{:kevin:bottom_on_2_576x768.jpg?200|}}
+{{:kevin:bottom_on_1_576x768.jpg?300x225|}}{{:kevin:bottom_on_2_576x768.jpg?300x225|}}
  
 Bottom on.  Everything is 1/8" doorskin.  What could possibly go wrong?
  
-{{:kevin:bottom_before_trimming_2_576x768.jpg?200|}}{{:kevin:bottom_before_trimming_576x768.jpg?200|}}
+{{:kevin:bottom_before_trimming_2_576x768.jpg?300x225|}}{{:kevin:bottom_before_trimming_576x768.jpg?300x225|}}
  
 I had laid out a bottom shape, but when I bent the sides to it it looked too fat.  So I made a shape I liked better, and trimmed the bottom.
  
-{{:kevin:bottom_on_1024x768.jpg?200|}}{{:kevin:bottom_on_3_1024x768.jpg?200|}}{{:kevin:bottom_on_4_576x768.jpg?200|}}
+{{:kevin:bottom_on_1024x768.jpg?300x225|}}{{:kevin:bottom_on_3_1024x768.jpg?300x225|}}{{:kevin:bottom_on_4_576x768.jpg?300x225|}}
 
-{{:kevin:bottom_on_6_1024x768.jpg?200|}}{{:kevin:bottom_on_front_view_2_576x768.jpg?200|}}{{:kevin:bottom_on_profile_1024x768.jpg?200|}}
+{{:kevin:bottom_on_6_1024x768.jpg?300x225|}}{{:kevin:bottom_on_front_view_2_576x768.jpg?300x225|}}{{:kevin:bottom_on_profile_1024x768.jpg?300x225|}}
 
 It looks like the sides are caving in, but they're more or less straight vertical.  I think this will look alternatingly very pretty and a little odd, depending on the angle.  Oh well, onwards.
 
  
-June 23:
+**June 23:**
  
-{{:kevin:bukheads_in_3_1024x768.jpg?200|}}{{:kevin:weight_sides_and_bottom_576x768.jpg?200|}}
+{{:kevin:bukheads_in_3_1024x768.jpg?300x225|}}{{:kevin:weight_sides_and_bottom_576x768.jpg?300x225|}}
  
 19 lb bottom and sides.  Not bad.
  
 
-June 25:
+**June 25:**
  
-{{:kevin:tracing_doublers_576x768.jpg?200|}}
+{{:kevin:tracing_doublers_576x768.jpg?300x225|}}
  
 Sizing the doublers for the bottom of the cockpit.  1/8" is not enough to sit on.
  
-{{:kevin:cockpit_doublers_1024x768.jpg?200|}}
-{{:kevin:gluing_in_doublers_1024x768.jpg?200|}}{{:kevin:gluing_in_doublers_2_576x768.jpg?200|}}
+{{:kevin:cockpit_doublers_1024x768.jpg?300x225|}}
+{{:kevin:gluing_in_doublers_1024x768.jpg?300x225|}}{{:kevin:gluing_in_doublers_2_576x768.jpg?300x225|}}
  
 For this I used epoxy.  I'm being horribly careful, full rain suit and double gloves and so on.
  
-{{:kevin:bukheads_in_3_1024x768.jpg?200|}}{{:kevin:bulkheads_in_1_576x768.jpg?200|}}{{:kevin:bulkheads_in_2_576x768.jpg?200|}}
+{{:kevin:bukheads_in_3_1024x768.jpg?300x225|}}{{:kevin:bulkheads_in_1_576x768.jpg?300x225|}}{{:kevin:bulkheads_in_2_576x768.jpg?300x225|}}
 
-{{:kevin:bulkheads_in_6_1024x768.jpg?200|}}
+{{:kevin:bulkheads_in_6_1024x768.jpg?300x225|}}
 
  
 So, floors and side frames are in, bulkheads are in, all with gorilla glue or titebond ii and stainless 5/8" nail gun brads, and the smallest square drive stainless deck screws Lowes had, I think they're 1 1/4" long.  Very fast way to build.
  
-June 26: 
+**June 26:** 
  
-{{:kevin:cb_down_576x768.jpg?200|}}{{:kevin:cb_trunk_1024x768.jpg?200|}}{{:kevin:cb_up_1024x768.jpg?200|}}
+{{:kevin:cb_down_576x768.jpg?300x225|}}{{:kevin:cb_trunk_1024x768.jpg?300x225|}}{{:kevin:cb_up_1024x768.jpg?300x225|}}
  
 Ruminating on a centerboard.  I decided against it.  It was just too long, it would have used up the whole cockpit.
 
-{{:kevin:overdrilled_holes_filled_w_epoxy_1024x768.jpg?200|}}
+{{:kevin:overdrilled_holes_filled_w_epoxy_1024x768.jpg?300x225|}}
  
 
-June 30:
+**June 30:**
  
-{{:kevin:clamping_mast_step_1_576x768.jpg?200|}}{{:kevin:clamping_mast_step_2_1024x768.jpg?200|}}{{:kevin:clamping_mast_step_3_1024x768.jpg?200|}}
+{{:kevin:clamping_mast_step_1_576x768.jpg?300x225|}}{{:kevin:clamping_mast_step_2_1024x768.jpg?300x225|}}{{:kevin:clamping_mast_step_3_1024x768.jpg?300x225|}}
  
 Clamping the mast step stuff to the back of the bulkhead.
  
-{{:kevin:trunk_bits_1024x768.jpg?200|}}
-{{:kevin:gluing_trunk_1024x768.jpg?200|}}{{:kevin:gluing_trunk_2_1024x768.jpg?200|}}
+{{:kevin:trunk_bits_1024x768.jpg?300x225|}}
+{{:kevin:gluing_trunk_1024x768.jpg?300x225|}}{{:kevin:gluing_trunk_2_1024x768.jpg?300x225|}}
 
-{{:kevin:gluing_trunk_3_1024x768.jpg?200|}}{{:kevin:trunk_2_1024x768.jpg?200|}}{{:kevin:daggerboard_trunk_in_place_576x768.jpg?200|}}
+{{:kevin:gluing_trunk_3_1024x768.jpg?300x225|}}{{:kevin:trunk_2_1024x768.jpg?300x225|}}{{:kevin:daggerboard_trunk_in_place_576x768.jpg?300x225|}}
 
 Daggerboard trunk, made of excellent 1/4" marine ply Pete gave me, glassed on the inside then glued up.  Very strong.  A little heavy, but I'll put up with some weight in the trunk and the mast step.
  
-July 1:
+**July 1:**
  
-{{:kevin:chine_placement_1_1024x768.jpg?200|}}{{:kevin:chine_placement_2_1024x768.jpg?200|}}{{:kevin:chine_placement_3_576x768.jpg?200|}}
+{{:kevin:chine_placement_1_1024x768.jpg?300x225|}}{{:kevin:chine_placement_2_1024x768.jpg?300x225|}}{{:kevin:chine_placement_3_576x768.jpg?300x225|}}
  
   
 The pvc is clamped in place to simulate the edges of a cockpit, so I can sit down and figure out how wide I want the decks to be.  Too narrow and I couldn't sit up there if I needed to, too wide and I won't be able to move around to the high side of the boat when I'm sailing it like a kayak, which is how I hope to mostly sail it.  So 4" wide decks look about good.  That leaves me a 20" wide cockpit to sit in, that's pretty roomy.
@@ -109,76 +109,76 @@ The pvc is clamped in place to simulate the edges of a cockpit, so I can sit dow
 You can see the mast step here; I can loosen the bolt heads behind the bulkhead and put shims behind the mast step tube, so I can alter the rake of the mast to move the CE fore and aft if I need to.
  
  
-July 2: 
+**July 2:** 
  
-{{:kevin:dsc00724_1024x768.jpg?200|}}
+{{:kevin:dsc00724_1024x768.jpg?300x225|}}
  
 Laminating a beam to go across the front of the daggerboard trunk.  It looked ok, here, but not when I put it in.
  
-{{:kevin:mast_up_1_576x768.jpg?200|}}{{:kevin:mast_up_2_576x768.jpg?200|}}
+{{:kevin:mast_up_1_576x768.jpg?300x225|}}{{:kevin:mast_up_2_576x768.jpg?300x225|}}
 
 First time mast up!  This is a wonderfully light windsurfer mast Laurent gave me when he moved.  Man is it light!  
  
-{{:kevin:old_gibbons_sail_2_1024x768.jpg?200|}}
+{{:kevin:old_gibbons_sail_2_1024x768.jpg?300x225|}}
  
 The old Gibbons sail.  Already recycled once, I made it out of an old jib I found in the dumpster at Mariner Sails.  
  
-{{:kevin:laying_out_sail_1024x768.jpg?200|}}{{:kevin:old_gibbons_sail_1024x768.jpg?200|}}{{:kevin:ready_to_cut_1024x768.jpg?200|}}
+{{:kevin:laying_out_sail_1024x768.jpg?300x225|}}{{:kevin:old_gibbons_sail_1024x768.jpg?300x225|}}{{:kevin:ready_to_cut_1024x768.jpg?300x225|}}
   
 And here we go
  
-{{:kevin:sail_cut_out_2_1024x768.jpg?200|}}{{:kevin:sail_cut_out_w_square_top_1024x768.jpg?200|}}
+{{:kevin:sail_cut_out_2_1024x768.jpg?300x225|}}{{:kevin:sail_cut_out_w_square_top_1024x768.jpg?300x225|}}
  
 I cut out a square top, as you see, but in a fit of good sense I recut the leech to make it a pinhead.  It's about 45 ft^2, which is a lot on a 28" beam when you're supposed to be sailing it kayak style, without hiking out.  We'll see how that works out.  I put in a reef point, and I can always just put a smaller sail on it.
  
-{{:kevin:seat_placement_with_14_luff_spritsail_989x768.png?200|}}{{:kevin:seat_placement_with_rig_1024x609.png?200|}}
+{{:kevin:seat_placement_with_14_luff_spritsail_989x768.png?300x225|}}{{:kevin:seat_placement_with_rig_1024x609.png?300x225|}}
  
  
 I was struggling with where to carry a passenger; I didn't want to make the cockpit long enough to carry two people, so I put in a few braces under the deck behind the cockpit.  Now I can carry someone sitting there with their feet behind me, and based on this the sheet will clear them fine.
  
  
-July 4
+**July 4**
  
-{{:kevin:cb_slot_1_1024x768.jpg?200|}}{{:kevin:cb_slot_2_1024x768.jpg?200|}}{{:kevin:cb_slot_3_1024x768.jpg?200|}}
+{{:kevin:cb_slot_1_1024x768.jpg?300x225|}}{{:kevin:cb_slot_2_1024x768.jpg?300x225|}}{{:kevin:cb_slot_3_1024x768.jpg?300x225|}}
  
 Cleaned up the daggerboard slot on the bottom.  Very gratifying to see that the second sheet of 1/8" I glued in as a doubler seems to have glued down well with no gaps or anything, you can hardly even see a glue line.  So that looks good.  
 
-{{:kevin:chines_taped_1024x768.jpg?200|}}
+{{:kevin:chines_taped_1024x768.jpg?300x225|}}
 
 I went over the chines with a sander and rounded them a bit, then epoxied the chines, then went over it with thickened epoxy to fill any gaps in the chines, then laid the tape on, then wetted the tape out, then went over it with a plastic squeegee to squeeze excess epoxy out and make the chines adhere well.  All worked a charm.  Then like an idiot I took it outside to sit in the sun, with the charming dumb idea that that would cook the epoxy off faster so it wouldn't sag.  Arrgh.  It outgassed, of course, so I had big bubbles in the tape.  I saw it when the epoxy was still green, so I carried the stupid thing back in the garage and put all my epoxy stuff back on, gloved up again and cut the bubbles out with an exacto knife and pasted patches over them.  What a pain.
  
-{{:kevin:clamp_beam_2_b_576x768.jpg?200|}}
+{{:kevin:clamp_beam_2_b_576x768.jpg?300x225|}}
  
 Also, the first beam I made looked bad.  It was a bit off to one side, it angled too much, just not good.  So I made another one.
  
-{{:kevin:beanding_decks_576x768.jpg?200|}}
+{{:kevin:beanding_decks_576x768.jpg?300x225|}}
  
 And the decks were bending the wrong way, concave with the good side in.  I want the good side out, and I thought this bend they had would make things difficult when it was time to put them on so I came up with this method of persuading them to bend the right way.
  
-July 5:
+**July 5:**
  
 Feathered the edges of the chine tape, prepped the bottom for glass, then flipped the boat over and installed some center beams as a final prep for decks.  Then epoxy coated the bottom of the cockpit and cut and installed the new laminated beam across the daggerboard trunk.
  
-{{:kevin:beam_installed_1.jpg?200|}}{{:kevin:beam_installed_2.jpg?200|}}{{:kevin:beam_installed_3.jpg?200|}}
+{{:kevin:beam_installed_1.jpg?300x225|}}{{:kevin:beam_installed_2.jpg?300x225|}}{{:kevin:beam_installed_3.jpg?300x225|}}
  
 After it got cool I went back out and glassed the bottom:
  
-{{:kevin:glassed_bottom_1.jpg?200|}}{{:kevin:glassed_bottom_2.jpg?200|}}
+{{:kevin:glassed_bottom_1.jpg?300x225|}}{{:kevin:glassed_bottom_2.jpg?300x225|}}
   
 I'm a little afraid to think how much it weighs now.  40 lb?  Oy.
  
  
-July 8
+**July 8**
  
-{{:kevin:cockpit_framing_1_1024x768.jpg?200|}}
+{{:kevin:cockpit_framing_1_1024x768.jpg?300x225|}}
  
 Test fitting the cockpit stringers.  The side decks are 4" wide, which should help in a knockdown and give me something to sit on if I have to sail it that way.
  
-{{:kevin:pre_clamp_setup_2_576x768.jpg?200|}}{{:kevin:pre_clamp_setup_576x768.jpg?200|}}
+{{:kevin:pre_clamp_setup_2_576x768.jpg?300x225|}}{{:kevin:pre_clamp_setup_576x768.jpg?300x225|}}
  
 Stringers with blocks screwed and glued in place.
  
-{{:kevin:clamping_cockpit_1_576x768.jpg?200|}}{{:kevin:clamping_cockpit_2_1024x768.jpg?200|}}
+{{:kevin:clamping_cockpit_1_576x768.jpg?300x225|}}{{:kevin:clamping_cockpit_2_1024x768.jpg?300x225|}}
 
 Stringers clamped in place.  I made some little corner roundings for the corners of the cockpit, and some little triangular knees to keep the whole thing from twisting sideways under stress.
  
@@ -201,11 +201,11 @@ Remaining to do:
   * Make rack for truck.
   * Go sailing!
  
-July 11:
+**July 11:**
  
-{{:kevin:frames_in_1024x768.jpg?200|}}{{:kevin:decks_2_576x768.jpg?200|}}{{:kevin:decks_cut_out_1024x768.jpg?200|}}
+{{:kevin:frames_in_1024x768.jpg?300x225|}}{{:kevin:decks_2_576x768.jpg?300x225|}}{{:kevin:decks_cut_out_1024x768.jpg?300x225|}}
 
-{{:kevin:decks_cut_out_2_576x768.jpg?200|}}{{:kevin:decks_cut_out_3_576x768.jpg?200|}} 
+{{:kevin:decks_cut_out_2_576x768.jpg?300x225|}}{{:kevin:decks_cut_out_3_576x768.jpg?300x225|}} 
 
  
 Cut out the decks, installed the mainsheet thimbles aft and a U ring on the bow for the painter.  Also cut limber holes in the floor frames so the thing can drain if it gets some water in it.
@@ -217,45 +217,45 @@ Went and bought screw in hatches, but I think I can't bring myself to cut holes 
 I started this thing on June 18.  I think it would be rather nice if I got it done by July 18, which I should get done pretty easily.  I think.
 
  
-July 14:
+**July 14:**
 
 Got wet!
 
 First, installed decks:
 
-{{:frames_in_1024x768.jpg?200|}}{{:kevin:cockpit_corners_576x768.jpg?200|}}{{:kevin:decks_2_576x768.jpg?200|}}
+{{:kevin:frames_in_1024x768.jpg?300x225|}}{{:kevin:cockpit_corners_576x768.jpg?300x225|}}{{:kevin:decks_2_576x768.jpg?300x225|}}
 
-{{:kevin:decks_576x768.jpg?200|}}{{:kevin:decks_cut_out_1024x768.jpg?200|}}{{:kevin:decks_cut_out_2_576x768.jpg?200|}}
+{{:kevin:decks_576x768.jpg?300x225|}}{{:kevin:decks_cut_out_1024x768.jpg?300x225|}}{{:kevin:decks_cut_out_2_576x768.jpg?300x225|}}
 
-{{:kevin:decks_cut_out_3_576x768.jpg?200|}}{{:kevin:installing_decks_1_1024x768.jpg?200|}}{{:kevin:installing_decks_2_576x768.jpg?200|}}
+{{:kevin:decks_cut_out_3_576x768.jpg?300x225|}}{{:kevin:installing_decks_1_1024x768.jpg?300x225|}}{{:kevin:installing_decks_2_576x768.jpg?300x225|}}
 
 Irritatingly, my nail gun doesn't like the little 5/8" stainless brads I bought for it, so it stopped working.  I fixed it for a bit, but it really doesn't like them.  So I used clamps, weights and in places installed the little stainless brads by hand with needle nose pliers and a hammer.  Pain in the neck.  But it worked. 
 
-{{:kevin:decks_on_1_576x768.jpg?200|}}{{:kevin:decks_on_2_1024x768.jpg?200|}}{{:kevin:decks_on_4_1024x768.jpg?200|}}
+{{:kevin:decks_on_1_576x768.jpg?300x225|}}{{:kevin:decks_on_2_1024x768.jpg?300x225|}}{{:kevin:decks_on_4_1024x768.jpg?300x225|}}
 
-{{:kevin:decks_on_5_1024x768.jpg?200|}}{{:kevin:decks_on_6_576x768.jpg?200|}}{{:kevin:decks_on_7_1024x768.jpg?200|}}
+{{:kevin:decks_on_5_1024x768.jpg?300x225|}}{{:kevin:decks_on_6_576x768.jpg?300x225|}}{{:kevin:decks_on_7_1024x768.jpg?300x225|}}
 
 The decks are on!  Yay.  I did a cursory run over the whole thing to remove burrs and sharp edges, but put off really feathering the edges of the tape until I got an idea where the deck hardware should go.
 
-{{:kevin:inside_cockpit_1024x768.jpg?200|}}
+{{:kevin:inside_cockpit_1024x768.jpg?300x225|}}
 
 The knees look crude to me now.  I wish I had taken the time to make nice curved ones.
 
-{{:kevin:in_the_water_1_1024x768.jpg?200|}}{{:kevin:in_the_water_2_1024x768.jpg?200|}}{{:kevin:in_the_water_3_1024x768.jpg?200|}}
+{{:kevin:in_the_water_1_1024x768.jpg?300x225|}}{{:kevin:in_the_water_2_1024x768.jpg?300x225|}}{{:kevin:in_the_water_3_1024x768.jpg?300x225|}}
 
-{{:kevin:in_the_water_4_1024x768.jpg?200|}}{{:kevin:in_the_water_5_1024x768.jpg?200|}}{{:kevin:in_the_water_6_576x768.jpg?200|}}
+{{:kevin:in_the_water_4_1024x768.jpg?300x225|}}{{:kevin:in_the_water_5_1024x768.jpg?300x225|}}{{:kevin:in_the_water_6_576x768.jpg?300x225|}}
 
 It works!  I wanted the stern just clear of the water, so that seems about right.  With a small sail up it should sail a bit more bow down.  It's pretty comfortable to sit in, and it actually paddles surprisingly well.
 
-{{:kevin:joy_paddling_1_1024x768.jpg?200|}}{{:kevin:joy_paddling_2_1024x768.jpg?200|}}
+{{:kevin:joy_paddling_1_1024x768.jpg?300x225|}}{{:kevin:joy_paddling_2_1024x768.jpg?300x225|}}
 
 I even talked my wife into trying it!  
 
-{{:kevin:pedals_576x768.jpg?200|}}
+{{:kevin:pedals_576x768.jpg?300x225|}}
 
 Salvaged pedals from my old sit inside outrigger canoe.
 
-{{:kevin:rudder_2_1024x768.jpg?200|}}
+{{:kevin:rudder_2_1024x768.jpg?300x225|}}
 
 Rudder from the same canoe.  I knew I kept that for a reason.
 

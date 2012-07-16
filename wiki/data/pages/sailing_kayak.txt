@@ -22,6 +22,8 @@ Scarphed with gorilla glue, chines on with gorilla glue.  Very fast way to work.
  
 {{:kevin:panels_3_1024x768.jpg?300x225|}}{{:kevin:panels_4_576x768.jpg?300x225|}}{{:kevin:panels_5_1024x768.jpg?300x225|}}
 
+{{:kevin:mocking_up_for_beam_3_1024x768.jpg?300x225|}}{{:kevin:mocking_up_for_beam_576x768.jpg?300x225}}{{:kevin:mocking_up_for_beam_2_576x768.jpg?300x225|}}
+
  
 **June 20:**
  

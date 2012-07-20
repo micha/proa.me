@@ -1,0 +1,18 @@
+====== Bionic Broomstick ======
+
+Since it was requested here's a little info on my next proa Bionic Broomstick. After fiddling with P52 since the 2007 EC and finally finishing a long distance event, the 2010 Texas 200 I'm ready to go back to ACDC sized boats for a number of reasons.
+
+  - Its easier and cheaper to make changes, which are an intregal part of piddling with proas.
+  - Fourteen feet is the dividing line in Texas for requiring registration on sailboats FWIW Texas canoes can be any length without registration.
+  - I'm just happier closer to the water in a smaller boat.
+  - Kevin provided a home for P52 avoiding a major guilt trip for abandoning a boat that had carried me through thick and thin (weather and water).
+
+Broomstick pluses, cheap, easily built, simple. Virtually all the pieces end up being extruded shapes for reasons other than simplicity of 3D modelling which wasn't done in any case. The hull is a Speer 30012 stretched to 21/1 (30004.8?) in hopes of developing a reasonable amount of side force with low drag plus ending up with a fairly high PC (prismatic cooefficient), +/-.72 which is roughly equivalent to an 18' hull at a more conventional PC. The single beam started out being a nice circular cross section double tapered piece cut from the first overbuilt mast from P52 but further consideration of the forces involved and details of rigging a seat, mast step and sockets at each end made it an easy decision to go with a box beam, 1X4 top and bottom with 5mm ply webs. Float is also an extruded shape but gets a rounded bottom of foam and glass in consideration of lowering wetted surface and ease of motion coming in and out of the water. Cassette style rudders round out the exruded shapes though an excursion back to steering oars might happen. The general configuration is like ACDC very little bending stresses most of the forces end up being compression/tension.
+
+Broomstick minuses, all that cheap, easily built, simple craft is a vehicle for the rig that will not die. One more time (again). After abandoning the biaxial sail (aka Bolger or AYRS sail) on ACDC in favor of several crab claw iterations on P52 a boomed stay sail turned out to be a powerful sail that led back toward the biaxial morass, I just can't help it. The curved laminated I-beam boom is already made and there will probably be a couple of housewrap sails done to verify the roller furling and sail shape before fabricating a mylar piece, the ability to see through your sail is a very positive attribute when the sail covers 160 degrees or so of your horizon.  Another minor minus is a boat this side is limited to solo sailing.
+
+{{:skip:p9150160.jpg?600|}}
+
+The model was cobbled up out of cardboard so I could try different rudder configurations hoping that one would shout "I am the one" but alas none spoke. The configuration that mumbled the least was the rudder at each end, lack of clarity in this case is the exposre to damage.
+
+{{:skip:bionicbroomstick.pdf|}}

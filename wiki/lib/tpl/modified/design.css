@@ -13,14 +13,17 @@ body {
   font: 80% "Lucida Grande", Verdana, Lucida, Helvetica, Arial, sans-serif;
   background-color: __background__;
   color: __text__;
-  align: center;
 }
 
 /* the document */
 div.dokuwiki div.page {
   margin: 4px 2em 0 1em;
-  width: 80%;
   text-align: justify;
+}
+
+div.page {
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 div.dokuwiki table {

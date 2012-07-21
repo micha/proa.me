@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://proa.me/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://proa.me/wiki/feed.php">
+        <title>Wikiproa</title>
+        <description></description>
+        <link>http://proa.me/wiki/</link>
+        <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
+       <dc:date>2012-07-21T12:30:31+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1342871488&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1342784663&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=skip%3Abionicbroomstick.pdf&amp;ns=skip&amp;rev=1342784628&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=skip%3Ap9150160.jpg&amp;ns=skip&amp;rev=1342784586&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pjoa_model&amp;rev=1342784033&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=pjoa%3Apjoa-model1.jpg&amp;ns=pjoa&amp;rev=1342783427&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=pjoa%3Apjoa-model4.jpg&amp;ns=pjoa&amp;rev=1342783425&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=pjoa%3Apjoa-model3.jpg&amp;ns=pjoa&amp;rev=1342783424&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=pjoa%3Apjoa-model2.jpg&amp;ns=pjoa&amp;rev=1342783423&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=squid&amp;rev=1342492880&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pjoa&amp;rev=1342492827&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=pjoa%3Apjoa2008polled2.jpg&amp;ns=pjoa&amp;rev=1342492691&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=squid%3Asp_124.jpg&amp;ns=squid&amp;rev=1342491230&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=squid%3Asp_126.jpg&amp;ns=squid&amp;rev=1342491230&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=squid%3Asp_123.jpg&amp;ns=squid&amp;rev=1342491230&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=squid%3Aproa_021.jpg&amp;ns=squid&amp;rev=1342491218&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=squid%3Aproa_009.jpg&amp;ns=squid&amp;rev=1342491217&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=squid%3Aproa_005.jpg&amp;ns=squid&amp;rev=1342491215&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=squid%3Aproa_001.jpg&amp;ns=squid&amp;rev=1342491212&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=squid%3Akids.jpg&amp;ns=squid&amp;rev=1342491212&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico">
+        <title>Wikiproa</title>
+        <link>http://proa.me/wiki/</link>
+        <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1342871488&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-21T11:51:28+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>start</title>
+        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1342871488&amp;do=diff</link>
+        <description>This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article here. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is here.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1342784663&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-20T11:44:23+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>bionic_broomstick - created</title>
+        <link>http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1342784663&amp;do=diff</link>
+        <description>Since it was requested here's a little info on my next proa Bionic Broomstick. After fiddling with P52 since the 2007 EC and finally finishing a long distance event, the 2010 Texas 200 I'm ready to go back to ACDC sized boats for a number of reasons.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=skip%3Abionicbroomstick.pdf&amp;ns=skip&amp;rev=1342784628&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-20T11:43:48+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>skip:bionicbroomstick.pdf - created</title>
+        <link>http://proa.me/wiki/doku.php?image=skip%3Abionicbroomstick.pdf&amp;ns=skip&amp;rev=1342784628&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=skip%3Ap9150160.jpg&amp;ns=skip&amp;rev=1342784586&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-20T11:43:06+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>skip:p9150160.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=skip%3Ap9150160.jpg&amp;ns=skip&amp;rev=1342784586&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1342784586&amp;amp;media=skip:p9150160.jpg&quot; alt=&quot;skip:p9150160.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=pjoa_model&amp;rev=1342784033&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-20T11:33:53+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>pjoa_model</title>
+        <link>http://proa.me/wiki/doku.php?id=pjoa_model&amp;rev=1342784033&amp;do=diff</link>
+        <description>In 2002/3 time came for me to test the concept before investing in full scale research proa.
+
+Simplified crabclaws sail with straight spars (yard and boom) and cutoff in rear edge, like swallow-tail.
+
+Vaka was asymmetric, made from epoxy-glass on styrofoam and ama from PVC pipe.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=pjoa%3Apjoa-model1.jpg&amp;ns=pjoa&amp;rev=1342783427&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-20T11:23:47+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>pjoa:pjoa-model1.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=pjoa%3Apjoa-model1.jpg&amp;ns=pjoa&amp;rev=1342783427&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=400&amp;h=500t=1342783427&amp;amp;media=pjoa:pjoa-model1.jpg&quot; alt=&quot;pjoa:pjoa-model1.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=pjoa%3Apjoa-model4.jpg&amp;ns=pjoa&amp;rev=1342783425&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-20T11:23:45+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>pjoa:pjoa-model4.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=pjoa%3Apjoa-model4.jpg&amp;ns=pjoa&amp;rev=1342783425&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=202&amp;h=157t=1342783425&amp;amp;media=pjoa:pjoa-model4.jpg&quot; alt=&quot;pjoa:pjoa-model4.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=pjoa%3Apjoa-model3.jpg&amp;ns=pjoa&amp;rev=1342783424&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-20T11:23:44+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>pjoa:pjoa-model3.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=pjoa%3Apjoa-model3.jpg&amp;ns=pjoa&amp;rev=1342783424&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1342783424&amp;amp;media=pjoa:pjoa-model3.jpg&quot; alt=&quot;pjoa:pjoa-model3.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=pjoa%3Apjoa-model2.jpg&amp;ns=pjoa&amp;rev=1342783423&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-20T11:23:43+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>pjoa:pjoa-model2.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=pjoa%3Apjoa-model2.jpg&amp;ns=pjoa&amp;rev=1342783423&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1342783423&amp;amp;media=pjoa:pjoa-model2.jpg&quot; alt=&quot;pjoa:pjoa-model2.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=squid&amp;rev=1342492880&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-17T02:41:20+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>squid</title>
+        <link>http://proa.me/wiki/doku.php?id=squid&amp;rev=1342492880&amp;do=diff</link>
+        <description>Finally got sailing again (working for a aliving sucks!)
+
+
+
+
+
+
+
+Yay - I'm sailing again!!!!
+
+Only five jobs on the work list and two of them are nothing. Biggest issue was I broke another tiller. I keep trying to use them as levers to raise the rudders, they are fine for steering the boat.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=pjoa&amp;rev=1342492827&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-17T02:40:27+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>pjoa</title>
+        <link>http://proa.me/wiki/doku.php?id=pjoa&amp;rev=1342492827&amp;do=diff</link>
+        <description>Based on works of Cz.Marchaj, on crabclaws sail execellent features, published in “Aerodynamics of Sailing”, I continued with my own research on this rig but in full scale. It was fruitfull effort.
+
+Gathered old photos and drawings I've started with model for concept proofing.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=pjoa%3Apjoa2008polled2.jpg&amp;ns=pjoa&amp;rev=1342492691&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-17T02:38:11+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>pjoa:pjoa2008polled2.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=pjoa%3Apjoa2008polled2.jpg&amp;ns=pjoa&amp;rev=1342492691&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=330t=1342492691&amp;amp;media=pjoa:pjoa2008polled2.jpg&quot; alt=&quot;pjoa:pjoa2008polled2.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=squid%3Asp_124.jpg&amp;ns=squid&amp;rev=1342491230&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-17T02:13:50+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>squid:sp_124.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=squid%3Asp_124.jpg&amp;ns=squid&amp;rev=1342491230&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=314&amp;h=235t=1342491230&amp;amp;media=squid:sp_124.jpg&quot; alt=&quot;squid:sp_124.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=squid%3Asp_126.jpg&amp;ns=squid&amp;rev=1342491230&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-17T02:13:50+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>squid:sp_126.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=squid%3Asp_126.jpg&amp;ns=squid&amp;rev=1342491230&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=314&amp;h=235t=1342491230&amp;amp;media=squid:sp_126.jpg&quot; alt=&quot;squid:sp_126.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=squid%3Asp_123.jpg&amp;ns=squid&amp;rev=1342491230&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-17T02:13:50+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>squid:sp_123.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=squid%3Asp_123.jpg&amp;ns=squid&amp;rev=1342491230&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=314&amp;h=235t=1342491230&amp;amp;media=squid:sp_123.jpg&quot; alt=&quot;squid:sp_123.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=squid%3Aproa_021.jpg&amp;ns=squid&amp;rev=1342491218&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-17T02:13:38+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>squid:proa_021.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=squid%3Aproa_021.jpg&amp;ns=squid&amp;rev=1342491218&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1342491218&amp;amp;media=squid:proa_021.jpg&quot; alt=&quot;squid:proa_021.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=squid%3Aproa_009.jpg&amp;ns=squid&amp;rev=1342491217&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-17T02:13:37+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>squid:proa_009.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=squid%3Aproa_009.jpg&amp;ns=squid&amp;rev=1342491217&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=375&amp;h=500t=1342491217&amp;amp;media=squid:proa_009.jpg&quot; alt=&quot;squid:proa_009.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=squid%3Aproa_005.jpg&amp;ns=squid&amp;rev=1342491215&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-17T02:13:35+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>squid:proa_005.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=squid%3Aproa_005.jpg&amp;ns=squid&amp;rev=1342491215&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=375&amp;h=500t=1342491215&amp;amp;media=squid:proa_005.jpg&quot; alt=&quot;squid:proa_005.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=squid%3Aproa_001.jpg&amp;ns=squid&amp;rev=1342491212&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-17T02:13:32+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>squid:proa_001.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=squid%3Aproa_001.jpg&amp;ns=squid&amp;rev=1342491212&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1342491212&amp;amp;media=squid:proa_001.jpg&quot; alt=&quot;squid:proa_001.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=squid%3Akids.jpg&amp;ns=squid&amp;rev=1342491212&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-17T02:13:32+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>squid:kids.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=squid%3Akids.jpg&amp;ns=squid&amp;rev=1342491212&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=334t=1342491212&amp;amp;media=squid:kids.jpg&quot; alt=&quot;squid:kids.jpg&quot; /&gt;</description>
+    </item>
+</rdf:RDF>

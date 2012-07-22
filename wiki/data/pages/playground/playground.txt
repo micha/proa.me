@@ -1,1 +1,5 @@
 ====== PlayGround ======
+
+Testing **bold text**, //italic text//.
+
+Hey, you can use the buttons at the top to affect higlighted text!

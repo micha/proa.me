@@ -7,6 +7,7 @@ This site is intended to be a collaborative repository for articles on sailing p
 Please feel free to wander about and have a look. If you would like to add content you are more than welcome to do so. You will need to create an account (click **login** at the bottom of the page). So start a page, even a small one, tell us about your boat!  You can go back to edit and add pictures and so on as you have the time.
 
 ===== News =====
+If you want to try out the new wiki without making or editing a page, there is a [[:playground:playground]] especially for you. Edit all you like!
 
 ===== Sailing reports =====
 
@@ -23,6 +24,5 @@ Please feel free to wander about and have a look. If you would like to add conte
 [[Sailing Kayak]]
 
 ===== Historic =====
-
 
 Visitors:  {{http://c40.statcounter.com/3570484/0/e4a28c86/0.png?nolink}}

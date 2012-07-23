@@ -31,4 +31,6 @@ If you want to try out the new wiki without making or editing a page, there is a
 
 [[:wiki:first page|Creating your first page]], a beginners guide.
 
+[[:playground:playground|Playground]], for trying stuff out!
+
 Visitors:  {{http://c40.statcounter.com/3570484/0/e4a28c86/0.png?nolink}}

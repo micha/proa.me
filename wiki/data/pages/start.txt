@@ -11,6 +11,8 @@ If you want to try out the new wiki without making or editing a page, there is a
 
 ===== Sailing reports =====
 
+[[1st New Zealand Proa Congress]]
+
 ===== Proas =====
 [[Te Wheke]]
 
@@ -24,5 +26,9 @@ If you want to try out the new wiki without making or editing a page, there is a
 [[Sailing Kayak]]
 
 ===== Historic =====
+
+===== Housekeeping =====
+
+[[:wiki:first page|Creating your first page]], a beginners guide.
 
 Visitors:  {{http://c40.statcounter.com/3570484/0/e4a28c86/0.png?nolink}}

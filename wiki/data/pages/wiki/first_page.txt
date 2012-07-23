@@ -1,0 +1,41 @@
+====== Your First Page ======
+
+This is a short introduction on how to create a page on Wikiproa. I'll be moving a page across from the old wikiproa as an example.
+
+For more detailed information, you could read the [[http://www.dokuwiki.org/manual|Dokuwiki manual]]. For a quick reference on editing pages, read the [[:wiki:syntax]] page.
+
+===== Creating the page =====
+
+To create the page, we simply link to it on an existing page. Click the "Edit this page" button at the top or bottom of the existing page (in my case, the start page).
+
+In the edit area, scroll down through the text to where you want to create the link. Type the name of your new page, and surround it by double square brackets, as follows:
+
+{{:wiki:firstpage1.png}}
+
+If you want to give the link some text other than the page name, see the [[:wiki:syntax]] page on how to do this.
+
+Click the save button. On the page, there will be a red link with a dotted line underneath it. Click on this. You will be taken to a page claiming not to exist. Click the "Create this page" button at the bottom of this page.
+
+Before we can save the new page, we have to first add some content. Start with a heading at the top. Type you heading text, and then hightlight it. Click the heading button above the editing area, and select heading one:
+{{:wiki:firstpage2.png}} {{:wiki:firstpage3.png}}
+
+The line of buttons above the edit area is called the toolbar. Hover the mouse over the buttons to see what they do. Most of the time, you can select text, then click the relevant button.
+
+Click Save. Tadaa, you have created a new page!
+
+===== Adding some content =====
+
+Click on the "Edit this page" button again. Under the headline you made earlier, just start writing! You create a new paragraph by having an empty line. Use the "heading" toolbar button to create subheadings.
+
+Most of the text formatting is done by placing symbols around normal text. For example, to make text bold, put two astericses (*) on either side. (Or highlight and click the "bold" button).
+
+**Formatting:**
+
+{{:wiki:firstpage4.png}}
+
+**Result:**
+
+{{:wiki:firstpage5.png}}
+
+===== Adding images =====
+//(sorry peoples I'm going to bed!) Please upload images into your own namespace (like a folder). You create a new namespace by selecting your file to upload, and then typing the namespace followed by a colon in front of the filename. For all subsequent files just select your namespace first, and then upload your images. You can upload multiple images at once!

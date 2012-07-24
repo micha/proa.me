@@ -82,12 +82,174 @@ Most of the text formatting is done by placing symbols around normal text. For e
 
 </div>
 <!-- EDIT3 SECTION "Adding some content" [1591-2106] -->
-<h2 class="sectionedit4"><a name="adding_images" id="adding_images">Adding images</a></h2>
+<h2 class="sectionedit4"><a name="managing_images" id="managing_images">Managing images</a></h2>
 <div class="level2">
 
 <p>
-<em>(sorry peoples I&#039;m going to bed!) Please upload images into your own namespace (like a folder). You create a new namespace by selecting your file to upload, and then typing the namespace followed by a colon in front of the filename. For all subsequent files just select your namespace first, and then upload your images. You can upload multiple images at once!
+You&#039;ll probably want to add some pictures. Click the “add images and other files” button to open the <strong>media manager</strong>.
+</p>
+
+<p>
+<a href="/wiki/lib/exe/detail.php?id=wiki%3Afirst_page&amp;media=wiki:firstpage6.png" class="media" title="wiki:firstpage6.png"><img src="/wiki/lib/exe/fetch.php?media=wiki:firstpage6.png" class="media" alt="" /></a>
+</p>
+
+<p>
+The wiki organises stuff in <strong>namespaces</strong>. These are like folders/directories on a computer. The top level namespace is called <em>[root]</em>, and has the symbol <strong>:</strong>  . The current namespace is shown at the top of the window, to the right of “Media Files”.
+</p>
+
+<p>
+<strong>Please create a namespace for yourself</strong>, this keeps the wiki organised and makes files easy to find. To create a new namespace you need to upload a file into it. First, click on the “Select files…” button. Find an image you want to insert, and click on ok. The filename will be listed like so:
+</p>
+
+<p>
+<a href="/wiki/lib/exe/detail.php?id=wiki%3Afirst_page&amp;media=wiki:firstpage7.png" class="media" title="wiki:firstpage7.png"><img src="/wiki/lib/exe/fetch.php?media=wiki:firstpage7.png" class="media" alt="" /></a>
+</p>
+
+<p>
+Note that the filename is converted to lower case letters, and underscores. These, and numbers, are the only characters allowed.
+</p>
+
+<p>
+Now put the name of the new namespace in front of the filename, using a colon as a separator. Remember, only lowercase, numbers and underscores:
+</p>
+
+<p>
+<a href="/wiki/lib/exe/detail.php?id=wiki%3Afirst_page&amp;media=wiki:firstpage8.png" class="media" title="wiki:firstpage8.png"><img src="/wiki/lib/exe/fetch.php?media=wiki:firstpage8.png" class="media" alt="" /></a>
+</p>
+
+<p>
+Press upload to upload the file, and create the new namespace.
+</p>
+
+<p>
+Close the media manager, and then open it again. Your new namespace should be listed on the left. Click on it to open:
+</p>
+
+<p>
+<a href="/wiki/lib/exe/detail.php?id=wiki%3Afirst_page&amp;media=wiki:firstpage9.png" class="media" title="wiki:firstpage9.png"><img src="/wiki/lib/exe/fetch.php?media=wiki:firstpage9.png" class="media" alt="" /></a>
+</p>
+
+<p>
+Notice how the current namespace is listed at the top. You can now easily upload more pictures into your namespace. Hold the control (CTRL) button while selecting files to select more than one. Press ok. A list of files will appear. Press the “Upload” button to to upload them into your namespace.
 </p>
 
 </div>
-<!-- EDIT4 SECTION "Adding images" [2107-] -->
+<!-- EDIT4 SECTION "Managing images" [2107-3676] -->
+<h3 class="sectionedit5"><a name="inserting_images" id="inserting_images">Inserting Images</a></h3>
+<div class="level3">
+
+<p>
+In the edit area, place your cursor where you want the picture to appear. Open the media manager, open your namespace and select the picture you want to insert. A little menu with a bunch of buttons will pop up:
+</p>
+
+<p>
+<a href="/wiki/lib/exe/detail.php?id=wiki%3Afirst_page&amp;media=wiki:firstpage10.png" class="media" title="wiki:firstpage10.png"><img src="/wiki/lib/exe/fetch.php?media=wiki:firstpage10.png" class="media" alt="" /></a>
+</p>
+
+<p>
+Dokuwiki automatically creates a resized version of your image to fit on the page. The buttons allows you to configure what this looks like.
+</p>
+<ul>
+<li class="level1"><div class="li"> The top row of buttons allows you to specify where the image links to.</div>
+</li>
+<li class="level1"><div class="li"> The second row of buttons is for alignment.</div>
+</li>
+<li class="level1"><div class="li"> The third row is to select the size.</div>
+</li>
+</ul>
+
+<p>
+Hover the mouse over each button to see a tool tip with information. Select the first button in the top and second row, and size <strong>L</strong>arge. Press “insert”:
+</p>
+
+<p>
+Image links are just like page links, except with curly braces, rather than square braces. The format is:
+</p>
+<pre class="code">{{:namespace:filename?optional other stuff|caption}}</pre>
+
+<p>
+<a href="/wiki/lib/exe/detail.php?id=wiki%3Afirst_page&amp;media=wiki:firstpage11.png" class="media" title="wiki:firstpage11.png"><img src="/wiki/lib/exe/fetch.php?media=wiki:firstpage11.png" class="media" alt="" /></a>
+</p>
+
+<p>
+In the example above, the namespace is proa_congress, the filename is smallproa_012.jpg and the options are: ?300
+</p>
+
+<p>
+A number as option sets the width of the picture on the page, in this case 300 pixels. I will now make it 400 wide, and add a caption:
+</p>
+
+<p>
+<a href="/wiki/lib/exe/detail.php?id=wiki%3Afirst_page&amp;media=wiki:firstpage12.png" class="media" title="wiki:firstpage12.png"><img src="/wiki/lib/exe/fetch.php?media=wiki:firstpage12.png" class="media" alt="" /></a>
+</p>
+
+<p>
+As you can see, it is really easy to resize images. All you have to do is change that number!
+</p>
+
+<p>
+Now I&#039;m going to centre align the picture:
+</p>
+
+<p>
+<a href="/wiki/lib/exe/detail.php?id=wiki%3Afirst_page&amp;media=wiki:firstpage13.png" class="media" title="wiki:firstpage13.png"><img src="/wiki/lib/exe/fetch.php?media=wiki:firstpage13.png" class="media" alt="" /></a>
+</p>
+
+<p>
+Note the space just after the opening braces, and between the options and caption vertical bar.
+</p>
+
+<p>
+To see what else is possible see the <a href="/wiki/doku.php?id=wiki:syntax" class="wikilink1" title="wiki:syntax">syntax</a> page.
+</p>
+
+<p>
+To align images above eachother, either centre align them, or have them in their own paragraph (blank line above and below). Otherwise they will sit next to eachother if there is enough space.
+</p>
+
+</div>
+<!-- EDIT5 SECTION "Inserting Images" [3677-5403] -->
+<h2 class="sectionedit6"><a name="links" id="links">Links</a></h2>
+<div class="level2">
+
+<p>
+To link to another page on the wiki, highlight the text you want to be the link and press the internal link button on the toolbar. Select the page you want. That&#039;s it. 
+</p>
+
+<p>
+<a href="/wiki/lib/exe/detail.php?id=wiki%3Afirst_page&amp;media=wiki:firstpage14.png" class="media" title="wiki:firstpage14.png"><img src="/wiki/lib/exe/fetch.php?media=wiki:firstpage14.png" class="media" alt="" /></a>
+</p>
+
+<p>
+The format is
+</p>
+<pre class="code">[[pagename|link text]]</pre>
+
+<p>
+External links are the same, replacing pagename with the link address. (Or use the external link button on the toolbar).
+</p>
+
+</div>
+<!-- EDIT6 SECTION "Links" [5404-5792] -->
+<h2 class="sectionedit7"><a name="files" id="files">Files</a></h2>
+<div class="level2">
+
+<p>
+Uploading and linking to files is done the same way as images, using the media manager.
+</p>
+
+</div>
+<!-- EDIT7 SECTION "Files" [5793-5900] -->
+<h2 class="sectionedit8"><a name="conclusion" id="conclusion">Conclusion</a></h2>
+<div class="level2">
+
+<p>
+For more detailed information, you could read the <a href="http://www.dokuwiki.org/manual" class="urlextern" title="http://www.dokuwiki.org/manual"  rel="nofollow">Dokuwiki manual</a>. For a quick reference on editing pages, read the <a href="/wiki/doku.php?id=wiki:syntax" class="wikilink1" title="wiki:syntax">syntax</a> page.
+</p>
+
+<p>
+Go forth and create. You can&#039;t break the wiki, because all previous edits of a page are stored, and can be restored and compared. You can use the <a href="/wiki/doku.php?id=playground:playground" class="wikilink1" title="playground:playground">playground</a> if you just want to try stuff out without making a page. 
+</p>
+
+</div>
+<!-- EDIT8 SECTION "Conclusion" [5901-] -->

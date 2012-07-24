@@ -1,10 +1,10 @@
-a:6:{s:2:"id";s:15:"wiki:first_page";s:6:"prefix";s:345:"====== Your First Page ======
+a:6:{s:2:"id";s:15:"wiki:first_page";s:6:"prefix";s:0:"";s:4:"text";s:6451:"====== Your First Page ======
 
 This is a short introduction on how to create a page on Wikiproa. I'll be moving a page across from the old wikiproa as an example.
 
 For more detailed information, you could read the [[http://www.dokuwiki.org/manual|Dokuwiki manual]]. For a quick reference on editing pages, read the [[:wiki:syntax]] page.
 
-";s:4:"text";s:1269:"===== Creating the page =====
+===== Creating the page =====
 
 To create the page, we simply link to it on an existing page. Click the "Edit this page" button at the top or bottom of the existing page (in my case, the start page).
 
@@ -23,7 +23,7 @@ Before we can save the new page, we have to first add some content. Start with a
 The line of buttons above the edit area is called the toolbar. Hover the mouse over the buttons to see what they do. Most of the time, you can select text, then click the relevant button.
 
 Click Save. Tadaa, you have created a new page!
-";s:6:"suffix";s:921:"
+
 ===== Adding some content =====
 
 Click on the "Edit this page" button again. Under the headline you made earlier, just start writing! You create a new paragraph by having an empty line. Use the "heading" toolbar button to create subheadings.
@@ -38,5 +38,86 @@ Most of the text formatting is done by placing symbols around normal text. For e
 
 {{:wiki:firstpage5.png}}
 
-===== Adding images =====
-//(sorry peoples I'm going to bed!) Please upload images into your own namespace (like a folder). You create a new namespace by selecting your file to upload, and then typing the namespace followed by a colon in front of the filename. For all subsequent files just select your namespace first, and then upload your images. You can upload multiple images at once!";s:4:"date";i:1343041433;s:6:"client";s:4:"tdem";}
+===== Managing images =====
+
+You'll probably want to add some pictures. Click the "add images and other files" button to open the **media manager**.
+
+{{:wiki:firstpage6.png}}
+
+The wiki organises stuff in **namespaces**. These are like folders/directories on a computer. The top level namespace is called //[root]//, and has the symbol **:**  . The current namespace is shown at the top of the window, to the right of "Media Files".
+
+**Please create a namespace for yourself**, this keeps the wiki organised and makes files easy to find. To create a new namespace you need to upload a file into it. First, click on the "Select files..." button. Find an image you want to insert, and click on ok. The filename will be listed like so:
+
+{{:wiki:firstpage7.png}}
+
+Note that the filename is converted to lower case letters, and underscores. These, and numbers, are the only characters allowed.
+
+Now put the name of the new namespace in front of the filename, using a colon as a separator. Remember, only lowercase, numbers and underscores:
+
+{{:wiki:firstpage8.png}}
+
+Press upload to upload the file, and create the new namespace.
+
+Close the media manager, and then open it again. Your new namespace should be listed on the left. Click on it to open:
+
+{{:wiki:firstpage9.png}}
+
+Notice how the current namespace is listed at the top. You can now easily upload more pictures into your namespace. Hold the control (CTRL) button while selecting files to select more than one. Press ok. A list of files will appear. Press the "Upload" button to to upload them into your namespace.
+
+==== Inserting Images ====
+
+In the edit area, place your cursor where you want the picture to appear. Open the media manager, open your namespace and select the picture you want to insert. A little menu with a bunch of buttons will pop up:
+
+{{:wiki:firstpage10.png}}
+
+Dokuwiki automatically creates a resized version of your image to fit on the page. The buttons allows you to configure what this looks like.
+  * The top row of buttons allows you to specify where the image links to.
+  * The second row of buttons is for alignment.
+  * The third row is to select the size.
+
+Hover the mouse over each button to see a tool tip with information. Select the first button in the top and second row, and size **L**arge. Press "insert":
+
+Image links are just like page links, except with curly braces, rather than square braces. The format is:
+
+<code>{{:namespace:filename?optional other stuff|caption}}</code>
+
+{{:wiki:firstpage11.png}}
+
+In the example above, the namespace is proa_congress, the filename is smallproa_012.jpg and the options are: ?300
+
+A number as option sets the width of the picture on the page, in this case 300 pixels. I will now make it 400 wide, and add a caption:
+
+{{:wiki:firstpage12.png}}
+
+As you can see, it is really easy to resize images. All you have to do is change that number!
+
+Now I'm going to centre align the picture:
+
+{{wiki:firstpage13.png}}
+
+Note the space just after the opening braces, and between the options and caption vertical bar.
+
+To see what else is possible see the [[:wiki:syntax]] page.
+
+To align images above eachother, either centre align them, or have them in their own paragraph (blank line above and below). Otherwise they will sit next to eachother if there is enough space.
+
+===== Links =====
+
+To link to another page on the wiki, highlight the text you want to be the link and press the internal link button on the toolbar. Select the page you want. That's it. 
+
+{{:wiki:firstpage14.png}}
+
+The format is
+<code>[[pagename|link text]]</code>
+
+External links are the same, replacing pagename with the link address. (Or use the external link button on the toolbar).
+
+===== Files =====
+
+Uploading and linking to files is done the same way as images, using the media manager.
+
+===== Conclusion =====
+
+For more detailed information, you could read the [[http://www.dokuwiki.org/manual|Dokuwiki manual]]. For a quick reference on editing pages, read the [[:wiki:syntax]] page.
+
+Go forth and create. You can't break the wiki, because all previous edits of a page are stored, and can be restored and compared. You can use the [[:playground:playground]] if you just want to try stuff out without making a page. ";s:6:"suffix";s:0:"";s:4:"date";i:1343041505;s:6:"client";s:4:"tdem";}

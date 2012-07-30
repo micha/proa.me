@@ -1,0 +1,50 @@
+====== Skip Johnson's P52 modifications ======
+
+The Texas Proa Championships (I'm sure Kevin will post a report any day now) inspired me to keep working on P52 with the goal of doing the Texas200 next year even though I'll have to bail out early to go follow the Texas Water Safari.
+
+There is a moderate laundry list of things to do before a final slick coat of polyurethane porch enamel is applied.
+
+  -Clean up trailer and rewire lights with a real ground.
+  -Make a new reinforced whiffle ball universal joint for the oar, plain perforated ball just isn't tough enough.
+  -Verify operation of new propstick with large (24"dia x 14"p) model airplane prop. Was going to do that at the TPC but there was too much stuff going on, plain forgot.
+  -Reinforce cabintops.
+  -Rerig standing rigging with hightech line to reduce sag and mast bend.
+  -Since I'm abandoning the crabclaw rig, convert the longest yard to mast.
+  -Make a roller furling boom for the new 110 s.f. staysail.
+  -Add minimal wiring for masthead light, fan, gelcell and solar charger.
+  -Fabricate a tent to fit over pod opening.
+
+This items last on the list but well on its way since I came across a kids tent just the right size, 6'x 5'x 3' in a matching color scheme with the door on the proper side. This from Wallyworld for the princely sum of $12.88. Very little fitting should be required, a velcro'd seam up back side to get around the mast and some grommets/shock cord around the perimeter to latch onto the coaming.
+
+ 
+Here's a picture of some trailer sailing before the TPC
+
+{{:skip:trailersailing.jpg?400|}}
+
+The stiffner on the cabin tops
+
+{{:skip:stiffner.jpg?400|}}
+
+The stiffner is laminated out of 5 pieces of cedar using the form that the ring frames were made from. By eyeball it looked close enough, but it took a little grinding on each end to get the curve close enough that everything got sucked together when it was epoxyed and screwed together from the inside.
+
+The wiffle ball joint
+
+{{:skip:whiffle.jpg?400|}}
+
+New joint is on the left glued to an octagonal fibreglass sleeve that's been molded over the oarshaft and then epoxy/microballon poured inside to reinforce ball. Ball on right is the one that made most of the 200 miles we finished in the 2007 EC, first ball barely survived  the trip across Tampa Bay.
+
+The tack end of new roller furling boom under construction. UHMW bushings are salvaged from the swing arm iteration of P52
+
+{{:skip:tack.jpg?400|}}
+
+The clew
+
+{{:skip:clew.jpg?400|}}
+
+Thats all for now it will take a free weekend to rig and get all stays properly sizes and I've still got some work to do to make the shunt traveler work without binding.
+
+Two pictures of the $12.88 Wallyworld kids tent. It goes on easily but I wouldn't want to do it in much wind. Usually when there's wind there's no mosquitos so generally it all works OK. Standing room is available but you do have to lean to windward just a bit. Nicest thing is there's plenty of sitting and work room and a small battery powered fan makes sleeping a breeze...sorry.
+
+{{:skip:tent1.jpg?400|}}
+
+{{:skip:tent2.jpg?400|}}

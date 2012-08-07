@@ -11,29 +11,29 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2012-07-24T16:18:10+00:00</dc:date>
+       <dc:date>2012-08-07T02:28:00+00:00</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=hokianga_raid&amp;rev=1343107687&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=hokianga%3Atane_mahuta_w035_1_.jpg&amp;ns=hokianga&amp;rev=1343107529&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=hokianga%3Aheads_from_whiria.jpg&amp;ns=hokianga&amp;rev=1343107529&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=hokianga%3Adsc01494.jpg&amp;ns=hokianga&amp;rev=1343107509&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1343106939&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=1st_new_zealand_proa_congress&amp;rev=1343106838&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1343106391&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage9.png&amp;ns=wiki&amp;rev=1343105437&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage7.png&amp;ns=wiki&amp;rev=1343105436&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage8.png&amp;ns=wiki&amp;rev=1343105436&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage6.png&amp;ns=wiki&amp;rev=1343105435&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage13.png&amp;ns=wiki&amp;rev=1343105434&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage12.png&amp;ns=wiki&amp;rev=1343105434&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage10.png&amp;ns=wiki&amp;rev=1343105433&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage14.png&amp;ns=wiki&amp;rev=1343105433&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage11.png&amp;ns=wiki&amp;rev=1343105433&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=proa_congress%3Asmallimg_2735.jpg&amp;ns=proa_congress&amp;rev=1343100770&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=proa_congress%3Asmallproa_012.jpg&amp;ns=proa_congress&amp;rev=1343100768&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=proa_congress%3Asmallimg_2732.jpg&amp;ns=proa_congress&amp;rev=1343100765&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=proa_congress%3Asmallimg_2714.jpg&amp;ns=proa_congress&amp;rev=1343100764&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=short_dragon&amp;rev=1343818620&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wade_t%3Ashort_dragon.jpg&amp;ns=wade_t&amp;rev=1343818563&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1343818394&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sidecar&amp;rev=1343818223&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=doug_h%3Apicture_077.jpg&amp;ns=doug_h&amp;rev=1343817820&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=doug_h%3Apicture_074.jpg&amp;ns=doug_h&amp;rev=1343817819&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=doug_h%3Apicture_008.jpg&amp;ns=doug_h&amp;rev=1343817818&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=doug_h%3Apicture_039.jpg&amp;ns=doug_h&amp;rev=1343817817&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=doug_h%3Anew_stuff_119.jpg&amp;ns=doug_h&amp;rev=1343817816&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=doug_h%3Anew_stuff_117.jpg&amp;ns=doug_h&amp;rev=1343817815&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=doug_h%3Anew_stuff_050.jpg&amp;ns=doug_h&amp;rev=1343817815&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=doug_h%3Anew_stuff_008.jpg&amp;ns=doug_h&amp;rev=1343817815&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=doug_h%3Apicture_095.jpg&amp;ns=doug_h&amp;rev=1343817813&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=doug_h%3Aharriette_doug_perth_070.jpg&amp;ns=doug_h&amp;rev=1343817813&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=doug_h%3A20090525125504_8_.jpg&amp;ns=doug_h&amp;rev=1343817813&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=doug_h%3A2_eagles.jpg&amp;ns=doug_h&amp;rev=1343817780&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ply_proa_with_rocker&amp;rev=1343817562&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=p52_modifications&amp;rev=1343643405&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=skip%3Atent2.jpg&amp;ns=skip&amp;rev=1343643116&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=skip%3Awhiffle.jpg&amp;ns=skip&amp;rev=1343643116&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,192 +42,170 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=hokianga_raid&amp;rev=1343107687&amp;do=diff">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=short_dragon&amp;rev=1343818620&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T05:28:07+00:00</dc:date>
+        <dc:date>2012-08-01T10:57:00+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>hokianga_raid</title>
-        <link>http://proa.me/wiki/doku.php?id=hokianga_raid&amp;rev=1343107687&amp;do=diff</link>
-        <description>The event has been held.....
-
-Hokianga Raid 2010 ..Report and Reflections
-
-Report
-
-Eight boats with a total of 14 crew left Opononi at midday on Jan 9th. Low water 1157
-
-From Hokianga:-
-
-Two Seabirds (3.2 metre una rig whaler types) 2 crew each. Les Read/Chris Todd  Daniel Curtis/Claire Todd</description>
+        <title>short_dragon</title>
+        <link>http://proa.me/wiki/doku.php?id=short_dragon&amp;rev=1343818620&amp;do=diff</link>
+        <description>Here is the tacking outrigger “Short Dragon” (a historical joke; one famous Viking longship was called “Long Dragon” -- yes it had a dragon-headed prow). The vaka (main hull) is 16 feet long, about 22 inches wide at the sheer, 14 inches wide at the very bottom, about 23 inches deep amidships, has about 3 inches of rocker, and sinks about 8 inches with me inside (with gear and rig). It is built of 1/4 inch A/C exterior plywood, glassed on the outside and on the inside from waterline down (includi…</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=hokianga%3Atane_mahuta_w035_1_.jpg&amp;ns=hokianga&amp;rev=1343107529&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=wade_t%3Ashort_dragon.jpg&amp;ns=wade_t&amp;rev=1343818563&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T05:25:29+00:00</dc:date>
+        <dc:date>2012-08-01T10:56:03+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>hokianga:tane_mahuta_w035_1_.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=hokianga%3Atane_mahuta_w035_1_.jpg&amp;ns=hokianga&amp;rev=1343107529&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=297&amp;h=400t=1343107529&amp;amp;media=hokianga:tane_mahuta_w035_1_.jpg&quot; alt=&quot;hokianga:tane_mahuta_w035_1_.jpg&quot; /&gt;</description>
+        <title>wade_t:short_dragon.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=wade_t%3Ashort_dragon.jpg&amp;ns=wade_t&amp;rev=1343818563&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343818563&amp;amp;media=wade_t:short_dragon.jpg&quot; alt=&quot;wade_t:short_dragon.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=hokianga%3Aheads_from_whiria.jpg&amp;ns=hokianga&amp;rev=1343107529&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1343818394&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T05:25:29+00:00</dc:date>
+        <dc:date>2012-08-01T10:53:14+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>hokianga:heads_from_whiria.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=hokianga%3Aheads_from_whiria.jpg&amp;ns=hokianga&amp;rev=1343107529&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=320&amp;h=240t=1343107529&amp;amp;media=hokianga:heads_from_whiria.jpg&quot; alt=&quot;hokianga:heads_from_whiria.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=hokianga%3Adsc01494.jpg&amp;ns=hokianga&amp;rev=1343107509&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T05:25:09+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>hokianga:dsc01494.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=hokianga%3Adsc01494.jpg&amp;ns=hokianga&amp;rev=1343107509&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=320&amp;h=240t=1343107509&amp;amp;media=hokianga:dsc01494.jpg&quot; alt=&quot;hokianga:dsc01494.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1343106939&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T05:15:39+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>start - [Sailing reports] </title>
-        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1343106939&amp;do=diff</link>
+        <title>start - [Tackers] </title>
+        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1343818394&amp;do=diff</link>
         <description>This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article here. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is here.</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=1st_new_zealand_proa_congress&amp;rev=1343106838&amp;do=diff">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=sidecar&amp;rev=1343818223&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T05:13:58+00:00</dc:date>
+        <dc:date>2012-08-01T10:50:23+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>1st_new_zealand_proa_congress</title>
-        <link>http://proa.me/wiki/doku.php?id=1st_new_zealand_proa_congress&amp;rev=1343106838&amp;do=diff</link>
-        <description>What a great day!!!!!!!! I'll write a full report soon, but in the interim some photos to whet your appetites. We had eight boats turn up( almost had nine but one couldn't make it)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-It's time. This thing has grown so I need to get serious. Here's the current proposal:</description>
+        <title>sidecar</title>
+        <link>http://proa.me/wiki/doku.php?id=sidecar&amp;rev=1343818223&amp;do=diff</link>
+        <description>Well I am here to put something on the web outside of Rob (Denney)'s harryproa group. The harryproa web site proper is rarely updated and my own personal information is way out of date. However it is still the most professional, in depth and advanced proa/multihull information around. So go have a read of the plentiful research and development done by Rob, and see why I build/sail harryproas.</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1343106391&amp;do=diff">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=doug_h%3Apicture_077.jpg&amp;ns=doug_h&amp;rev=1343817820&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T05:06:31+00:00</dc:date>
+        <dc:date>2012-08-01T10:43:40+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>wiki:first_page - Added stuff on image management</title>
-        <link>http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1343106391&amp;do=diff</link>
-        <description>This is a short introduction on how to create a page on Wikiproa. I'll be moving a page across from the old wikiproa as an example.
+        <title>doug_h:picture_077.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=doug_h%3Apicture_077.jpg&amp;ns=doug_h&amp;rev=1343817820&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343817820&amp;amp;media=doug_h:picture_077.jpg&quot; alt=&quot;doug_h:picture_077.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=doug_h%3Apicture_074.jpg&amp;ns=doug_h&amp;rev=1343817819&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:43:39+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>doug_h:picture_074.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=doug_h%3Apicture_074.jpg&amp;ns=doug_h&amp;rev=1343817819&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343817819&amp;amp;media=doug_h:picture_074.jpg&quot; alt=&quot;doug_h:picture_074.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=doug_h%3Apicture_008.jpg&amp;ns=doug_h&amp;rev=1343817818&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:43:38+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>doug_h:picture_008.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=doug_h%3Apicture_008.jpg&amp;ns=doug_h&amp;rev=1343817818&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343817818&amp;amp;media=doug_h:picture_008.jpg&quot; alt=&quot;doug_h:picture_008.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=doug_h%3Apicture_039.jpg&amp;ns=doug_h&amp;rev=1343817817&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:43:37+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>doug_h:picture_039.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=doug_h%3Apicture_039.jpg&amp;ns=doug_h&amp;rev=1343817817&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343817817&amp;amp;media=doug_h:picture_039.jpg&quot; alt=&quot;doug_h:picture_039.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=doug_h%3Anew_stuff_119.jpg&amp;ns=doug_h&amp;rev=1343817816&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:43:36+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>doug_h:new_stuff_119.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=doug_h%3Anew_stuff_119.jpg&amp;ns=doug_h&amp;rev=1343817816&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=370t=1343817816&amp;amp;media=doug_h:new_stuff_119.jpg&quot; alt=&quot;doug_h:new_stuff_119.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=doug_h%3Anew_stuff_117.jpg&amp;ns=doug_h&amp;rev=1343817815&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:43:35+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>doug_h:new_stuff_117.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=doug_h%3Anew_stuff_117.jpg&amp;ns=doug_h&amp;rev=1343817815&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=370t=1343817815&amp;amp;media=doug_h:new_stuff_117.jpg&quot; alt=&quot;doug_h:new_stuff_117.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=doug_h%3Anew_stuff_050.jpg&amp;ns=doug_h&amp;rev=1343817815&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:43:35+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>doug_h:new_stuff_050.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=doug_h%3Anew_stuff_050.jpg&amp;ns=doug_h&amp;rev=1343817815&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=370t=1343817815&amp;amp;media=doug_h:new_stuff_050.jpg&quot; alt=&quot;doug_h:new_stuff_050.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=doug_h%3Anew_stuff_008.jpg&amp;ns=doug_h&amp;rev=1343817815&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:43:35+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>doug_h:new_stuff_008.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=doug_h%3Anew_stuff_008.jpg&amp;ns=doug_h&amp;rev=1343817815&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=371&amp;h=500t=1343817815&amp;amp;media=doug_h:new_stuff_008.jpg&quot; alt=&quot;doug_h:new_stuff_008.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=doug_h%3Apicture_095.jpg&amp;ns=doug_h&amp;rev=1343817813&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:43:33+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>doug_h:picture_095.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=doug_h%3Apicture_095.jpg&amp;ns=doug_h&amp;rev=1343817813&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343817813&amp;amp;media=doug_h:picture_095.jpg&quot; alt=&quot;doug_h:picture_095.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=doug_h%3Aharriette_doug_perth_070.jpg&amp;ns=doug_h&amp;rev=1343817813&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:43:33+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>doug_h:harriette_doug_perth_070.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=doug_h%3Aharriette_doug_perth_070.jpg&amp;ns=doug_h&amp;rev=1343817813&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343817813&amp;amp;media=doug_h:harriette_doug_perth_070.jpg&quot; alt=&quot;doug_h:harriette_doug_perth_070.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=doug_h%3A20090525125504_8_.jpg&amp;ns=doug_h&amp;rev=1343817813&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:43:33+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>doug_h:20090525125504_8_.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=doug_h%3A20090525125504_8_.jpg&amp;ns=doug_h&amp;rev=1343817813&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=281t=1343817813&amp;amp;media=doug_h:20090525125504_8_.jpg&quot; alt=&quot;doug_h:20090525125504_8_.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=doug_h%3A2_eagles.jpg&amp;ns=doug_h&amp;rev=1343817780&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:43:00+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>doug_h:2_eagles.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=doug_h%3A2_eagles.jpg&amp;ns=doug_h&amp;rev=1343817780&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=375&amp;h=500t=1343817780&amp;amp;media=doug_h:2_eagles.jpg&quot; alt=&quot;doug_h:2_eagles.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=ply_proa_with_rocker&amp;rev=1343817562&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:39:22+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>ply_proa_with_rocker - created</title>
+        <link>http://proa.me/wiki/doku.php?id=ply_proa_with_rocker&amp;rev=1343817562&amp;do=diff</link>
+        <description>Paul Bowker's deranged thoughts..
 
-For more detailed information, you could read the Dokuwiki manual. For a quick reference on editing pages, read the syntax page.</description>
+It has been suggested that Proas would be better with rocker. This is a few rough sketches and thoughts on how to build an assymetric stitch and tape proa with tortured ply.
+
+This drawing is of building the main waka as a pair of hulls, so that the stresses of bending the curved sides are opposed, the inner seams and bulkheads and transoms would be fixed in place, then the two hulls separated down the centreline.</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage9.png&amp;ns=wiki&amp;rev=1343105437&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=p52_modifications&amp;rev=1343643405&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T04:50:37+00:00</dc:date>
+        <dc:date>2012-07-30T10:16:45+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>wiki:firstpage9.png - created</title>
-        <link>http://proa.me/wiki/doku.php?image=wiki%3Afirstpage9.png&amp;ns=wiki&amp;rev=1343105437&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=499&amp;h=225t=1343105437&amp;amp;media=wiki:firstpage9.png&quot; alt=&quot;wiki:firstpage9.png&quot; /&gt;</description>
+        <title>p52_modifications - old revision restored</title>
+        <link>http://proa.me/wiki/doku.php?id=p52_modifications&amp;rev=1343643405&amp;do=diff</link>
+        <description>The Texas Proa Championships (I'm sure Kevin will post a report any day now) inspired me to keep working on P52 with the goal of doing the Texas200 next year even though I'll have to bail out early to go follow the Texas Water Safari.
+
+There is a moderate laundry list of things to do before a final slick coat of polyurethane porch enamel is applied.</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage7.png&amp;ns=wiki&amp;rev=1343105436&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=skip%3Atent2.jpg&amp;ns=skip&amp;rev=1343643116&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T04:50:36+00:00</dc:date>
+        <dc:date>2012-07-30T10:11:56+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>wiki:firstpage7.png - created</title>
-        <link>http://proa.me/wiki/doku.php?image=wiki%3Afirstpage7.png&amp;ns=wiki&amp;rev=1343105436&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=499&amp;h=150t=1343105436&amp;amp;media=wiki:firstpage7.png&quot; alt=&quot;wiki:firstpage7.png&quot; /&gt;</description>
+        <title>skip:tent2.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=skip%3Atent2.jpg&amp;ns=skip&amp;rev=1343643116&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343643116&amp;amp;media=skip:tent2.jpg&quot; alt=&quot;skip:tent2.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage8.png&amp;ns=wiki&amp;rev=1343105436&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=skip%3Awhiffle.jpg&amp;ns=skip&amp;rev=1343643116&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T04:50:36+00:00</dc:date>
+        <dc:date>2012-07-30T10:11:56+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>wiki:firstpage8.png - created</title>
-        <link>http://proa.me/wiki/doku.php?image=wiki%3Afirstpage8.png&amp;ns=wiki&amp;rev=1343105436&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=415&amp;h=104t=1343105436&amp;amp;media=wiki:firstpage8.png&quot; alt=&quot;wiki:firstpage8.png&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage6.png&amp;ns=wiki&amp;rev=1343105435&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T04:50:35+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>wiki:firstpage6.png - created</title>
-        <link>http://proa.me/wiki/doku.php?image=wiki%3Afirstpage6.png&amp;ns=wiki&amp;rev=1343105435&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=406&amp;h=35t=1343105435&amp;amp;media=wiki:firstpage6.png&quot; alt=&quot;wiki:firstpage6.png&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage13.png&amp;ns=wiki&amp;rev=1343105434&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T04:50:34+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>wiki:firstpage13.png - created</title>
-        <link>http://proa.me/wiki/doku.php?image=wiki%3Afirstpage13.png&amp;ns=wiki&amp;rev=1343105434&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=41t=1343105434&amp;amp;media=wiki:firstpage13.png&quot; alt=&quot;wiki:firstpage13.png&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage12.png&amp;ns=wiki&amp;rev=1343105434&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T04:50:34+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>wiki:firstpage12.png - created</title>
-        <link>http://proa.me/wiki/doku.php?image=wiki%3Afirstpage12.png&amp;ns=wiki&amp;rev=1343105434&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=27t=1343105434&amp;amp;media=wiki:firstpage12.png&quot; alt=&quot;wiki:firstpage12.png&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage10.png&amp;ns=wiki&amp;rev=1343105433&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T04:50:33+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>wiki:firstpage10.png - created</title>
-        <link>http://proa.me/wiki/doku.php?image=wiki%3Afirstpage10.png&amp;ns=wiki&amp;rev=1343105433&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=293&amp;h=180t=1343105433&amp;amp;media=wiki:firstpage10.png&quot; alt=&quot;wiki:firstpage10.png&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage14.png&amp;ns=wiki&amp;rev=1343105433&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T04:50:33+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>wiki:firstpage14.png - created</title>
-        <link>http://proa.me/wiki/doku.php?image=wiki%3Afirstpage14.png&amp;ns=wiki&amp;rev=1343105433&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=372&amp;h=27t=1343105433&amp;amp;media=wiki:firstpage14.png&quot; alt=&quot;wiki:firstpage14.png&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Afirstpage11.png&amp;ns=wiki&amp;rev=1343105433&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T04:50:33+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>wiki:firstpage11.png - created</title>
-        <link>http://proa.me/wiki/doku.php?image=wiki%3Afirstpage11.png&amp;ns=wiki&amp;rev=1343105433&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=47t=1343105433&amp;amp;media=wiki:firstpage11.png&quot; alt=&quot;wiki:firstpage11.png&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=proa_congress%3Asmallimg_2735.jpg&amp;ns=proa_congress&amp;rev=1343100770&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T03:32:50+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>proa_congress:smallimg_2735.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=proa_congress%3Asmallimg_2735.jpg&amp;ns=proa_congress&amp;rev=1343100770&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343100770&amp;amp;media=proa_congress:smallimg_2735.jpg&quot; alt=&quot;proa_congress:smallimg_2735.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=proa_congress%3Asmallproa_012.jpg&amp;ns=proa_congress&amp;rev=1343100768&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T03:32:48+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>proa_congress:smallproa_012.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=proa_congress%3Asmallproa_012.jpg&amp;ns=proa_congress&amp;rev=1343100768&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343100768&amp;amp;media=proa_congress:smallproa_012.jpg&quot; alt=&quot;proa_congress:smallproa_012.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=proa_congress%3Asmallimg_2732.jpg&amp;ns=proa_congress&amp;rev=1343100765&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T03:32:45+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>proa_congress:smallimg_2732.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=proa_congress%3Asmallimg_2732.jpg&amp;ns=proa_congress&amp;rev=1343100765&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343100765&amp;amp;media=proa_congress:smallimg_2732.jpg&quot; alt=&quot;proa_congress:smallimg_2732.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=proa_congress%3Asmallimg_2714.jpg&amp;ns=proa_congress&amp;rev=1343100764&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T03:32:44+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>proa_congress:smallimg_2714.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=proa_congress%3Asmallimg_2714.jpg&amp;ns=proa_congress&amp;rev=1343100764&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343100764&amp;amp;media=proa_congress:smallimg_2714.jpg&quot; alt=&quot;proa_congress:smallimg_2714.jpg&quot; /&gt;</description>
+        <title>skip:whiffle.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=skip%3Awhiffle.jpg&amp;ns=skip&amp;rev=1343643116&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1343643116&amp;amp;media=skip:whiffle.jpg&quot; alt=&quot;skip:whiffle.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

@@ -11,18 +11,25 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2012-07-24T16:18:20+00:00</dc:date>
+       <dc:date>2012-08-10T10:22:43+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=1st_new_zealand_proa_congress&amp;rev=1343106838&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1342784663&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=building_pjoa&amp;rev=1342946455&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=hokianga_raid&amp;rev=1343107687&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=p52&amp;rev=1343642846&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=p52_modifications&amp;rev=1343643405&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=peter_s_proa&amp;rev=1343194361&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=peter_s_proa_2&amp;rev=1343194251&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pjoa&amp;rev=1342492827&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pjoa_model&amp;rev=1342784033&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ply_proa_with_rocker&amp;rev=1343817562&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sailing_kayak&amp;rev=1342410613&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=short_dragon&amp;rev=1343818620&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sidecar&amp;rev=1343818223&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=squid&amp;rev=1342492880&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1343106939&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1343818394&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=te_wheke&amp;rev=1342156067&amp;do=diff"/>
             </rdf:Seq>
         </items>
@@ -93,6 +100,56 @@ From Hokianga:-
 
 Two Seabirds (3.2 metre una rig whaler types) 2 crew each. Les Read/Chris Todd  Daniel Curtis/Claire Todd</description>
     </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=p52&amp;rev=1343642846&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-30T10:07:26+00:00</dc:date>
+        <title>p52</title>
+        <link>http://proa.me/wiki/doku.php?id=p52&amp;rev=1343642846&amp;do=diff</link>
+        <description>Finally Friday May 30th got P52 back to Lake Sommerville to try out revised sail and telescoping ama.
+
+Here's the GPS track of my initial 4 mile excursion, winds are light out of the SSE. Course is more or less counterclockwise
+
+and I saw 8.6 mph early on a broad reach before the wind died down. The downwind run was easy, but winds were light.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=p52_modifications&amp;rev=1343643405&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-30T10:16:45+00:00</dc:date>
+        <title>p52_modifications</title>
+        <link>http://proa.me/wiki/doku.php?id=p52_modifications&amp;rev=1343643405&amp;do=diff</link>
+        <description>The Texas Proa Championships (I'm sure Kevin will post a report any day now) inspired me to keep working on P52 with the goal of doing the Texas200 next year even though I'll have to bail out early to go follow the Texas Water Safari.
+
+There is a moderate laundry list of things to do before a final slick coat of polyurethane porch enamel is applied.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=peter_s_proa&amp;rev=1343194361&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-25T05:32:41+00:00</dc:date>
+        <title>peter_s_proa</title>
+        <link>http://proa.me/wiki/doku.php?id=peter_s_proa&amp;rev=1343194361&amp;do=diff</link>
+        <description>I am currently building a 18' plywood/epoxy proa in upper austria. I bought Gary Dierkings excellent book and wanted to build his T2 first. It would not be possible to finish the boat this year, because of the time consuming strip-planking build method. So I looked for a plan for a plywood proa and found Othmar Karschulin's P5 (free download on &lt;http://www.multihull.de/&gt;).</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=peter_s_proa_2&amp;rev=1343194251&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-25T05:30:51+00:00</dc:date>
+        <title>peter_s_proa_2</title>
+        <link>http://proa.me/wiki/doku.php?id=peter_s_proa_2&amp;rev=1343194251&amp;do=diff</link>
+        <description>Building Part 2
+
+The hulls are ready for glassing in the first days of September
+
+
+
+
+
+
+
+I overlapped the glass at the keel and used some tape to get a nice cut.
+
+
+
+I added some reinforcement to the keels later.
+
+It would have been better to do this first to avoid extra sanding.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=pjoa&amp;rev=1342492827&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2012-07-17T02:40:27+00:00</dc:date>
@@ -113,6 +170,17 @@ Simplified crabclaws sail with straight spars (yard and boom) and cutoff in rear
 
 Vaka was asymmetric, made from epoxy-glass on styrofoam and ama from PVC pipe.</description>
     </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=ply_proa_with_rocker&amp;rev=1343817562&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:39:22+00:00</dc:date>
+        <title>ply_proa_with_rocker</title>
+        <link>http://proa.me/wiki/doku.php?id=ply_proa_with_rocker&amp;rev=1343817562&amp;do=diff</link>
+        <description>Paul Bowker's deranged thoughts..
+
+It has been suggested that Proas would be better with rocker. This is a few rough sketches and thoughts on how to build an assymetric stitch and tape proa with tortured ply.
+
+This drawing is of building the main waka as a pair of hulls, so that the stresses of bending the curved sides are opposed, the inner seams and bulkheads and transoms would be fixed in place, then the two hulls separated down the centreline.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=sailing_kayak&amp;rev=1342410613&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2012-07-16T03:50:13+00:00</dc:date>
@@ -121,6 +189,20 @@ Vaka was asymmetric, made from epoxy-glass on styrofoam and ama from PVC pipe.</
         <description>This is my sailing kayak Flounder.  (My wife has decided that “Flounder” is not a good name.  I agree with her.  The model looked flat like a flounder, but the boat is more like, I dunno.  We'll think of something after a test sail.)
 
 It is not a proa.  Still, I'm using the new wikiproa home to make a quick web page for this.  Thus:</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=short_dragon&amp;rev=1343818620&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:57:00+00:00</dc:date>
+        <title>short_dragon</title>
+        <link>http://proa.me/wiki/doku.php?id=short_dragon&amp;rev=1343818620&amp;do=diff</link>
+        <description>Here is the tacking outrigger “Short Dragon” (a historical joke; one famous Viking longship was called “Long Dragon” -- yes it had a dragon-headed prow). The vaka (main hull) is 16 feet long, about 22 inches wide at the sheer, 14 inches wide at the very bottom, about 23 inches deep amidships, has about 3 inches of rocker, and sinks about 8 inches with me inside (with gear and rig). It is built of 1/4 inch A/C exterior plywood, glassed on the outside and on the inside from waterline down (includi…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=sidecar&amp;rev=1343818223&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-01T10:50:23+00:00</dc:date>
+        <title>sidecar</title>
+        <link>http://proa.me/wiki/doku.php?id=sidecar&amp;rev=1343818223&amp;do=diff</link>
+        <description>Well I am here to put something on the web outside of Rob (Denney)'s harryproa group. The harryproa web site proper is rarely updated and my own personal information is way out of date. However it is still the most professional, in depth and advanced proa/multihull information around. So go have a read of the plentiful research and development done by Rob, and see why I build/sail harryproas.</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=squid&amp;rev=1342492880&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -139,11 +221,11 @@ Yay - I'm sailing again!!!!
 
 Only five jobs on the work list and two of them are nothing. Biggest issue was I broke another tiller. I keep trying to use them as levers to raise the rudders, they are fine for steering the boat.</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1343106939&amp;do=diff">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1343818394&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-07-24T05:15:39+00:00</dc:date>
+        <dc:date>2012-08-01T10:53:14+00:00</dc:date>
         <title>start</title>
-        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1343106939&amp;do=diff</link>
+        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1343818394&amp;do=diff</link>
         <description>This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article here. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is here.</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=te_wheke&amp;rev=1342156067&amp;do=diff">

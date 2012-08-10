@@ -1,4 +1,4 @@
-a:6:{s:2:"id";s:5:"start";s:6:"prefix";s:0:"";s:4:"text";s:1308:"====== Welcome to Wikiproa! ======
+a:6:{s:2:"id";s:5:"start";s:6:"prefix";s:1112:"====== Welcome to Wikiproa! ======
 
 This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article [[http://en.wikipedia.org/wiki/Proa|here]]. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is [[http://groups.yahoo.com/group/proa_file/|here]].
 
@@ -11,10 +11,11 @@ If you want to try out the new wiki without making or editing a page, there is a
 
 ===== Sailing reports =====
 
-[[1st NZ Proa Congress]]
+[[1st New Zealand Proa Congress]]
 
-===== Proas =====
-[[Te Wheke]]
+[[Hokianga Raid]]
+";s:4:"text";s:250:"===== Proas =====
+[[Te Wheke]], [[Ply proa with rocker]]
 
 [[Squid]]
 
@@ -22,9 +23,23 @@ If you want to try out the new wiki without making or editing a page, there is a
 
 [[Bionic Broomstick]]
 
+[[Peter S Proa|Peter Schuhmayers proa]], and [[Peter S Proa 2|part 2]]
+
+[[P52]], [[P52 Modifications]]
+
+[[Sidecar]]
+
+[[Leon's boats]]";s:6:"suffix";s:320:"
 ===== Tackers =====
 [[Sailing Kayak]]
 
+[[Short Dragon]]
 ===== Historic =====
 
-Visitors:  {{http://c40.statcounter.com/3570484/0/e4a28c86/0.png?nolink}}";s:6:"suffix";s:0:"";s:4:"date";i:1342958607;s:6:"client";s:4:"tdem";}
+===== Housekeeping =====
+
+[[:wiki:first page|Creating your first page]], a beginners guide.
+
+[[:playground:playground|Playground]], for trying stuff out!
+
+Visitors:  {{http://c40.statcounter.com/3570484/0/e4a28c86/0.png?nolink}}";s:4:"date";i:1343818394;s:6:"client";s:4:"tdem";}

@@ -11,13 +11,14 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2012-08-10T10:22:43+00:00</dc:date>
+       <dc:date>2012-08-26T23:50:22+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=1st_new_zealand_proa_congress&amp;rev=1343106838&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1342784663&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=building_pjoa&amp;rev=1342946455&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=hokianga_raid&amp;rev=1343107687&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=korari&amp;rev=1345788029&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=p52&amp;rev=1343642846&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=p52_modifications&amp;rev=1343643405&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=peter_s_proa&amp;rev=1343194361&amp;do=diff"/>
@@ -29,7 +30,8 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=short_dragon&amp;rev=1343818620&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sidecar&amp;rev=1343818223&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=squid&amp;rev=1342492880&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1343818394&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1345786775&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem&amp;rev=1345955830&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=te_wheke&amp;rev=1342156067&amp;do=diff"/>
             </rdf:Seq>
         </items>
@@ -99,6 +101,19 @@ Eight boats with a total of 14 crew left Opononi at midday on Jan 9th. Low water
 From Hokianga:-
 
 Two Seabirds (3.2 metre una rig whaler types) 2 crew each. Les Read/Chris Todd  Daniel Curtis/Claire Todd</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=korari&amp;rev=1345788029&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-24T06:00:29+00:00</dc:date>
+        <title>korari</title>
+        <link>http://proa.me/wiki/doku.php?id=korari&amp;rev=1345788029&amp;do=diff</link>
+        <description>Converting a 16' canoe/kayak to a tacking outrigger
+
+Background info is below, at the top here is a 'most recent first' diary of work...
+
+23 November 2009
+
+I've been making a bit of progress, slow and sporadic. Saw the NZ Proa meet come and go, yeah I had plans to be there... Temperatures are warming up, slowly, summer is a late starter this year so I'm using that as my excuse. I've been doing bits and pieces after work in evenings, had a slow sunday (after a hard saturday night) and so I rounde…</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=p52&amp;rev=1343642846&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -221,12 +236,23 @@ Yay - I'm sailing again!!!!
 
 Only five jobs on the work list and two of them are nothing. Biggest issue was I broke another tiller. I keep trying to use them as levers to raise the rudders, they are fine for steering the boat.</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1343818394&amp;do=diff">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1345786775&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-01T10:53:14+00:00</dc:date>
+        <dc:date>2012-08-24T05:39:35+00:00</dc:date>
         <title>start</title>
-        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1343818394&amp;do=diff</link>
+        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1345786775&amp;do=diff</link>
         <description>This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article here. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is here.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=tdem&amp;rev=1345955830&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-08-26T04:37:10+00:00</dc:date>
+        <title>tdem</title>
+        <link>http://proa.me/wiki/doku.php?id=tdem&amp;rev=1345955830&amp;do=diff</link>
+        <description>Here are some pictures of a fully battened sail. The boat is a frostply we used to own, with an excellent racing record. Sailed fantastic. Click the images to enlarge
+
+For a sail without a jib you may want the draft in the sail a bit further back.
+
+SO, don't worry about some wrinkles, as long as the general shape of the sail is good. Wade, looks like your battens might be too stiff. It is also possible that the sail is just not cut with enough belly. The more you tighten up the battens, the more…</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=te_wheke&amp;rev=1342156067&amp;do=diff">
         <dc:format>text/html</dc:format>

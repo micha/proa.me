@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2012-09-03T07:02:48+00:00</dc:date>
+       <dc:date>2012-09-05T01:04:17+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346374362&amp;do=diff"/>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://proa.me/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://proa.me/wiki/feed.php">
+        <title>Wikiproa wiki</title>
+        <description></description>
+        <link>http://proa.me/wiki/</link>
+        <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
+       <dc:date>2012-09-10T10:00:35+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wiki:dokuwiki&amp;rev=1334828183&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1343106391&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wiki:syntax&amp;rev=1334829759&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico">
+        <title>Wikiproa</title>
+        <link>http://proa.me/wiki/</link>
+        <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=wiki:dokuwiki&amp;rev=1334828183&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-04-19T09:36:23+00:00</dc:date>
+        <title>wiki:dokuwiki</title>
+        <link>http://proa.me/wiki/doku.php?id=wiki:dokuwiki&amp;rev=1334828183&amp;do=diff</link>
+        <description>DokuWiki is a standards compliant, simple to use Wiki, mainly aimed at creating documentation of any kind. It is targeted at developer teams, workgroups and small companies. It has a simple but powerful syntax which makes sure the datafiles remain readable outside the Wiki and eases the creation of structured texts. All data is stored in plain text files -- no database is required.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1343106391&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-07-24T05:06:31+00:00</dc:date>
+        <title>wiki:first_page</title>
+        <link>http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1343106391&amp;do=diff</link>
+        <description>This is a short introduction on how to create a page on Wikiproa. I'll be moving a page across from the old wikiproa as an example.
+
+For more detailed information, you could read the Dokuwiki manual. For a quick reference on editing pages, read the syntax page.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=wiki:syntax&amp;rev=1334829759&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-04-19T10:02:39+00:00</dc:date>
+        <title>wiki:syntax</title>
+        <link>http://proa.me/wiki/doku.php?id=wiki:syntax&amp;rev=1334829759&amp;do=diff</link>
+        <description>DokuWiki supports some simple markup language, which tries to make the datafiles to be as readable as possible. This page contains all possible syntax you may use when editing the pages. Simply have a look at the source of this page by pressing the Edit this page button at the top or bottom of the page. If you want to try something, just use the playground page. The simpler markup is easily accessible via quickbuttons, too.</description>
+    </item>
+</rdf:RDF>

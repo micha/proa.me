@@ -11,10 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2012-09-05T01:04:17+00:00</dc:date>
+       <dc:date>2012-09-14T17:05:25+00:00</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346374362&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1346893144&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346892964&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Atramp.jpg&amp;ns=leon_c&amp;rev=1346374133&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing6.jpg&amp;ns=leon_c&amp;rev=1346374131&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Atow.jpg&amp;ns=leon_c&amp;rev=1346374131&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Afleet.jpg&amp;ns=leon_c&amp;rev=1346374106&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Ajansail1.jpg&amp;ns=leon_c&amp;rev=1346374105&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3A2011_sail7.jpg&amp;ns=leon_c&amp;rev=1346374103&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Aadrift.jpg&amp;ns=leon_c&amp;rev=1346374102&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,12 +42,20 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346374362&amp;do=diff">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1346893144&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:52:42+00:00</dc:date>
+        <dc:date>2012-09-06T00:59:04+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c_boats - created</title>
-        <link>http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346374362&amp;do=diff</link>
+        <title>start - [News] </title>
+        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1346893144&amp;do=diff</link>
+        <description>This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article here. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is here.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346892964&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-09-06T00:56:04+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>leon_c_boats</title>
+        <link>http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346892964&amp;do=diff</link>
         <description>January 2011:
 
 The boat has finally been used for its designed purpose. I spent a week with the boat permanently rigged on the riverbank and went sailing, fishing and motoring every day. I spent a night on board in a little dome tent on the trampoline. The little Honda seems pretty good so far, but the bracket I built for it places it a bit too high. The motor puts a fair but of torque on the crossbeam, which it is not really designed for. This area will need some work. Overall, I remain happy w…</description>
@@ -195,13 +203,5 @@ The boat has finally been used for its designed purpose. I spent a week with the
         <title>leon_c:2011_sail7.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=leon_c%3A2011_sail7.jpg&amp;ns=leon_c&amp;rev=1346374103&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1346374103&amp;amp;media=leon_c:2011_sail7.jpg&quot; alt=&quot;leon_c:2011_sail7.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Aadrift.jpg&amp;ns=leon_c&amp;rev=1346374102&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:22+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>leon_c:adrift.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Aadrift.jpg&amp;ns=leon_c&amp;rev=1346374102&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=400&amp;h=300t=1346374102&amp;amp;media=leon_c:adrift.jpg&quot; alt=&quot;leon_c:adrift.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

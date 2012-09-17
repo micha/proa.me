@@ -1,0 +1,163 @@
+====== Daves Ulua Tacking Outrigger Canoe ======
+
+**Latest stuff is at the top...**
+
+===== The Roof Rack =====
+
+I modded my basic car roof racks way back for my first boat. The rough and ready setup is still doing good service. The racks were simple 1" box section. I sandwiched each cross bar with 2 lengths of timber (approx 4"x1", actually slightly less), posidrive wood screws through both pieces of wood (but not the metal bars!) clamp and retain them to the crossbar. This was done to give somewhere to attach the business part of the structure. Two pieces of 4x1 (ish) run from bar to bar on edge, about 1' apart, screwed to the wood cross pieces. Two pairs of pads hinge off these. Another two strips of approx 2"x1" on edge run either side of centreline about 4" apart, screwed to the wood cross pieces - extending some inches behind the rear bar where a rubber roller is mounted with a galv coach bolt.
+
+The two pairs of pads are just 1" thick pine with carpet glued to the top surface. A cool detail is the hinges. I drilled the 4x1 runners with a series of closely spaced holes and rounded the top edge of the 4x1 to a semicircle. The pads have a double row of closely spaced holes down their centreline. 6mm cord laced through these holes in the 'figure 8' style creates a lo-cost hinge. The carpet was glued on after lashing. So the pads can pivot to adapt to hull shape.
+
+In use the boat (right way up) is rolled forward on the rear roller until about boat mid length, then I lift the stern higher and slide the last couple of feet forward on the pads.
+
+{{:dave_p:dproofrack02.jpg?nolink|}}
+
+General view of my rough and ready waka racks. Wooden, matt black spray paint trying to make them look semi-respectable - but failing - ugly is just ugly. No matter, it works.
+
+{{:dave_p:dproofrack01.jpg?nolink|}}
+
+Closer view of rear roller and pads. You can see a bit of the 'figure 8 rope' hinge.
+
+{{:dave_p:dproofrack03.jpg?nolink|}}
+
+Close up of front right 'figure 8 rope' hinge.
+
+Those pivoting pads are great. The follow the varying shape of the hull while sliding it forward. They also allow me to cartop a flat bottomed plastic kayak or my deep V waka - no adjustment required. The basic design could also be used on a trailer.
+
+===== Weigh-in for my waka =====
+Weights in kg and lb are as follows:
+| Hull - 4mm ply, 6mm bulkheads and decks | 33 | 72.8 |
+| Ama - hollow, 4mm ply | 7 | 15.4 |
+| Akas - hollow, 12mm mahogany and 6mm ply sides | 4 | 8.8 |
+| Leeboard - from ~1" mahogany, NACA 0012 | 2 | 4.4 |
+| Rudder- from ~1" mahogany, NACA 0009 | 2 | 4.4 |
+| Pola - bamboo | 2 | 2.2 |
+| Hiking seat - pine slats | 1 | 2.2 |
+| Sail rig - 2 fibreglass spars, polytarp, mainsheet, blocks | 8 | 17.6 |
+| Floorboards - foam and 6mm ply | 1 | 2.2 |
+| Paddle | 1 | 2.2 |
+| Bag of stuff: lines, cable ties, inner tube strips | 1 | 2.2 |
+| Anchor + 50m of 6mm line | 2 | 4.4 |
+
+The boat and various bits were as 'ready to sail' rather than 'just built' so includes all the little extras, even a bit of sand in the bilge!
+
+ Design weights given for an Ulua are hull 29kg (64lb), fully rigged 55kg (122lb). So my hull is just 4kg over, and fully rigged (everything up to and including Sail rig in my list) is just 3kg over. 
+
+ Candidates for extra weight on hull would come from the following: 
+ -using cheaper, heavier, marine ply
+ -gunwales much beefier than design
+ -fabric, and extra epoxy on hull
+ -outboard / quarter rudder structure
+ -full rather than ring bulkheads
+ -6mm ply for bulkheads
+
+So I'm really pleased: I got close to design weights, which are really impressively light for 18' of sailboat! Anyway before I did any weighing I knew it was working well for cartopping and dragging up and down the beach.
+
+===== First trout caught from my waka - Mar 2012 =====
+Harling off Boyes Beach, Lake Okareka: chuuur! 1.7kg, 3 3/4lb not huge but nice size and good condition.
+
+{{:dave_p:dpketeika.jpg?nolink|}}
+
+An outrigger canoe actually makes a great trout fishing platform! Ghosting under sail in light winds steering and sometimes adjusting the sheet to maintain a good trolling speed. When the wind died I paddled. Mostly seated in the hull steering with my foot pedals. When the wind really picked up I hiked out and enjoyed the ride. All-in-all it worked well. I also noticed how comfortable my 'mesh' seats are. Played a bit with leeboard (angled forward slightly). Also played with outhaul to change sail shape. Winds were so light it was hard to decide best settings, but learned a bit more about what works. A great day out.
+
+===== Easy tapered hollow spars - Jan 2012 =====
+
+Below is an image showing a simple way to make square hollow spars with taper. I used this to make a mast, it might also be used to make a boom, or pola.
+
+{{:dave_p:hollowsquaremast.gif?nolink|}}
+
+The spacer blocks only need to be about 10mm thick (and could be rectangular). The corners of the square spar can be chamfered off slightly. I used several small brads to hold pieces during gluing, heads were left proud for easy removal later. I also spiral wrapped the mast with packing tape to 'clamp' while the glue set. The mast was positioned against a metal railing on a concrete veranda to keep it straight. The 'spacer' at the base of the mast was a long piece extending from foot of mast to above the mast partners, making the base of the mast solid for strength.
+
+I've found the following online calculators useful for calculating bending stress and deflection for solid and hollow beams:
+
+http://www.wa4dsy.com/robot/bending
+
+===== New bits and on the water at Hahei Dec 2011 - Jan 2012 =====
+
+Below is the new leeboard. Shaped to NACA 0012. The setup is in the "Jim Michalak" style, here is a link to his article: http://members.fortunecity.com/duckworks/1998/0615/index.htm  The board pivots on a galvanised bolt through the side of the hull. On the left of the image below you can see one end a 40mm wide strip of ply on the side of the hull, which the leeboard rests against as a spacer. Inside the hull in the same position is a length of 20 by 40mm wood to spread the load. This and an identical strip on the other side of the hull are the runners/supports for my forward seat. The upper end of the board locks in under the 'outwale' above when it rotates upright. Internal bracing runs from gunwale to gunwale and down to the back edge of the seat. The white star shaped 'knob' is a piece of hardwood with galvanised nut recessed and glued into to it so I can remove and adjust leeboard tension without tools.
+
+{{:dave_p:dpulualeeboard.jpg?nolink|}}
+
+In the following close-up you can see better how the board can rotate under the 'outwale. This setup resists side forces equally both ways, simple and effective.
+
+{{:dave_p:dpulualeeboard2.jpg?nolink|}}
+
+In the next shot you can see my 'under development' quarter rudder setup. It borrows ideas from the setups on Garys Fiji Easy Riders and Va'a Motu, although mine is admittedly not as sorted or pretty. It starts with two lateral struts, the lower passes through the hull, the upper sits above the gunwales. On the right a bridging piece of ply makes my outboard bracket (you can see that in the first shot above). On the left is the rudder. A couple of 40mm hinges attach to a simple pine board, about 250x250mm, which the rudder (NACA 0009) pivots from. The nut for the galv pivot bolt is embedded in a wooden 'knob' like the leeboard (actually this is 'beach-repaired', larger knob screwed on top of a smaller one... usually it looks just like the leeboard one). This is on the inboard side so it will loosen rather than tighten if the rudder hits anything, and it is easier to reach from inside the boat here. The pine board has a short arm screwed to it projecting forward, joined to a connecting arm, then to a short central tiller. These 3 arms pivot on short galv bolts, a bit of electrical tape wound on the threads before putting the nuts on stops them loosening and falling off and allows adjustable friction in the steering. My tiller extension is a length of 20 by 10mm wood (white), joined to tiller with poly rope: knot - tiller - knot - tiller extension - knot. The tiller is short but the rudder has some "lead" so tiller load seems OK. The blue line attached to the front end of the tiller is spectra, this is the start of my prototype 'pedal' steering system. You can see the line running left and right to fixed blocks on gunwales and the heading forward from there.
+
+{{:dave_p:dpuluarudder.jpg?nolink|}}
+
+Here is the business end of the steering system - genuine "sticks and string" technology here. Yep, its a stick, with a hole drilled in each end. The blue spectra lines are tied off with my take on the 'adjustable grip hitch' : this is simply a loop about 6" long tied off with series of 3 or 4 half hitches (use more hitches on more slippery rope). You can push on the set of half hitches to slide along the line and adjust line length but it has enough friction to hold there. So my 'pedals' are adjustable for leg length and steering balance ! The stick hangs from the back of the forward seat on a short length (6 to 8") of red line (spectra). This line also has an adjustable grip hitch so 'pedals' are height adjustable too ! This line attaches with a small carabiner clip to an eye screwed in the back of the seat. This allows me to unclip, roll the blue lines onto the stick, and stow under rear seat if I want it all out of the way. I reckon this is a genius low tech solution, and having foot steering makes paddling so MUCH easier. A final important detail, initially I did not have the red 'suspension line' just the stick with the two blue lines which was a definite foot trap hazard (and a bit awkward to use). That short red 'suspension' line makes it much safer and 'more better'. Anyway I always carry a knife on me, and someday I will probably make actual pedals which would be safer and look a bit more professional.
+
+{{:dave_p:dpuluasteer.jpg?nolink|}}
+
+In the shot above you can also kinda see the 'under development' internal bracing for the leeboard.
+
+ 
+
+Here I am just leaving shore in light air, no surf. This was early in the holiday before the weather got BAD. This gives some idea of new sail rig: loose-footed crab claw / oceanic lateen, with fibreglass spars. The sail was cut and sewed very quickly the day before leaving home, made from an 8' by 10' 'clear' tarp. Pretty cool stuff, feels much like normal tarp, up close it has an open weave at 1/2" intervals of white poly, surfaced each side with a clear layer. From any distance it just appears like white tarp - much nicer than the blue, green, silver, camo tarps that I was limited to up to now. Still a lot to learn about sail shape and tuning. On my last sail I had brisk winds, I tweaked the outhaul up tight and it really seemed to be performing well. Yeah the boom is a bit too long, but I won't cut it just yet, I hastily cut 18" off the mast last year and have regretted it many times since!
+
+{{:dave_p:dpuluasail.jpg?nolink|}}
+
+Here is a shot of me padding out to check the craypot. Those rocks behind me are actually the back end of the island in the shot above - wifes new camera has one heck of a zoom on it. You can see the craypot buoy just to the left of the boat.
+
+{{:dave_p:dpuluapaddle1.jpg?nolink|}}
+
+===== First sail report: Hahei Beach Dec 2010 - Jan 2011 =====
+I kept cutting things from my to do list as our holiday got closer: Sanding - just get rid of really sharp edges, Topcoat - try to varnish as much epoxy coated wood as possible; Rudder and leeboard - nah, real Hawaiians don't use em; Foot pedal steering - there is no rudder! see less IS more; Sail - the old one will do; Test sail - aww she'll be right, I'll work it out. So I packed tools, glue, a few bits of wood, screws etc and off we went.
+
+ 
+
+First impression is how light the new waka is - obvious every time I loaded all the bits in the hull and wheeled it on a kayak trolley to and from the beach - and dragging it up or down the beach. I can do this really easily on my own, so this was great. Wife and brother-in-law (and me) were keen on fishing, so messing with sails on an untested boat fell low on the priority list. As a result I only ever sailed twice, paddling and motor were the usual deal. The hull paddles at good speed easily, but does seem hard to keep in a straight line with two aboard. My teeny 1.2hp air-cooled outboard was a winner, it pushed the hull around at adequate speed, probably hull speed or close to it. I did have 'issues' with starting the motor - it took me most of the two weeks to work out choke, throttle settings, otherwise it flooded and no amount of cuss words helped ;-)
+
+ 
+
+Mid-way through the holiday I took my daughter on a trip from Hahei beach to Cathedral cove. We started under sail but light winds which turned to become a headwind made me decide to furl the sail and start the motor. After a short while I noticed one of the forward aka lashings was decidedly loose and pulled in behind cover of the point closer to the beach to fix it. Having done that I was fiddling with one of the rear lashings when I felt the boat go over to starboard. WHAM - we are in the water and my Ulua is lying on its side, furled mast on the surface. Man that happened fast, probably my daughter and I both leaned a bit too far to starboard. I said sh!t several times, swam around grabbed the gunwale and put my foot on the part of the aka projecting over the starboard side of the hull (now underwater) and easily righted the boat - that was good. Water level was just a couple of inches below the gunwale - in rough conditions I am not sure it would be possible to bale fast enough? So bale I did - it probably took a good twenty minutes - during which I thought about how I should have a bigger bailer and build in more flotation! The motor started first pull! (it was up in the air when capsized) and off we motored to Cathedral cove. It was busy there so I cut the motor 50m out and paddled in - very wary of waves as they break badly on the main beach. As usual for this time of the year there is perhaps close to 100 people, mostly tourists, on the beach. Well I no sooner drag the waka up and we are surrounded by an instant crowd! cameras clicking and all! I should have said ALOHA! are we still in Hawaii?! LOL
+
+ 
+
+The boat always attracted plenty of attention - the kowhaiwhai pattern probably helped. People loved the waka and some were surprised when I told them I built it. I always made sure to tell people: hey if you want to build or buy a waka like this Gary Dierking in Coromandel is the man.
+
+ 
+
+Most memorable moments: the 'huli' - tipping out and then righting so quickly; getting papparazzi'd at Cathedral cove; dolphins swimming around and under the waka; the early morning fishing trip with my wife.
+
+ 
+
+I have to declare this waka a success, and I am now waiting for sailing weather to get out on the local lakes. Right now it is raining incessantly but it is changing from a gale to a forecast of cloudy and light winds for the next week ;-(
+
+ 
+
+Here are a few photos, and even a few tiny video clips below that, nothing flash but gives an idea:
+
+{{:dave_p:dpuluahahei001.jpg?nolink|}}
+
+Just unpacked, waka beside our tent
+
+{{:dave_p:dpuluahahei004.jpg?nolink|}}
+
+Heading down the beach for the first launch
+
+{{:dave_p:dpuluahahei005.jpg?nolink|}}
+
+Paddling out - yep it floats
+
+{{:dave_p:dpuluahahei006.jpg?nolink|}}
+
+Leaving the beach with my daughter on board - we're off to Cathedral cove
+
+{{:dave_p:dpuluahahei007.jpg?nolink|}}
+
+Not much wind and very shifty
+
+{{:dave_p:dpuluahahei008.jpg?nolink|}}
+
+{{:dave_p:dpuluahahei010.jpg?nolink|}}
+
+Cathedral cove - after the mob dispersed!
+
+{{:dave_p:dpuluahahei009.jpg?nolink|}}
+
+Returning from setting the craypot with cousin Jordan
+
+FIXME now fix the rest. mp4's cannot be uploaded??
+

@@ -11,29 +11,29 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2012-09-14T17:05:25+00:00</dc:date>
+       <dc:date>2012-09-22T22:32:35+00:00</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1346893144&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346892964&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Atramp.jpg&amp;ns=leon_c&amp;rev=1346374133&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing6.jpg&amp;ns=leon_c&amp;rev=1346374131&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Atow.jpg&amp;ns=leon_c&amp;rev=1346374131&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing8.jpg&amp;ns=leon_c&amp;rev=1346374130&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Asup.jpg&amp;ns=leon_c&amp;rev=1346374127&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing5.jpg&amp;ns=leon_c&amp;rev=1346374126&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing4.jpg&amp;ns=leon_c&amp;rev=1346374123&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing3.jpg&amp;ns=leon_c&amp;rev=1346374122&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing2.jpg&amp;ns=leon_c&amp;rev=1346374120&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing1.jpg&amp;ns=leon_c&amp;rev=1346374115&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Aloaded.jpg&amp;ns=leon_c&amp;rev=1346374115&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Amuddy.jpg&amp;ns=leon_c&amp;rev=1346374111&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Ajansail3.jpg&amp;ns=leon_c&amp;rev=1346374109&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Alashing.jpg&amp;ns=leon_c&amp;rev=1346374109&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Ajansail2.jpg&amp;ns=leon_c&amp;rev=1346374107&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Afleet.jpg&amp;ns=leon_c&amp;rev=1346374106&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3Ajansail1.jpg&amp;ns=leon_c&amp;rev=1346374105&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=leon_c%3A2011_sail7.jpg&amp;ns=leon_c&amp;rev=1346374103&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply02.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd02.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd01.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adscf5134.jpg&amp;ns=dave_p&amp;rev=1347873259&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adscf5133.jpg&amp;ns=dave_p&amp;rev=1347873254&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Ahollowsquaremast.gif&amp;ns=dave_p&amp;rev=1347873254&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluasteer.jpg&amp;ns=dave_p&amp;rev=1347873252&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluarudder.jpg&amp;ns=dave_p&amp;rev=1347873252&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluasail.jpg&amp;ns=dave_p&amp;rev=1347873250&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluapaddle1.jpg&amp;ns=dave_p&amp;rev=1347873249&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard2.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei010.jpg&amp;ns=dave_p&amp;rev=1347873246&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei009.jpg&amp;ns=dave_p&amp;rev=1347873244&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei008.jpg&amp;ns=dave_p&amp;rev=1347873243&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei007.jpg&amp;ns=dave_p&amp;rev=1347873242&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei006.jpg&amp;ns=dave_p&amp;rev=1347873241&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei005.jpg&amp;ns=dave_p&amp;rev=1347873240&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,166 +42,168 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1346893144&amp;do=diff">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-09-06T00:59:04+00:00</dc:date>
+        <dc:date>2012-09-17T09:34:36+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>start - [News] </title>
-        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1346893144&amp;do=diff</link>
-        <description>This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article here. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is here.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346892964&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-06T00:56:04+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>leon_c_boats</title>
-        <link>http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346892964&amp;do=diff</link>
-        <description>January 2011:
+        <title>dave_s_ulua</title>
+        <link>http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff</link>
+        <description>Latest stuff is at the top...
 
-The boat has finally been used for its designed purpose. I spent a week with the boat permanently rigged on the riverbank and went sailing, fishing and motoring every day. I spent a night on board in a little dome tent on the trampoline. The little Honda seems pretty good so far, but the bracket I built for it places it a bit too high. The motor puts a fair but of torque on the crossbeam, which it is not really designed for. This area will need some work. Overall, I remain happy w…</description>
+The Roof Rack
+
+I modded my basic car roof racks way back for my first boat. The rough and ready setup is still doing good service. The racks were simple 1” box section. I sandwiched each cross bar with 2 lengths of timber (approx 4”x1”, actually slightly less), posidrive wood screws through both pieces of wood (but not the metal bars!) clamp and retain them to the crossbar. This was done to give somewhere to attach the business part of the structure. Two pieces of …</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Atramp.jpg&amp;ns=leon_c&amp;rev=1346374133&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply02.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:53+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:40+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:tramp.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Atramp.jpg&amp;ns=leon_c&amp;rev=1346374133&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=400&amp;h=300t=1346374133&amp;amp;media=leon_c:tramp.jpg&quot; alt=&quot;leon_c:tramp.jpg&quot; /&gt;</description>
+        <title>dave_p:sguluaply02.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply02.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873280&amp;amp;media=dave_p:sguluaply02.jpg&quot; alt=&quot;dave_p:sguluaply02.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing6.jpg&amp;ns=leon_c&amp;rev=1346374131&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:51+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:40+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:mudsailing6.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing6.jpg&amp;ns=leon_c&amp;rev=1346374131&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1346374131&amp;amp;media=leon_c:mudsailing6.jpg&quot; alt=&quot;leon_c:mudsailing6.jpg&quot; /&gt;</description>
+        <title>dave_p:sguluaply03.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873280&amp;amp;media=dave_p:sguluaply03.jpg&quot; alt=&quot;dave_p:sguluaply03.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Atow.jpg&amp;ns=leon_c&amp;rev=1346374131&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd02.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:51+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:37+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:tow.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Atow.jpg&amp;ns=leon_c&amp;rev=1346374131&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1346374131&amp;amp;media=leon_c:tow.jpg&quot; alt=&quot;leon_c:tow.jpg&quot; /&gt;</description>
+        <title>dave_p:sguluachd02.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd02.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=156t=1347873277&amp;amp;media=dave_p:sguluachd02.jpg&quot; alt=&quot;dave_p:sguluachd02.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing8.jpg&amp;ns=leon_c&amp;rev=1346374130&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd01.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:50+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:37+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:mudsailing8.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing8.jpg&amp;ns=leon_c&amp;rev=1346374130&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=375&amp;h=500t=1346374130&amp;amp;media=leon_c:mudsailing8.jpg&quot; alt=&quot;leon_c:mudsailing8.jpg&quot; /&gt;</description>
+        <title>dave_p:sguluachd01.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd01.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=387t=1347873277&amp;amp;media=dave_p:sguluachd01.jpg&quot; alt=&quot;dave_p:sguluachd01.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Asup.jpg&amp;ns=leon_c&amp;rev=1346374127&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adscf5134.jpg&amp;ns=dave_p&amp;rev=1347873259&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:47+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:19+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:sup.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Asup.jpg&amp;ns=leon_c&amp;rev=1346374127&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=400&amp;h=300t=1346374127&amp;amp;media=leon_c:sup.jpg&quot; alt=&quot;leon_c:sup.jpg&quot; /&gt;</description>
+        <title>dave_p:dscf5134.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adscf5134.jpg&amp;ns=dave_p&amp;rev=1347873259&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=333&amp;h=500t=1347873259&amp;amp;media=dave_p:dscf5134.jpg&quot; alt=&quot;dave_p:dscf5134.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing5.jpg&amp;ns=leon_c&amp;rev=1346374126&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adscf5133.jpg&amp;ns=dave_p&amp;rev=1347873254&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:46+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:14+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:mudsailing5.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing5.jpg&amp;ns=leon_c&amp;rev=1346374126&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1346374126&amp;amp;media=leon_c:mudsailing5.jpg&quot; alt=&quot;leon_c:mudsailing5.jpg&quot; /&gt;</description>
+        <title>dave_p:dscf5133.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adscf5133.jpg&amp;ns=dave_p&amp;rev=1347873254&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873254&amp;amp;media=dave_p:dscf5133.jpg&quot; alt=&quot;dave_p:dscf5133.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing4.jpg&amp;ns=leon_c&amp;rev=1346374123&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Ahollowsquaremast.gif&amp;ns=dave_p&amp;rev=1347873254&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:43+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:14+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:mudsailing4.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing4.jpg&amp;ns=leon_c&amp;rev=1346374123&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1346374123&amp;amp;media=leon_c:mudsailing4.jpg&quot; alt=&quot;leon_c:mudsailing4.jpg&quot; /&gt;</description>
+        <title>dave_p:hollowsquaremast.gif - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Ahollowsquaremast.gif&amp;ns=dave_p&amp;rev=1347873254&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=410&amp;h=423t=1347873254&amp;amp;media=dave_p:hollowsquaremast.gif&quot; alt=&quot;dave_p:hollowsquaremast.gif&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing3.jpg&amp;ns=leon_c&amp;rev=1346374122&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluasteer.jpg&amp;ns=dave_p&amp;rev=1347873252&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:42+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:12+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:mudsailing3.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing3.jpg&amp;ns=leon_c&amp;rev=1346374122&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1346374122&amp;amp;media=leon_c:mudsailing3.jpg&quot; alt=&quot;leon_c:mudsailing3.jpg&quot; /&gt;</description>
+        <title>dave_p:dpuluasteer.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluasteer.jpg&amp;ns=dave_p&amp;rev=1347873252&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873252&amp;amp;media=dave_p:dpuluasteer.jpg&quot; alt=&quot;dave_p:dpuluasteer.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing2.jpg&amp;ns=leon_c&amp;rev=1346374120&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluarudder.jpg&amp;ns=dave_p&amp;rev=1347873252&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:40+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:12+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:mudsailing2.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing2.jpg&amp;ns=leon_c&amp;rev=1346374120&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1346374120&amp;amp;media=leon_c:mudsailing2.jpg&quot; alt=&quot;leon_c:mudsailing2.jpg&quot; /&gt;</description>
+        <title>dave_p:dpuluarudder.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluarudder.jpg&amp;ns=dave_p&amp;rev=1347873252&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873252&amp;amp;media=dave_p:dpuluarudder.jpg&quot; alt=&quot;dave_p:dpuluarudder.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing1.jpg&amp;ns=leon_c&amp;rev=1346374115&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluasail.jpg&amp;ns=dave_p&amp;rev=1347873250&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:35+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:10+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:mudsailing1.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Amudsailing1.jpg&amp;ns=leon_c&amp;rev=1346374115&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1346374115&amp;amp;media=leon_c:mudsailing1.jpg&quot; alt=&quot;leon_c:mudsailing1.jpg&quot; /&gt;</description>
+        <title>dave_p:dpuluasail.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluasail.jpg&amp;ns=dave_p&amp;rev=1347873250&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873250&amp;amp;media=dave_p:dpuluasail.jpg&quot; alt=&quot;dave_p:dpuluasail.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Aloaded.jpg&amp;ns=leon_c&amp;rev=1346374115&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluapaddle1.jpg&amp;ns=dave_p&amp;rev=1347873249&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:35+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:09+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:loaded.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Aloaded.jpg&amp;ns=leon_c&amp;rev=1346374115&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=400&amp;h=300t=1346374115&amp;amp;media=leon_c:loaded.jpg&quot; alt=&quot;leon_c:loaded.jpg&quot; /&gt;</description>
+        <title>dave_p:dpuluapaddle1.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluapaddle1.jpg&amp;ns=dave_p&amp;rev=1347873249&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873249&amp;amp;media=dave_p:dpuluapaddle1.jpg&quot; alt=&quot;dave_p:dpuluapaddle1.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Amuddy.jpg&amp;ns=leon_c&amp;rev=1346374111&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard2.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:31+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:07+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:muddy.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Amuddy.jpg&amp;ns=leon_c&amp;rev=1346374111&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=400&amp;h=300t=1346374111&amp;amp;media=leon_c:muddy.jpg&quot; alt=&quot;leon_c:muddy.jpg&quot; /&gt;</description>
+        <title>dave_p:dpulualeeboard2.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard2.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873247&amp;amp;media=dave_p:dpulualeeboard2.jpg&quot; alt=&quot;dave_p:dpulualeeboard2.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Ajansail3.jpg&amp;ns=leon_c&amp;rev=1346374109&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:29+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:07+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:jansail3.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Ajansail3.jpg&amp;ns=leon_c&amp;rev=1346374109&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1346374109&amp;amp;media=leon_c:jansail3.jpg&quot; alt=&quot;leon_c:jansail3.jpg&quot; /&gt;</description>
+        <title>dave_p:dpulualeeboard.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873247&amp;amp;media=dave_p:dpulualeeboard.jpg&quot; alt=&quot;dave_p:dpulualeeboard.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Alashing.jpg&amp;ns=leon_c&amp;rev=1346374109&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei010.jpg&amp;ns=dave_p&amp;rev=1347873246&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:29+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:06+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:lashing.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Alashing.jpg&amp;ns=leon_c&amp;rev=1346374109&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=400&amp;h=300t=1346374109&amp;amp;media=leon_c:lashing.jpg&quot; alt=&quot;leon_c:lashing.jpg&quot; /&gt;</description>
+        <title>dave_p:dpuluahahei010.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei010.jpg&amp;ns=dave_p&amp;rev=1347873246&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873246&amp;amp;media=dave_p:dpuluahahei010.jpg&quot; alt=&quot;dave_p:dpuluahahei010.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Ajansail2.jpg&amp;ns=leon_c&amp;rev=1346374107&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei009.jpg&amp;ns=dave_p&amp;rev=1347873244&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:27+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:04+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:jansail2.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Ajansail2.jpg&amp;ns=leon_c&amp;rev=1346374107&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1346374107&amp;amp;media=leon_c:jansail2.jpg&quot; alt=&quot;leon_c:jansail2.jpg&quot; /&gt;</description>
+        <title>dave_p:dpuluahahei009.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei009.jpg&amp;ns=dave_p&amp;rev=1347873244&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=333&amp;h=500t=1347873244&amp;amp;media=dave_p:dpuluahahei009.jpg&quot; alt=&quot;dave_p:dpuluahahei009.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Afleet.jpg&amp;ns=leon_c&amp;rev=1346374106&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei008.jpg&amp;ns=dave_p&amp;rev=1347873243&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:26+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:03+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:fleet.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Afleet.jpg&amp;ns=leon_c&amp;rev=1346374106&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=400&amp;h=300t=1346374106&amp;amp;media=leon_c:fleet.jpg&quot; alt=&quot;leon_c:fleet.jpg&quot; /&gt;</description>
+        <title>dave_p:dpuluahahei008.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei008.jpg&amp;ns=dave_p&amp;rev=1347873243&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873243&amp;amp;media=dave_p:dpuluahahei008.jpg&quot; alt=&quot;dave_p:dpuluahahei008.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3Ajansail1.jpg&amp;ns=leon_c&amp;rev=1346374105&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei007.jpg&amp;ns=dave_p&amp;rev=1347873242&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:25+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:02+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:jansail1.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3Ajansail1.jpg&amp;ns=leon_c&amp;rev=1346374105&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1346374105&amp;amp;media=leon_c:jansail1.jpg&quot; alt=&quot;leon_c:jansail1.jpg&quot; /&gt;</description>
+        <title>dave_p:dpuluahahei007.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei007.jpg&amp;ns=dave_p&amp;rev=1347873242&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873242&amp;amp;media=dave_p:dpuluahahei007.jpg&quot; alt=&quot;dave_p:dpuluahahei007.jpg&quot; /&gt;</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=leon_c%3A2011_sail7.jpg&amp;ns=leon_c&amp;rev=1346374103&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei006.jpg&amp;ns=dave_p&amp;rev=1347873241&amp;tab_details=history&amp;mediado=diff&amp;do=media">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:48:23+00:00</dc:date>
+        <dc:date>2012-09-17T09:14:01+00:00</dc:date>
         <dc:creator>tdem</dc:creator>
-        <title>leon_c:2011_sail7.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=leon_c%3A2011_sail7.jpg&amp;ns=leon_c&amp;rev=1346374103&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1346374103&amp;amp;media=leon_c:2011_sail7.jpg&quot; alt=&quot;leon_c:2011_sail7.jpg&quot; /&gt;</description>
+        <title>dave_p:dpuluahahei006.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei006.jpg&amp;ns=dave_p&amp;rev=1347873241&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873241&amp;amp;media=dave_p:dpuluahahei006.jpg&quot; alt=&quot;dave_p:dpuluahahei006.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei005.jpg&amp;ns=dave_p&amp;rev=1347873240&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-09-17T09:14:00+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>dave_p:dpuluahahei005.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei005.jpg&amp;ns=dave_p&amp;rev=1347873240&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873240&amp;amp;media=dave_p:dpuluahahei005.jpg&quot; alt=&quot;dave_p:dpuluahahei005.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

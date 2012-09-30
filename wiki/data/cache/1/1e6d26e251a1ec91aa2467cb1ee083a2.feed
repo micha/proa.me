@@ -11,16 +11,17 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2012-09-03T07:02:51+00:00</dc:date>
+       <dc:date>2012-09-29T23:44:36+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=1st_new_zealand_proa_congress&amp;rev=1343106838&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1342784663&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=building_pjoa&amp;rev=1342946455&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=george_s_wa_apa&amp;rev=1346287055&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=hokianga_raid&amp;rev=1343107687&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=korari&amp;rev=1346284267&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346374362&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346892964&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=p52&amp;rev=1343642846&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=p52_modifications&amp;rev=1343643405&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=peter_s_proa&amp;rev=1343194361&amp;do=diff"/>
@@ -33,7 +34,7 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=short_dragon&amp;rev=1343818620&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sidecar&amp;rev=1343818223&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=squid&amp;rev=1342492880&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1346373827&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1347873044&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem&amp;rev=1345955830&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=te_wheke&amp;rev=1342156067&amp;do=diff"/>
             </rdf:Seq>
@@ -88,6 +89,17 @@ Well, it took :
 	*  ama took 12,5 working days,
 	*  sail and rigg needed another 12 days to accomplish basic building phase.</description>
     </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-09-17T09:34:36+00:00</dc:date>
+        <title>dave_s_ulua</title>
+        <link>http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff</link>
+        <description>Latest stuff is at the top...
+
+The Roof Rack
+
+I modded my basic car roof racks way back for my first boat. The rough and ready setup is still doing good service. The racks were simple 1” box section. I sandwiched each cross bar with 2 lengths of timber (approx 4”x1”, actually slightly less), posidrive wood screws through both pieces of wood (but not the metal bars!) clamp and retain them to the crossbar. This was done to give somewhere to attach the business part of the structure. Two pieces of …</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=george_s_wa_apa&amp;rev=1346287055&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2012-08-30T00:37:35+00:00</dc:date>
@@ -125,11 +137,11 @@ Background info is below, at the top here is a 'most recent first' diary of work
 
 I've been making a bit of progress, slow and sporadic. Saw the NZ Proa meet come and go, yeah I had plans to be there... Temperatures are warming up, slowly, summer is a late starter this year so I'm using that as my excuse. I've been doing bits and pieces after work in evenings, had a slow sunday (after a hard saturday night) and so I rounde…</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346374362&amp;do=diff">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346892964&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:52:42+00:00</dc:date>
+        <dc:date>2012-09-06T00:56:04+00:00</dc:date>
         <title>leon_c_boats</title>
-        <link>http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346374362&amp;do=diff</link>
+        <link>http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346892964&amp;do=diff</link>
         <description>January 2011:
 
 The boat has finally been used for its designed purpose. I spent a week with the boat permanently rigged on the riverbank and went sailing, fishing and motoring every day. I spent a night on board in a little dome tent on the trampoline. The little Honda seems pretty good so far, but the bracket I built for it places it a bit too high. The motor puts a fair but of torque on the crossbeam, which it is not really designed for. This area will need some work. Overall, I remain happy w…</description>
@@ -278,11 +290,11 @@ Yay - I'm sailing again!!!!
 
 Only five jobs on the work list and two of them are nothing. Biggest issue was I broke another tiller. I keep trying to use them as levers to raise the rudders, they are fine for steering the boat.</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1346373827&amp;do=diff">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1347873044&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-08-31T00:43:47+00:00</dc:date>
+        <dc:date>2012-09-17T09:10:44+00:00</dc:date>
         <title>start</title>
-        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1346373827&amp;do=diff</link>
+        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1347873044&amp;do=diff</link>
         <description>This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article here. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is here.</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=tdem&amp;rev=1345955830&amp;do=diff">

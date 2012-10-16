@@ -1,0 +1,30 @@
+====== Marina ======
+
+This page is intended to have links to all the known proas out there. Can we do it? Yes we can! //(paraphrasing)//
+
+===== Pacific Bee (Ex Cimba) =====
+{{ :marina:pacific_bee.jpg?300|}} 
+
+Length: 38ft
+
+Beam: ??
+
+Weight: ???
+
+Sail Area: ???
+
+[[Pacific Bee|more details]]
+
+===== Jzerro =====
+
+{{ :marina:pacific_bee.jpg?300| }}
+
+Length: ??
+
+Beam: ??
+
+Weight: ??
+
+Sail Area: ??
+
+[[jzerro|more details]]

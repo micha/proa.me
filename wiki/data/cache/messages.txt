@@ -1,3 +1,6 @@
+New release available: 2012-10-13 "Adora Belle".
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [38] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
 New release candidate available: 2012-09-10 "Adora Belle" RC1.
           <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [37] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
 %

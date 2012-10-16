@@ -11,6 +11,11 @@ Well, this is the new wikiproa! The old one is still online, [[http://wikiproa.p
 
 If you want to try out the new wiki without making or editing a page, there is a [[:playground:playground]] especially for you. Edit all you like!
 
+===== Marina =====
+It's been suggested on the excellent [[http://proafile.com/forums/|proafile.com forum]] that a kind of "virtual marina" should be made, containing information on all the known proas out there, especially larger ones. Well enter the...
+
+**[[Marina]]**
+
 ===== Sailing reports =====
 
 [[1st New Zealand Proa Congress]]

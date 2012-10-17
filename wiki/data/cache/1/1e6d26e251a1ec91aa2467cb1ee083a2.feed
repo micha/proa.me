@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2012-09-29T23:44:36+00:00</dc:date>
+       <dc:date>2012-10-17T19:19:23+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=1st_new_zealand_proa_congress&amp;rev=1343106838&amp;do=diff"/>
@@ -22,6 +22,7 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=hokianga_raid&amp;rev=1343107687&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=korari&amp;rev=1346284267&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346892964&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=p52&amp;rev=1343642846&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=p52_modifications&amp;rev=1343643405&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=peter_s_proa&amp;rev=1343194361&amp;do=diff"/>
@@ -34,7 +35,7 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=short_dragon&amp;rev=1343818620&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sidecar&amp;rev=1343818223&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=squid&amp;rev=1342492880&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1347873044&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1350417740&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem&amp;rev=1345955830&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=te_wheke&amp;rev=1342156067&amp;do=diff"/>
             </rdf:Seq>
@@ -145,6 +146,37 @@ I've been making a bit of progress, slow and sporadic. Saw the NZ Proa meet come
         <description>January 2011:
 
 The boat has finally been used for its designed purpose. I spent a week with the boat permanently rigged on the riverbank and went sailing, fishing and motoring every day. I spent a night on board in a little dome tent on the trampoline. The little Honda seems pretty good so far, but the bracket I built for it places it a bit too high. The motor puts a fair but of torque on the crossbeam, which it is not really designed for. This area will need some work. Overall, I remain happy w…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-10-16T20:27:55+00:00</dc:date>
+        <title>marina</title>
+        <link>http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff</link>
+        <description>This page is intended to have links to all the known proas out there. Can we do it? Yes we can! (paraphrasing)
+
+Pacific Bee (Ex Cimba)
+
+
+
+Length: 38ft
+
+Beam: ??
+
+Weight: ???
+
+Sail Area: ???
+
+more details
+
+Jzerro
+
+[ ]
+
+Length: ??
+
+Beam: ??
+
+Weight: ??</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=p52&amp;rev=1343642846&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -290,11 +322,11 @@ Yay - I'm sailing again!!!!
 
 Only five jobs on the work list and two of them are nothing. Biggest issue was I broke another tiller. I keep trying to use them as levers to raise the rudders, they are fine for steering the boat.</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1347873044&amp;do=diff">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1350417740&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:10:44+00:00</dc:date>
+        <dc:date>2012-10-16T20:02:20+00:00</dc:date>
         <title>start</title>
-        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1347873044&amp;do=diff</link>
+        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1350417740&amp;do=diff</link>
         <description>This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article here. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is here.</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=tdem&amp;rev=1345955830&amp;do=diff">

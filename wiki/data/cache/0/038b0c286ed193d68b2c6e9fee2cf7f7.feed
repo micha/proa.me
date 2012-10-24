@@ -11,9 +11,12 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2012-09-29T14:52:33+00:00</dc:date>
+       <dc:date>2012-10-24T05:52:12+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=marina%3Apacific_bee.jpg&amp;ns=marina&amp;rev=1350418335&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1350417740&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply02.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
@@ -31,9 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei010.jpg&amp;ns=dave_p&amp;rev=1347873246&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei009.jpg&amp;ns=dave_p&amp;rev=1347873244&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei008.jpg&amp;ns=dave_p&amp;rev=1347873243&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei007.jpg&amp;ns=dave_p&amp;rev=1347873242&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei006.jpg&amp;ns=dave_p&amp;rev=1347873241&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei005.jpg&amp;ns=dave_p&amp;rev=1347873240&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,54 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-10-16T20:27:55+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>marina - created</title>
+        <link>http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff</link>
+        <description>This page is intended to have links to all the known proas out there. Can we do it? Yes we can! (paraphrasing)
+
+Pacific Bee (Ex Cimba)
+
+
+
+Length: 38ft
+
+Beam: ??
+
+Weight: ???
+
+Sail Area: ???
+
+more details
+
+Jzerro
+
+[ ]
+
+Length: ??
+
+Beam: ??
+
+Weight: ??</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=marina%3Apacific_bee.jpg&amp;ns=marina&amp;rev=1350418335&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-10-16T20:12:15+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>marina:pacific_bee.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=marina%3Apacific_bee.jpg&amp;ns=marina&amp;rev=1350418335&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=264t=1350418335&amp;amp;media=marina:pacific_bee.jpg&quot; alt=&quot;marina:pacific_bee.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1350417740&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-10-16T20:02:20+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>start</title>
+        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1350417740&amp;do=diff</link>
+        <description>This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article here. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is here.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2012-09-17T09:34:36+00:00</dc:date>
@@ -181,29 +229,5 @@ I modded my basic car roof racks way back for my first boat. The rough and ready
         <title>dave_p:dpuluahahei008.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei008.jpg&amp;ns=dave_p&amp;rev=1347873243&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873243&amp;amp;media=dave_p:dpuluahahei008.jpg&quot; alt=&quot;dave_p:dpuluahahei008.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei007.jpg&amp;ns=dave_p&amp;rev=1347873242&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:02+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:dpuluahahei007.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei007.jpg&amp;ns=dave_p&amp;rev=1347873242&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873242&amp;amp;media=dave_p:dpuluahahei007.jpg&quot; alt=&quot;dave_p:dpuluahahei007.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei006.jpg&amp;ns=dave_p&amp;rev=1347873241&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:01+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:dpuluahahei006.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei006.jpg&amp;ns=dave_p&amp;rev=1347873241&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873241&amp;amp;media=dave_p:dpuluahahei006.jpg&quot; alt=&quot;dave_p:dpuluahahei006.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei005.jpg&amp;ns=dave_p&amp;rev=1347873240&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:00+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:dpuluahahei005.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei005.jpg&amp;ns=dave_p&amp;rev=1347873240&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873240&amp;amp;media=dave_p:dpuluahahei005.jpg&quot; alt=&quot;dave_p:dpuluahahei005.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

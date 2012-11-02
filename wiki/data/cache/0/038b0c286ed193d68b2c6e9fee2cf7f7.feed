@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2012-10-24T05:52:12+00:00</dc:date>
+       <dc:date>2012-11-02T04:53:37+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=marina%3Apacific_bee.jpg&amp;ns=marina&amp;rev=1350418335&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1350417740&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei010.jpg&amp;ns=dave_p&amp;rev=1347873246&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei009.jpg&amp;ns=dave_p&amp;rev=1347873244&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei008.jpg&amp;ns=dave_p&amp;rev=1347873243&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-10-25T23:38:28+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>bionic_broomstick</title>
+        <link>http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff</link>
+        <description>Since it was requested here's a little info on my next proa Bionic Broomstick. After fiddling with P52 since the 2007 EC and finally finishing a long distance event, the 2010 Texas 200 I'm ready to go back to ACDC sized boats for a number of reasons.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2012-10-16T20:27:55+00:00</dc:date>
@@ -221,13 +229,5 @@ I modded my basic car roof racks way back for my first boat. The rough and ready
         <title>dave_p:dpuluahahei009.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei009.jpg&amp;ns=dave_p&amp;rev=1347873244&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=333&amp;h=500t=1347873244&amp;amp;media=dave_p:dpuluahahei009.jpg&quot; alt=&quot;dave_p:dpuluahahei009.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei008.jpg&amp;ns=dave_p&amp;rev=1347873243&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:03+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:dpuluahahei008.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei008.jpg&amp;ns=dave_p&amp;rev=1347873243&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873243&amp;amp;media=dave_p:dpuluahahei008.jpg&quot; alt=&quot;dave_p:dpuluahahei008.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

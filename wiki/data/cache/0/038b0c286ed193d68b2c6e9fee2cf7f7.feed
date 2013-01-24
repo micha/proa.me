@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-01-24T13:57:18+00:00</dc:date>
+       <dc:date>2013-01-24T17:26:31+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog&amp;rev=1359048372&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=satellite_direct_review_-_watch_over_3_500_channels&amp;rev=1359018462&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_certainly_is_one_of_the_most_used_search_engines&amp;rev=1358936503&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluasail.jpg&amp;ns=dave_p&amp;rev=1347873250&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluapaddle1.jpg&amp;ns=dave_p&amp;rev=1347873249&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard2.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog&amp;rev=1359048372&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-01-24T17:26:12+00:00</dc:date>
+        <dc:creator>mirian872</dc:creator>
+        <title>how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog - created</title>
+        <link>http://proa.me/wiki/doku.php?id=how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog&amp;rev=1359048372&amp;do=diff</link>
+        <description>&lt;br /&gt;The price you pay to get a dog is just the start of what it takes to keep a dog.  Contrary to what many people think, a purebred dog from a good breeder is usually not as expensive as other ways of getting a dog.  A dog from a pet store can be very expensive.  Even a dog from an animal shelter or rescue can be fairly expensive these days.&lt;br /&gt;&lt;br /&gt;Once you have a dog, other costs will add up such as vet care (vaccinations, heartworm medication, flea prevention; possible spaying or neuter…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=satellite_direct_review_-_watch_over_3_500_channels&amp;rev=1359018462&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-01-24T09:07:42+00:00</dc:date>
@@ -221,13 +229,5 @@ I modded my basic car roof racks way back for my first boat. The rough and ready
         <title>dave_p:dpulualeeboard2.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard2.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873247&amp;amp;media=dave_p:dpulualeeboard2.jpg&quot; alt=&quot;dave_p:dpulualeeboard2.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:07+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:dpulualeeboard.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873247&amp;amp;media=dave_p:dpulualeeboard.jpg&quot; alt=&quot;dave_p:dpulualeeboard.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

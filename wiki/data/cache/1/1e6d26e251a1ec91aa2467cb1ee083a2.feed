@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-01-22T18:31:21+00:00</dc:date>
+       <dc:date>2013-01-24T08:52:57+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=1st_new_zealand_proa_congress&amp;rev=1343106838&amp;do=diff"/>
@@ -19,6 +19,7 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=building_pjoa&amp;rev=1342946455&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=george_s_wa_apa&amp;rev=1346287055&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_certainly_is_one_of_the_most_used_search_engines&amp;rev=1358936503&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=hokianga_raid&amp;rev=1343107687&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=korari&amp;rev=1346284267&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346892964&amp;do=diff"/>
@@ -107,6 +108,13 @@ I modded my basic car roof racks way back for my first boat. The rough and ready
         <title>george_s_wa_apa</title>
         <link>http://proa.me/wiki/doku.php?id=george_s_wa_apa&amp;rev=1346287055&amp;do=diff</link>
         <description>This is a story of a mostly Gary Dierking Wa'Apa proa using directions and dimensions from his book. It is going to be used as a paddler on the Waccamaw River around Conway, SC and a sailor on a variety of fresh water lakes. The boat has been in its gestation period for a few years as I watch the comments on the ProaFile group . Shunting scares me, and since there are few sailors around here (much less proa sailors) I will stick with what I know. I am a retired software engineer, and veteran scr…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=google_certainly_is_one_of_the_most_used_search_engines&amp;rev=1358936503&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-01-23T10:21:43+00:00</dc:date>
+        <title>google_certainly_is_one_of_the_most_used_search_engines</title>
+        <link>http://proa.me/wiki/doku.php?id=google_certainly_is_one_of_the_most_used_search_engines&amp;rev=1358936503&amp;do=diff</link>
+        <description>Google is a very good search engine. It's been in business since 2001 and is nowadays dominating the market. Other search engines like Yahoo, Bing and others have a lot smaller share in the market. Hopefully that will change sometime soon in the future.</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=hokianga_raid&amp;rev=1343107687&amp;do=diff">
         <dc:format>text/html</dc:format>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-01-24T08:52:56+00:00</dc:date>
+       <dc:date>2013-01-24T09:07:56+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=satellite_direct_review_-_watch_over_3_500_channels&amp;rev=1359018462&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_certainly_is_one_of_the_most_used_search_engines&amp;rev=1358936503&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluapaddle1.jpg&amp;ns=dave_p&amp;rev=1347873249&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard2.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei010.jpg&amp;ns=dave_p&amp;rev=1347873246&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=satellite_direct_review_-_watch_over_3_500_channels&amp;rev=1359018462&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-01-24T09:07:42+00:00</dc:date>
+        <dc:creator>teddy524</dc:creator>
+        <title>satellite_direct_review_-_watch_over_3_500_channels - created</title>
+        <link>http://proa.me/wiki/doku.php?id=satellite_direct_review_-_watch_over_3_500_channels&amp;rev=1359018462&amp;do=diff</link>
+        <description>Satellite direct review-Okay, I bought this product myself and I was EXTREMELY skeptical that it was not going to work, that the quality would be lousy, or anything else that could go wrong... would. But, I was pleasantly proved otherwise.&lt;br /&gt;&lt;br /&gt;I didn't personally know anybody that purchased the product, so I took the chance. Here is what the product promises upon purchasing:&lt;br /&gt;&lt;br /&gt;No Subscriptions or Monthly Fees&lt;br /&gt;&lt;br /&gt;No Bandwidth Limits&lt;br /&gt;&lt;br /&gt;You get 24/7 Unlimited Access…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=google_certainly_is_one_of_the_most_used_search_engines&amp;rev=1358936503&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-01-23T10:21:43+00:00</dc:date>
@@ -221,13 +229,5 @@ I modded my basic car roof racks way back for my first boat. The rough and ready
         <title>dave_p:dpulualeeboard.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpulualeeboard.jpg&amp;ns=dave_p&amp;rev=1347873247&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873247&amp;amp;media=dave_p:dpulualeeboard.jpg&quot; alt=&quot;dave_p:dpulualeeboard.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei010.jpg&amp;ns=dave_p&amp;rev=1347873246&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:06+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:dpuluahahei010.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluahahei010.jpg&amp;ns=dave_p&amp;rev=1347873246&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873246&amp;amp;media=dave_p:dpuluahahei010.jpg&quot; alt=&quot;dave_p:dpuluahahei010.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

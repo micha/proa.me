@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-03T17:04:49+00:00</dc:date>
+       <dc:date>2013-02-03T17:55:42+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=shakira_-_the_sensation_of_latin_music&amp;rev=1359914120&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_bieber_-_the_story_so_far&amp;rev=1359911084&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_raise_the_perfect_dog_makes_raising_a_puppy_fun&amp;rev=1359209868&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=when_you_think_of_the_perfect_dog_how_to_raise_a_dog&amp;rev=1359124091&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adscf5133.jpg&amp;ns=dave_p&amp;rev=1347873254&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Ahollowsquaremast.gif&amp;ns=dave_p&amp;rev=1347873254&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluasteer.jpg&amp;ns=dave_p&amp;rev=1347873252&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluarudder.jpg&amp;ns=dave_p&amp;rev=1347873252&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=shakira_-_the_sensation_of_latin_music&amp;rev=1359914120&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-03T17:55:20+00:00</dc:date>
+        <dc:creator>julie_baker</dc:creator>
+        <title>shakira_-_the_sensation_of_latin_music - created</title>
+        <link>http://proa.me/wiki/doku.php?id=shakira_-_the_sensation_of_latin_music&amp;rev=1359914120&amp;do=diff</link>
+        <description>Most people in this world have recognized Shakira, whose full name is Shakira Isabel Mebarak Ripoll, as a Columbian Latin pop singer and songwriter. She is also generally known as the sensation of Latin music due to her fabulous songs and her sensational belly dancing.&lt;br /&gt;&lt;br /&gt;Shakira is really a quite talented girl. At the age of eight, she was writing and composing music. And by the age of thirteen, Shakira was turn into a regional celebrity who had a lucky opportunity encounter with Sony C…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=justin_bieber_-_the_story_so_far&amp;rev=1359911084&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-03T17:04:44+00:00</dc:date>
@@ -221,13 +229,5 @@ I modded my basic car roof racks way back for my first boat. The rough and ready
         <title>dave_p:dpuluasteer.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluasteer.jpg&amp;ns=dave_p&amp;rev=1347873252&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873252&amp;amp;media=dave_p:dpuluasteer.jpg&quot; alt=&quot;dave_p:dpuluasteer.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adpuluarudder.jpg&amp;ns=dave_p&amp;rev=1347873252&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:12+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:dpuluarudder.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adpuluarudder.jpg&amp;ns=dave_p&amp;rev=1347873252&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1347873252&amp;amp;media=dave_p:dpuluarudder.jpg&quot; alt=&quot;dave_p:dpuluarudder.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

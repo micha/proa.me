@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-06T21:00:39+00:00</dc:date>
+       <dc:date>2013-02-06T21:25:11+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=led_zeppelin_-_creators_of_heavy_metal&amp;rev=1360185891&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_is_christian_rock_music_so_popular&amp;rev=1360184414&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_search_engine_is_the_best_in_the_world&amp;rev=1360018729&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_timberlake_taytoos&amp;rev=1359915496&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd02.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd01.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adscf5134.jpg&amp;ns=dave_p&amp;rev=1347873259&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=led_zeppelin_-_creators_of_heavy_metal&amp;rev=1360185891&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-06T21:24:51+00:00</dc:date>
+        <dc:creator>julie_baker</dc:creator>
+        <title>led_zeppelin_-_creators_of_heavy_metal - created</title>
+        <link>http://proa.me/wiki/doku.php?id=led_zeppelin_-_creators_of_heavy_metal&amp;rev=1360185891&amp;do=diff</link>
+        <description>The 70s and 80s was an era of as well as the introduction of Heavy Metal. One of many foremost bands who aided introduce and make heavy metal well known was Led Zeppelin.&lt;br /&gt;&lt;br /&gt;Led Zeppelin was an English rock band formed in 1968 by Jimmy Site, Robert Plant, John Paul Jones and John Bonham. Ahead of getting labeled Led Zeppelin, the group arrived jointly as “The Yardbirds” a band that Eric Clapton the moment played guide guitar for. Following Clapton left, the band afterwards reformed under…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=why_is_christian_rock_music_so_popular&amp;rev=1360184414&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-06T21:00:14+00:00</dc:date>
@@ -221,13 +229,5 @@ I modded my basic car roof racks way back for my first boat. The rough and ready
         <title>dave_p:sguluachd01.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd01.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=387t=1347873277&amp;amp;media=dave_p:sguluachd01.jpg&quot; alt=&quot;dave_p:sguluachd01.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adscf5134.jpg&amp;ns=dave_p&amp;rev=1347873259&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:19+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:dscf5134.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adscf5134.jpg&amp;ns=dave_p&amp;rev=1347873259&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=333&amp;h=500t=1347873259&amp;amp;media=dave_p:dscf5134.jpg&quot; alt=&quot;dave_p:dscf5134.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

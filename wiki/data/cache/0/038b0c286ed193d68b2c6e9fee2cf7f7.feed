@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-06T16:14:38+00:00</dc:date>
+       <dc:date>2013-02-06T21:00:39+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_is_christian_rock_music_so_popular&amp;rev=1360184414&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_search_engine_is_the_best_in_the_world&amp;rev=1360018729&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_timberlake_taytoos&amp;rev=1359915496&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=shakira_-_the_sensation_of_latin_music&amp;rev=1359914120&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd02.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd01.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adscf5134.jpg&amp;ns=dave_p&amp;rev=1347873259&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adscf5133.jpg&amp;ns=dave_p&amp;rev=1347873254&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=why_is_christian_rock_music_so_popular&amp;rev=1360184414&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-06T21:00:14+00:00</dc:date>
+        <dc:creator>julie_baker</dc:creator>
+        <title>why_is_christian_rock_music_so_popular - created</title>
+        <link>http://proa.me/wiki/doku.php?id=why_is_christian_rock_music_so_popular&amp;rev=1360184414&amp;do=diff</link>
+        <description>&lt;br /&gt;“Christian Rock”, a title generally scoffed at by standard rock artists, fans &amp; critics alike is gaining popularity and stamping its place as a sort after genre for the young generation of head-banging, mosh-pitting gurus! Didn't Christian rock die a couple of years ago, you ask? Christian rock music is growing faster than ever before with Daily News of Christian Rock Music, new artists &amp; albums streaming across the Internet and pumping the airways continuously every day. So where did this…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=google_search_engine_is_the_best_in_the_world&amp;rev=1360018729&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-04T22:58:49+00:00</dc:date>
@@ -221,13 +229,5 @@ I modded my basic car roof racks way back for my first boat. The rough and ready
         <title>dave_p:dscf5134.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=dave_p%3Adscf5134.jpg&amp;ns=dave_p&amp;rev=1347873259&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=333&amp;h=500t=1347873259&amp;amp;media=dave_p:dscf5134.jpg&quot; alt=&quot;dave_p:dscf5134.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adscf5133.jpg&amp;ns=dave_p&amp;rev=1347873254&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:14+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:dscf5133.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adscf5133.jpg&amp;ns=dave_p&amp;rev=1347873254&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873254&amp;amp;media=dave_p:dscf5133.jpg&quot; alt=&quot;dave_p:dscf5133.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

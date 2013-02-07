@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-06T21:25:11+00:00</dc:date>
+       <dc:date>2013-02-07T19:51:05+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=free_music_plays_an_important_part_in_everyone_s_collection&amp;rev=1360266650&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_appeal_of_rihanna&amp;rev=1360264546&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=led_zeppelin_-_creators_of_heavy_metal&amp;rev=1360185891&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_is_christian_rock_music_so_popular&amp;rev=1360184414&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_search_engine_is_the_best_in_the_world&amp;rev=1360018729&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply02.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd02.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd01.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,22 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=free_music_plays_an_important_part_in_everyone_s_collection&amp;rev=1360266650&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-07T19:50:50+00:00</dc:date>
+        <dc:creator>julie_baker</dc:creator>
+        <title>free_music_plays_an_important_part_in_everyone_s_collection - created</title>
+        <link>http://proa.me/wiki/doku.php?id=free_music_plays_an_important_part_in_everyone_s_collection&amp;rev=1360266650&amp;do=diff</link>
+        <description>The amount of periods have you ever hunted each and every audio shop in the vicinity for a distinct track that you just just simply cannot manage to get out of your head? Each individual tunes lover can discover this example as being a portion and parcel of his way of life. Nonetheless, the online world is all set to alter the scenario. The advent of a host of new music similar web-sites plus the emergence of totally free songs has introduced about a revolution during the environment of tunes. N…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_appeal_of_rihanna&amp;rev=1360264546&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-07T19:15:46+00:00</dc:date>
+        <dc:creator>julie_baker</dc:creator>
+        <title>the_appeal_of_rihanna - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_appeal_of_rihanna&amp;rev=1360264546&amp;do=diff</link>
+        <description>&lt;br /&gt;n her younger everyday living, Robyn Rihanna Fenty, also recognized merely as Rihanna, has created a massive influence on popular lifestyle. The pop diva will only be 23 in 2011, but she has managed to promote over twenty five million albums and 45 million singles inside the system. Rihanna's daily life and function have grown at an exponential price because she first auditioned for Jay-Z. It is really a little brain boggling to understand how rapidly her fame has exploded. What from the e…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=led_zeppelin_-_creators_of_heavy_metal&amp;rev=1360185891&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-06T21:24:51+00:00</dc:date>
@@ -213,21 +229,5 @@ I modded my basic car roof racks way back for my first boat. The rough and ready
         <title>dave_p:sguluaply03.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873280&amp;amp;media=dave_p:sguluaply03.jpg&quot; alt=&quot;dave_p:sguluaply03.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd02.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:37+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:sguluachd02.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd02.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=156t=1347873277&amp;amp;media=dave_p:sguluachd02.jpg&quot; alt=&quot;dave_p:sguluachd02.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd01.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:37+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:sguluachd01.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd01.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=387t=1347873277&amp;amp;media=dave_p:sguluachd01.jpg&quot; alt=&quot;dave_p:sguluachd01.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

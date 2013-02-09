@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-09T13:04:57+00:00</dc:date>
+       <dc:date>2013-02-09T14:03:09+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=enter_the_best_form_of_your_life_nowadays&amp;rev=1360418576&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=free_music_plays_an_important_part_in_everyone_s_collection&amp;rev=1360266650&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_appeal_of_rihanna&amp;rev=1360264546&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=led_zeppelin_-_creators_of_heavy_metal&amp;rev=1360185891&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1350417740&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply02.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=enter_the_best_form_of_your_life_nowadays&amp;rev=1360418576&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-09T14:02:56+00:00</dc:date>
+        <dc:creator>jayne96</dc:creator>
+        <title>enter_the_best_form_of_your_life_nowadays - created</title>
+        <link>http://proa.me/wiki/doku.php?id=enter_the_best_form_of_your_life_nowadays&amp;rev=1360418576&amp;do=diff</link>
+        <description>It's hard to know where to start to become match. The tips in this article will enable you to begin your fitness journey the proper way, without obtaining discouraged. Use the health and fitness advice here if you wish to be healthy. There is good reason that fitness equipment for home has become selected as the very best brand of the year.&lt;br /&gt;&lt;br /&gt;There is absolutely no reason to show concern physical activity. Bicycling is another excellent fitness exercise. You can alternate your work comm…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=free_music_plays_an_important_part_in_everyone_s_collection&amp;rev=1360266650&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-07T19:50:50+00:00</dc:date>
@@ -221,13 +229,5 @@ I modded my basic car roof racks way back for my first boat. The rough and ready
         <title>dave_p:sguluaply02.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply02.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873280&amp;amp;media=dave_p:sguluaply02.jpg&quot; alt=&quot;dave_p:sguluaply02.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:40+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:sguluaply03.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873280&amp;amp;media=dave_p:sguluaply03.jpg&quot; alt=&quot;dave_p:sguluaply03.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

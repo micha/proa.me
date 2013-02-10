@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-10T20:36:15+00:00</dc:date>
+       <dc:date>2013-02-10T21:43:21+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=techniques_to_use_typography_effectively_within_web_design&amp;rev=1360532583&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=giving_importance_to_utility_of_websites_for_effective_internet_development&amp;rev=1360528554&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_fundamentals_of_a_company_card_design_style_informer&amp;rev=1360525248&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=learning_about_the_opportunities_at_home_company&amp;rev=1360520509&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_is_christian_rock_music_so_popular&amp;rev=1360184414&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_search_engine_is_the_best_in_the_world&amp;rev=1360018729&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_timberlake_taytoos&amp;rev=1359915496&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=shakira_-_the_sensation_of_latin_music&amp;rev=1359914120&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=techniques_to_use_typography_effectively_within_web_design&amp;rev=1360532583&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T21:43:03+00:00</dc:date>
+        <dc:creator>noelle691</dc:creator>
+        <title>techniques_to_use_typography_effectively_within_web_design - created</title>
+        <link>http://proa.me/wiki/doku.php?id=techniques_to_use_typography_effectively_within_web_design&amp;rev=1360532583&amp;do=diff</link>
+        <description>Company owners ought to know which will postcard marketing alone is not lots of to guarantee increased revenue. When participating in a direct email marketing strategy, the style or layout from the material is a crucial facet of the technique. A professional advertising specialist or a image designer is the best individual in order to perform an effective mailer design. They may be knowledgeable within deciding on the best style elements to achieve the desired effect or response from the receive…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=giving_importance_to_utility_of_websites_for_effective_internet_development&amp;rev=1360528554&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-10T20:35:54+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>justin_timberlake_taytoos - created</title>
         <link>http://proa.me/wiki/doku.php?id=justin_timberlake_taytoos&amp;rev=1359915496&amp;do=diff</link>
         <description>&lt;br /&gt;&lt;br /&gt;Justin Timberlake has a lot of tattoos - most of them are encouraged by his spiritual belief. His household handed him down the eagerness for new music as well as the faith in God. Two essential elements of his daily life, by which we are able to find the that means of his tattoos.&lt;br /&gt;&lt;br /&gt;Justin Randall Timberlake is often a male of numerous abilities: Pop singer, songwriter, extraordinary dancer, history producer, actor and far more.&lt;br /&gt;&lt;br /&gt;He's not only good at producing fu…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=shakira_-_the_sensation_of_latin_music&amp;rev=1359914120&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-03T17:55:20+00:00</dc:date>
-        <dc:creator>julie_baker</dc:creator>
-        <title>shakira_-_the_sensation_of_latin_music - created</title>
-        <link>http://proa.me/wiki/doku.php?id=shakira_-_the_sensation_of_latin_music&amp;rev=1359914120&amp;do=diff</link>
-        <description>Most people in this world have recognized Shakira, whose full name is Shakira Isabel Mebarak Ripoll, as a Columbian Latin pop singer and songwriter. She is also generally known as the sensation of Latin music due to her fabulous songs and her sensational belly dancing.&lt;br /&gt;&lt;br /&gt;Shakira is really a quite talented girl. At the age of eight, she was writing and composing music. And by the age of thirteen, Shakira was turn into a regional celebrity who had a lucky opportunity encounter with Sony C…</description>
     </item>
 </rdf:RDF>

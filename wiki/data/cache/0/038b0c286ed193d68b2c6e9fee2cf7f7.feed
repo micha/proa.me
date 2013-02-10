@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-10T18:22:13+00:00</dc:date>
+       <dc:date>2013-02-10T19:40:57+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_fundamentals_of_a_company_card_design_style_informer&amp;rev=1360525248&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=learning_about_the_opportunities_at_home_company&amp;rev=1360520509&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start_your_home_based_business_using_these_tips&amp;rev=1360516265&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=rhapsody_-_the_review&amp;rev=1360506722&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_timberlake_taytoos&amp;rev=1359915496&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=shakira_-_the_sensation_of_latin_music&amp;rev=1359914120&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_bieber_-_the_story_so_far&amp;rev=1359911084&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_raise_the_perfect_dog_makes_raising_a_puppy_fun&amp;rev=1359209868&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_fundamentals_of_a_company_card_design_style_informer&amp;rev=1360525248&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T19:40:48+00:00</dc:date>
+        <dc:creator>babara663</dc:creator>
+        <title>the_fundamentals_of_a_company_card_design_style_informer - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_fundamentals_of_a_company_card_design_style_informer&amp;rev=1360525248&amp;do=diff</link>
+        <description>People fail to separate a beautiful site and a fantastic web site. Some make use of a combination of colors, some use lovely typography to be able to attractive and some use animated icons. However , to be able to wonderful, people your investment importance of utility. Unless an internet site qualifies the criterion of usefulness, it fails to connect with the visitors. pliante .&lt;br /&gt;&lt;br /&gt;Typography is used in business cards to make it more attractive. Be innovative while using typography for …</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=learning_about_the_opportunities_at_home_company&amp;rev=1360520509&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-10T18:21:49+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>justin_bieber_-_the_story_so_far - created</title>
         <link>http://proa.me/wiki/doku.php?id=justin_bieber_-_the_story_so_far&amp;rev=1359911084&amp;do=diff</link>
         <description>Justin Bieber Fans are a lot to handle. An old soul would be the incredibly last factor you could anticipate finding inside Justin Bieber. But all it requires is one pay consideration to the 15 year-old soul-singing phenomenon to understand that he's light years ahead of time of his synthetic pop peers.&lt;br /&gt;&lt;br /&gt;Immediately after posting dozens of homemade motion pictures on YouTube in 2007, the location the multi-talented Bieber positioned his impeccable spin on songs from artists like Usher,…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=how_to_raise_the_perfect_dog_makes_raising_a_puppy_fun&amp;rev=1359209868&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-01-26T14:17:48+00:00</dc:date>
-        <dc:creator>iliana17</dc:creator>
-        <title>how_to_raise_the_perfect_dog_makes_raising_a_puppy_fun - created</title>
-        <link>http://proa.me/wiki/doku.php?id=how_to_raise_the_perfect_dog_makes_raising_a_puppy_fun&amp;rev=1359209868&amp;do=diff</link>
-        <description>How To Raise The Perfect Dog Makes Raising A Puppy Fun Review. Check out my How To Raise The Perfect Dog Makes Raising A Puppy Fun Review and discover how How To Raise The Perfect Dog Makes Raising A Puppy Fun can help you Once you have read this book you will be able To Raise The Perfect Dog Or Puppy...&lt;br /&gt;&lt;br /&gt;How To Raise The Perfect Dog Makes Raising A Puppy Fun Review&lt;br /&gt;&lt;br /&gt;How To Raise The Perfect Dog Makes Raising A Puppy Fun is a 106 Page Kindle Book which allows you to:&lt;br /&gt;&lt;br…</description>
     </item>
 </rdf:RDF>

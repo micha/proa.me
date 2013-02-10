@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-10T11:08:06+00:00</dc:date>
+       <dc:date>2013-02-10T14:32:15+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=rhapsody_-_the_review&amp;rev=1360506722&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=spotify_-_the_review&amp;rev=1360492268&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pandoras_box_-_the_review&amp;rev=1360491433&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=best_free_and_legal_music_download_sites&amp;rev=1360483234&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_raise_the_perfect_dog_makes_raising_a_puppy_fun&amp;rev=1359209868&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=when_you_think_of_the_perfect_dog_how_to_raise_a_dog&amp;rev=1359124091&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog&amp;rev=1359048372&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=satellite_direct_review_-_watch_over_3_500_channels&amp;rev=1359018462&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=rhapsody_-_the_review&amp;rev=1360506722&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T14:32:02+00:00</dc:date>
+        <dc:creator>julie_baker</dc:creator>
+        <title>rhapsody_-_the_review - created</title>
+        <link>http://proa.me/wiki/doku.php?id=rhapsody_-_the_review&amp;rev=1360506722&amp;do=diff</link>
+        <description>Rhapsody is a comprehensive music downloads website with a decent array of payment plans to suit your requirements. It proudly boasts a “gigantic catalogue” of more than 16 million songs which can be updated each and every week with new albums and singles, while also being updated with all the most significant hits as they attain the stores. It is accessible, also, from a range of devices along with the additional costly selections permit you to use it on many devices, a possible revenue saver i…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=spotify_-_the_review&amp;rev=1360492268&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-10T10:31:08+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog - created</title>
         <link>http://proa.me/wiki/doku.php?id=how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog&amp;rev=1359048372&amp;do=diff</link>
         <description>&lt;br /&gt;The price you pay to get a dog is just the start of what it takes to keep a dog.  Contrary to what many people think, a purebred dog from a good breeder is usually not as expensive as other ways of getting a dog.  A dog from a pet store can be very expensive.  Even a dog from an animal shelter or rescue can be fairly expensive these days.&lt;br /&gt;&lt;br /&gt;Once you have a dog, other costs will add up such as vet care (vaccinations, heartworm medication, flea prevention; possible spaying or neuter…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=satellite_direct_review_-_watch_over_3_500_channels&amp;rev=1359018462&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-01-24T09:07:42+00:00</dc:date>
-        <dc:creator>teddy524</dc:creator>
-        <title>satellite_direct_review_-_watch_over_3_500_channels - created</title>
-        <link>http://proa.me/wiki/doku.php?id=satellite_direct_review_-_watch_over_3_500_channels&amp;rev=1359018462&amp;do=diff</link>
-        <description>Satellite direct review-Okay, I bought this product myself and I was EXTREMELY skeptical that it was not going to work, that the quality would be lousy, or anything else that could go wrong... would. But, I was pleasantly proved otherwise.&lt;br /&gt;&lt;br /&gt;I didn't personally know anybody that purchased the product, so I took the chance. Here is what the product promises upon purchasing:&lt;br /&gt;&lt;br /&gt;No Subscriptions or Monthly Fees&lt;br /&gt;&lt;br /&gt;No Bandwidth Limits&lt;br /&gt;&lt;br /&gt;You get 24/7 Unlimited Access…</description>
     </item>
 </rdf:RDF>

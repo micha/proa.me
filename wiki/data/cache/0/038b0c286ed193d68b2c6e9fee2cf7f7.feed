@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-10T17:11:28+00:00</dc:date>
+       <dc:date>2013-02-10T18:22:13+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=learning_about_the_opportunities_at_home_company&amp;rev=1360520509&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start_your_home_based_business_using_these_tips&amp;rev=1360516265&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=rhapsody_-_the_review&amp;rev=1360506722&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=spotify_-_the_review&amp;rev=1360492268&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=shakira_-_the_sensation_of_latin_music&amp;rev=1359914120&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_bieber_-_the_story_so_far&amp;rev=1359911084&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_raise_the_perfect_dog_makes_raising_a_puppy_fun&amp;rev=1359209868&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=when_you_think_of_the_perfect_dog_how_to_raise_a_dog&amp;rev=1359124091&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=learning_about_the_opportunities_at_home_company&amp;rev=1360520509&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T18:21:49+00:00</dc:date>
+        <dc:creator>weston712</dc:creator>
+        <title>learning_about_the_opportunities_at_home_company - created</title>
+        <link>http://proa.me/wiki/doku.php?id=learning_about_the_opportunities_at_home_company&amp;rev=1360520509&amp;do=diff</link>
+        <description>You will find innumerable benefits to being a home business proprietor, such as flexibility. You also have a chance to really concentrate on a business that actually means something to you.&lt;br /&gt;&lt;br /&gt;Make sure that you are certainly not breaking any zoning laws and regulations or local ordinances. You may be fined and your business will close if you don't do not regard regulations. You want good relations with everyone within your community. This might mean avoiding signage and the amount of tr…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=start_your_home_based_business_using_these_tips&amp;rev=1360516265&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-10T17:11:05+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>how_to_raise_the_perfect_dog_makes_raising_a_puppy_fun - created</title>
         <link>http://proa.me/wiki/doku.php?id=how_to_raise_the_perfect_dog_makes_raising_a_puppy_fun&amp;rev=1359209868&amp;do=diff</link>
         <description>How To Raise The Perfect Dog Makes Raising A Puppy Fun Review. Check out my How To Raise The Perfect Dog Makes Raising A Puppy Fun Review and discover how How To Raise The Perfect Dog Makes Raising A Puppy Fun can help you Once you have read this book you will be able To Raise The Perfect Dog Or Puppy...&lt;br /&gt;&lt;br /&gt;How To Raise The Perfect Dog Makes Raising A Puppy Fun Review&lt;br /&gt;&lt;br /&gt;How To Raise The Perfect Dog Makes Raising A Puppy Fun is a 106 Page Kindle Book which allows you to:&lt;br /&gt;&lt;br…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=when_you_think_of_the_perfect_dog_how_to_raise_a_dog&amp;rev=1359124091&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-01-25T14:28:11+00:00</dc:date>
-        <dc:creator>mirian872</dc:creator>
-        <title>when_you_think_of_the_perfect_dog_how_to_raise_a_dog - created</title>
-        <link>http://proa.me/wiki/doku.php?id=when_you_think_of_the_perfect_dog_how_to_raise_a_dog&amp;rev=1359124091&amp;do=diff</link>
-        <description>When you think of the perfect dog you might think of a companion who follows you obediently, loves to play a game of fetch with you, and sleeps peacefully near you at night.  He protects you from danger, gazes soulfully into your eyes when you speak to him, and can’t wait to do what you ask him to do.  Dogs can certainly behave this way but many people don’t realize that it takes work to help your dog become the “perfect” dog.&lt;br /&gt;&lt;br /&gt;When you bring a clueless puppy home, he doesn’t know very…</description>
     </item>
 </rdf:RDF>

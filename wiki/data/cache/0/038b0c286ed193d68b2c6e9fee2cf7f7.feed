@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-09T22:41:24+00:00</dc:date>
+       <dc:date>2013-02-10T08:00:52+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=best_free_and_legal_music_download_sites&amp;rev=1360483234&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_six_best_digital_music_download_sites&amp;rev=1360482070&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_review_of_the_music_download_site_iomoio&amp;rev=1360435615&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=legalsounds_-_the_review&amp;rev=1360434723&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=legalsounds_-_a_review&amp;rev=1360433908&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=satellite_direct_review_-_watch_over_3_500_channels&amp;rev=1359018462&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_certainly_is_one_of_the_most_used_search_engines&amp;rev=1358936503&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=marina%3Apacific_bee.jpg&amp;ns=marina&amp;rev=1350418335&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,22 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=best_free_and_legal_music_download_sites&amp;rev=1360483234&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T08:00:34+00:00</dc:date>
+        <dc:creator>julie_baker</dc:creator>
+        <title>best_free_and_legal_music_download_sites - created</title>
+        <link>http://proa.me/wiki/doku.php?id=best_free_and_legal_music_download_sites&amp;rev=1360483234&amp;do=diff</link>
+        <description>The online world has created it simple to get a no cost download of just about any song you need. The issue, nonetheless, is the fact that absolutely free music isn’t often legal music. If you’re the honest type and also you prefer to pay for the tunes and assistance the artists, labels, and retailers who distribute them, then illegal downloading merely isn’t an selection. We realize that a few of you available have strict morals in terms of your media consumption habits, so just for you persona…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_six_best_digital_music_download_sites&amp;rev=1360482070&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T07:41:10+00:00</dc:date>
+        <dc:creator>julie_baker</dc:creator>
+        <title>the_six_best_digital_music_download_sites - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_six_best_digital_music_download_sites&amp;rev=1360482070&amp;do=diff</link>
+        <description>Fewer folks are downloading music in the world-wide-web illegally than ever ahead of, based on a report this week from Entertainment Media Analysis.&lt;br /&gt;&lt;br /&gt;The study in portion attributes this decrease to consumers' fears that world wide web service providers will cut off their web access if they're found to be illegally downloading or sharing songs.&lt;br /&gt;&lt;br /&gt;That was terrific in case you owned an iPod, but not significantly assistance should you employed a further music player - most song…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=a_review_of_the_music_download_site_iomoio&amp;rev=1360435615&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-09T18:46:55+00:00</dc:date>
@@ -185,45 +201,5 @@
         <title>bionic_broomstick</title>
         <link>http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff</link>
         <description>Since it was requested here's a little info on my next proa Bionic Broomstick. After fiddling with P52 since the 2007 EC and finally finishing a long distance event, the 2010 Texas 200 I'm ready to go back to ACDC sized boats for a number of reasons.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-10-16T20:27:55+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>marina - created</title>
-        <link>http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff</link>
-        <description>This page is intended to have links to all the known proas out there. Can we do it? Yes we can! (paraphrasing)
-
-Pacific Bee (Ex Cimba)
-
-
-
-Length: 38ft
-
-Beam: ??
-
-Weight: ???
-
-Sail Area: ???
-
-more details
-
-Jzerro
-
-[ ]
-
-Length: ??
-
-Beam: ??
-
-Weight: ??</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=marina%3Apacific_bee.jpg&amp;ns=marina&amp;rev=1350418335&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-10-16T20:12:15+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>marina:pacific_bee.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=marina%3Apacific_bee.jpg&amp;ns=marina&amp;rev=1350418335&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=264t=1350418335&amp;amp;media=marina:pacific_bee.jpg&quot; alt=&quot;marina:pacific_bee.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

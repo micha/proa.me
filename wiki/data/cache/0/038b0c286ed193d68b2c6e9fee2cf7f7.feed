@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-10T19:40:57+00:00</dc:date>
+       <dc:date>2013-02-10T20:36:15+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=giving_importance_to_utility_of_websites_for_effective_internet_development&amp;rev=1360528554&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_fundamentals_of_a_company_card_design_style_informer&amp;rev=1360525248&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=learning_about_the_opportunities_at_home_company&amp;rev=1360520509&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start_your_home_based_business_using_these_tips&amp;rev=1360516265&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_search_engine_is_the_best_in_the_world&amp;rev=1360018729&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_timberlake_taytoos&amp;rev=1359915496&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=shakira_-_the_sensation_of_latin_music&amp;rev=1359914120&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_bieber_-_the_story_so_far&amp;rev=1359911084&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=giving_importance_to_utility_of_websites_for_effective_internet_development&amp;rev=1360528554&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T20:35:54+00:00</dc:date>
+        <dc:creator>darrel119</dc:creator>
+        <title>giving_importance_to_utility_of_websites_for_effective_internet_development - created</title>
+        <link>http://proa.me/wiki/doku.php?id=giving_importance_to_utility_of_websites_for_effective_internet_development&amp;rev=1360528554&amp;do=diff</link>
+        <description>Business owners should know that will postcard marketing by itself is not enough to guarantee increased sales. When participating in a direct mail marketing campaign, the style or layout from the material is an important aspect of the technique. A professional marketing consultant or a image designer is the greatest person in order to execute a highly effective mailer style. They are knowledgeable in deciding on the best design components to achieve the desired effect or response from the recipi…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=the_fundamentals_of_a_company_card_design_style_informer&amp;rev=1360525248&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-10T19:40:48+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>shakira_-_the_sensation_of_latin_music - created</title>
         <link>http://proa.me/wiki/doku.php?id=shakira_-_the_sensation_of_latin_music&amp;rev=1359914120&amp;do=diff</link>
         <description>Most people in this world have recognized Shakira, whose full name is Shakira Isabel Mebarak Ripoll, as a Columbian Latin pop singer and songwriter. She is also generally known as the sensation of Latin music due to her fabulous songs and her sensational belly dancing.&lt;br /&gt;&lt;br /&gt;Shakira is really a quite talented girl. At the age of eight, she was writing and composing music. And by the age of thirteen, Shakira was turn into a regional celebrity who had a lucky opportunity encounter with Sony C…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=justin_bieber_-_the_story_so_far&amp;rev=1359911084&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-03T17:04:44+00:00</dc:date>
-        <dc:creator>julie_baker</dc:creator>
-        <title>justin_bieber_-_the_story_so_far - created</title>
-        <link>http://proa.me/wiki/doku.php?id=justin_bieber_-_the_story_so_far&amp;rev=1359911084&amp;do=diff</link>
-        <description>Justin Bieber Fans are a lot to handle. An old soul would be the incredibly last factor you could anticipate finding inside Justin Bieber. But all it requires is one pay consideration to the 15 year-old soul-singing phenomenon to understand that he's light years ahead of time of his synthetic pop peers.&lt;br /&gt;&lt;br /&gt;Immediately after posting dozens of homemade motion pictures on YouTube in 2007, the location the multi-talented Bieber positioned his impeccable spin on songs from artists like Usher,…</description>
     </item>
 </rdf:RDF>

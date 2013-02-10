@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-10T14:32:15+00:00</dc:date>
+       <dc:date>2013-02-10T17:11:28+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start_your_home_based_business_using_these_tips&amp;rev=1360516265&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=rhapsody_-_the_review&amp;rev=1360506722&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=spotify_-_the_review&amp;rev=1360492268&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pandoras_box_-_the_review&amp;rev=1360491433&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_bieber_-_the_story_so_far&amp;rev=1359911084&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_raise_the_perfect_dog_makes_raising_a_puppy_fun&amp;rev=1359209868&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=when_you_think_of_the_perfect_dog_how_to_raise_a_dog&amp;rev=1359124091&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog&amp;rev=1359048372&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=start_your_home_based_business_using_these_tips&amp;rev=1360516265&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T17:11:05+00:00</dc:date>
+        <dc:creator>lea738</dc:creator>
+        <title>start_your_home_based_business_using_these_tips - created</title>
+        <link>http://proa.me/wiki/doku.php?id=start_your_home_based_business_using_these_tips&amp;rev=1360516265&amp;do=diff</link>
+        <description>Home businesses offer an opportunity to boost your salary or generate full-time chance. If you can invest enough time on your home based small business, you are able to really turn a profit. The following article contains tips for helping you run a thriving home based business.&lt;br /&gt;&lt;br /&gt;Make sure you are available to other people. Everyone has an opinion on how you should run your company.&lt;br /&gt;&lt;br /&gt;Start a business in a industry where you have some encounter. A lot of people that begin home …</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=rhapsody_-_the_review&amp;rev=1360506722&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-10T14:32:02+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>when_you_think_of_the_perfect_dog_how_to_raise_a_dog - created</title>
         <link>http://proa.me/wiki/doku.php?id=when_you_think_of_the_perfect_dog_how_to_raise_a_dog&amp;rev=1359124091&amp;do=diff</link>
         <description>When you think of the perfect dog you might think of a companion who follows you obediently, loves to play a game of fetch with you, and sleeps peacefully near you at night.  He protects you from danger, gazes soulfully into your eyes when you speak to him, and can’t wait to do what you ask him to do.  Dogs can certainly behave this way but many people don’t realize that it takes work to help your dog become the “perfect” dog.&lt;br /&gt;&lt;br /&gt;When you bring a clueless puppy home, he doesn’t know very…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog&amp;rev=1359048372&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-01-24T17:26:12+00:00</dc:date>
-        <dc:creator>mirian872</dc:creator>
-        <title>how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog - created</title>
-        <link>http://proa.me/wiki/doku.php?id=how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog&amp;rev=1359048372&amp;do=diff</link>
-        <description>&lt;br /&gt;The price you pay to get a dog is just the start of what it takes to keep a dog.  Contrary to what many people think, a purebred dog from a good breeder is usually not as expensive as other ways of getting a dog.  A dog from a pet store can be very expensive.  Even a dog from an animal shelter or rescue can be fairly expensive these days.&lt;br /&gt;&lt;br /&gt;Once you have a dog, other costs will add up such as vet care (vaccinations, heartworm medication, flea prevention; possible spaying or neuter…</description>
     </item>
 </rdf:RDF>

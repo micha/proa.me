@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-10T08:00:52+00:00</dc:date>
+       <dc:date>2013-02-10T10:31:30+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=spotify_-_the_review&amp;rev=1360492268&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pandoras_box_-_the_review&amp;rev=1360491433&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=best_free_and_legal_music_download_sites&amp;rev=1360483234&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_six_best_digital_music_download_sites&amp;rev=1360482070&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_review_of_the_music_download_site_iomoio&amp;rev=1360435615&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=when_you_think_of_the_perfect_dog_how_to_raise_a_dog&amp;rev=1359124091&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog&amp;rev=1359048372&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=satellite_direct_review_-_watch_over_3_500_channels&amp;rev=1359018462&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_certainly_is_one_of_the_most_used_search_engines&amp;rev=1358936503&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,22 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=spotify_-_the_review&amp;rev=1360492268&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T10:31:08+00:00</dc:date>
+        <dc:creator>julie_baker</dc:creator>
+        <title>spotify_-_the_review - created</title>
+        <link>http://proa.me/wiki/doku.php?id=spotify_-_the_review&amp;rev=1360492268&amp;do=diff</link>
+        <description>The very best points in life are cost-free, so the saying goes, and Spotify could possibly be up there with “love” and “compassion”. Spotify does one thing that pretty much no other music download websites can claim: it lets you listen to complete tracks of music absolutely absolutely free of charge. This really is its crucial ‘selling’ point, and it’s really an thrilling one particular: new and old music at your fingertips and eardrums with out it costing you a penny. In addition they offer tot…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=pandoras_box_-_the_review&amp;rev=1360491433&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T10:17:13+00:00</dc:date>
+        <dc:creator>julie_baker</dc:creator>
+        <title>pandoras_box_-_the_review - created</title>
+        <link>http://proa.me/wiki/doku.php?id=pandoras_box_-_the_review&amp;rev=1360491433&amp;do=diff</link>
+        <description>Pandora's box, of your Greek myth, contained each of the world’s evils. Pandora.com, around the other hand, opens up a planet of music pleasure. Far from chaotic, the wonderful thing about Pandora.com is its ability to study. Yes, it learns what sort of music you like (using a little enable from you clicking “like” or “dislike”) by identifying which types of music, and its constituting parts, you most delight in. Pandora creates a record, determined by 400 attributes, and then presents you with …</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=best_free_and_legal_music_download_sites&amp;rev=1360483234&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-10T08:00:34+00:00</dc:date>
@@ -185,21 +201,5 @@
         <title>satellite_direct_review_-_watch_over_3_500_channels - created</title>
         <link>http://proa.me/wiki/doku.php?id=satellite_direct_review_-_watch_over_3_500_channels&amp;rev=1359018462&amp;do=diff</link>
         <description>Satellite direct review-Okay, I bought this product myself and I was EXTREMELY skeptical that it was not going to work, that the quality would be lousy, or anything else that could go wrong... would. But, I was pleasantly proved otherwise.&lt;br /&gt;&lt;br /&gt;I didn't personally know anybody that purchased the product, so I took the chance. Here is what the product promises upon purchasing:&lt;br /&gt;&lt;br /&gt;No Subscriptions or Monthly Fees&lt;br /&gt;&lt;br /&gt;No Bandwidth Limits&lt;br /&gt;&lt;br /&gt;You get 24/7 Unlimited Access…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=google_certainly_is_one_of_the_most_used_search_engines&amp;rev=1358936503&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-01-23T10:21:43+00:00</dc:date>
-        <dc:creator>roxann853</dc:creator>
-        <title>google_certainly_is_one_of_the_most_used_search_engines - created</title>
-        <link>http://proa.me/wiki/doku.php?id=google_certainly_is_one_of_the_most_used_search_engines&amp;rev=1358936503&amp;do=diff</link>
-        <description>Google is a very good search engine. It's been in business since 2001 and is nowadays dominating the market. Other search engines like Yahoo, Bing and others have a lot smaller share in the market. Hopefully that will change sometime soon in the future.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-10-25T23:38:28+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>bionic_broomstick</title>
-        <link>http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff</link>
-        <description>Since it was requested here's a little info on my next proa Bionic Broomstick. After fiddling with P52 since the 2007 EC and finally finishing a long distance event, the 2010 Texas 200 I'm ready to go back to ACDC sized boats for a number of reasons.</description>
     </item>
 </rdf:RDF>

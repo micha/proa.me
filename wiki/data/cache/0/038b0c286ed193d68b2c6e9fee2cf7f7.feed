@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-10T21:43:21+00:00</dc:date>
+       <dc:date>2013-02-11T18:04:51+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=take_that_spare_tire:weight_loss_made_simple&amp;rev=1360605885&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=techniques_to_use_typography_effectively_within_web_design&amp;rev=1360532583&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=giving_importance_to_utility_of_websites_for_effective_internet_development&amp;rev=1360528554&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_fundamentals_of_a_company_card_design_style_informer&amp;rev=1360525248&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=led_zeppelin_-_creators_of_heavy_metal&amp;rev=1360185891&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_is_christian_rock_music_so_popular&amp;rev=1360184414&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_search_engine_is_the_best_in_the_world&amp;rev=1360018729&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_timberlake_taytoos&amp;rev=1359915496&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=take_that_spare_tire:weight_loss_made_simple&amp;rev=1360605885&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-11T18:04:45+00:00</dc:date>
+        <dc:creator>abbiet84</dc:creator>
+        <title>take_that_spare_tire:weight_loss_made_simple - created</title>
+        <link>http://proa.me/wiki/doku.php?id=take_that_spare_tire:weight_loss_made_simple&amp;rev=1360605885&amp;do=diff</link>
+        <description>It can be hard to lose weight. You may start out raring to go, but as time passes, your motivation may dwindle. Here you will find out the secrets of those who have not only been able to shed unwanted pounds, but also have been able to keep them at bay.&lt;br /&gt;&lt;br /&gt;Before you do anything else, you should ask yourself why you want to lose weight, and then set your goals. Is there some special occasion that you need to lose weight for? Is there a specific weight loss goal you want to achieve? Is yo…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=techniques_to_use_typography_effectively_within_web_design&amp;rev=1360532583&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-10T21:43:03+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>google_search_engine_is_the_best_in_the_world - created</title>
         <link>http://proa.me/wiki/doku.php?id=google_search_engine_is_the_best_in_the_world&amp;rev=1360018729&amp;do=diff</link>
         <description>The biggest search engine on this planet is Google.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=justin_timberlake_taytoos&amp;rev=1359915496&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-03T18:18:16+00:00</dc:date>
-        <dc:creator>julie_baker</dc:creator>
-        <title>justin_timberlake_taytoos - created</title>
-        <link>http://proa.me/wiki/doku.php?id=justin_timberlake_taytoos&amp;rev=1359915496&amp;do=diff</link>
-        <description>&lt;br /&gt;&lt;br /&gt;Justin Timberlake has a lot of tattoos - most of them are encouraged by his spiritual belief. His household handed him down the eagerness for new music as well as the faith in God. Two essential elements of his daily life, by which we are able to find the that means of his tattoos.&lt;br /&gt;&lt;br /&gt;Justin Randall Timberlake is often a male of numerous abilities: Pop singer, songwriter, extraordinary dancer, history producer, actor and far more.&lt;br /&gt;&lt;br /&gt;He's not only good at producing fu…</description>
     </item>
 </rdf:RDF>

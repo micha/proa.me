@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-11T19:05:24+00:00</dc:date>
+       <dc:date>2013-02-11T21:21:42+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=eliminate_your_back_pain_with_these_tips&amp;rev=1360617687&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bolster_the_aesthetic_beauty_of_your_home_with_these_suggestions&amp;rev=1360609506&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=take_that_spare_tire:weight_loss_made_simple&amp;rev=1360605885&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=techniques_to_use_typography_effectively_within_web_design&amp;rev=1360532583&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=free_music_plays_an_important_part_in_everyone_s_collection&amp;rev=1360266650&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_appeal_of_rihanna&amp;rev=1360264546&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=led_zeppelin_-_creators_of_heavy_metal&amp;rev=1360185891&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_is_christian_rock_music_so_popular&amp;rev=1360184414&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=eliminate_your_back_pain_with_these_tips&amp;rev=1360617687&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-11T21:21:27+00:00</dc:date>
+        <dc:creator>digna36</dc:creator>
+        <title>eliminate_your_back_pain_with_these_tips - created</title>
+        <link>http://proa.me/wiki/doku.php?id=eliminate_your_back_pain_with_these_tips&amp;rev=1360617687&amp;do=diff</link>
+        <description>Back again pain is common within our society, aching back, you might wonder where and how you can get relief. This article will share some tips that may work. When your muscles are warm is the greatest time to stretch them to reduce back pain. After you've exercised, stretch well during cool-down time. Always offer your back is properly backed! An articulating arm that will holds a computer monitor may lessen the strain at bay. This device supports your computer monitor aside when necessary. Avo…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=bolster_the_aesthetic_beauty_of_your_home_with_these_suggestions&amp;rev=1360609506&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-11T19:05:06+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>led_zeppelin_-_creators_of_heavy_metal - created</title>
         <link>http://proa.me/wiki/doku.php?id=led_zeppelin_-_creators_of_heavy_metal&amp;rev=1360185891&amp;do=diff</link>
         <description>The 70s and 80s was an era of as well as the introduction of Heavy Metal. One of many foremost bands who aided introduce and make heavy metal well known was Led Zeppelin.&lt;br /&gt;&lt;br /&gt;Led Zeppelin was an English rock band formed in 1968 by Jimmy Site, Robert Plant, John Paul Jones and John Bonham. Ahead of getting labeled Led Zeppelin, the group arrived jointly as “The Yardbirds” a band that Eric Clapton the moment played guide guitar for. Following Clapton left, the band afterwards reformed under…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=why_is_christian_rock_music_so_popular&amp;rev=1360184414&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-06T21:00:14+00:00</dc:date>
-        <dc:creator>julie_baker</dc:creator>
-        <title>why_is_christian_rock_music_so_popular - created</title>
-        <link>http://proa.me/wiki/doku.php?id=why_is_christian_rock_music_so_popular&amp;rev=1360184414&amp;do=diff</link>
-        <description>&lt;br /&gt;“Christian Rock”, a title generally scoffed at by standard rock artists, fans &amp; critics alike is gaining popularity and stamping its place as a sort after genre for the young generation of head-banging, mosh-pitting gurus! Didn't Christian rock die a couple of years ago, you ask? Christian rock music is growing faster than ever before with Daily News of Christian Rock Music, new artists &amp; albums streaming across the Internet and pumping the airways continuously every day. So where did this…</description>
     </item>
 </rdf:RDF>

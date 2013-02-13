@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-13T03:49:18+00:00</dc:date>
+       <dc:date>2013-02-13T07:34:33+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=website_hosting_get_some_cheap_domains_and_hosting_services&amp;rev=1360740859&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_into_the_ideal_shape_in_your_life&amp;rev=1360622127&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=eliminate_your_back_pain_with_these_tips&amp;rev=1360617687&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bolster_the_aesthetic_beauty_of_your_home_with_these_suggestions&amp;rev=1360609506&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=legalsounds_-_a_review&amp;rev=1360433908&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=enter_the_best_form_of_your_life_nowadays&amp;rev=1360418576&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=free_music_plays_an_important_part_in_everyone_s_collection&amp;rev=1360266650&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_appeal_of_rihanna&amp;rev=1360264546&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=website_hosting_get_some_cheap_domains_and_hosting_services&amp;rev=1360740859&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-13T07:34:19+00:00</dc:date>
+        <dc:creator>mirian872</dc:creator>
+        <title>website_hosting_get_some_cheap_domains_and_hosting_services - created</title>
+        <link>http://proa.me/wiki/doku.php?id=website_hosting_get_some_cheap_domains_and_hosting_services&amp;rev=1360740859&amp;do=diff</link>
+        <description>Website Hosting get some cheap domains and hosting services&lt;br /&gt;&lt;br /&gt;I have been searching around the web for some webhosting services, one that has cheap domains and a low monthly fee.&lt;br /&gt;&lt;br /&gt;Some Disadvantages of shared hosting are.&lt;br /&gt;&lt;br /&gt;The biggest advantage with shared hosting plans is the price; unlike dedicated or VPS hosting costs, shared hosting will only run between $2 and $15 per month.&lt;br /&gt;&lt;br /&gt;Shared hosting holds a very simple, user-friendly administrative control Cpan…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=get_into_the_ideal_shape_in_your_life&amp;rev=1360622127&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-11T22:35:27+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>free_music_plays_an_important_part_in_everyone_s_collection - created</title>
         <link>http://proa.me/wiki/doku.php?id=free_music_plays_an_important_part_in_everyone_s_collection&amp;rev=1360266650&amp;do=diff</link>
         <description>The amount of periods have you ever hunted each and every audio shop in the vicinity for a distinct track that you just just simply cannot manage to get out of your head? Each individual tunes lover can discover this example as being a portion and parcel of his way of life. Nonetheless, the online world is all set to alter the scenario. The advent of a host of new music similar web-sites plus the emergence of totally free songs has introduced about a revolution during the environment of tunes. N…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=the_appeal_of_rihanna&amp;rev=1360264546&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-07T19:15:46+00:00</dc:date>
-        <dc:creator>julie_baker</dc:creator>
-        <title>the_appeal_of_rihanna - created</title>
-        <link>http://proa.me/wiki/doku.php?id=the_appeal_of_rihanna&amp;rev=1360264546&amp;do=diff</link>
-        <description>&lt;br /&gt;n her younger everyday living, Robyn Rihanna Fenty, also recognized merely as Rihanna, has created a massive influence on popular lifestyle. The pop diva will only be 23 in 2011, but she has managed to promote over twenty five million albums and 45 million singles inside the system. Rihanna's daily life and function have grown at an exponential price because she first auditioned for Jay-Z. It is really a little brain boggling to understand how rapidly her fame has exploded. What from the e…</description>
     </item>
 </rdf:RDF>

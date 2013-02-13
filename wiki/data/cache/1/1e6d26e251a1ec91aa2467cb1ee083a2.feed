@@ -11,17 +11,22 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-09T22:41:27+00:00</dc:date>
+       <dc:date>2013-02-13T03:49:18+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=1st_new_zealand_proa_congress&amp;rev=1343106838&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_review_of_the_music_download_site_iomoio&amp;rev=1360435615&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=best_free_and_legal_music_download_sites&amp;rev=1360483234&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bolster_the_aesthetic_beauty_of_your_home_with_these_suggestions&amp;rev=1360609506&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=building_pjoa&amp;rev=1342946455&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=eliminate_your_back_pain_with_these_tips&amp;rev=1360617687&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=enter_the_best_form_of_your_life_nowadays&amp;rev=1360418576&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=free_music_plays_an_important_part_in_everyone_s_collection&amp;rev=1360266650&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=george_s_wa_apa&amp;rev=1346287055&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_into_the_ideal_shape_in_your_life&amp;rev=1360622127&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=giving_importance_to_utility_of_websites_for_effective_internet_development&amp;rev=1360528554&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_certainly_is_one_of_the_most_used_search_engines&amp;rev=1358936503&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=google_search_engine_is_the_best_in_the_world&amp;rev=1360018729&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=hokianga_raid&amp;rev=1343107687&amp;do=diff"/>
@@ -30,6 +35,7 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_bieber_-_the_story_so_far&amp;rev=1359911084&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_timberlake_taytoos&amp;rev=1359915496&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=korari&amp;rev=1346284267&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=learning_about_the_opportunities_at_home_company&amp;rev=1360520509&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=led_zeppelin_-_creators_of_heavy_metal&amp;rev=1360185891&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=legalsounds_-_a_review&amp;rev=1360433908&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=legalsounds_-_the_review&amp;rev=1360434723&amp;do=diff"/>
@@ -37,22 +43,29 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=p52&amp;rev=1343642846&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=p52_modifications&amp;rev=1343643405&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pandoras_box_-_the_review&amp;rev=1360491433&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=peter_s_proa&amp;rev=1343194361&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=peter_s_proa_2&amp;rev=1343194251&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pjoa&amp;rev=1342492827&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pjoa_model&amp;rev=1342784033&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ply_proa_with_rocker&amp;rev=1343817562&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=rhapsody_-_the_review&amp;rev=1360506722&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=rosario_s_wa_apa&amp;rev=1346285534&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sailing_kayak&amp;rev=1342410613&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=satellite_direct_review_-_watch_over_3_500_channels&amp;rev=1359018462&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=shakira_-_the_sensation_of_latin_music&amp;rev=1359914120&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=short_dragon&amp;rev=1343818620&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sidecar&amp;rev=1343818223&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=spotify_-_the_review&amp;rev=1360492268&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=squid&amp;rev=1342492880&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1350417740&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start_your_home_based_business_using_these_tips&amp;rev=1360516265&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem&amp;rev=1345955830&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=te_wheke&amp;rev=1342156067&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=techniques_to_use_typography_effectively_within_web_design&amp;rev=1360532583&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_appeal_of_rihanna&amp;rev=1360264546&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_fundamentals_of_a_company_card_design_style_informer&amp;rev=1360525248&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_six_best_digital_music_download_sites&amp;rev=1360482070&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=when_you_think_of_the_perfect_dog_how_to_raise_a_dog&amp;rev=1359124091&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_is_christian_rock_music_so_popular&amp;rev=1360184414&amp;do=diff"/>
             </rdf:Seq>
@@ -93,12 +106,26 @@ It's time. This thing has grown so I need to get serious. Here's the current pro
         <link>http://proa.me/wiki/doku.php?id=a_review_of_the_music_download_site_iomoio&amp;rev=1360435615&amp;do=diff</link>
         <description>That are Iomoio?&lt;br /&gt;&lt;br /&gt;Iomoio had undergone a make more than in recent months, having a fresh new design, new prices and new presents. It is now a single on the major legal music download sites and as such is worthy of being suggested to you. The website is genuinely easy to use, has new albums becoming added to it each of the time and is beginning to turn into a top high quality web-site. It is not the cheapest, but it is a single from the finest.&lt;br /&gt;&lt;br /&gt;How Do I Sign Up With Iomoio?&lt;b…</description>
     </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=best_free_and_legal_music_download_sites&amp;rev=1360483234&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T08:00:34+00:00</dc:date>
+        <title>best_free_and_legal_music_download_sites</title>
+        <link>http://proa.me/wiki/doku.php?id=best_free_and_legal_music_download_sites&amp;rev=1360483234&amp;do=diff</link>
+        <description>The online world has created it simple to get a no cost download of just about any song you need. The issue, nonetheless, is the fact that absolutely free music isn’t often legal music. If you’re the honest type and also you prefer to pay for the tunes and assistance the artists, labels, and retailers who distribute them, then illegal downloading merely isn’t an selection. We realize that a few of you available have strict morals in terms of your media consumption habits, so just for you persona…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2012-10-25T23:38:28+00:00</dc:date>
         <title>bionic_broomstick</title>
         <link>http://proa.me/wiki/doku.php?id=bionic_broomstick&amp;rev=1351208308&amp;do=diff</link>
         <description>Since it was requested here's a little info on my next proa Bionic Broomstick. After fiddling with P52 since the 2007 EC and finally finishing a long distance event, the 2010 Texas 200 I'm ready to go back to ACDC sized boats for a number of reasons.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=bolster_the_aesthetic_beauty_of_your_home_with_these_suggestions&amp;rev=1360609506&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-11T19:05:06+00:00</dc:date>
+        <title>bolster_the_aesthetic_beauty_of_your_home_with_these_suggestions</title>
+        <link>http://proa.me/wiki/doku.php?id=bolster_the_aesthetic_beauty_of_your_home_with_these_suggestions&amp;rev=1360609506&amp;do=diff</link>
+        <description>Home improvement could be a fun way to enjoy your house. You should know where all water valves are located, and turn into it off before working on any plumbing system. The decorating theme you select should serve as the particular catalyst for your choices in a number of different areas. It's simple to change decorative styles in the middle of building without recognizing it until it's in its final stages.&lt;br /&gt;&lt;br /&gt;You are able to inexpensively cleanup the look of the refrigerator and other h…</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=building_pjoa&amp;rev=1342946455&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -125,6 +152,13 @@ The Roof Rack
 
 I modded my basic car roof racks way back for my first boat. The rough and ready setup is still doing good service. The racks were simple 1” box section. I sandwiched each cross bar with 2 lengths of timber (approx 4”x1”, actually slightly less), posidrive wood screws through both pieces of wood (but not the metal bars!) clamp and retain them to the crossbar. This was done to give somewhere to attach the business part of the structure. Two pieces of …</description>
     </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=eliminate_your_back_pain_with_these_tips&amp;rev=1360617687&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-11T21:21:27+00:00</dc:date>
+        <title>eliminate_your_back_pain_with_these_tips</title>
+        <link>http://proa.me/wiki/doku.php?id=eliminate_your_back_pain_with_these_tips&amp;rev=1360617687&amp;do=diff</link>
+        <description>Back again pain is common within our society, aching back, you might wonder where and how you can get relief. This article will share some tips that may work. When your muscles are warm is the greatest time to stretch them to reduce back pain. After you've exercised, stretch well during cool-down time. Always offer your back is properly backed! An articulating arm that will holds a computer monitor may lessen the strain at bay. This device supports your computer monitor aside when necessary. Avo…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=enter_the_best_form_of_your_life_nowadays&amp;rev=1360418576&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-09T14:02:56+00:00</dc:date>
@@ -145,6 +179,20 @@ I modded my basic car roof racks way back for my first boat. The rough and ready
         <title>george_s_wa_apa</title>
         <link>http://proa.me/wiki/doku.php?id=george_s_wa_apa&amp;rev=1346287055&amp;do=diff</link>
         <description>This is a story of a mostly Gary Dierking Wa'Apa proa using directions and dimensions from his book. It is going to be used as a paddler on the Waccamaw River around Conway, SC and a sailor on a variety of fresh water lakes. The boat has been in its gestation period for a few years as I watch the comments on the ProaFile group . Shunting scares me, and since there are few sailors around here (much less proa sailors) I will stick with what I know. I am a retired software engineer, and veteran scr…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=get_into_the_ideal_shape_in_your_life&amp;rev=1360622127&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-11T22:35:27+00:00</dc:date>
+        <title>get_into_the_ideal_shape_in_your_life</title>
+        <link>http://proa.me/wiki/doku.php?id=get_into_the_ideal_shape_in_your_life&amp;rev=1360622127&amp;do=diff</link>
+        <description>It will take a great deal motivation and drive to obtain fit that individuals can easily become discouraged. The next article below will help those who would like  to get in shape get going and remain motivated.Keep a fitness diary  showing what you do every day. Note your normal  workouts and whatever else that you participate  in. Purchase a pedometer and find out the amount of steps you take through the day write that  down, also.This sort of written record will help you understand your progr…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=giving_importance_to_utility_of_websites_for_effective_internet_development&amp;rev=1360528554&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T20:35:54+00:00</dc:date>
+        <title>giving_importance_to_utility_of_websites_for_effective_internet_development</title>
+        <link>http://proa.me/wiki/doku.php?id=giving_importance_to_utility_of_websites_for_effective_internet_development&amp;rev=1360528554&amp;do=diff</link>
+        <description>Business owners should know that will postcard marketing by itself is not enough to guarantee increased sales. When participating in a direct mail marketing campaign, the style or layout from the material is an important aspect of the technique. A professional marketing consultant or a image designer is the greatest person in order to execute a highly effective mailer style. They are knowledgeable in deciding on the best design components to achieve the desired effect or response from the recipi…</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=google_certainly_is_one_of_the_most_used_search_engines&amp;rev=1358936503&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -217,6 +265,13 @@ Background info is below, at the top here is a 'most recent first' diary of work
 23 November 2009
 
 I've been making a bit of progress, slow and sporadic. Saw the NZ Proa meet come and go, yeah I had plans to be there... Temperatures are warming up, slowly, summer is a late starter this year so I'm using that as my excuse. I've been doing bits and pieces after work in evenings, had a slow sunday (after a hard saturday night) and so I rounde…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=learning_about_the_opportunities_at_home_company&amp;rev=1360520509&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T18:21:49+00:00</dc:date>
+        <title>learning_about_the_opportunities_at_home_company</title>
+        <link>http://proa.me/wiki/doku.php?id=learning_about_the_opportunities_at_home_company&amp;rev=1360520509&amp;do=diff</link>
+        <description>You will find innumerable benefits to being a home business proprietor, such as flexibility. You also have a chance to really concentrate on a business that actually means something to you.&lt;br /&gt;&lt;br /&gt;Make sure that you are certainly not breaking any zoning laws and regulations or local ordinances. You may be fined and your business will close if you don't do not regard regulations. You want good relations with everyone within your community. This might mean avoiding signage and the amount of tr…</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=led_zeppelin_-_creators_of_heavy_metal&amp;rev=1360185891&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -299,6 +354,13 @@ and I saw 8.6 mph early on a broad reach before the wind died down. The downwind
 
 There is a moderate laundry list of things to do before a final slick coat of polyurethane porch enamel is applied.</description>
     </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=pandoras_box_-_the_review&amp;rev=1360491433&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T10:17:13+00:00</dc:date>
+        <title>pandoras_box_-_the_review</title>
+        <link>http://proa.me/wiki/doku.php?id=pandoras_box_-_the_review&amp;rev=1360491433&amp;do=diff</link>
+        <description>Pandora's box, of your Greek myth, contained each of the world’s evils. Pandora.com, around the other hand, opens up a planet of music pleasure. Far from chaotic, the wonderful thing about Pandora.com is its ability to study. Yes, it learns what sort of music you like (using a little enable from you clicking “like” or “dislike”) by identifying which types of music, and its constituting parts, you most delight in. Pandora creates a record, determined by 400 attributes, and then presents you with …</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=peter_s_proa&amp;rev=1343194361&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2012-07-25T05:32:41+00:00</dc:date>
@@ -360,6 +422,13 @@ It has been suggested that Proas would be better with rocker. This is a few roug
 
 This drawing is of building the main waka as a pair of hulls, so that the stresses of bending the curved sides are opposed, the inner seams and bulkheads and transoms would be fixed in place, then the two hulls separated down the centreline.</description>
     </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=rhapsody_-_the_review&amp;rev=1360506722&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T14:32:02+00:00</dc:date>
+        <title>rhapsody_-_the_review</title>
+        <link>http://proa.me/wiki/doku.php?id=rhapsody_-_the_review&amp;rev=1360506722&amp;do=diff</link>
+        <description>Rhapsody is a comprehensive music downloads website with a decent array of payment plans to suit your requirements. It proudly boasts a “gigantic catalogue” of more than 16 million songs which can be updated each and every week with new albums and singles, while also being updated with all the most significant hits as they attain the stores. It is accessible, also, from a range of devices along with the additional costly selections permit you to use it on many devices, a possible revenue saver i…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=rosario_s_wa_apa&amp;rev=1346285534&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2012-08-30T00:12:14+00:00</dc:date>
@@ -420,6 +489,13 @@ It is not a proa.  Still, I'm using the new wikiproa home to make a quick web pa
         <link>http://proa.me/wiki/doku.php?id=sidecar&amp;rev=1343818223&amp;do=diff</link>
         <description>Well I am here to put something on the web outside of Rob (Denney)'s harryproa group. The harryproa web site proper is rarely updated and my own personal information is way out of date. However it is still the most professional, in depth and advanced proa/multihull information around. So go have a read of the plentiful research and development done by Rob, and see why I build/sail harryproas.</description>
     </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=spotify_-_the_review&amp;rev=1360492268&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T10:31:08+00:00</dc:date>
+        <title>spotify_-_the_review</title>
+        <link>http://proa.me/wiki/doku.php?id=spotify_-_the_review&amp;rev=1360492268&amp;do=diff</link>
+        <description>The very best points in life are cost-free, so the saying goes, and Spotify could possibly be up there with “love” and “compassion”. Spotify does one thing that pretty much no other music download websites can claim: it lets you listen to complete tracks of music absolutely absolutely free of charge. This really is its crucial ‘selling’ point, and it’s really an thrilling one particular: new and old music at your fingertips and eardrums with out it costing you a penny. In addition they offer tot…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=squid&amp;rev=1342492880&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2012-07-17T02:41:20+00:00</dc:date>
@@ -443,6 +519,13 @@ Only five jobs on the work list and two of them are nothing. Biggest issue was I
         <title>start</title>
         <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1350417740&amp;do=diff</link>
         <description>This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article here. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is here.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=start_your_home_based_business_using_these_tips&amp;rev=1360516265&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T17:11:05+00:00</dc:date>
+        <title>start_your_home_based_business_using_these_tips</title>
+        <link>http://proa.me/wiki/doku.php?id=start_your_home_based_business_using_these_tips&amp;rev=1360516265&amp;do=diff</link>
+        <description>Home businesses offer an opportunity to boost your salary or generate full-time chance. If you can invest enough time on your home based small business, you are able to really turn a profit. The following article contains tips for helping you run a thriving home based business.&lt;br /&gt;&lt;br /&gt;Make sure you are available to other people. Everyone has an opinion on how you should run your company.&lt;br /&gt;&lt;br /&gt;Start a business in a industry where you have some encounter. A lot of people that begin home …</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=tdem&amp;rev=1345955830&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -475,12 +558,33 @@ Te Wheke is a 19 foot at waterline) proa, beam 8 foot (overall), beam (at
 waterline main waka with crew aboard) 15 inches. cheaply made out of
 construction ply. The main issue is the totally flat lee side of the waka hull.</description>
     </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=techniques_to_use_typography_effectively_within_web_design&amp;rev=1360532583&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T21:43:03+00:00</dc:date>
+        <title>techniques_to_use_typography_effectively_within_web_design</title>
+        <link>http://proa.me/wiki/doku.php?id=techniques_to_use_typography_effectively_within_web_design&amp;rev=1360532583&amp;do=diff</link>
+        <description>Company owners ought to know which will postcard marketing alone is not lots of to guarantee increased revenue. When participating in a direct email marketing strategy, the style or layout from the material is a crucial facet of the technique. A professional advertising specialist or a image designer is the best individual in order to perform an effective mailer design. They may be knowledgeable within deciding on the best style elements to achieve the desired effect or response from the receive…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=the_appeal_of_rihanna&amp;rev=1360264546&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-07T19:15:46+00:00</dc:date>
         <title>the_appeal_of_rihanna</title>
         <link>http://proa.me/wiki/doku.php?id=the_appeal_of_rihanna&amp;rev=1360264546&amp;do=diff</link>
         <description>&lt;br /&gt;n her younger everyday living, Robyn Rihanna Fenty, also recognized merely as Rihanna, has created a massive influence on popular lifestyle. The pop diva will only be 23 in 2011, but she has managed to promote over twenty five million albums and 45 million singles inside the system. Rihanna's daily life and function have grown at an exponential price because she first auditioned for Jay-Z. It is really a little brain boggling to understand how rapidly her fame has exploded. What from the e…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_fundamentals_of_a_company_card_design_style_informer&amp;rev=1360525248&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T19:40:48+00:00</dc:date>
+        <title>the_fundamentals_of_a_company_card_design_style_informer</title>
+        <link>http://proa.me/wiki/doku.php?id=the_fundamentals_of_a_company_card_design_style_informer&amp;rev=1360525248&amp;do=diff</link>
+        <description>People fail to separate a beautiful site and a fantastic web site. Some make use of a combination of colors, some use lovely typography to be able to attractive and some use animated icons. However , to be able to wonderful, people your investment importance of utility. Unless an internet site qualifies the criterion of usefulness, it fails to connect with the visitors. pliante .&lt;br /&gt;&lt;br /&gt;Typography is used in business cards to make it more attractive. Be innovative while using typography for …</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_six_best_digital_music_download_sites&amp;rev=1360482070&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-10T07:41:10+00:00</dc:date>
+        <title>the_six_best_digital_music_download_sites</title>
+        <link>http://proa.me/wiki/doku.php?id=the_six_best_digital_music_download_sites&amp;rev=1360482070&amp;do=diff</link>
+        <description>Fewer folks are downloading music in the world-wide-web illegally than ever ahead of, based on a report this week from Entertainment Media Analysis.&lt;br /&gt;&lt;br /&gt;The study in portion attributes this decrease to consumers' fears that world wide web service providers will cut off their web access if they're found to be illegally downloading or sharing songs.&lt;br /&gt;&lt;br /&gt;That was terrific in case you owned an iPod, but not significantly assistance should you employed a further music player - most song…</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=when_you_think_of_the_perfect_dog_how_to_raise_a_dog&amp;rev=1359124091&amp;do=diff">
         <dc:format>text/html</dc:format>

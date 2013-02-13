@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-13T07:34:33+00:00</dc:date>
+       <dc:date>2013-02-13T09:13:52+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=website_hosting_find_some_cheap_domains_and_hosting_services&amp;rev=1360746815&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=website_hosting_get_some_cheap_domains_and_hosting_services&amp;rev=1360740859&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_into_the_ideal_shape_in_your_life&amp;rev=1360622127&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=eliminate_your_back_pain_with_these_tips&amp;rev=1360617687&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=legalsounds_-_the_review&amp;rev=1360434723&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=legalsounds_-_a_review&amp;rev=1360433908&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=enter_the_best_form_of_your_life_nowadays&amp;rev=1360418576&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=free_music_plays_an_important_part_in_everyone_s_collection&amp;rev=1360266650&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=website_hosting_find_some_cheap_domains_and_hosting_services&amp;rev=1360746815&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-13T09:13:35+00:00</dc:date>
+        <dc:creator>iliana17</dc:creator>
+        <title>website_hosting_find_some_cheap_domains_and_hosting_services - created</title>
+        <link>http://proa.me/wiki/doku.php?id=website_hosting_find_some_cheap_domains_and_hosting_services&amp;rev=1360746815&amp;do=diff</link>
+        <description>Website Hosting find some cheap domains and hosting services&lt;br /&gt;&lt;br /&gt;I have been searching around the web for some webhosting services, one that has cheap domains and a low monthly fee.&lt;br /&gt;&lt;br /&gt;Some Disadvantages of shared hosting are.&lt;br /&gt;&lt;br /&gt;The biggest advantage with shared hosting plans is the price; unlike dedicated or VPS hosting costs, shared hosting will only run between $2 and $15 per month.&lt;br /&gt;&lt;br /&gt;Shared hosting holds a very simple, user-friendly administrative control Cpa…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=website_hosting_get_some_cheap_domains_and_hosting_services&amp;rev=1360740859&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-13T07:34:19+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>enter_the_best_form_of_your_life_nowadays - created</title>
         <link>http://proa.me/wiki/doku.php?id=enter_the_best_form_of_your_life_nowadays&amp;rev=1360418576&amp;do=diff</link>
         <description>It's hard to know where to start to become match. The tips in this article will enable you to begin your fitness journey the proper way, without obtaining discouraged. Use the health and fitness advice here if you wish to be healthy. There is good reason that fitness equipment for home has become selected as the very best brand of the year.&lt;br /&gt;&lt;br /&gt;There is absolutely no reason to show concern physical activity. Bicycling is another excellent fitness exercise. You can alternate your work comm…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=free_music_plays_an_important_part_in_everyone_s_collection&amp;rev=1360266650&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-07T19:50:50+00:00</dc:date>
-        <dc:creator>julie_baker</dc:creator>
-        <title>free_music_plays_an_important_part_in_everyone_s_collection - created</title>
-        <link>http://proa.me/wiki/doku.php?id=free_music_plays_an_important_part_in_everyone_s_collection&amp;rev=1360266650&amp;do=diff</link>
-        <description>The amount of periods have you ever hunted each and every audio shop in the vicinity for a distinct track that you just just simply cannot manage to get out of your head? Each individual tunes lover can discover this example as being a portion and parcel of his way of life. Nonetheless, the online world is all set to alter the scenario. The advent of a host of new music similar web-sites plus the emergence of totally free songs has introduced about a revolution during the environment of tunes. N…</description>
     </item>
 </rdf:RDF>

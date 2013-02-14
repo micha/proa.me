@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-14T21:05:40+00:00</dc:date>
+       <dc:date>2013-02-14T22:36:20+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=obtain_the_body_you_ve_always_dreamed_of&amp;rev=1360881349&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=downloading_free_music_to_itunes&amp;rev=1360875909&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=find_out_home_improvement_and_how_you_can_live_in_a_much_better_place&amp;rev=1360875090&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bothered_by_back_pain_read_this_short_article&amp;rev=1360870444&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=unlimited_music_downloads_-_tips_on_downloading_music_mp3&amp;rev=1360784241&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=website_hosting_find_some_cheap_domains_and_hosting_services&amp;rev=1360746815&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=website_hosting_get_some_cheap_domains_and_hosting_services&amp;rev=1360740859&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_into_the_ideal_shape_in_your_life&amp;rev=1360622127&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=obtain_the_body_you_ve_always_dreamed_of&amp;rev=1360881349&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-14T22:35:49+00:00</dc:date>
+        <dc:creator>viviana781</dc:creator>
+        <title>obtain_the_body_you_ve_always_dreamed_of - created</title>
+        <link>http://proa.me/wiki/doku.php?id=obtain_the_body_you_ve_always_dreamed_of&amp;rev=1360881349&amp;do=diff</link>
+        <description>Regardless of whether you've been working out for years or you really are a novice, studying fitness is to your benefit. Learning about how the body works, together with how you can boost your fitness levels can produce a huge difference. You'll see better results if you the actual advice in this article. health products .&lt;br /&gt;&lt;br /&gt;Do you want to have hip and legs that make people stop plus stare? Then be sure to perform both sitting and standing heel raise exercises for your calves. Your legs…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=downloading_free_music_to_itunes&amp;rev=1360875909&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-14T21:05:09+00:00</dc:date>
@@ -197,13 +205,5 @@ Today dry fitted one hull half, almost finished dry fitting the other. That is w
         <title>website_hosting_get_some_cheap_domains_and_hosting_services - created</title>
         <link>http://proa.me/wiki/doku.php?id=website_hosting_get_some_cheap_domains_and_hosting_services&amp;rev=1360740859&amp;do=diff</link>
         <description>Website Hosting get some cheap domains and hosting services&lt;br /&gt;&lt;br /&gt;I have been searching around the web for some webhosting services, one that has cheap domains and a low monthly fee.&lt;br /&gt;&lt;br /&gt;Some Disadvantages of shared hosting are.&lt;br /&gt;&lt;br /&gt;The biggest advantage with shared hosting plans is the price; unlike dedicated or VPS hosting costs, shared hosting will only run between $2 and $15 per month.&lt;br /&gt;&lt;br /&gt;Shared hosting holds a very simple, user-friendly administrative control Cpan…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=get_into_the_ideal_shape_in_your_life&amp;rev=1360622127&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-11T22:35:27+00:00</dc:date>
-        <dc:creator>kirk982</dc:creator>
-        <title>get_into_the_ideal_shape_in_your_life - created</title>
-        <link>http://proa.me/wiki/doku.php?id=get_into_the_ideal_shape_in_your_life&amp;rev=1360622127&amp;do=diff</link>
-        <description>It will take a great deal motivation and drive to obtain fit that individuals can easily become discouraged. The next article below will help those who would like  to get in shape get going and remain motivated.Keep a fitness diary  showing what you do every day. Note your normal  workouts and whatever else that you participate  in. Purchase a pedometer and find out the amount of steps you take through the day write that  down, also.This sort of written record will help you understand your progr…</description>
     </item>
 </rdf:RDF>

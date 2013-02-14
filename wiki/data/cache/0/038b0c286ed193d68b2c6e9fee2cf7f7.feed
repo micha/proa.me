@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-14T19:34:25+00:00</dc:date>
+       <dc:date>2013-02-14T20:51:51+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=find_out_home_improvement_and_how_you_can_live_in_a_much_better_place&amp;rev=1360875090&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bothered_by_back_pain_read_this_short_article&amp;rev=1360870444&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1360838177&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2234.jpg&amp;ns=tdem&amp;rev=1360836706&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=website_hosting_get_some_cheap_domains_and_hosting_services&amp;rev=1360740859&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_into_the_ideal_shape_in_your_life&amp;rev=1360622127&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=eliminate_your_back_pain_with_these_tips&amp;rev=1360617687&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bolster_the_aesthetic_beauty_of_your_home_with_these_suggestions&amp;rev=1360609506&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=find_out_home_improvement_and_how_you_can_live_in_a_much_better_place&amp;rev=1360875090&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-14T20:51:30+00:00</dc:date>
+        <dc:creator>sha75</dc:creator>
+        <title>find_out_home_improvement_and_how_you_can_live_in_a_much_better_place - created</title>
+        <link>http://proa.me/wiki/doku.php?id=find_out_home_improvement_and_how_you_can_live_in_a_much_better_place&amp;rev=1360875090&amp;do=diff</link>
+        <description>Given proper information, there really is nothing you can't perform. Home improvement is certainly one area where this particular holds true. This article will provide you with advice that can be applied to many different home improvement tasks. Armed with the right tools and information, anything is achievable.&lt;br /&gt;&lt;br /&gt;If you need to cut costs, then minimal a strain snake. It will not be essential for you to purchase strain cleaners so frequently later on. You should not make use of a snake …</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=bothered_by_back_pain_read_this_short_article&amp;rev=1360870444&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-14T19:34:04+00:00</dc:date>
@@ -197,13 +205,5 @@ Today dry fitted one hull half, almost finished dry fitting the other. That is w
         <title>eliminate_your_back_pain_with_these_tips - created</title>
         <link>http://proa.me/wiki/doku.php?id=eliminate_your_back_pain_with_these_tips&amp;rev=1360617687&amp;do=diff</link>
         <description>Back again pain is common within our society, aching back, you might wonder where and how you can get relief. This article will share some tips that may work. When your muscles are warm is the greatest time to stretch them to reduce back pain. After you've exercised, stretch well during cool-down time. Always offer your back is properly backed! An articulating arm that will holds a computer monitor may lessen the strain at bay. This device supports your computer monitor aside when necessary. Avo…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=bolster_the_aesthetic_beauty_of_your_home_with_these_suggestions&amp;rev=1360609506&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-11T19:05:06+00:00</dc:date>
-        <dc:creator>britany679</dc:creator>
-        <title>bolster_the_aesthetic_beauty_of_your_home_with_these_suggestions - created</title>
-        <link>http://proa.me/wiki/doku.php?id=bolster_the_aesthetic_beauty_of_your_home_with_these_suggestions&amp;rev=1360609506&amp;do=diff</link>
-        <description>Home improvement could be a fun way to enjoy your house. You should know where all water valves are located, and turn into it off before working on any plumbing system. The decorating theme you select should serve as the particular catalyst for your choices in a number of different areas. It's simple to change decorative styles in the middle of building without recognizing it until it's in its final stages.&lt;br /&gt;&lt;br /&gt;You are able to inexpensively cleanup the look of the refrigerator and other h…</description>
     </item>
 </rdf:RDF>

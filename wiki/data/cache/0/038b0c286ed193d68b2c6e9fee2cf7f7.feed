@@ -11,9 +11,12 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-15T18:51:56+00:00</dc:date>
+       <dc:date>2013-02-15T22:29:37+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=downloading_music_online_-_stop_wasting_money&amp;rev=1360967361&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=or_even_more_video_marketing_tips_that_send_results&amp;rev=1360962741&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=most_of_the_growing_trend_of_online_successful&amp;rev=1360961850&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=free_music_is_all_over_the_web&amp;rev=1360954293&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=produce_your_own_videos&amp;rev=1360953751&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=is_known_through_web_video_campaigning&amp;rev=1360952937&amp;do=diff"/>
@@ -31,9 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1360838177&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2234.jpg&amp;ns=tdem&amp;rev=1360836706&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2231.jpg&amp;ns=tdem&amp;rev=1360836701&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2226.jpg&amp;ns=tdem&amp;rev=1360836694&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2228.jpg&amp;ns=tdem&amp;rev=1360836663&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2225.jpg&amp;ns=tdem&amp;rev=1360836642&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,30 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=downloading_music_online_-_stop_wasting_money&amp;rev=1360967361&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-15T22:29:21+00:00</dc:date>
+        <dc:creator>julie_baker</dc:creator>
+        <title>downloading_music_online_-_stop_wasting_money - created</title>
+        <link>http://proa.me/wiki/doku.php?id=downloading_music_online_-_stop_wasting_money&amp;rev=1360967361&amp;do=diff</link>
+        <description>Downloading music on-line used to become a dream on the coffee table. People even talked and fantasized regarding the imaginary music jukebox that may play music on order and everyone can just download whatever music they want from an inexhaustible jukebox. Right now, downloading music on the web is usually a piece of cake. And you possess a few selections. Anybody may be downloading cost-free or paid music on the web. Just before you get also excited, we shall have a look at each alternatives t…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=or_even_more_video_marketing_tips_that_send_results&amp;rev=1360962741&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-15T21:12:21+00:00</dc:date>
+        <dc:creator>shelby111</dc:creator>
+        <title>or_even_more_video_marketing_tips_that_send_results - created</title>
+        <link>http://proa.me/wiki/doku.php?id=or_even_more_video_marketing_tips_that_send_results&amp;rev=1360962741&amp;do=diff</link>
+        <description>&lt;br /&gt;And also there is a practice tips as well to implement anything you learn to make sure setting up making money from video target marketing right away. Fail to mix up the content along with the videos as well radiculously.&lt;br /&gt;&lt;br /&gt;Cinemas, television, studios, or different other business that involves any kind of lot of video production, the companies can avail the services of the Vertex Media for the goal. There are multiple tools available that shows any number of times video tried by …</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=most_of_the_growing_trend_of_online_successful&amp;rev=1360961850&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-15T20:57:30+00:00</dc:date>
+        <dc:creator>rosemary559</dc:creator>
+        <title>most_of_the_growing_trend_of_online_successful - created</title>
+        <link>http://proa.me/wiki/doku.php?id=most_of_the_growing_trend_of_online_successful&amp;rev=1360961850&amp;do=diff</link>
+        <description>&lt;br /&gt;And also there is a practice ideas as well to implement all you learn to make sure start making money from video target marketing right away. In no way mix up the content together with the videos as well greatly.&lt;br /&gt;&lt;br /&gt;Cinemas, television, studios, or nearly any other business that involves the best lot of video production, the businesses can avail the services about Vertex Media for the goal. There are various tools available that shows the very number of times video brandished by pr…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=free_music_is_all_over_the_web&amp;rev=1360954293&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-15T18:51:33+00:00</dc:date>
@@ -181,29 +205,5 @@ Today dry fitted one hull half, almost finished dry fitting the other. That is w
         <title>tdem:dscf2231.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2231.jpg&amp;ns=tdem&amp;rev=1360836701&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836701&amp;amp;media=tdem:dscf2231.jpg&quot; alt=&quot;tdem:dscf2231.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=tdem%3Adscf2226.jpg&amp;ns=tdem&amp;rev=1360836694&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-14T10:11:34+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>tdem:dscf2226.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2226.jpg&amp;ns=tdem&amp;rev=1360836694&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836694&amp;amp;media=tdem:dscf2226.jpg&quot; alt=&quot;tdem:dscf2226.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=tdem%3Adscf2228.jpg&amp;ns=tdem&amp;rev=1360836663&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-14T10:11:03+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>tdem:dscf2228.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2228.jpg&amp;ns=tdem&amp;rev=1360836663&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836663&amp;amp;media=tdem:dscf2228.jpg&quot; alt=&quot;tdem:dscf2228.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=tdem%3Adscf2225.jpg&amp;ns=tdem&amp;rev=1360836642&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-14T10:10:42+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>tdem:dscf2225.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2225.jpg&amp;ns=tdem&amp;rev=1360836642&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836642&amp;amp;media=tdem:dscf2225.jpg&quot; alt=&quot;tdem:dscf2225.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

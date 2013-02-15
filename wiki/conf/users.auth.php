@@ -63,3 +63,6 @@ nidia256:REDACTED:Omar Ottinger:EugenaIshak36563@hotmail.com:user
 viviana781:REDACTED:Astrid Moskowitz:flaxsock26@hotmail.com:user
 trula597:REDACTED:Alejandrina Chuuentes:johnp@06worlds.com:user
 twana56:REDACTED:Ivy Miranda:apulFellerAlysbuon@hotmail.com:user
+lois677:REDACTED:Jolene Crumpler:plentyg@06worlds.com:user
+jason293:REDACTED:Lois Granville:plentyg@06worlds.com:user
+carma21:REDACTED:Shasta Zahn:MilagrosTari789@hotmail.com:user

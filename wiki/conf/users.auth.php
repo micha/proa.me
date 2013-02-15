@@ -71,3 +71,5 @@ annmarie519:REDACTED:Soo Meza:XUpd0SiX@gmail.com:user
 joshua36:REDACTED:Eryn Weigand:XUpd0SiX@gmail.com:user
 jason916:REDACTED:Bronwyn Ensley:petey1234@06worlds.com:user
 michele451:REDACTED:Theda Frantz:petey1234@06worlds.com:user
+rosemary559:REDACTED:Regina Carlsen:hickory67@06worlds.com:user
+shelby111:REDACTED:Steffanie Landry:hickory67@06worlds.com:user

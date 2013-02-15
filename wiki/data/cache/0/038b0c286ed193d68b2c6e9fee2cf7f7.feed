@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-15T06:52:27+00:00</dc:date>
+       <dc:date>2013-02-15T08:29:40+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=characteristics_of_drain_cleaning&amp;rev=1360916956&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=xrumer.edu_back_web_link_packages&amp;rev=1360911131&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=road-blocks_and_social_concerns&amp;rev=1360910092&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sociable_media_and_car_restore_advertising_and_advertising&amp;rev=1360902909&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2235.jpg&amp;ns=tdem&amp;rev=1360836512&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2215.jpg&amp;ns=tdem&amp;rev=1360836481&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1360835362&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=make_the_best_from_your_property_using_these_home_remodeling_tips&amp;rev=1360784653&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=characteristics_of_drain_cleaning&amp;rev=1360916956&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-15T08:29:16+00:00</dc:date>
+        <dc:creator>twana56</dc:creator>
+        <title>characteristics_of_drain_cleaning - created</title>
+        <link>http://proa.me/wiki/doku.php?id=characteristics_of_drain_cleaning&amp;rev=1360916956&amp;do=diff</link>
+        <description>&lt;p&gt;ZippyRooter® of Mt Pleasant SC are a various group of expert contractors licensed within the restore and cleansing of drains. Home house owners and companies alike can discover the closest ZippyRooter® in Mt Pleasant SC for drain cleansing or another plumbing emergency. You expect the most effective and whenever you count on ZippyRooter® of Mt Pleasant SC, you get the BEST Drain Cleaning contractors in Mt Pleasant SC. You can find uncared for piping system in several households. Like other ho…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=xrumer.edu_back_web_link_packages&amp;rev=1360911131&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-15T06:52:11+00:00</dc:date>
@@ -197,13 +205,5 @@ Today dry fitted one hull half, almost finished dry fitting the other. That is w
         <title>start - [Proas] </title>
         <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1360835362&amp;do=diff</link>
         <description>This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article here. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is here.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=make_the_best_from_your_property_using_these_home_remodeling_tips&amp;rev=1360784653&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-13T19:44:13+00:00</dc:date>
-        <dc:creator>matilda577</dc:creator>
-        <title>make_the_best_from_your_property_using_these_home_remodeling_tips - created</title>
-        <link>http://proa.me/wiki/doku.php?id=make_the_best_from_your_property_using_these_home_remodeling_tips&amp;rev=1360784653&amp;do=diff</link>
-        <description>Redesigning jobs protect far more engaged when compared to a new carpet or perhaps a jacket of painting. It will take significant amounts of organizing and study to have your house  to search how you have constantly  dreamed appliances . The rules under will help you enhance your skills in home  development abilities. You must  help save a lot of money that will create  the property you might have generally imagined.Vacuum the insides of your kitchen cabinets  prior to cleansing them. This remov…</description>
     </item>
 </rdf:RDF>

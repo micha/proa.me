@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-15T08:29:40+00:00</dc:date>
+       <dc:date>2013-02-15T09:41:32+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_choose_beverages_for_your_party&amp;rev=1360921255&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=characteristics_of_drain_cleaning&amp;rev=1360916956&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=xrumer.edu_back_web_link_packages&amp;rev=1360911131&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=road-blocks_and_social_concerns&amp;rev=1360910092&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2220.jpg&amp;ns=tdem&amp;rev=1360836537&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2235.jpg&amp;ns=tdem&amp;rev=1360836512&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2215.jpg&amp;ns=tdem&amp;rev=1360836481&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1360835362&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=how_to_choose_beverages_for_your_party&amp;rev=1360921255&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-15T09:40:55+00:00</dc:date>
+        <dc:creator>isiah53</dc:creator>
+        <title>how_to_choose_beverages_for_your_party - created</title>
+        <link>http://proa.me/wiki/doku.php?id=how_to_choose_beverages_for_your_party&amp;rev=1360921255&amp;do=diff</link>
+        <description>When you're having a party, there are a number of facets to consider when you are trying to select liquids. That which you present to drink is going to be very different at Christmastime than in the summertime, or if your celebration is late morning versus early night. As will the type of tone you wish to set, where your party is located will also help you know what to serve. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Some thing for Everybody &lt;br /&gt;It is important when having a celebration to include everyone's drink st…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=characteristics_of_drain_cleaning&amp;rev=1360916956&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-15T08:29:16+00:00</dc:date>
@@ -197,13 +205,5 @@ Today dry fitted one hull half, almost finished dry fitting the other. That is w
         <title>tdem:dscf2215.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2215.jpg&amp;ns=tdem&amp;rev=1360836481&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836481&amp;amp;media=tdem:dscf2215.jpg&quot; alt=&quot;tdem:dscf2215.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=start&amp;rev=1360835362&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-14T09:49:22+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>start - [Proas] </title>
-        <link>http://proa.me/wiki/doku.php?id=start&amp;rev=1360835362&amp;do=diff</link>
-        <description>This site is intended to be a collaborative repository for articles on sailing proas, whether home or professionally built, modern or historical. For a definition of a 'proa', please see the wikipedia article here. It's not intended to be a discussion site, since there's already an excellent proa discussion site on the web, the yahoo group proa_file, which is here.</description>
     </item>
 </rdf:RDF>

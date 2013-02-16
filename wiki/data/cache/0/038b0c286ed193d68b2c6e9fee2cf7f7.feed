@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-15T22:29:37+00:00</dc:date>
+       <dc:date>2013-02-16T07:34:21+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_download_music_online_without_hurting_your_wallet&amp;rev=1361000041&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=downloading_music_online_-_stop_wasting_money&amp;rev=1360967361&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=or_even_more_video_marketing_tips_that_send_results&amp;rev=1360962741&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=most_of_the_growing_trend_of_online_successful&amp;rev=1360961850&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bothered_by_back_pain_read_this_short_article&amp;rev=1360870444&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1360838177&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2234.jpg&amp;ns=tdem&amp;rev=1360836706&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2231.jpg&amp;ns=tdem&amp;rev=1360836701&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=how_to_download_music_online_without_hurting_your_wallet&amp;rev=1361000041&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-16T07:34:01+00:00</dc:date>
+        <dc:creator>julie_baker</dc:creator>
+        <title>how_to_download_music_online_without_hurting_your_wallet - created</title>
+        <link>http://proa.me/wiki/doku.php?id=how_to_download_music_online_without_hurting_your_wallet&amp;rev=1361000041&amp;do=diff</link>
+        <description>Let us face it. Music lovers generally personal numerous CDs, download music on-line and can not quit purchasing music. That is why the music market has often been vibrant and new singers are born, and new songs are written. The trouble is music lovers have an insatiable desire for new music each of the time and it can be really painful around the wallets and the credit cards if you're building a music library. Ask a teen how quite a few songs he or she has in the collection and chances are ther…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=downloading_music_online_-_stop_wasting_money&amp;rev=1360967361&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-15T22:29:21+00:00</dc:date>
@@ -197,13 +205,5 @@ Today dry fitted one hull half, almost finished dry fitting the other. That is w
         <title>tdem:dscf2234.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2234.jpg&amp;ns=tdem&amp;rev=1360836706&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836706&amp;amp;media=tdem:dscf2234.jpg&quot; alt=&quot;tdem:dscf2234.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=tdem%3Adscf2231.jpg&amp;ns=tdem&amp;rev=1360836701&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-14T10:11:41+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>tdem:dscf2231.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2231.jpg&amp;ns=tdem&amp;rev=1360836701&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836701&amp;amp;media=tdem:dscf2231.jpg&quot; alt=&quot;tdem:dscf2231.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

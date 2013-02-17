@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-16T20:39:48+00:00</dc:date>
+       <dc:date>2013-02-17T01:21:44+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=methods_to_publish_information_that_individuals_want_to_read&amp;rev=1361064078&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=where_to_buy_rock_music_at_rock_bottom_prices&amp;rev=1361047169&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=individuals_trust_mechanics_with_auto_fixing&amp;rev=1361043096&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=assistance_technician_interview_questions&amp;rev=1361042551&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=xrumer.edu_back_web_link_packages&amp;rev=1360911131&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=road-blocks_and_social_concerns&amp;rev=1360910092&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sociable_media_and_car_restore_advertising_and_advertising&amp;rev=1360902909&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=obtain_the_body_you_ve_always_dreamed_of&amp;rev=1360881349&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=methods_to_publish_information_that_individuals_want_to_read&amp;rev=1361064078&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-17T01:21:18+00:00</dc:date>
+        <dc:creator>ashliesmythp</dc:creator>
+        <title>methods_to_publish_information_that_individuals_want_to_read - created</title>
+        <link>http://proa.me/wiki/doku.php?id=methods_to_publish_information_that_individuals_want_to_read&amp;rev=1361064078&amp;do=diff</link>
+        <description>Why are you currently reading this content? Simple - because of the name. A good post title may attract readers, which increases site visitors. That is why post writers devote time planning, thinking and redrafting maximum clicks to be ensured by their article titles. Whether or not this may be the search engine results entries or the post directory listings, it is constantly the content name which decides whether your fictional creation may ever be seen or attract readers, visitors and prospect…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=where_to_buy_rock_music_at_rock_bottom_prices&amp;rev=1361047169&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-16T20:39:29+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>sociable_media_and_car_restore_advertising_and_advertising - created</title>
         <link>http://proa.me/wiki/doku.php?id=sociable_media_and_car_restore_advertising_and_advertising&amp;rev=1360902909&amp;do=diff</link>
         <description>Currently the mobile market is huge and as well as it's only growing. The phone comes with a substantial internal memory of 100 Megabytes but this can be enhanced upon by utilising the sd card slot which is built in the unit.&lt;br /&gt;&lt;br /&gt;The actual mobile market is huge as well as , it's only growing. Forget yahoo or hotmail. The customer can achieve this through advertising campaigns strategically placed along the unrestricted networking site will significantly draw people toward your business d…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=obtain_the_body_you_ve_always_dreamed_of&amp;rev=1360881349&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-14T22:35:49+00:00</dc:date>
-        <dc:creator>viviana781</dc:creator>
-        <title>obtain_the_body_you_ve_always_dreamed_of - created</title>
-        <link>http://proa.me/wiki/doku.php?id=obtain_the_body_you_ve_always_dreamed_of&amp;rev=1360881349&amp;do=diff</link>
-        <description>Regardless of whether you've been working out for years or you really are a novice, studying fitness is to your benefit. Learning about how the body works, together with how you can boost your fitness levels can produce a huge difference. You'll see better results if you the actual advice in this article. health products .&lt;br /&gt;&lt;br /&gt;Do you want to have hip and legs that make people stop plus stare? Then be sure to perform both sitting and standing heel raise exercises for your calves. Your legs…</description>
     </item>
 </rdf:RDF>

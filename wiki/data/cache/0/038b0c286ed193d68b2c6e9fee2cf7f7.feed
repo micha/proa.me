@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-18T18:59:17+00:00</dc:date>
+       <dc:date>2013-02-18T20:58:28+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_to_make_your_fitness_goals_more_achievable&amp;rev=1361221082&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=self_improvement_101:all_you_need_to_know&amp;rev=1361218749&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fantastic_advice_if_you_have_back_pain&amp;rev=1361213926&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1361178685&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=methods_to_publish_information_that_individuals_want_to_read&amp;rev=1361064078&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=film_marketing_proof_for_atlanta_locally_advertising&amp;rev=1360946407&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=xrumer.edu_back_hyperlink_packages&amp;rev=1360938165&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_choose_beverages_for_your_party&amp;rev=1360921255&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=characteristics_of_drain_cleaning&amp;rev=1360916956&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=xrumer.edu_back_web_link_packages&amp;rev=1360911131&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,22 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=tips_to_make_your_fitness_goals_more_achievable&amp;rev=1361221082&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-18T20:58:02+00:00</dc:date>
+        <dc:creator>gemma511</dc:creator>
+        <title>tips_to_make_your_fitness_goals_more_achievable - created</title>
+        <link>http://proa.me/wiki/doku.php?id=tips_to_make_your_fitness_goals_more_achievable&amp;rev=1361221082&amp;do=diff</link>
+        <description>It's hard to know where to begin to become fit. The tips within this article will allow you to begin your health and fitness journey the right way, without obtaining discouraged. Use the fitness advice here if you wish to be healthy. There is certainly great reason that treadmill reviews has been voted to be the ideal brand of the year.&lt;br /&gt;&lt;br /&gt;If you want to develop your own muscle mass, try raising heavier weights and doing much less reps. Before you begin exercising, select a muscle group.…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=self_improvement_101:all_you_need_to_know&amp;rev=1361218749&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-18T20:19:09+00:00</dc:date>
+        <dc:creator>lory733</dc:creator>
+        <title>self_improvement_101:all_you_need_to_know - created</title>
+        <link>http://proa.me/wiki/doku.php?id=self_improvement_101:all_you_need_to_know&amp;rev=1361218749&amp;do=diff</link>
+        <description>Self improvement could transform your individual life around.This informative article has got the keys you can move ahead into self betterment.&lt;br /&gt;&lt;br /&gt;If you are working toward personal development, tell yourself that you would like to become better because you deserve better. You should know that you owe yourself nothing less than the very best - size genetics.&lt;br /&gt;&lt;br /&gt;Pinpoint exactly what is blocking your progress. This is hard to do for most people to complete. If you reach your goals…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=fantastic_advice_if_you_have_back_pain&amp;rev=1361213926&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-18T18:58:46+00:00</dc:date>
@@ -187,21 +203,5 @@ Well, didn't get anything done this weekend. Today discovered a crack in one of 
         <title>how_to_choose_beverages_for_your_party - created</title>
         <link>http://proa.me/wiki/doku.php?id=how_to_choose_beverages_for_your_party&amp;rev=1360921255&amp;do=diff</link>
         <description>When you're having a party, there are a number of facets to consider when you are trying to select liquids. That which you present to drink is going to be very different at Christmastime than in the summertime, or if your celebration is late morning versus early night. As will the type of tone you wish to set, where your party is located will also help you know what to serve. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Some thing for Everybody &lt;br /&gt;It is important when having a celebration to include everyone's drink st…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=characteristics_of_drain_cleaning&amp;rev=1360916956&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-15T08:29:16+00:00</dc:date>
-        <dc:creator>twana56</dc:creator>
-        <title>characteristics_of_drain_cleaning - created</title>
-        <link>http://proa.me/wiki/doku.php?id=characteristics_of_drain_cleaning&amp;rev=1360916956&amp;do=diff</link>
-        <description>&lt;p&gt;ZippyRooter® of Mt Pleasant SC are a various group of expert contractors licensed within the restore and cleansing of drains. Home house owners and companies alike can discover the closest ZippyRooter® in Mt Pleasant SC for drain cleansing or another plumbing emergency. You expect the most effective and whenever you count on ZippyRooter® of Mt Pleasant SC, you get the BEST Drain Cleaning contractors in Mt Pleasant SC. You can find uncared for piping system in several households. Like other ho…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=xrumer.edu_back_web_link_packages&amp;rev=1360911131&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-15T06:52:11+00:00</dc:date>
-        <dc:creator>carma21</dc:creator>
-        <title>xrumer.edu_back_web_link_packages - created</title>
-        <link>http://proa.me/wiki/doku.php?id=xrumer.edu_back_web_link_packages&amp;rev=1360911131&amp;do=diff</link>
-        <description>It's everybody's dream to have their websites rated initially in every search engine. Thinking about exactly how profitable you would certainly be if your potential customers found your internet site at the best of the effects got at the end of the key words utilized in your industry or line of work. The majority of companiess deal great back hyperlink services, there are a number of solutions ranging from a couple of back web links to hundred or hundred of back web links.&lt;br /&gt;&lt;br /&gt;Xrumer.edu …</description>
     </item>
 </rdf:RDF>

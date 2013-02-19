@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-16T23:43:52+00:00</dc:date>
+       <dc:date>2013-02-19T14:50:01+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=1st_new_zealand_proa_congress&amp;rev=1343106838&amp;do=diff"/>
@@ -24,10 +24,12 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=building_pjoa&amp;rev=1342946455&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=characteristics_of_drain_cleaning&amp;rev=1360916956&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=dave_s_ulua&amp;rev=1347874476&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=different_colors_and_ideas_for_interiors_for_home&amp;rev=1361224625&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=downloading_free_music_to_itunes&amp;rev=1360875909&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=downloading_music_online_-_stop_wasting_money&amp;rev=1360967361&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=eliminate_your_back_pain_with_these_tips&amp;rev=1360617687&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=enter_the_best_form_of_your_life_nowadays&amp;rev=1360418576&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fantastic_advice_if_you_have_back_pain&amp;rev=1361213926&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=film_marketing_proof_for_atlanta_locally_advertising&amp;rev=1360946407&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=find_out_home_improvement_and_how_you_can_live_in_a_much_better_place&amp;rev=1360875090&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=free_music_is_all_over_the_web&amp;rev=1360954293&amp;do=diff"/>
@@ -43,10 +45,12 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_raise_a_dog_and_what_does_it_cost_to_raise_a_dog&amp;rev=1359048372&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_raise_the_perfect_dog_makes_raising_a_puppy_fun&amp;rev=1359209868&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=individuals_trust_mechanics_with_auto_fixing&amp;rev=1361043096&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=innovative_designer_furniture_in_australia&amp;rev=1361224175&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=is_known_through_web_video_campaigning&amp;rev=1360952937&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_bieber_-_the_story_so_far&amp;rev=1359911084&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=justin_timberlake_taytoos&amp;rev=1359915496&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=korari&amp;rev=1346284267&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=learn_the_best_property_deal_into_taylor_michigan_real_estate&amp;rev=1361228636&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=learning_about_the_opportunities_at_home_company&amp;rev=1360520509&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=led_zeppelin_-_creators_of_heavy_metal&amp;rev=1360185891&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=legalsounds_-_a_review&amp;rev=1360433908&amp;do=diff"/>
@@ -54,6 +58,7 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=leon_c_boats&amp;rev=1346892964&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=make_the_best_from_your_property_using_these_home_remodeling_tips&amp;rev=1360784653&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=marina&amp;rev=1350419275&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=methods_to_publish_information_that_individuals_want_to_read&amp;rev=1361064078&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=most_of_the_growing_trend_of_online_successful&amp;rev=1360961850&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=obtain_the_body_you_ve_always_dreamed_of&amp;rev=1360881349&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=or_even_more_video_marketing_tips_that_send_results&amp;rev=1360962741&amp;do=diff"/>
@@ -76,17 +81,19 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=short_dragon&amp;rev=1343818620&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sidecar&amp;rev=1343818223&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sociable_media_and_car_restore_advertising_and_advertising&amp;rev=1360902909&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=specific_use_of_cool_mist_humidifiers&amp;rev=1361228188&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=spotify_-_the_review&amp;rev=1360492268&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=squid&amp;rev=1342492880&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start&amp;rev=1360835362&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=start_your_home_based_business_using_these_tips&amp;rev=1360516265&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem&amp;rev=1345955830&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1360838177&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1361178685&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=te_wheke&amp;rev=1342156067&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=techniques_to_use_typography_effectively_within_web_design&amp;rev=1360532583&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_appeal_of_rihanna&amp;rev=1360264546&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_fundamentals_of_a_company_card_design_style_informer&amp;rev=1360525248&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_six_best_digital_music_download_sites&amp;rev=1360482070&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_to_make_your_fitness_goals_more_achievable&amp;rev=1361221082&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=trouble_shooting_car_electrical_problems&amp;rev=1361037099&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=unlimited_music_downloads_-_tips_on_downloading_music_mp3&amp;rev=1360784241&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=website_hosting_find_some_cheap_domains_and_hosting_services&amp;rev=1360746815&amp;do=diff"/>
@@ -201,6 +208,13 @@ The Roof Rack
 
 I modded my basic car roof racks way back for my first boat. The rough and ready setup is still doing good service. The racks were simple 1” box section. I sandwiched each cross bar with 2 lengths of timber (approx 4”x1”, actually slightly less), posidrive wood screws through both pieces of wood (but not the metal bars!) clamp and retain them to the crossbar. This was done to give somewhere to attach the business part of the structure. Two pieces of …</description>
     </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=different_colors_and_ideas_for_interiors_for_home&amp;rev=1361224625&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-18T21:57:05+00:00</dc:date>
+        <title>different_colors_and_ideas_for_interiors_for_home</title>
+        <link>http://proa.me/wiki/doku.php?id=different_colors_and_ideas_for_interiors_for_home&amp;rev=1361224625&amp;do=diff</link>
+        <description>Many less mature individuals have exact preferences when considering their bedroom furniture columbus oh. Some you need doing, get some of the whole family interested and mixed up by having fun. The file space beneath a platform bed or just a conventional bed in these epidermis rooms simply becomes wasted distance. Perhaps even you've seen bedrooms in magazines, on television or at other's homes and have decided so elements of those would look at just right in your rather own room?&lt;br /&gt;&lt;br /&gt;On…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=downloading_free_music_to_itunes&amp;rev=1360875909&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-14T21:05:09+00:00</dc:date>
@@ -228,6 +242,13 @@ I modded my basic car roof racks way back for my first boat. The rough and ready
         <title>enter_the_best_form_of_your_life_nowadays</title>
         <link>http://proa.me/wiki/doku.php?id=enter_the_best_form_of_your_life_nowadays&amp;rev=1360418576&amp;do=diff</link>
         <description>It's hard to know where to start to become match. The tips in this article will enable you to begin your fitness journey the proper way, without obtaining discouraged. Use the health and fitness advice here if you wish to be healthy. There is good reason that fitness equipment for home has become selected as the very best brand of the year.&lt;br /&gt;&lt;br /&gt;There is absolutely no reason to show concern physical activity. Bicycling is another excellent fitness exercise. You can alternate your work comm…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=fantastic_advice_if_you_have_back_pain&amp;rev=1361213926&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-18T18:58:46+00:00</dc:date>
+        <title>fantastic_advice_if_you_have_back_pain</title>
+        <link>http://proa.me/wiki/doku.php?id=fantastic_advice_if_you_have_back_pain&amp;rev=1361213926&amp;do=diff</link>
+        <description>Back again pains are extremely common: 80% of the populace experience back pains at some time in their life. However before you worry, give the ideas and insights in this posting a try. Hopefully, the information here will help you reduce your discomfort.&lt;br /&gt;&lt;br /&gt;To quickly reduce the pain, compress the back. Wrapping the back will not only compress it but will also slow up the range of motion, assisting along the way of healing. It is important to refrain from tight wraps. If you need to sit…</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=film_marketing_proof_for_atlanta_locally_advertising&amp;rev=1360946407&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -344,6 +365,13 @@ Two Seabirds (3.2 metre una rig whaler types) 2 crew each. Les Read/Chris Todd  
         <link>http://proa.me/wiki/doku.php?id=individuals_trust_mechanics_with_auto_fixing&amp;rev=1361043096&amp;do=diff</link>
         <description>They also ensure that each and every vehicles are inspected daily to ensure they are in good busy conditions before they are worked. They are often portrayed in the role of modern cowboys and rip-off mediators. By enrolling operating in continuing education courses, massage experienced therapist can refresh their knowledge at ethics, body hydraulic fittings, and established massage techniques to stay high to date within the location and also promote their professional and professional developmen…</description>
     </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=innovative_designer_furniture_in_australia&amp;rev=1361224175&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-18T21:49:35+00:00</dc:date>
+        <title>innovative_designer_furniture_in_australia</title>
+        <link>http://proa.me/wiki/doku.php?id=innovative_designer_furniture_in_australia&amp;rev=1361224175&amp;do=diff</link>
+        <description>Many more youthful individuals have exact preferences in regard to their bedroom furniture broyhill. Regardless of you need doing, get the very whole family interested and gathered by having fun. The floor space beneath a platform bed or possibly conventional bed in these pores and skin rooms simply becomes wasted area. Perhaps even you've seen bedrooms in magazines, on television or at other's homes and have decided who seem to elements of those would seem to be just right in your unique room?&lt;…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=is_known_through_web_video_campaigning&amp;rev=1360952937&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-15T18:28:57+00:00</dc:date>
@@ -377,6 +405,13 @@ Background info is below, at the top here is a 'most recent first' diary of work
 23 November 2009
 
 I've been making a bit of progress, slow and sporadic. Saw the NZ Proa meet come and go, yeah I had plans to be there... Temperatures are warming up, slowly, summer is a late starter this year so I'm using that as my excuse. I've been doing bits and pieces after work in evenings, had a slow sunday (after a hard saturday night) and so I rounde…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=learn_the_best_property_deal_into_taylor_michigan_real_estate&amp;rev=1361228636&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-18T23:03:56+00:00</dc:date>
+        <title>learn_the_best_property_deal_into_taylor_michigan_real_estate</title>
+        <link>http://proa.me/wiki/doku.php?id=learn_the_best_property_deal_into_taylor_michigan_real_estate&amp;rev=1361228636&amp;do=diff</link>
+        <description>For me and my brother, it was anything from dense fortress to double-decker bus in the market to a spaceship from the present sci-fi film we watched. Owners should experience about the breed when selecting a dog bed. The first one is a new consequence of the increase in availability at these high-end ikea bedroom furniture beds, and you need to reason is probably the biggest. Other folks contain a material that may smooth for short haired properly trained dogs do not become irritated off the mat…</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=learning_about_the_opportunities_at_home_company&amp;rev=1360520509&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -452,6 +487,13 @@ Length: ??
 Beam: ??
 
 Weight: ??</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=methods_to_publish_information_that_individuals_want_to_read&amp;rev=1361064078&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-17T01:21:18+00:00</dc:date>
+        <title>methods_to_publish_information_that_individuals_want_to_read</title>
+        <link>http://proa.me/wiki/doku.php?id=methods_to_publish_information_that_individuals_want_to_read&amp;rev=1361064078&amp;do=diff</link>
+        <description>Why are you currently reading this content? Simple - because of the name. A good post title may attract readers, which increases site visitors. That is why post writers devote time planning, thinking and redrafting maximum clicks to be ensured by their article titles. Whether or not this may be the search engine results entries or the post directory listings, it is constantly the content name which decides whether your fictional creation may ever be seen or attract readers, visitors and prospect…</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=most_of_the_growing_trend_of_online_successful&amp;rev=1360961850&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -657,6 +699,13 @@ It is not a proa.  Still, I'm using the new wikiproa home to make a quick web pa
         <link>http://proa.me/wiki/doku.php?id=sociable_media_and_car_restore_advertising_and_advertising&amp;rev=1360902909&amp;do=diff</link>
         <description>Currently the mobile market is huge and as well as it's only growing. The phone comes with a substantial internal memory of 100 Megabytes but this can be enhanced upon by utilising the sd card slot which is built in the unit.&lt;br /&gt;&lt;br /&gt;The actual mobile market is huge as well as , it's only growing. Forget yahoo or hotmail. The customer can achieve this through advertising campaigns strategically placed along the unrestricted networking site will significantly draw people toward your business d…</description>
     </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=specific_use_of_cool_mist_humidifiers&amp;rev=1361228188&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-18T22:56:28+00:00</dc:date>
+        <title>specific_use_of_cool_mist_humidifiers</title>
+        <link>http://proa.me/wiki/doku.php?id=specific_use_of_cool_mist_humidifiers&amp;rev=1361228188&amp;do=diff</link>
+        <description>For me and my brother, it was anything from impassable fortress to double-decker bus in which to a spaceship from the current sci-fi film we watched. Owners should believe about the breed when making a choice on a dog bed. The first one is in order to the increase in availability at these high-end bedroom furniture at wholesale price in ma, and confidence is also reason is probably the biggest. Certain people contain a material that is without a doubt smooth for short haired pet dogs do not beco…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=spotify_-_the_review&amp;rev=1360492268&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-10T10:31:08+00:00</dc:date>
@@ -706,16 +755,14 @@ For a sail without a jib you may want the draft in the sail a bit further back.
 
 SO, don't worry about some wrinkles, as long as the general shape of the sail is good. Wade, looks like your battens might be too stiff. It is also possible that the sail is just not cut with enough belly. The more you tighten up the battens, the more…</description>
     </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1360838177&amp;do=diff">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1361178685&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2013-02-14T10:36:17+00:00</dc:date>
+        <dc:date>2013-02-18T09:11:25+00:00</dc:date>
         <title>tdem_s_boat</title>
-        <link>http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1360838177&amp;do=diff</link>
+        <link>http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1361178685&amp;do=diff</link>
         <description>This page has some info on my boat currently in progress. Reverse chronological order.
 
-Yesterday didn't get much done due to sailing. Attached one of the bulkheads to the sides temporarily, and played around with the frame spacing etc.
-
-Today dry fitted one hull half, almost finished dry fitting the other. That is without the centre frames, which I'll probably end up making this weekend. I can't take the boat home this weekend because upon return it wouldn't fit into my car anymore.</description>
+Well, didn't get anything done this weekend. Today discovered a crack in one of the gunwales, which I put a doubler piece over. Then started making the two centre frames. I measured and drew every angle about three times, screwing up my measurements all the time. Then cut all the pieces, screwed up a couple of cuts (it was dark and my saw blunt). Then decided after all that measuring that I wanted to change t…</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=te_wheke&amp;rev=1342156067&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -764,6 +811,13 @@ construction ply. The main issue is the totally flat lee side of the waka hull.<
         <title>the_six_best_digital_music_download_sites</title>
         <link>http://proa.me/wiki/doku.php?id=the_six_best_digital_music_download_sites&amp;rev=1360482070&amp;do=diff</link>
         <description>Fewer folks are downloading music in the world-wide-web illegally than ever ahead of, based on a report this week from Entertainment Media Analysis.&lt;br /&gt;&lt;br /&gt;The study in portion attributes this decrease to consumers' fears that world wide web service providers will cut off their web access if they're found to be illegally downloading or sharing songs.&lt;br /&gt;&lt;br /&gt;That was terrific in case you owned an iPod, but not significantly assistance should you employed a further music player - most song…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=tips_to_make_your_fitness_goals_more_achievable&amp;rev=1361221082&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-18T20:58:02+00:00</dc:date>
+        <title>tips_to_make_your_fitness_goals_more_achievable</title>
+        <link>http://proa.me/wiki/doku.php?id=tips_to_make_your_fitness_goals_more_achievable&amp;rev=1361221082&amp;do=diff</link>
+        <description>It's hard to know where to begin to become fit. The tips within this article will allow you to begin your health and fitness journey the right way, without obtaining discouraged. Use the fitness advice here if you wish to be healthy. There is certainly great reason that treadmill reviews has been voted to be the ideal brand of the year.&lt;br /&gt;&lt;br /&gt;If you want to develop your own muscle mass, try raising heavier weights and doing much less reps. Before you begin exercising, select a muscle group.…</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=trouble_shooting_car_electrical_problems&amp;rev=1361037099&amp;do=diff">
         <dc:format>text/html</dc:format>

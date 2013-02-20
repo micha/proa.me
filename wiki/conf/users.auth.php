@@ -96,3 +96,5 @@ francie611:REDACTED:Boyd Root:edgar@al-election2001.net:user
 margaret14:REDACTED:Ronny Poe:mccallinsafelist@gmail.com:user
 mammie138:REDACTED:Anglea Horvath:bruce23@06worlds.com:user
 britta276:REDACTED:Gabrielle Wisdom:bruce23@06worlds.com:user
+lynda569:REDACTED:Marilou Choe:tedr@06worlds.com:user
+toya647:REDACTED:Almeda Favela:tedr@06worlds.com:user

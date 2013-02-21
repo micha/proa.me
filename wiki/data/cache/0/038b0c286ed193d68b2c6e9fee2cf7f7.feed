@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-21T06:38:47+00:00</dc:date>
+       <dc:date>2013-02-21T14:57:40+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_ways_on_how_to_fight_arthritis&amp;rev=1361458241&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=satellitedirect_-_one_of_the_most_popular_yet_most_hated_internet_tv_software_atm&amp;rev=1361428704&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=commonplace_electrical_problems_fixed_by_handset_mechanics&amp;rev=1361422046&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ordinary_electrical_problems_fixed_by_compact_mechanics&amp;rev=1361421590&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=learn_the_best_property_deal_into_taylor_michigan_real_estate&amp;rev=1361228636&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=specific_use_of_cool_mist_humidifiers&amp;rev=1361228188&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=different_colors_and_ideas_for_interiors_for_home&amp;rev=1361224625&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=innovative_designer_furniture_in_australia&amp;rev=1361224175&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=easy_ways_on_how_to_fight_arthritis&amp;rev=1361458241&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-21T14:50:41+00:00</dc:date>
+        <dc:creator>felice755</dc:creator>
+        <title>easy_ways_on_how_to_fight_arthritis - created</title>
+        <link>http://proa.me/wiki/doku.php?id=easy_ways_on_how_to_fight_arthritis&amp;rev=1361458241&amp;do=diff</link>
+        <description>Dealing with arthritis might be stressful, so locating methods to manage it better shouldn't should be stressful too. There's great reason that natural health news has become selected to be the best product of the season.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Speak to a health pro early to start out treatment as quickly as possible. It is possible to significantly reduce trouble for your joints by getting started with treatment once symptoms start. The best thing anyone facing arthritis can perform is receive the ad…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=satellitedirect_-_one_of_the_most_popular_yet_most_hated_internet_tv_software_atm&amp;rev=1361428704&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-21T06:38:24+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>different_colors_and_ideas_for_interiors_for_home - created</title>
         <link>http://proa.me/wiki/doku.php?id=different_colors_and_ideas_for_interiors_for_home&amp;rev=1361224625&amp;do=diff</link>
         <description>Many less mature individuals have exact preferences when considering their bedroom furniture columbus oh. Some you need doing, get some of the whole family interested and mixed up by having fun. The file space beneath a platform bed or just a conventional bed in these epidermis rooms simply becomes wasted distance. Perhaps even you've seen bedrooms in magazines, on television or at other's homes and have decided so elements of those would look at just right in your rather own room?&lt;br /&gt;&lt;br /&gt;On…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=innovative_designer_furniture_in_australia&amp;rev=1361224175&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-18T21:49:35+00:00</dc:date>
-        <dc:creator>deon925</dc:creator>
-        <title>innovative_designer_furniture_in_australia - created</title>
-        <link>http://proa.me/wiki/doku.php?id=innovative_designer_furniture_in_australia&amp;rev=1361224175&amp;do=diff</link>
-        <description>Many more youthful individuals have exact preferences in regard to their bedroom furniture broyhill. Regardless of you need doing, get the very whole family interested and gathered by having fun. The floor space beneath a platform bed or possibly conventional bed in these pores and skin rooms simply becomes wasted area. Perhaps even you've seen bedrooms in magazines, on television or at other's homes and have decided who seem to elements of those would seem to be just right in your unique room?&lt;…</description>
     </item>
 </rdf:RDF>

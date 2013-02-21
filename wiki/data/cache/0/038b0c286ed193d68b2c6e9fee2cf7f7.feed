@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-21T16:19:31+00:00</dc:date>
+       <dc:date>2013-02-21T19:44:13+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=self_help_tips_everyone_may_find_useful&amp;rev=1361475830&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_ways_regarding_how_to_fight_arthritis&amp;rev=1361463159&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ordinary_electrical_problems_fixed_by_compact_mechanics&amp;rev=1361421590&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1361178685&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd02.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd01.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Adscf5134.jpg&amp;ns=dave_p&amp;rev=1347873259&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=self_help_tips_everyone_may_find_useful&amp;rev=1361475830&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-21T19:43:50+00:00</dc:date>
+        <dc:creator>amada295</dc:creator>
+        <title>self_help_tips_everyone_may_find_useful - created</title>
+        <link>http://proa.me/wiki/doku.php?id=self_help_tips_everyone_may_find_useful&amp;rev=1361475830&amp;do=diff</link>
+        <description>If you feel that you haven't been making enough progress within your self improvement desired goals, this post is a great destination to have landed. Keep your chin up and understand that with the increased expertise, your personal improvement success is guaranteed, so examine this article and see what tips affect you and the self improvement goals - size genetics.&lt;br /&gt;&lt;br /&gt;Set up practical desired goals that you could achieve, possible desired goals for your self.If you realise what your weak…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=easy_ways_regarding_how_to_fight_arthritis&amp;rev=1361463159&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-21T16:12:39+00:00</dc:date>
@@ -195,13 +203,5 @@ Well, didn't get anything done this weekend. Today discovered a crack in one of 
         <title>dave_p:sguluachd01.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd01.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=387t=1347873277&amp;amp;media=dave_p:sguluachd01.jpg&quot; alt=&quot;dave_p:sguluachd01.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Adscf5134.jpg&amp;ns=dave_p&amp;rev=1347873259&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:19+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:dscf5134.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Adscf5134.jpg&amp;ns=dave_p&amp;rev=1347873259&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=333&amp;h=500t=1347873259&amp;amp;media=dave_p:dscf5134.jpg&quot; alt=&quot;dave_p:dscf5134.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

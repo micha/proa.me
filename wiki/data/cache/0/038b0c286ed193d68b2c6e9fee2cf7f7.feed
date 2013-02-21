@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-21T20:34:56+00:00</dc:date>
+       <dc:date>2013-02-21T21:56:47+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=getting_into_good_shape-_all_in_your_reach&amp;rev=1361483792&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_joy_in_retirement_life_and_expanding_as_a_person&amp;rev=1361481078&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=excellent_and_easy_guidance_for_profitable_personal_development&amp;rev=1361478874&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=self_help_tips_everyone_may_find_useful&amp;rev=1361475830&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_ways_regarding_how_to_fight_arthritis&amp;rev=1361463159&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2215.jpg&amp;ns=tdem&amp;rev=1360836481&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=marina%3Apacific_bee.jpg&amp;ns=marina&amp;rev=1350418335&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply02.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd02.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,22 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=getting_into_good_shape-_all_in_your_reach&amp;rev=1361483792&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-21T21:56:32+00:00</dc:date>
+        <dc:creator>katherin972</dc:creator>
+        <title>getting_into_good_shape-_all_in_your_reach - created</title>
+        <link>http://proa.me/wiki/doku.php?id=getting_into_good_shape-_all_in_your_reach&amp;rev=1361483792&amp;do=diff</link>
+        <description>Fitness is a crucial part of staying healthy. You can live a healthier and much more enjoyable life when you are in good physical shape.In order to increase your health, keep reading.There is always acceptable reason that Read This is actually selected to be the very best result of year.&lt;br /&gt;&lt;br /&gt;Doing sit-ups correctly can cause back discomfort. Make the most of a Swiss ball by placing a rolled towel below your body to have the same effect as anchoring. Anchoring the feet if you perform sit u…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=get_joy_in_retirement_life_and_expanding_as_a_person&amp;rev=1361481078&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-21T21:11:18+00:00</dc:date>
+        <dc:creator>leland125</dc:creator>
+        <title>get_joy_in_retirement_life_and_expanding_as_a_person - created</title>
+        <link>http://proa.me/wiki/doku.php?id=get_joy_in_retirement_life_and_expanding_as_a_person&amp;rev=1361481078&amp;do=diff</link>
+        <description>Do you want to live a much better one particular?The following advice will help make transitioning to the new you develop your individual qualities.&lt;br /&gt;&lt;br /&gt;A vital little self improvement is to take care of your body effectively.If you think dehydrated, thirsty, that you have to eat or drink anything, you should proper that issue straight away. This will enable your body deal with you must in the road.Fat loss is not the sole cause to exercise - Read This. There are several emotional and phy…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=excellent_and_easy_guidance_for_profitable_personal_development&amp;rev=1361478874&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-21T20:34:34+00:00</dc:date>
@@ -187,21 +203,5 @@ Well, didn't get anything done this weekend. Today discovered a crack in one of 
         <title>dave_p:sguluaply02.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply02.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873280&amp;amp;media=dave_p:sguluaply02.jpg&quot; alt=&quot;dave_p:sguluaply02.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:40+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:sguluaply03.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluaply03.jpg&amp;ns=dave_p&amp;rev=1347873280&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=333t=1347873280&amp;amp;media=dave_p:sguluaply03.jpg&quot; alt=&quot;dave_p:sguluaply03.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd02.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-09-17T09:14:37+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>dave_p:sguluachd02.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=dave_p%3Asguluachd02.jpg&amp;ns=dave_p&amp;rev=1347873277&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=156t=1347873277&amp;amp;media=dave_p:sguluachd02.jpg&quot; alt=&quot;dave_p:sguluachd02.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

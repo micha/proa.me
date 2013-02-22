@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-22T09:39:47+00:00</dc:date>
+       <dc:date>2013-02-22T11:02:48+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_best_advice_home_based_improvement_for_you&amp;rev=1361530946&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advice_for_getting_fit_and_staying_fit&amp;rev=1361525960&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=unbiased_report_exposes_the_unanswered_questions_on_web_site_design&amp;rev=1361519258&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fitness_methods_for_all-day_energy&amp;rev=1361519155&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2227.jpg&amp;ns=tdem&amp;rev=1360836617&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2222.jpg&amp;ns=tdem&amp;rev=1360836567&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2220.jpg&amp;ns=tdem&amp;rev=1360836537&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2235.jpg&amp;ns=tdem&amp;rev=1360836512&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_best_advice_home_based_improvement_for_you&amp;rev=1361530946&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-22T11:02:26+00:00</dc:date>
+        <dc:creator>ernie855</dc:creator>
+        <title>the_best_advice_home_based_improvement_for_you - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_best_advice_home_based_improvement_for_you&amp;rev=1361530946&amp;do=diff</link>
+        <description>Redesigning projects usually must be done from time to time to produce your home seem like new. You are designed for the jobs yourself. The tips it is possible to assist you to. There's acceptable reason that Read This has been selected as the top product of year.&lt;br /&gt;&lt;br /&gt;Try and get a professional to do your own home improvement plans so you may not come upon a disaster. The cost involved is worth it exclusively for the reassurance it is going to have!&lt;br /&gt;&lt;br /&gt;A handy little tip for incre…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=advice_for_getting_fit_and_staying_fit&amp;rev=1361525960&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-22T09:39:20+00:00</dc:date>
@@ -195,13 +203,5 @@ Well, didn't get anything done this weekend. Today discovered a crack in one of 
         <title>tdem:dscf2220.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2220.jpg&amp;ns=tdem&amp;rev=1360836537&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836537&amp;amp;media=tdem:dscf2220.jpg&quot; alt=&quot;tdem:dscf2220.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=tdem%3Adscf2235.jpg&amp;ns=tdem&amp;rev=1360836512&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-14T10:08:32+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>tdem:dscf2235.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2235.jpg&amp;ns=tdem&amp;rev=1360836512&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836512&amp;amp;media=tdem:dscf2235.jpg&quot; alt=&quot;tdem:dscf2235.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

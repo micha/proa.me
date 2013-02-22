@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-22T07:46:05+00:00</dc:date>
+       <dc:date>2013-02-22T09:39:47+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advice_for_getting_fit_and_staying_fit&amp;rev=1361525960&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=unbiased_report_exposes_the_unanswered_questions_on_web_site_design&amp;rev=1361519258&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fitness_methods_for_all-day_energy&amp;rev=1361519155&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=getting_into_good_shape-_all_in_your_reach&amp;rev=1361483792&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_joy_in_retirement_life_and_expanding_as_a_person&amp;rev=1361481078&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2222.jpg&amp;ns=tdem&amp;rev=1360836567&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2220.jpg&amp;ns=tdem&amp;rev=1360836537&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2235.jpg&amp;ns=tdem&amp;rev=1360836512&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2215.jpg&amp;ns=tdem&amp;rev=1360836481&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=marina%3Apacific_bee.jpg&amp;ns=marina&amp;rev=1350418335&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,22 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=advice_for_getting_fit_and_staying_fit&amp;rev=1361525960&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-22T09:39:20+00:00</dc:date>
+        <dc:creator>roland192</dc:creator>
+        <title>advice_for_getting_fit_and_staying_fit - created</title>
+        <link>http://proa.me/wiki/doku.php?id=advice_for_getting_fit_and_staying_fit&amp;rev=1361525960&amp;do=diff</link>
+        <description>Total fitness is about more than looking your best. Living a long and good life is part of it too. Adopt the proper attitude to transform your lifestyle for the best. Different types of exercises are available to keep your workouts fresh and interesting.&lt;br /&gt;&lt;br /&gt;Try eating pears and apples to better your fitness and health. It is a well-established fact that a diet rich in vegetables and fruits will lead to a healthy body. Walking your dog is a great way to immerse yourself in a fitness routi…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=unbiased_report_exposes_the_unanswered_questions_on_web_site_design&amp;rev=1361519258&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-22T07:47:38+00:00</dc:date>
+        <dc:creator>sunshine322</dc:creator>
+        <title>unbiased_report_exposes_the_unanswered_questions_on_web_site_design - created</title>
+        <link>http://proa.me/wiki/doku.php?id=unbiased_report_exposes_the_unanswered_questions_on_web_site_design&amp;rev=1361519258&amp;do=diff</link>
+        <description>&lt;p&gt;India is having a number of companies however maximum remains to be trying itself to get into that position. They can make their very own area name / URL host deal with based on their will with the assistance of CMS called content management system. They can give provides about their firm by given different merchandise what you might be selling which they want the customer's to see the product and work together in accordance with shoppers needs or necessities. website positioning friendly web…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=fitness_methods_for_all-day_energy&amp;rev=1361519155&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-22T07:45:55+00:00</dc:date>
@@ -187,21 +203,5 @@ Well, didn't get anything done this weekend. Today discovered a crack in one of 
         <title>tdem:dscf2235.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2235.jpg&amp;ns=tdem&amp;rev=1360836512&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836512&amp;amp;media=tdem:dscf2235.jpg&quot; alt=&quot;tdem:dscf2235.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=tdem%3Adscf2215.jpg&amp;ns=tdem&amp;rev=1360836481&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-14T10:08:01+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>tdem:dscf2215.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2215.jpg&amp;ns=tdem&amp;rev=1360836481&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836481&amp;amp;media=tdem:dscf2215.jpg&quot; alt=&quot;tdem:dscf2215.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=marina%3Apacific_bee.jpg&amp;ns=marina&amp;rev=1350418335&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2012-10-16T20:12:15+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>marina:pacific_bee.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=marina%3Apacific_bee.jpg&amp;ns=marina&amp;rev=1350418335&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=264t=1350418335&amp;amp;media=marina:pacific_bee.jpg&quot; alt=&quot;marina:pacific_bee.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-22T15:45:29+00:00</dc:date>
+       <dc:date>2013-02-22T18:29:00+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=simple_home_improvement_tips_to_increase_the_value_of_your_home&amp;rev=1361557719&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_things_to_do_to_make_your_house_elegant&amp;rev=1361547903&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=redesigning_advice_that_can_help_you_save_time_and_cash&amp;rev=1361540841&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_best_advice_home_based_improvement_for_you&amp;rev=1361530946&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2226.jpg&amp;ns=tdem&amp;rev=1360836694&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2228.jpg&amp;ns=tdem&amp;rev=1360836663&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2225.jpg&amp;ns=tdem&amp;rev=1360836642&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2227.jpg&amp;ns=tdem&amp;rev=1360836617&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=simple_home_improvement_tips_to_increase_the_value_of_your_home&amp;rev=1361557719&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-22T18:28:39+00:00</dc:date>
+        <dc:creator>elke626</dc:creator>
+        <title>simple_home_improvement_tips_to_increase_the_value_of_your_home - created</title>
+        <link>http://proa.me/wiki/doku.php?id=simple_home_improvement_tips_to_increase_the_value_of_your_home&amp;rev=1361557719&amp;do=diff</link>
+        <description>There are plenty of home tasks to take care of if you have an understanding of how to complete all of them. There are a great number of suggestions in this article to create your projects to our lives. Take time to absorb this knowledge and use it to obtain the best effect.&lt;br /&gt;&lt;br /&gt;Homeowners should use their best judgement when dealing with a service provider. Sometimes getting a second opinion is the best option. Even well-respected contractors can turn your original project into one that's…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=easy_things_to_do_to_make_your_house_elegant&amp;rev=1361547903&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-22T15:45:03+00:00</dc:date>
@@ -195,13 +203,5 @@ Well, didn't get anything done this weekend. Today discovered a crack in one of 
         <title>tdem:dscf2225.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2225.jpg&amp;ns=tdem&amp;rev=1360836642&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836642&amp;amp;media=tdem:dscf2225.jpg&quot; alt=&quot;tdem:dscf2225.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=tdem%3Adscf2227.jpg&amp;ns=tdem&amp;rev=1360836617&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-14T10:10:17+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>tdem:dscf2227.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2227.jpg&amp;ns=tdem&amp;rev=1360836617&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836617&amp;amp;media=tdem:dscf2227.jpg&quot; alt=&quot;tdem:dscf2227.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

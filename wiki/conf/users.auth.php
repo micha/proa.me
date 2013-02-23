@@ -132,3 +132,5 @@ rashida456:REDACTED:Vina Reider:nawtygirlie2011@gmail.com:user
 nancie816:REDACTED:Walter Bolden:shareinsect9@hotmail.com:user
 hopecrythe:REDACTED:Hope Crythe:hopecrythe@myblogtribe.com:user
 xxjudy713:REDACTED:Randa Palacios:FrankCunninghamd9497@hotmail.com:user
+prudence651:REDACTED:Sol Merriam:7nC8YUD0@gmail.com:user
+lavera495:REDACTED:Ross Deal:Xid8rH8k@gmail.com:user

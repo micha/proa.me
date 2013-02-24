@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-24T19:21:22+00:00</dc:date>
+       <dc:date>2013-02-24T20:07:20+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advice_on_enhancing_ones_private_health_and_fitness&amp;rev=1361736416&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wonderful_advice_if_you_have_back_pain&amp;rev=1361733662&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_definition_of_asset_management&amp;rev=1361715734&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=you_could_have_bad_personal_credit_history_and_not_even_know_it&amp;rev=1361681252&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_ways_regarding_how_to_fight_arthritis&amp;rev=1361463159&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ordinary_electrical_problems_fixed_by_compact_mechanics&amp;rev=1361421590&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1361178685&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=assistance_technician_interview_questions&amp;rev=1361042551&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=advice_on_enhancing_ones_private_health_and_fitness&amp;rev=1361736416&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-24T20:06:56+00:00</dc:date>
+        <dc:creator>hopecrythe</dc:creator>
+        <title>advice_on_enhancing_ones_private_health_and_fitness - created</title>
+        <link>http://proa.me/wiki/doku.php?id=advice_on_enhancing_ones_private_health_and_fitness&amp;rev=1361736416&amp;do=diff</link>
+        <description>Thinking about getting healthy and in form gets several people uncomfortable. Lots of people find it difficult as the years begin to come on to stay fit. Sometime injuries and other creaks and pains enter the method of achieving fitness goals. Understanding a few simple things about suitable fitness will make you more healthy and fit no matter where you have been in lifestyle.&lt;br /&gt;&lt;br /&gt;Individuals consume more nowadays than ever before. In the last 10 years we have added an average of 30 % ont…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=wonderful_advice_if_you_have_back_pain&amp;rev=1361733662&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-24T19:21:02+00:00</dc:date>
@@ -195,13 +203,5 @@
         <description>This page has some info on my boat currently in progress. Reverse chronological order.
 
 Well, didn't get anything done this weekend. Today discovered a crack in one of the gunwales, which I put a doubler piece over. Then started making the two centre frames. I measured and drew every angle about three times, screwing up my measurements all the time. Then cut all the pieces, screwed up a couple of cuts (it was dark and my saw blunt). Then decided after all that measuring that I wanted to change t…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=assistance_technician_interview_questions&amp;rev=1361042551&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-16T19:22:31+00:00</dc:date>
-        <dc:creator>shelton442</dc:creator>
-        <title>assistance_technician_interview_questions - created</title>
-        <link>http://proa.me/wiki/doku.php?id=assistance_technician_interview_questions&amp;rev=1361042551&amp;do=diff</link>
-        <description>They also ensure that almost all their vehicles are inspected daily with the intention that they are in good earning a living conditions before they are managed. They are often portrayed such as modern cowboys and rip-off chain stores. By enrolling located in continuing education courses, massage practitioners can refresh their knowledge connected with ethics, body hydraulic fracturing, and latest massage techniques to stay through to date within the line of work and also promote their incredibl…</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-24T14:22:39+00:00</dc:date>
+       <dc:date>2013-02-24T19:21:22+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wonderful_advice_if_you_have_back_pain&amp;rev=1361733662&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_definition_of_asset_management&amp;rev=1361715734&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=you_could_have_bad_personal_credit_history_and_not_even_know_it&amp;rev=1361681252&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=what_will_vimax_penis_enlargement_pills_do_for_me&amp;rev=1361640830&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ordinary_electrical_problems_fixed_by_compact_mechanics&amp;rev=1361421590&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1361178685&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=assistance_technician_interview_questions&amp;rev=1361042551&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Adscf2234.jpg&amp;ns=tdem&amp;rev=1360836706&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=wonderful_advice_if_you_have_back_pain&amp;rev=1361733662&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-24T19:21:02+00:00</dc:date>
+        <dc:creator>misty464</dc:creator>
+        <title>wonderful_advice_if_you_have_back_pain - created</title>
+        <link>http://proa.me/wiki/doku.php?id=wonderful_advice_if_you_have_back_pain&amp;rev=1361733662&amp;do=diff</link>
+        <description>In case you see a doctor about your back pain, they may not be able to do much for you other than prescribing sleep and pain killers. This article can give you a few suggestions that can assist you in dealing with pain within your back.&lt;br /&gt;&lt;br /&gt;Back surgery is one choice to discuss with your doctor in cases of serious back pain. The final resort should be surgery. Surgery may be the only strategy to certain conditions and accidental injuries that may cause back discomfort. Many of the simples…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=the_definition_of_asset_management&amp;rev=1361715734&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-24T14:22:14+00:00</dc:date>
@@ -195,13 +203,5 @@ Well, didn't get anything done this weekend. Today discovered a crack in one of 
         <title>assistance_technician_interview_questions - created</title>
         <link>http://proa.me/wiki/doku.php?id=assistance_technician_interview_questions&amp;rev=1361042551&amp;do=diff</link>
         <description>They also ensure that almost all their vehicles are inspected daily with the intention that they are in good earning a living conditions before they are managed. They are often portrayed such as modern cowboys and rip-off chain stores. By enrolling located in continuing education courses, massage practitioners can refresh their knowledge connected with ethics, body hydraulic fracturing, and latest massage techniques to stay through to date within the line of work and also promote their incredibl…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=tdem%3Adscf2234.jpg&amp;ns=tdem&amp;rev=1360836706&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-14T10:11:46+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>tdem:dscf2234.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=tdem%3Adscf2234.jpg&amp;ns=tdem&amp;rev=1360836706&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1360836706&amp;amp;media=tdem:dscf2234.jpg&quot; alt=&quot;tdem:dscf2234.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

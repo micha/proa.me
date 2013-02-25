@@ -142,3 +142,5 @@ quintin69:REDACTED:Jayne Heim:nickel0can@hotmail.com:user
 cinthia719:REDACTED:Nettie Raymond:wolfbrand6@hotmail.com:user
 noelle697:REDACTED:Elbert Petersen:authortrout24@hotmail.com:user
 meaghan313:REDACTED:Jerilyn Ratliff:peMcdobougalMaxilie@hotmail.com:user
+lyndsey331:REDACTED:Joni Digiacomo:2t8vM8hE@gmail.com:user
+mazie919:REDACTED:Elke Finkelstein:delete57chord@hotmail.com:user

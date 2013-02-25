@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-25T10:41:57+00:00</dc:date>
+       <dc:date>2013-02-25T11:45:30+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=methods_for_you_to_stop_struggling_with_back_pain&amp;rev=1361792711&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=locating_a_direct_manufacturer&amp;rev=1361788896&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=selling_your_old_cell_phone_is_terrific_for_numerous_reasons_besides_your_purse&amp;rev=1361769023&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advice_on_enhancing_ones_private_health_and_fitness&amp;rev=1361736416&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_joy_in_retirement_life_and_expanding_as_a_person&amp;rev=1361481078&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=excellent_and_easy_guidance_for_profitable_personal_development&amp;rev=1361478874&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=self_help_tips_everyone_may_find_useful&amp;rev=1361475830&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_ways_regarding_how_to_fight_arthritis&amp;rev=1361463159&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=methods_for_you_to_stop_struggling_with_back_pain&amp;rev=1361792711&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-25T11:45:11+00:00</dc:date>
+        <dc:creator>quintin69</dc:creator>
+        <title>methods_for_you_to_stop_struggling_with_back_pain - created</title>
+        <link>http://proa.me/wiki/doku.php?id=methods_for_you_to_stop_struggling_with_back_pain&amp;rev=1361792711&amp;do=diff</link>
+        <description>Usually each time a person visits a physician for back discomfort, there really isn't very much he can do other than prescribing medication and telling them not to overdo this. The insights here can be a valuable assist in controlling the pain related to back problems.&lt;br /&gt;&lt;br /&gt;Being overweight, pregnancy, bad position and poor lifting techniques are common causes for lower back discomfort. There are many things that can be done daily that can help prevent or ease pain in the back. Because eas…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=locating_a_direct_manufacturer&amp;rev=1361788896&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-25T10:41:36+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>self_help_tips_everyone_may_find_useful - created</title>
         <link>http://proa.me/wiki/doku.php?id=self_help_tips_everyone_may_find_useful&amp;rev=1361475830&amp;do=diff</link>
         <description>If you feel that you haven't been making enough progress within your self improvement desired goals, this post is a great destination to have landed. Keep your chin up and understand that with the increased expertise, your personal improvement success is guaranteed, so examine this article and see what tips affect you and the self improvement goals - size genetics.&lt;br /&gt;&lt;br /&gt;Set up practical desired goals that you could achieve, possible desired goals for your self.If you realise what your weak…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=easy_ways_regarding_how_to_fight_arthritis&amp;rev=1361463159&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-21T16:12:39+00:00</dc:date>
-        <dc:creator>felipa445</dc:creator>
-        <title>easy_ways_regarding_how_to_fight_arthritis - created</title>
-        <link>http://proa.me/wiki/doku.php?id=easy_ways_regarding_how_to_fight_arthritis&amp;rev=1361463159&amp;do=diff</link>
-        <description>Arthritis is a disorder that causes pain and difficult to move. It could affect your joints making them hard to flex or move. The guidelines will assist people suffering with arthritis cope better. There's many reasons that current health articles is actually voted as the top service of year.&lt;br /&gt;&lt;br /&gt;Acupuncture might be of assistance to you if you are a therapy that can be ideal for people that have chronic arthritis. Acupuncture may help alleviate pain that comes from arthritis. If this sou…</description>
     </item>
 </rdf:RDF>

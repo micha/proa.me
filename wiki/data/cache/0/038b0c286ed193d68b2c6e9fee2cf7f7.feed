@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-25T14:55:43+00:00</dc:date>
+       <dc:date>2013-02-25T15:29:35+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=joint_inflammation_so_you:how_to_handle_your_signs_or_symptoms&amp;rev=1361806147&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=confidential_information_on_video_gaming_industry_that_only_the_experts_know_exist&amp;rev=1361804118&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=simple_steps_on_how_to_get_rid_of_arthritis&amp;rev=1361801395&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=kick_back_pain_to_the_curb_forever&amp;rev=1361797393&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advice_for_getting_fit_and_staying_fit&amp;rev=1361525960&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=unbiased_report_exposes_the_unanswered_questions_on_web_site_design&amp;rev=1361519258&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fitness_methods_for_all-day_energy&amp;rev=1361519155&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=getting_into_good_shape-_all_in_your_reach&amp;rev=1361483792&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=joint_inflammation_so_you:how_to_handle_your_signs_or_symptoms&amp;rev=1361806147&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-25T15:29:07+00:00</dc:date>
+        <dc:creator>mazie919</dc:creator>
+        <title>joint_inflammation_so_you:how_to_handle_your_signs_or_symptoms - created</title>
+        <link>http://proa.me/wiki/doku.php?id=joint_inflammation_so_you:how_to_handle_your_signs_or_symptoms&amp;rev=1361806147&amp;do=diff</link>
+        <description>Do you suffer from the pain sensation of the joint disease? There are so many different instruments and this information is created to assist you live perfectly with joint disease. Continue reading for some valuable joint inflammation recommendations!&lt;br /&gt;&lt;br /&gt;Women who are suffering from rheumatoid arthritis should consider wearing a cushy jogging shoes.Black Cohosh is one naturally sourced dietary supplement that properly cuts down on the ache of joint inflammation. This may eliminate any so…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=confidential_information_on_video_gaming_industry_that_only_the_experts_know_exist&amp;rev=1361804118&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-25T14:55:18+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>fitness_methods_for_all-day_energy - created</title>
         <link>http://proa.me/wiki/doku.php?id=fitness_methods_for_all-day_energy&amp;rev=1361519155&amp;do=diff</link>
         <description>You don't have to spend countless hours at the gym in order to get fit and healthy. This guide will give you great tips that assist you achieve your workout goals, regardless if you are at the health club or elsewhere.&lt;br /&gt;&lt;br /&gt;Take your pet along. Pets really need exercise too. Research suggests that more than one-third of pets are heavier than they will be, so hitting the gym with them will help you achieve two things as well.Going for a power walk along with your pet for walks would benefit…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=getting_into_good_shape-_all_in_your_reach&amp;rev=1361483792&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-21T21:56:32+00:00</dc:date>
-        <dc:creator>katherin972</dc:creator>
-        <title>getting_into_good_shape-_all_in_your_reach - created</title>
-        <link>http://proa.me/wiki/doku.php?id=getting_into_good_shape-_all_in_your_reach&amp;rev=1361483792&amp;do=diff</link>
-        <description>Fitness is a crucial part of staying healthy. You can live a healthier and much more enjoyable life when you are in good physical shape.In order to increase your health, keep reading.There is always acceptable reason that Read This is actually selected to be the very best result of year.&lt;br /&gt;&lt;br /&gt;Doing sit-ups correctly can cause back discomfort. Make the most of a Swiss ball by placing a rolled towel below your body to have the same effect as anchoring. Anchoring the feet if you perform sit u…</description>
     </item>
 </rdf:RDF>

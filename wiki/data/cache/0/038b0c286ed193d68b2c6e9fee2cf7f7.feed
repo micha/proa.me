@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-25T05:10:42+00:00</dc:date>
+       <dc:date>2013-02-25T10:41:57+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=locating_a_direct_manufacturer&amp;rev=1361788896&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=selling_your_old_cell_phone_is_terrific_for_numerous_reasons_besides_your_purse&amp;rev=1361769023&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advice_on_enhancing_ones_private_health_and_fitness&amp;rev=1361736416&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wonderful_advice_if_you_have_back_pain&amp;rev=1361733662&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=excellent_and_easy_guidance_for_profitable_personal_development&amp;rev=1361478874&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=self_help_tips_everyone_may_find_useful&amp;rev=1361475830&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_ways_regarding_how_to_fight_arthritis&amp;rev=1361463159&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ordinary_electrical_problems_fixed_by_compact_mechanics&amp;rev=1361421590&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=locating_a_direct_manufacturer&amp;rev=1361788896&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-25T10:41:36+00:00</dc:date>
+        <dc:creator>amabelle919</dc:creator>
+        <title>locating_a_direct_manufacturer - created</title>
+        <link>http://proa.me/wiki/doku.php?id=locating_a_direct_manufacturer&amp;rev=1361788896&amp;do=diff</link>
+        <description>Obtaining a Direct Manufacturer&lt;br /&gt;&lt;br /&gt;Getting supplies from a direct manufacturer will be significantly beneficial to your organization.  With a direct manufacturer, you know who precisely who is accountable for the good quality of your wholesale items.  Its also a offered that youll get the best cost when you get from the factory.&lt;br /&gt;&lt;br /&gt;Direct Supplier&lt;br /&gt;&lt;br /&gt;There are thousands of on the internet distributors and wholesalers that are claiming to be source manufacturers.  Most so-…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=selling_your_old_cell_phone_is_terrific_for_numerous_reasons_besides_your_purse&amp;rev=1361769023&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-25T05:10:23+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>easy_ways_regarding_how_to_fight_arthritis - created</title>
         <link>http://proa.me/wiki/doku.php?id=easy_ways_regarding_how_to_fight_arthritis&amp;rev=1361463159&amp;do=diff</link>
         <description>Arthritis is a disorder that causes pain and difficult to move. It could affect your joints making them hard to flex or move. The guidelines will assist people suffering with arthritis cope better. There's many reasons that current health articles is actually voted as the top service of year.&lt;br /&gt;&lt;br /&gt;Acupuncture might be of assistance to you if you are a therapy that can be ideal for people that have chronic arthritis. Acupuncture may help alleviate pain that comes from arthritis. If this sou…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=ordinary_electrical_problems_fixed_by_compact_mechanics&amp;rev=1361421590&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-21T04:39:50+00:00</dc:date>
-        <dc:creator>kathey876</dc:creator>
-        <title>ordinary_electrical_problems_fixed_by_compact_mechanics - created</title>
-        <link>http://proa.me/wiki/doku.php?id=ordinary_electrical_problems_fixed_by_compact_mechanics&amp;rev=1361421590&amp;do=diff</link>
-        <description>Massage techniques contain not only posture and flow, but focus as well. Probable it was the excitement as part of words or the sweat soaking down his face, but I possibly could tell he wasn't faking.&lt;br /&gt;&lt;br /&gt;The City also has several of airports including Toronto In-town Airport, The Toronto/Butonville Municipal Airport, and the Toronto/Downsview Airport should not forgetting the busiest Airport all the way through Canada-the Toronto Pearson International Air port. Phony Oil isn't always bet…</description>
     </item>
 </rdf:RDF>

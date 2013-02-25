@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-25T11:45:30+00:00</dc:date>
+       <dc:date>2013-02-25T13:03:43+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=kick_back_pain_to_the_curb_forever&amp;rev=1361797393&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=methods_for_you_to_stop_struggling_with_back_pain&amp;rev=1361792711&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=locating_a_direct_manufacturer&amp;rev=1361788896&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=selling_your_old_cell_phone_is_terrific_for_numerous_reasons_besides_your_purse&amp;rev=1361769023&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=getting_into_good_shape-_all_in_your_reach&amp;rev=1361483792&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_joy_in_retirement_life_and_expanding_as_a_person&amp;rev=1361481078&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=excellent_and_easy_guidance_for_profitable_personal_development&amp;rev=1361478874&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=self_help_tips_everyone_may_find_useful&amp;rev=1361475830&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=kick_back_pain_to_the_curb_forever&amp;rev=1361797393&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-25T13:03:13+00:00</dc:date>
+        <dc:creator>cinthia719</dc:creator>
+        <title>kick_back_pain_to_the_curb_forever - created</title>
+        <link>http://proa.me/wiki/doku.php?id=kick_back_pain_to_the_curb_forever&amp;rev=1361797393&amp;do=diff</link>
+        <description>Do some research to find the best treatments for your back pain. Back discomfort can make it incredibly difficult to perform everyday jobs, and it isn't always easy to treat. Fortunately, there are a great number of methods to cope with all kinds of back pain. The following article will give you how to much better manage your back pain. There's several good reasons that natural health supplements has been voted to be the top product of the season.&lt;br /&gt;&lt;br /&gt;If you are suffering from back again …</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=methods_for_you_to_stop_struggling_with_back_pain&amp;rev=1361792711&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-25T11:45:11+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>excellent_and_easy_guidance_for_profitable_personal_development - created</title>
         <link>http://proa.me/wiki/doku.php?id=excellent_and_easy_guidance_for_profitable_personal_development&amp;rev=1361478874&amp;do=diff</link>
         <description>Personal development gives you turn into a much better individual achievable. Here are some ways to put you on the right course to personal development journey - Read More.Locate textbooks that help you.Many people may look for a faith based textual content, although some realize that religious text drives them.Create a objective target yourself.Goals that happen to be specifically defined can have distinct results.&lt;br /&gt;&lt;br /&gt;Usually aspire to complete the best at anything you can. Your push ou…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=self_help_tips_everyone_may_find_useful&amp;rev=1361475830&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-21T19:43:50+00:00</dc:date>
-        <dc:creator>amada295</dc:creator>
-        <title>self_help_tips_everyone_may_find_useful - created</title>
-        <link>http://proa.me/wiki/doku.php?id=self_help_tips_everyone_may_find_useful&amp;rev=1361475830&amp;do=diff</link>
-        <description>If you feel that you haven't been making enough progress within your self improvement desired goals, this post is a great destination to have landed. Keep your chin up and understand that with the increased expertise, your personal improvement success is guaranteed, so examine this article and see what tips affect you and the self improvement goals - size genetics.&lt;br /&gt;&lt;br /&gt;Set up practical desired goals that you could achieve, possible desired goals for your self.If you realise what your weak…</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-26T20:31:48+00:00</dc:date>
+       <dc:date>2013-02-26T22:06:07+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=utilizing_information_to_grow_a_home_business&amp;rev=1361916343&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=poster_printing_to_express_yourself_artistically&amp;rev=1361908723&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=programmes_in_graphic_design_lay_astounding_career_opportunities&amp;rev=1361839275&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=graphics_firm_and_graphic_design_products_fundamentals&amp;rev=1361838841&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advice_on_enhancing_ones_private_health_and_fitness&amp;rev=1361736416&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wonderful_advice_if_you_have_back_pain&amp;rev=1361733662&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_definition_of_asset_management&amp;rev=1361715734&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=you_could_have_bad_personal_credit_history_and_not_even_know_it&amp;rev=1361681252&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=utilizing_information_to_grow_a_home_business&amp;rev=1361916343&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-26T22:05:43+00:00</dc:date>
+        <dc:creator>tory673</dc:creator>
+        <title>utilizing_information_to_grow_a_home_business - created</title>
+        <link>http://proa.me/wiki/doku.php?id=utilizing_information_to_grow_a_home_business&amp;rev=1361916343&amp;do=diff</link>
+        <description>Starting a work from home business to become your own boss is something that many folks only dream about. The best way to make a success is to know the process thoroughly and to avoid mistakes others make. Use the information laid out here to make your home business enterprise profitable and profitable. read this .</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=poster_printing_to_express_yourself_artistically&amp;rev=1361908723&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-26T19:58:43+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>the_definition_of_asset_management - created</title>
         <link>http://proa.me/wiki/doku.php?id=the_definition_of_asset_management&amp;rev=1361715734&amp;do=diff</link>
         <description>Many of you have probably heard the term “asset management” Before, but you may well not have a concept of exactly what it is. Property management is just a broad term. an activity that guides the gaining of assets, alongside their use and disposal to be able to make the most of the their potential and assets throughout the life of the assets It could be defined. It also manages and maintains any costs and risks linked to the resources, while carrying this out. It is not at all something you can…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=you_could_have_bad_personal_credit_history_and_not_even_know_it&amp;rev=1361681252&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-24T04:47:32+00:00</dc:date>
-        <dc:creator>xnakita637</dc:creator>
-        <title>you_could_have_bad_personal_credit_history_and_not_even_know_it - created</title>
-        <link>http://proa.me/wiki/doku.php?id=you_could_have_bad_personal_credit_history_and_not_even_know_it&amp;rev=1361681252&amp;do=diff</link>
-        <description>Personal bad credit rating can be a large problem for anybody in todays world. By carrying a bad credit ranking you're risking the most likely bonnet that you'll be able to obtain charge card, financings, mortgages, or even acquire a new automobile. Banks and firms could nearly smell an inadequate credit rating, next thing you understand you'll discover on your own being rejected from areas and things you were uninformed you could be declined from. You could say that own a bad credit ranking is …</description>
     </item>
 </rdf:RDF>

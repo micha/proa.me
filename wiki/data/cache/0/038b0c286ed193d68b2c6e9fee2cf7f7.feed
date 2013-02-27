@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-26T22:06:07+00:00</dc:date>
+       <dc:date>2013-02-27T07:40:54+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=from_pipe_fantasy_to_aspiration_be_realized:reputable_recommend_about_possessing_a_successful_home-based_business_enterprise&amp;rev=1361950835&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=utilizing_information_to_grow_a_home_business&amp;rev=1361916343&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=poster_printing_to_express_yourself_artistically&amp;rev=1361908723&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=programmes_in_graphic_design_lay_astounding_career_opportunities&amp;rev=1361839275&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=selling_your_old_cell_phone_is_terrific_for_numerous_reasons_besides_your_purse&amp;rev=1361769023&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advice_on_enhancing_ones_private_health_and_fitness&amp;rev=1361736416&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wonderful_advice_if_you_have_back_pain&amp;rev=1361733662&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_definition_of_asset_management&amp;rev=1361715734&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=from_pipe_fantasy_to_aspiration_be_realized:reputable_recommend_about_possessing_a_successful_home-based_business_enterprise&amp;rev=1361950835&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-27T07:40:35+00:00</dc:date>
+        <dc:creator>hettie765</dc:creator>
+        <title>from_pipe_fantasy_to_aspiration_be_realized:reputable_recommend_about_possessing_a_successful_home-based_business_enterprise - created</title>
+        <link>http://proa.me/wiki/doku.php?id=from_pipe_fantasy_to_aspiration_be_realized:reputable_recommend_about_possessing_a_successful_home-based_business_enterprise&amp;rev=1361950835&amp;do=diff</link>
+        <description>Take into consideration exactly where you'd be in the event you didn't have your home-based business. It might be your primary cash flow or even a sizeable slice of it. This informative article tells you could do to create your home-based business business profitable now and in the upcoming. Read This .</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=utilizing_information_to_grow_a_home_business&amp;rev=1361916343&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-26T22:05:43+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>wonderful_advice_if_you_have_back_pain - created</title>
         <link>http://proa.me/wiki/doku.php?id=wonderful_advice_if_you_have_back_pain&amp;rev=1361733662&amp;do=diff</link>
         <description>In case you see a doctor about your back pain, they may not be able to do much for you other than prescribing sleep and pain killers. This article can give you a few suggestions that can assist you in dealing with pain within your back.&lt;br /&gt;&lt;br /&gt;Back surgery is one choice to discuss with your doctor in cases of serious back pain. The final resort should be surgery. Surgery may be the only strategy to certain conditions and accidental injuries that may cause back discomfort. Many of the simples…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=the_definition_of_asset_management&amp;rev=1361715734&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-24T14:22:14+00:00</dc:date>
-        <dc:creator>amabelle919</dc:creator>
-        <title>the_definition_of_asset_management - created</title>
-        <link>http://proa.me/wiki/doku.php?id=the_definition_of_asset_management&amp;rev=1361715734&amp;do=diff</link>
-        <description>Many of you have probably heard the term “asset management” Before, but you may well not have a concept of exactly what it is. Property management is just a broad term. an activity that guides the gaining of assets, alongside their use and disposal to be able to make the most of the their potential and assets throughout the life of the assets It could be defined. It also manages and maintains any costs and risks linked to the resources, while carrying this out. It is not at all something you can…</description>
     </item>
 </rdf:RDF>

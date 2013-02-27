@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-27T18:26:32+00:00</dc:date>
+       <dc:date>2013-02-27T20:57:21+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=strong_advice_for_any_home_based_business_owner&amp;rev=1361998620&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=from_pipe_fantasy_to_aspiration_be_realized:reputable_recommend_about_possessing_a_successful_home-based_business_enterprise&amp;rev=1361950835&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=utilizing_information_to_grow_a_home_business&amp;rev=1361916343&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=poster_printing_to_express_yourself_artistically&amp;rev=1361908723&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=locating_a_direct_manufacturer&amp;rev=1361788896&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=selling_your_old_cell_phone_is_terrific_for_numerous_reasons_besides_your_purse&amp;rev=1361769023&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advice_on_enhancing_ones_private_health_and_fitness&amp;rev=1361736416&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wonderful_advice_if_you_have_back_pain&amp;rev=1361733662&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=strong_advice_for_any_home_based_business_owner&amp;rev=1361998620&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-27T20:57:00+00:00</dc:date>
+        <dc:creator>frankie395</dc:creator>
+        <title>strong_advice_for_any_home_based_business_owner - created</title>
+        <link>http://proa.me/wiki/doku.php?id=strong_advice_for_any_home_based_business_owner&amp;rev=1361998620&amp;do=diff</link>
+        <description>Lots of people dream of a internet business, but some can't proceed the distance. This article will offer suggestions on owning a decent living from home. There exists certainly justified reason that tipografie chisinau is actually selected to be the right result of the season.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=from_pipe_fantasy_to_aspiration_be_realized:reputable_recommend_about_possessing_a_successful_home-based_business_enterprise&amp;rev=1361950835&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-27T07:40:35+00:00</dc:date>
@@ -193,13 +201,5 @@
         <title>advice_on_enhancing_ones_private_health_and_fitness - created</title>
         <link>http://proa.me/wiki/doku.php?id=advice_on_enhancing_ones_private_health_and_fitness&amp;rev=1361736416&amp;do=diff</link>
         <description>Thinking about getting healthy and in form gets several people uncomfortable. Lots of people find it difficult as the years begin to come on to stay fit. Sometime injuries and other creaks and pains enter the method of achieving fitness goals. Understanding a few simple things about suitable fitness will make you more healthy and fit no matter where you have been in lifestyle.&lt;br /&gt;&lt;br /&gt;Individuals consume more nowadays than ever before. In the last 10 years we have added an average of 30 % ont…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=wonderful_advice_if_you_have_back_pain&amp;rev=1361733662&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-24T19:21:02+00:00</dc:date>
-        <dc:creator>misty464</dc:creator>
-        <title>wonderful_advice_if_you_have_back_pain - created</title>
-        <link>http://proa.me/wiki/doku.php?id=wonderful_advice_if_you_have_back_pain&amp;rev=1361733662&amp;do=diff</link>
-        <description>In case you see a doctor about your back pain, they may not be able to do much for you other than prescribing sleep and pain killers. This article can give you a few suggestions that can assist you in dealing with pain within your back.&lt;br /&gt;&lt;br /&gt;Back surgery is one choice to discuss with your doctor in cases of serious back pain. The final resort should be surgery. Surgery may be the only strategy to certain conditions and accidental injuries that may cause back discomfort. Many of the simples…</description>
     </item>
 </rdf:RDF>

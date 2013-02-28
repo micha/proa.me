@@ -193,3 +193,5 @@ fern998:REDACTED:Alexa Slusher:adamo@whatsyourhandle.com:user
 numbers469:REDACTED:Cleora Robitaille:adamo@whatsyourhandle.com:user
 judy7:REDACTED:Marsha Haywood:robertyu998@whatsyourhandle.com:user
 luvenia228:REDACTED:Svetlana Shattuck:robertyu998@whatsyourhandle.com:user
+carrol24:REDACTED:Jaimie Sturdivant:robertyu998@whatsyourhandle.com:user
+irena222:REDACTED:Ricky Pare:robertyu998@whatsyourhandle.com:user

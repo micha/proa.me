@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-28T11:26:56+00:00</dc:date>
+       <dc:date>2013-02-28T13:12:01+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=what_you_need_to_know_about_muscle_mass_building&amp;rev=1362057100&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exploring_fundamental_details_in_global_news&amp;rev=1362050802&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ensure_not_to_tear_or_strain_any_muscles_while_exercising&amp;rev=1362039154&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wiki-doc-210&amp;rev=1362038615&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=poster_printing_to_express_yourself_artistically&amp;rev=1361908723&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=programmes_in_graphic_design_lay_astounding_career_opportunities&amp;rev=1361839275&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=graphics_firm_and_graphic_design_products_fundamentals&amp;rev=1361838841&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=every_day_is_great_at_a_video_design_birmingham_based_studio&amp;rev=1361838372&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=what_you_need_to_know_about_muscle_mass_building&amp;rev=1362057100&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-28T13:11:40+00:00</dc:date>
+        <dc:creator>carrol669</dc:creator>
+        <title>what_you_need_to_know_about_muscle_mass_building - created</title>
+        <link>http://proa.me/wiki/doku.php?id=what_you_need_to_know_about_muscle_mass_building&amp;rev=1362057100&amp;do=diff</link>
+        <description>There are numerous actions you can take to attempt to build your muscles, but not all of them are effective. If you need to build muscle tissue, start by learning how muscle mass development works so that you can choose methods that will get you the results you seek. Continue reading for some tips to get you started.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=exploring_fundamental_details_in_global_news&amp;rev=1362050802&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-28T11:26:42+00:00</dc:date>
@@ -216,13 +224,5 @@ Shortlist all your interests and i would say the fields that you are smart on a 
         <title>graphics_firm_and_graphic_design_products_fundamentals - created</title>
         <link>http://proa.me/wiki/doku.php?id=graphics_firm_and_graphic_design_products_fundamentals&amp;rev=1361838841&amp;do=diff</link>
         <description>graphic design portfolio creation is a profession that melds the creative design process furthermore technology. Personally, I was very inspired while all four designers. He still believes that specific old way '” the standard way of creating a design, like a logo and/or poster '” would prevail because it will be still the handmade art when matters, despite of all the most important available technology to execute keep in mind this. Enhancing . implies a collaboration of requirements pertaining …</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=every_day_is_great_at_a_video_design_birmingham_based_studio&amp;rev=1361838372&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-26T00:26:12+00:00</dc:date>
-        <dc:creator>lorenza748</dc:creator>
-        <title>every_day_is_great_at_a_video_design_birmingham_based_studio - created</title>
-        <link>http://proa.me/wiki/doku.php?id=every_day_is_great_at_a_video_design_birmingham_based_studio&amp;rev=1361838372&amp;do=diff</link>
-        <description>graphic design definition is a profession that melds the creative design process and then technology. Personally, I was very inspired by means of all four designers. He still believes that a new old way '” the standard way of creating a design, like a logo and/or poster '” would prevail because it truly still the handmade art of the fact that matters, despite of all our own available technology to execute it's. The phrase implies a collaboration of proficiency pertaining to creativity, an eye-fo…</description>
     </item>
 </rdf:RDF>

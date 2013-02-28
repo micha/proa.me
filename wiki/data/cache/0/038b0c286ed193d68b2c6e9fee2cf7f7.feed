@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-28T13:12:01+00:00</dc:date>
+       <dc:date>2013-02-28T14:20:26+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=top_tips_for_gaining_muscle_and_burning_fat&amp;rev=1362061213&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=what_you_need_to_know_about_muscle_mass_building&amp;rev=1362057100&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exploring_fundamental_details_in_global_news&amp;rev=1362050802&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ensure_not_to_tear_or_strain_any_muscles_while_exercising&amp;rev=1362039154&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=utilizing_information_to_grow_a_home_business&amp;rev=1361916343&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=poster_printing_to_express_yourself_artistically&amp;rev=1361908723&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=programmes_in_graphic_design_lay_astounding_career_opportunities&amp;rev=1361839275&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=graphics_firm_and_graphic_design_products_fundamentals&amp;rev=1361838841&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=top_tips_for_gaining_muscle_and_burning_fat&amp;rev=1362061213&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-28T14:20:13+00:00</dc:date>
+        <dc:creator>winston365</dc:creator>
+        <title>top_tips_for_gaining_muscle_and_burning_fat - created</title>
+        <link>http://proa.me/wiki/doku.php?id=top_tips_for_gaining_muscle_and_burning_fat&amp;rev=1362061213&amp;do=diff</link>
+        <description>Muscle development, when done properly, can be a thrilling productive activity to take part in. You are able to develop the muscles that you should live a long and healthy life. It is also a sport that you could compete in. Regardless of the reasoning behind the decision to begin a weight training lifestyle, information is going to make the difference among success and failure. There's good reason that fitness clothes continues to be selected to be the right device of the season.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=what_you_need_to_know_about_muscle_mass_building&amp;rev=1362057100&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-28T13:11:40+00:00</dc:date>
@@ -216,13 +224,5 @@ Shortlist all your interests and i would say the fields that you are smart on a 
         <title>programmes_in_graphic_design_lay_astounding_career_opportunities - created</title>
         <link>http://proa.me/wiki/doku.php?id=programmes_in_graphic_design_lay_astounding_career_opportunities&amp;rev=1361839275&amp;do=diff</link>
         <description>graphic design portfolio advice is a profession that melds the creative design process furthermore technology. Personally, I was very inspired courtesy of - all four designers. He still believes that often the old way '” the sidestep way of creating a design, like a logo and/or poster '” would prevail because that it is still the handmade art it matters, despite of all the most important available technology to execute it's. Enhancing . implies a collaboration of skill-sets pertaining to creativ…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=graphics_firm_and_graphic_design_products_fundamentals&amp;rev=1361838841&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-26T00:34:01+00:00</dc:date>
-        <dc:creator>susanna742</dc:creator>
-        <title>graphics_firm_and_graphic_design_products_fundamentals - created</title>
-        <link>http://proa.me/wiki/doku.php?id=graphics_firm_and_graphic_design_products_fundamentals&amp;rev=1361838841&amp;do=diff</link>
-        <description>graphic design portfolio creation is a profession that melds the creative design process furthermore technology. Personally, I was very inspired while all four designers. He still believes that specific old way '” the standard way of creating a design, like a logo and/or poster '” would prevail because it will be still the handmade art when matters, despite of all the most important available technology to execute keep in mind this. Enhancing . implies a collaboration of requirements pertaining …</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-28T14:20:26+00:00</dc:date>
+       <dc:date>2013-02-28T15:46:22+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_fitness_is_so_important_in_your_life&amp;rev=1362066364&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=top_tips_for_gaining_muscle_and_burning_fat&amp;rev=1362061213&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=what_you_need_to_know_about_muscle_mass_building&amp;rev=1362057100&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exploring_fundamental_details_in_global_news&amp;rev=1362050802&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=from_pipe_fantasy_to_aspiration_be_realized:reputable_recommend_about_possessing_a_successful_home-based_business_enterprise&amp;rev=1361950835&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=utilizing_information_to_grow_a_home_business&amp;rev=1361916343&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=poster_printing_to_express_yourself_artistically&amp;rev=1361908723&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=programmes_in_graphic_design_lay_astounding_career_opportunities&amp;rev=1361839275&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=why_fitness_is_so_important_in_your_life&amp;rev=1362066364&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-28T15:46:04+00:00</dc:date>
+        <dc:creator>joanne368</dc:creator>
+        <title>why_fitness_is_so_important_in_your_life - created</title>
+        <link>http://proa.me/wiki/doku.php?id=why_fitness_is_so_important_in_your_life&amp;rev=1362066364&amp;do=diff</link>
+        <description>It is crucial to live a healthy life and maintain your body in top condition, to give your quality life. It might be a little difficult to know where to begin, however. There is a large amount of information about fitness available, so you might have a hard time knowing what to believe. Allow the suggestions in this post be your manual. There's justified reason that fitness centers continues to be voted as the very best solution of the year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=top_tips_for_gaining_muscle_and_burning_fat&amp;rev=1362061213&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-28T14:20:13+00:00</dc:date>
@@ -216,13 +224,5 @@ Shortlist all your interests and i would say the fields that you are smart on a 
         <title>poster_printing_to_express_yourself_artistically - created</title>
         <link>http://proa.me/wiki/doku.php?id=poster_printing_to_express_yourself_artistically&amp;rev=1361908723&amp;do=diff</link>
         <description>Typography is a type of art. If you are asking yourself, typography has been used like a visual tool to supply development that opportunities to direct particular actions or actions. Through history we're able to see how this developed from letterforms created from stone in order to Gutenbergs letterpress. It is often a notable art form used by many generations to print booklets, pamphlets, newsletters, among others. - carti de vizita.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=programmes_in_graphic_design_lay_astounding_career_opportunities&amp;rev=1361839275&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-26T00:41:15+00:00</dc:date>
-        <dc:creator>sang816</dc:creator>
-        <title>programmes_in_graphic_design_lay_astounding_career_opportunities - created</title>
-        <link>http://proa.me/wiki/doku.php?id=programmes_in_graphic_design_lay_astounding_career_opportunities&amp;rev=1361839275&amp;do=diff</link>
-        <description>graphic design portfolio advice is a profession that melds the creative design process furthermore technology. Personally, I was very inspired courtesy of - all four designers. He still believes that often the old way '” the sidestep way of creating a design, like a logo and/or poster '” would prevail because that it is still the handmade art it matters, despite of all the most important available technology to execute it's. Enhancing . implies a collaboration of skill-sets pertaining to creativ…</description>
     </item>
 </rdf:RDF>

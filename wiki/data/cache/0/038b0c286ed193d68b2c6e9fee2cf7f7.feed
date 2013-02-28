@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-02-28T08:12:51+00:00</dc:date>
+       <dc:date>2013-02-28T11:26:56+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exploring_fundamental_details_in_global_news&amp;rev=1362050802&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ensure_not_to_tear_or_strain_any_muscles_while_exercising&amp;rev=1362039154&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wiki-doc-210&amp;rev=1362038615&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wiki-doc-122&amp;rev=1362037866&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=programmes_in_graphic_design_lay_astounding_career_opportunities&amp;rev=1361839275&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=graphics_firm_and_graphic_design_products_fundamentals&amp;rev=1361838841&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=every_day_is_great_at_a_video_design_birmingham_based_studio&amp;rev=1361838372&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fundamental_character_map_graphic_organizer&amp;rev=1361837930&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=exploring_fundamental_details_in_global_news&amp;rev=1362050802&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-28T11:26:42+00:00</dc:date>
+        <dc:creator>keenan271</dc:creator>
+        <title>exploring_fundamental_details_in_global_news - created</title>
+        <link>http://proa.me/wiki/doku.php?id=exploring_fundamental_details_in_global_news&amp;rev=1362050802&amp;do=diff</link>
+        <description>Today the internet has actually changed the way we acquire damaging headlines. With web-based TV you can effortlessly be connected to various headlines sources and follow them online. The comforts and benefits are numerous. To start with you eliminate the registration price of satellite TV. However more crucial than enjoying complimentary net based TELEVISION is the high quality of news input.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=ensure_not_to_tear_or_strain_any_muscles_while_exercising&amp;rev=1362039154&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-02-28T08:12:34+00:00</dc:date>
@@ -216,13 +224,5 @@ Shortlist all your interests and i would say the fields that you are smart on a 
         <title>every_day_is_great_at_a_video_design_birmingham_based_studio - created</title>
         <link>http://proa.me/wiki/doku.php?id=every_day_is_great_at_a_video_design_birmingham_based_studio&amp;rev=1361838372&amp;do=diff</link>
         <description>graphic design definition is a profession that melds the creative design process and then technology. Personally, I was very inspired by means of all four designers. He still believes that a new old way '” the standard way of creating a design, like a logo and/or poster '” would prevail because it truly still the handmade art of the fact that matters, despite of all our own available technology to execute it's. The phrase implies a collaboration of proficiency pertaining to creativity, an eye-fo…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=fundamental_character_map_graphic_organizer&amp;rev=1361837930&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-26T00:18:50+00:00</dc:date>
-        <dc:creator>karol742</dc:creator>
-        <title>fundamental_character_map_graphic_organizer - created</title>
-        <link>http://proa.me/wiki/doku.php?id=fundamental_character_map_graphic_organizer&amp;rev=1361837930&amp;do=diff</link>
-        <description>graphic design definition is a profession that melds the creative design process as well as the technology. Personally, I was very inspired of all four designers. He still believes that some old way '” the customary way of creating a design, like a logo and/or poster '” would prevail because it will be still the handmade art of the fact that matters, despite of all the type of available technology to execute this situation. Expression implies a collaboration of proficiency pertaining to creativi…</description>
     </item>
 </rdf:RDF>

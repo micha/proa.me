@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-01T06:48:56+00:00</dc:date>
+       <dc:date>2013-03-01T09:37:21+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=uncovering_speedy_solutions_for_shipping_containers&amp;rev=1362130614&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=laptop_training_courses_uk&amp;rev=1362107580&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=selecting_the_right_online_computer_education_and_learning_classes&amp;rev=1362107127&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=technique_training_centers_are_increasing_regarding_number&amp;rev=1362106648&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=top_tips_for_gaining_muscle_and_burning_fat&amp;rev=1362061213&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=what_you_need_to_know_about_muscle_mass_building&amp;rev=1362057100&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exploring_fundamental_details_in_global_news&amp;rev=1362050802&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ensure_not_to_tear_or_strain_any_muscles_while_exercising&amp;rev=1362039154&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=uncovering_speedy_solutions_for_shipping_containers&amp;rev=1362130614&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-01T09:36:54+00:00</dc:date>
+        <dc:creator>keenan271</dc:creator>
+        <title>uncovering_speedy_solutions_for_shipping_containers - created</title>
+        <link>http://proa.me/wiki/doku.php?id=uncovering_speedy_solutions_for_shipping_containers&amp;rev=1362130614&amp;do=diff</link>
+        <description>I'm sure you'd hate to have to throw your products in the trash because you didn't maintain them in the correct container, so it's right to receive it proper the 1st time.  Fire controls are easily missed in the detailed explanations.  Nevertheless, for those particular occasions when your homemade touch is a great deal more significant then the cost of transporting to far off places, then by all means, use the tips outlined above to guarantee your confectionary delight reaches the fortunate rec…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=laptop_training_courses_uk&amp;rev=1362107580&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-01T03:13:00+00:00</dc:date>
@@ -214,13 +222,5 @@ Successful content creation companies often program content through other writer
         <title>exploring_fundamental_details_in_global_news - created</title>
         <link>http://proa.me/wiki/doku.php?id=exploring_fundamental_details_in_global_news&amp;rev=1362050802&amp;do=diff</link>
         <description>Today the internet has actually changed the way we acquire damaging headlines. With web-based TV you can effortlessly be connected to various headlines sources and follow them online. The comforts and benefits are numerous. To start with you eliminate the registration price of satellite TV. However more crucial than enjoying complimentary net based TELEVISION is the high quality of news input.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=ensure_not_to_tear_or_strain_any_muscles_while_exercising&amp;rev=1362039154&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-28T08:12:34+00:00</dc:date>
-        <dc:creator>darrin888</dc:creator>
-        <title>ensure_not_to_tear_or_strain_any_muscles_while_exercising - created</title>
-        <link>http://proa.me/wiki/doku.php?id=ensure_not_to_tear_or_strain_any_muscles_while_exercising&amp;rev=1362039154&amp;do=diff</link>
-        <description>Fitness is when you are physically and emotionally healthy. Whenever you increase your fitness level, you improve each mentally and physically. In case you are struggling to obtain fit again, these article has suggestions to better your fitness level.</description>
     </item>
 </rdf:RDF>

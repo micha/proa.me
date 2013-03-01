@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-01T12:32:49+00:00</dc:date>
+       <dc:date>2013-03-01T13:43:08+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=basic_rules_to_improve_your_business_from_home_endeavor&amp;rev=1362145371&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=home_business_tips_that_can_change_everything&amp;rev=1362141140&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=straightforward_strategies_that_will_help_you_reach_your_goals_in_online_business&amp;rev=1362136757&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=uncovering_speedy_solutions_for_shipping_containers&amp;rev=1362130614&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_better_competitive_edge_possible_with_google_search_engine_optimization&amp;rev=1362077565&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=expertise_in_search_engine_optimization&amp;rev=1362077110&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_fitness_is_so_important_in_your_life&amp;rev=1362066364&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=top_tips_for_gaining_muscle_and_burning_fat&amp;rev=1362061213&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=basic_rules_to_improve_your_business_from_home_endeavor&amp;rev=1362145371&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-01T13:42:51+00:00</dc:date>
+        <dc:creator>chet215</dc:creator>
+        <title>basic_rules_to_improve_your_business_from_home_endeavor - created</title>
+        <link>http://proa.me/wiki/doku.php?id=basic_rules_to_improve_your_business_from_home_endeavor&amp;rev=1362145371&amp;do=diff</link>
+        <description>When you are thinking about starting an internet business, it  is advisable to do a good volume of analysis beforehand on what you should expect. Knowing  regardless of whether your organization  prepare is acceptable like a home-based  business is just one of your factors to  consider. The following are a few questions that you need to consider, before you take the leap.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=home_business_tips_that_can_change_everything&amp;rev=1362141140&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-01T12:32:20+00:00</dc:date>
@@ -214,13 +222,5 @@ Successful content creation companies often program content through other writer
         <title>why_fitness_is_so_important_in_your_life - created</title>
         <link>http://proa.me/wiki/doku.php?id=why_fitness_is_so_important_in_your_life&amp;rev=1362066364&amp;do=diff</link>
         <description>It is crucial to live a healthy life and maintain your body in top condition, to give your quality life. It might be a little difficult to know where to begin, however. There is a large amount of information about fitness available, so you might have a hard time knowing what to believe. Allow the suggestions in this post be your manual. There's justified reason that fitness centers continues to be voted as the very best solution of the year.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=top_tips_for_gaining_muscle_and_burning_fat&amp;rev=1362061213&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-28T14:20:13+00:00</dc:date>
-        <dc:creator>winston365</dc:creator>
-        <title>top_tips_for_gaining_muscle_and_burning_fat - created</title>
-        <link>http://proa.me/wiki/doku.php?id=top_tips_for_gaining_muscle_and_burning_fat&amp;rev=1362061213&amp;do=diff</link>
-        <description>Muscle development, when done properly, can be a thrilling productive activity to take part in. You are able to develop the muscles that you should live a long and healthy life. It is also a sport that you could compete in. Regardless of the reasoning behind the decision to begin a weight training lifestyle, information is going to make the difference among success and failure. There's good reason that fitness clothes continues to be selected to be the right device of the season.</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-01T11:19:38+00:00</dc:date>
+       <dc:date>2013-03-01T12:32:49+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=home_business_tips_that_can_change_everything&amp;rev=1362141140&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=straightforward_strategies_that_will_help_you_reach_your_goals_in_online_business&amp;rev=1362136757&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=uncovering_speedy_solutions_for_shipping_containers&amp;rev=1362130614&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=laptop_training_courses_uk&amp;rev=1362107580&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=expertise_in_search_engine_optimization&amp;rev=1362077110&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_fitness_is_so_important_in_your_life&amp;rev=1362066364&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=top_tips_for_gaining_muscle_and_burning_fat&amp;rev=1362061213&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=what_you_need_to_know_about_muscle_mass_building&amp;rev=1362057100&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=home_business_tips_that_can_change_everything&amp;rev=1362141140&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-01T12:32:20+00:00</dc:date>
+        <dc:creator>desmond418</dc:creator>
+        <title>home_business_tips_that_can_change_everything - created</title>
+        <link>http://proa.me/wiki/doku.php?id=home_business_tips_that_can_change_everything&amp;rev=1362141140&amp;do=diff</link>
+        <description>If you are prepared to start your own home business, then you can have the financial independence you desire. These tips are designed to assist you in creating a solid plan of action, to ensure your investment of time and money pays off and makes your business, everything you want it to be.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=straightforward_strategies_that_will_help_you_reach_your_goals_in_online_business&amp;rev=1362136757&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-01T11:19:17+00:00</dc:date>
@@ -214,13 +222,5 @@ Successful content creation companies often program content through other writer
         <title>top_tips_for_gaining_muscle_and_burning_fat - created</title>
         <link>http://proa.me/wiki/doku.php?id=top_tips_for_gaining_muscle_and_burning_fat&amp;rev=1362061213&amp;do=diff</link>
         <description>Muscle development, when done properly, can be a thrilling productive activity to take part in. You are able to develop the muscles that you should live a long and healthy life. It is also a sport that you could compete in. Regardless of the reasoning behind the decision to begin a weight training lifestyle, information is going to make the difference among success and failure. There's good reason that fitness clothes continues to be selected to be the right device of the season.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=what_you_need_to_know_about_muscle_mass_building&amp;rev=1362057100&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-02-28T13:11:40+00:00</dc:date>
-        <dc:creator>carrol669</dc:creator>
-        <title>what_you_need_to_know_about_muscle_mass_building - created</title>
-        <link>http://proa.me/wiki/doku.php?id=what_you_need_to_know_about_muscle_mass_building&amp;rev=1362057100&amp;do=diff</link>
-        <description>There are numerous actions you can take to attempt to build your muscles, but not all of them are effective. If you need to build muscle tissue, start by learning how muscle mass development works so that you can choose methods that will get you the results you seek. Continue reading for some tips to get you started.</description>
     </item>
 </rdf:RDF>

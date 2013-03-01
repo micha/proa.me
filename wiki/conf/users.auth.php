@@ -196,3 +196,8 @@ luvenia228:REDACTED:Svetlana Shattuck:robertyu998@whatsyourhandle.com:user
 carrol24:REDACTED:Jaimie Sturdivant:robertyu998@whatsyourhandle.com:user
 irena222:REDACTED:Ricky Pare:robertyu998@whatsyourhandle.com:user
 geraldine553:REDACTED:Randa Poe:BrunoMackie74@hotmail.com:user
+tasha158:REDACTED:Shari Schaller:15cannons@whatsyourhandle.com:user
+barbie55:REDACTED:Felipa Marine:15cannons@whatsyourhandle.com:user
+bessie27:REDACTED:Dawne Gordy:15cannons@whatsyourhandle.com:user
+adeline645:REDACTED:Kurtis Columbus:02bardmatin34relgg@funniestonlinevideos.org:user
+marina246:REDACTED:Elina Lepage:15cannons@whatsyourhandle.com:user

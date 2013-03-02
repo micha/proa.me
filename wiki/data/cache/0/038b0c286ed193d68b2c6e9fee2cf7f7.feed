@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-02T09:22:17+00:00</dc:date>
+       <dc:date>2013-03-02T21:03:23+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=5_points_you_may_want_to_understand_about_communicating_with_men&amp;rev=1362258175&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=is_google_really_the_best_search_engines&amp;rev=1362236798&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=news_on_fast_solutions_of_hen_night_ideas&amp;rev=1362216113&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_guide_to_immediate_methods_for_hen_night_ideas&amp;rev=1362215225&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=mandiant:china_is_sponsoring_cyber-espionage&amp;rev=1362192943&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=in_which_training_and_development_centre&amp;rev=1362146070&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=basic_rules_to_improve_your_business_from_home_endeavor&amp;rev=1362145371&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=home_business_tips_that_can_change_everything&amp;rev=1362141140&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=straightforward_strategies_that_will_help_you_reach_your_goals_in_online_business&amp;rev=1362136757&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=uncovering_speedy_solutions_for_shipping_containers&amp;rev=1362130614&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,22 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=5_points_you_may_want_to_understand_about_communicating_with_men&amp;rev=1362258175&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-02T21:02:55+00:00</dc:date>
+        <dc:creator>camelia854</dc:creator>
+        <title>5_points_you_may_want_to_understand_about_communicating_with_men - created</title>
+        <link>http://proa.me/wiki/doku.php?id=5_points_you_may_want_to_understand_about_communicating_with_men&amp;rev=1362258175&amp;do=diff</link>
+        <description>A lot of people reckon that the world of dating has developed so substantially  trying to find cutting edge suggestions to go by. But, relationship rules haven't changed all that much and are still the same in modern day dating. In fact, adult dating guidelines are generally varied and eclectic, there are not many variations from the modern principles of courting and love. Chat and date openly and truthfully for the best results.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=is_google_really_the_best_search_engines&amp;rev=1362236798&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-02T15:06:38+00:00</dc:date>
+        <dc:creator>hana329</dc:creator>
+        <title>is_google_really_the_best_search_engines - created</title>
+        <link>http://proa.me/wiki/doku.php?id=is_google_really_the_best_search_engines&amp;rev=1362236798&amp;do=diff</link>
+        <description>Just testing and wanted to tell that google is supposed to be number one search engine, but it's lately pretty bad. Bing on the other hand is getting better and better!</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=news_on_fast_solutions_of_hen_night_ideas&amp;rev=1362216113&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-02T09:21:53+00:00</dc:date>
@@ -199,21 +215,5 @@ It was more about getting him on an emotional level prepared, keeping him physic
         <title>home_business_tips_that_can_change_everything - created</title>
         <link>http://proa.me/wiki/doku.php?id=home_business_tips_that_can_change_everything&amp;rev=1362141140&amp;do=diff</link>
         <description>If you are prepared to start your own home business, then you can have the financial independence you desire. These tips are designed to assist you in creating a solid plan of action, to ensure your investment of time and money pays off and makes your business, everything you want it to be.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=straightforward_strategies_that_will_help_you_reach_your_goals_in_online_business&amp;rev=1362136757&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-01T11:19:17+00:00</dc:date>
-        <dc:creator>malik133</dc:creator>
-        <title>straightforward_strategies_that_will_help_you_reach_your_goals_in_online_business - created</title>
-        <link>http://proa.me/wiki/doku.php?id=straightforward_strategies_that_will_help_you_reach_your_goals_in_online_business&amp;rev=1362136757&amp;do=diff</link>
-        <description>Having a work at home organization takes excellent persistence and plenty of job. It involves beginning from practically nothing or very little after which endorsing it in becoming successful. Less difficult than it appears however, correct? Don't allow that to place you away from! Read the tips below to find out what you must begin working your very own.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=uncovering_speedy_solutions_for_shipping_containers&amp;rev=1362130614&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-01T09:36:54+00:00</dc:date>
-        <dc:creator>keenan271</dc:creator>
-        <title>uncovering_speedy_solutions_for_shipping_containers - created</title>
-        <link>http://proa.me/wiki/doku.php?id=uncovering_speedy_solutions_for_shipping_containers&amp;rev=1362130614&amp;do=diff</link>
-        <description>I'm sure you'd hate to have to throw your products in the trash because you didn't maintain them in the correct container, so it's right to receive it proper the 1st time.  Fire controls are easily missed in the detailed explanations.  Nevertheless, for those particular occasions when your homemade touch is a great deal more significant then the cost of transporting to far off places, then by all means, use the tips outlined above to guarantee your confectionary delight reaches the fortunate rec…</description>
     </item>
 </rdf:RDF>

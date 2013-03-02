@@ -235,3 +235,10 @@ annamae761:REDACTED:Mazie Paschal:rzkAHArrkN@gmail.com:user
 strenton473:REDACTED:Gudrun Horning:JenniBenningw6780@hotmail.com:user
 hana329:REDACTED:Anneliese Sigler:rajesh@ftuforum.net:user
 camelia854:REDACTED:Reatha Deluca:nawtygirlie2011@gmail.com:user
+regina16:REDACTED:Paula Smelser:wanda@wsstreetfest.com:user
+charlene488:REDACTED:Chanda Neville:wanda@wsstreetfest.com:user
+farrah5:REDACTED:Milan Gaul:wanda@wsstreetfest.com:user
+margarito533:REDACTED:Gisele Wingo:wanda@wsstreetfest.com:user
+donita75:REDACTED:Frederica Osgood:wanda@wsstreetfest.com:user
+suzanne252:REDACTED:Laronda Kugler:wanda@wsstreetfest.com:user
+almeda87:REDACTED:Pierre Sundberg:wanda@wsstreetfest.com:user

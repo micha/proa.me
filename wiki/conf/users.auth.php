@@ -225,3 +225,5 @@ mireille225:REDACTED:Hayley Eliason:johndoe@whatsyourhandle.com:user
 marica595:REDACTED:Marcela Salomon:johndoe@whatsyourhandle.com:user
 sheila364:REDACTED:Gertie Shealy:johndoe@whatsyourhandle.com:user
 blaine773:REDACTED:Sharri Pilkington:johndoe@whatsyourhandle.com:user
+riley686:REDACTED:Christena Aikeworth:AdolphusWirth47@hotmail.com:user
+bernice944:REDACTED:Madlyn Keiser:yourmine@whatsyourhandle.com:user

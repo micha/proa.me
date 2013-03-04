@@ -245,3 +245,9 @@ almeda87:REDACTED:Pierre Sundberg:wanda@wsstreetfest.com:user
 nila21:REDACTED:Barbie Waterman:wanda@wsstreetfest.com:user
 launa184:REDACTED:Nannie Sasaki:normancook34@ashleyinsta.com:user
 theresia595:REDACTED:Doug Slusher:pain39sail@hotmail.com:user
+nikia822:REDACTED:Lois Ralston:paulst67@wsstreetfest.com:user
+nikia517:REDACTED:Nell Chuuentes:paulst67@wsstreetfest.com:user
+kathlene448:REDACTED:Vida Gump:paulst67@wsstreetfest.com:user
+tameika234:REDACTED:Gino Trottier:paulst67@wsstreetfest.com:user
+hortencia777:REDACTED:Jacque Cote:paulst67@wsstreetfest.com:user
+marcella174:REDACTED:Eboni Wyong:paulst67@wsstreetfest.com:user

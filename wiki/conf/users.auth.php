@@ -251,3 +251,5 @@ kathlene448:REDACTED:Vida Gump:paulst67@wsstreetfest.com:user
 tameika234:REDACTED:Gino Trottier:paulst67@wsstreetfest.com:user
 hortencia777:REDACTED:Jacque Cote:paulst67@wsstreetfest.com:user
 marcella174:REDACTED:Eboni Wyong:paulst67@wsstreetfest.com:user
+hassan94:REDACTED:Dinah Martin:paulst67@wsstreetfest.com:user
+laraine287:REDACTED:Ross Gooch:paulst67@wsstreetfest.com:user

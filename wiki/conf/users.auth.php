@@ -291,3 +291,6 @@ jordon454:REDACTED:Yuri Boughton:red@bluekitedesigns.com:user
 elise857:REDACTED:Benedict Hollifield:red@bluekitedesigns.com:user
 evelia625:REDACTED:Denise Alexno:red@bluekitedesigns.com:user
 benedict534:REDACTED:Felipa Lasky:red@bluekitedesigns.com:user
+shirly798:REDACTED:Tommie Glasser:red@bluekitedesigns.com:user
+salina151:REDACTED:Serina Lykins:red@bluekitedesigns.com:user
+raymond269:REDACTED:Bethel Kee:red@bluekitedesigns.com:user

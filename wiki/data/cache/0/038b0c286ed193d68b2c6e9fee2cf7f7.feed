@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-04T10:51:33+00:00</dc:date>
+       <dc:date>2013-03-04T15:24:47+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=men_s_watches_in_strong_modern_models&amp;rev=1362410659&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=thinking_about_criteria_for_outdoor_ceiling_fans&amp;rev=1362394289&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=considering_critical_details_for_how_to_tattoo&amp;rev=1362393112&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=picking_trouble-free_secrets_for_how_to_tattoo&amp;rev=1362391486&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=work_out_how_to_clean_pearl_jewelry&amp;rev=1362262486&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=5_points_you_may_want_to_understand_about_communicating_with_men&amp;rev=1362258175&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=is_google_really_the_best_search_engines&amp;rev=1362236798&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=news_on_fast_solutions_of_hen_night_ideas&amp;rev=1362216113&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=men_s_watches_in_strong_modern_models&amp;rev=1362410659&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-04T15:24:19+00:00</dc:date>
+        <dc:creator>isiah53</dc:creator>
+        <title>men_s_watches_in_strong_modern_models - created</title>
+        <link>http://proa.me/wiki/doku.php?id=men_s_watches_in_strong_modern_models&amp;rev=1362410659&amp;do=diff</link>
+        <description>For several men, the kind of wrist watch they use is more of a record of their personality than simply a practical little bit of jewelry. It as an exclamation point on the type is a feature piece that acts. Gone will be the days when all that mattered in a wrist watch was that it took a licking and continued ticking. Today's men's watches are striking and modern with cool options available at every price level. 
+classic mens watches
+In the event that you search for watches in the under $500 type…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=thinking_about_criteria_for_outdoor_ceiling_fans&amp;rev=1362394289&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-04T10:51:29+00:00</dc:date>
@@ -208,13 +218,5 @@ World wide web click through the following page stores can provide you and your 
         <title>is_google_really_the_best_search_engines - created</title>
         <link>http://proa.me/wiki/doku.php?id=is_google_really_the_best_search_engines&amp;rev=1362236798&amp;do=diff</link>
         <description>Just testing and wanted to tell that google is supposed to be number one search engine, but it's lately pretty bad. Bing on the other hand is getting better and better!</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=news_on_fast_solutions_of_hen_night_ideas&amp;rev=1362216113&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-02T09:21:53+00:00</dc:date>
-        <dc:creator>ty37</dc:creator>
-        <title>news_on_fast_solutions_of_hen_night_ideas - created</title>
-        <link>http://proa.me/wiki/doku.php?id=news_on_fast_solutions_of_hen_night_ideas&amp;rev=1362216113&amp;do=diff</link>
-        <description>Be certain, however, to point the fan thus that it does not blow straight on the roosts and become too drafty in the cooler nights.  I also found it a quality idea to get with a friend taking the same class and compare notes.  The Knight has interrupted the Monk, saying that he would rather hear about people who have risen than fallen, and the Host asks the Monk to tell another, more acceptable, tale.</description>
     </item>
 </rdf:RDF>

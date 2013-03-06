@@ -329,3 +329,8 @@ mammie541:REDACTED:Delisa Butterworth:blue@carbonnationfilm.com:user
 felipa521:REDACTED:Lea Scanlon:blue@carbonnationfilm.com:user
 charlene38:REDACTED:Margret Schulman:blue@carbonnationfilm.com:user
 bettie432:REDACTED:Ed Eckert:blue@carbonnationfilm.com:user
+shonna591:REDACTED:Rashida Braziel:joec@blackhawkplumbing.net:user
+sid619:REDACTED:Jon Bowens:joec@blackhawkplumbing.net:user
+burton261:REDACTED:Harlan Hoang:joec@blackhawkplumbing.net:user
+ling487:REDACTED:Roland Lombardi:joec@blackhawkplumbing.net:user
+alline285:REDACTED:Marina Burk:joec@blackhawkplumbing.net:user

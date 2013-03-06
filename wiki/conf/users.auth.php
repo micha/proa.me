@@ -328,3 +328,4 @@ elodia613:REDACTED:Maragret Hord:blue@carbonnationfilm.com:user
 mammie541:REDACTED:Delisa Butterworth:blue@carbonnationfilm.com:user
 felipa521:REDACTED:Lea Scanlon:blue@carbonnationfilm.com:user
 charlene38:REDACTED:Margret Schulman:blue@carbonnationfilm.com:user
+bettie432:REDACTED:Ed Eckert:blue@carbonnationfilm.com:user

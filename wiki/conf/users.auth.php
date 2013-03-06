@@ -318,3 +318,5 @@ michal828:REDACTED:Lindsay Duran:ret5@buildingnatural.com:user
 floretta799:REDACTED:Rick Hames:ret5@buildingnatural.com:user
 aja847:REDACTED:Samara Bakke:ret5@buildingnatural.com:user
 eleanore195:REDACTED:Zenobia Schaller:ret5@buildingnatural.com:user
+lasonya38:REDACTED:Rudy Passmore:tyedye@biznestchina.com:user
+vina158:REDACTED:Carma Healey:tyedye@biznestchina.com:user

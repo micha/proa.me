@@ -355,3 +355,4 @@ thomas797:REDACTED:Min Choe:fred45@carolsforest.com:user
 thresa79:REDACTED:Winston Casarez:fred45@carolsforest.com:user
 stephen921:REDACTED:Jamel Ellzey:fred45@carolsforest.com:user
 janina541:REDACTED:Billy Delarosa:fred45@carolsforest.com:user
+sophie79:REDACTED:Nicki David:bK6PIEwi@gmail.com:user

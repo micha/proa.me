@@ -353,3 +353,5 @@ kati569:REDACTED:Ivette Phifer:fred45@carolsforest.com:user
 emily841:REDACTED:Alexa Mattingly:fred45@carolsforest.com:user
 thomas797:REDACTED:Min Choe:fred45@carolsforest.com:user
 thresa79:REDACTED:Winston Casarez:fred45@carolsforest.com:user
+stephen921:REDACTED:Jamel Ellzey:fred45@carolsforest.com:user
+janina541:REDACTED:Billy Delarosa:fred45@carolsforest.com:user

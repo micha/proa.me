@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-08T17:18:25+00:00</dc:date>
+       <dc:date>2013-03-08T18:33:07+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_guidelines_on_how_to_be_fit&amp;rev=1362767566&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=make_a_style_statement_with_designer_footwear&amp;rev=1362763084&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=these_fitness_tips_will_guarantee_great_results&amp;rev=1362752955&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=north_korea_threatens_us_with_nuclear_strike&amp;rev=1362746874&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=seo_firm_in_hyderabad&amp;rev=1362693928&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=seo_firm_in_tampa&amp;rev=1362693199&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=knowing_a_great_seo_company&amp;rev=1362692507&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=head_three_qualities_in_a_search_engine_ranking_optimization_company_albuquerque&amp;rev=1362691822&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=easy_guidelines_on_how_to_be_fit&amp;rev=1362767566&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-08T18:32:46+00:00</dc:date>
+        <dc:creator>deon652</dc:creator>
+        <title>easy_guidelines_on_how_to_be_fit - created</title>
+        <link>http://proa.me/wiki/doku.php?id=easy_guidelines_on_how_to_be_fit&amp;rev=1362767566&amp;do=diff</link>
+        <description>The concept of fitness is to find and remain in good shape. The recommendations in this article will show you some easy manual on exercise.Don't ignore retaining your whole body go! Use the following tips on this page to stay fit.There is certainly justified reason that trekdesk treadmill desk continues to be selected as the very best device of year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=make_a_style_statement_with_designer_footwear&amp;rev=1362763084&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-08T17:18:04+00:00</dc:date>
@@ -231,15 +239,5 @@ If the US is rife that includes these companies, the UK appearing in general and
 At this instant you might be asking: Should I really need an seo company?? For the time that SEO have be well-liked, there have been multiple corporations which claim to particularize on this field.
 
 Scores of of these webmasters don't determine where to turn to guidance. But with caution, search result marketing can work. But in no way all companies are created be the same as. Leading seo firm executive summary in Japan like IT Chimes have a suitable strong record o…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=head_three_qualities_in_a_search_engine_ranking_optimization_company_albuquerque&amp;rev=1362691822&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-07T21:30:22+00:00</dc:date>
-        <dc:creator>boyd796</dc:creator>
-        <title>head_three_qualities_in_a_search_engine_ranking_optimization_company_albuquerque - created</title>
-        <link>http://proa.me/wiki/doku.php?id=head_three_qualities_in_a_search_engine_ranking_optimization_company_albuquerque&amp;rev=1362691822&amp;do=diff</link>
-        <description>Head Three Qualities In A Search Engine Ranking Optimization Company Albuquerque
-
-Broad resource might be having the plan of banning the site because of further submissions since these because of a single IP address type. Some may know a little bit of but are still confuse that basic knowledge.</description>
     </item>
 </rdf:RDF>

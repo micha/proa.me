@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-08T14:46:44+00:00</dc:date>
+       <dc:date>2013-03-08T17:18:25+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=make_a_style_statement_with_designer_footwear&amp;rev=1362763084&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=these_fitness_tips_will_guarantee_great_results&amp;rev=1362752955&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=north_korea_threatens_us_with_nuclear_strike&amp;rev=1362746874&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=focus_on_getting_fit_applying_this_advice&amp;rev=1362745454&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=seo_firm_in_tampa&amp;rev=1362693199&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=knowing_a_great_seo_company&amp;rev=1362692507&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=head_three_qualities_in_a_search_engine_ranking_optimization_company_albuquerque&amp;rev=1362691822&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_way_to_find_a_good_seo_reputable_company_india&amp;rev=1362691186&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=make_a_style_statement_with_designer_footwear&amp;rev=1362763084&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-08T17:18:04+00:00</dc:date>
+        <dc:creator>lizbeth633</dc:creator>
+        <title>make_a_style_statement_with_designer_footwear - created</title>
+        <link>http://proa.me/wiki/doku.php?id=make_a_style_statement_with_designer_footwear&amp;rev=1362763084&amp;do=diff</link>
+        <description>Designer shoes created by elite fashion homes are worth thousands of dollars and it is a prestige to be wearing them...&lt;br /&gt;&lt;br /&gt;Shoes to feet what clothing are to the physique? Footwear defend the feet and make it comfortable for us to walk on all grounds. Nowadays, they have taken on a different dimension that was not present in the olden instances. The part is that of generating a fashion statement. Custom-produced designer shoes that match with the outfit you are wearing make a massive &lt;ht…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=these_fitness_tips_will_guarantee_great_results&amp;rev=1362752955&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-08T14:29:15+00:00</dc:date>
@@ -233,15 +241,5 @@ Scores of of these webmasters don't determine where to turn to guidance. But wit
         <description>Head Three Qualities In A Search Engine Ranking Optimization Company Albuquerque
 
 Broad resource might be having the plan of banning the site because of further submissions since these because of a single IP address type. Some may know a little bit of but are still confuse that basic knowledge.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=the_way_to_find_a_good_seo_reputable_company_india&amp;rev=1362691186&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-07T21:19:46+00:00</dc:date>
-        <dc:creator>nettie95</dc:creator>
-        <title>the_way_to_find_a_good_seo_reputable_company_india - created</title>
-        <link>http://proa.me/wiki/doku.php?id=the_way_to_find_a_good_seo_reputable_company_india&amp;rev=1362691186&amp;do=diff</link>
-        <description>The Way To Find A Good Seo Reputable Company India
-
-Over here the SEO work is dirty inside but outside the internet business page. There normally a range of better to cost effective strategies if families really want to increase clients to your website.</description>
     </item>
 </rdf:RDF>

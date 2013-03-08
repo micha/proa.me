@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-08T12:48:33+00:00</dc:date>
+       <dc:date>2013-03-08T14:46:44+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=these_fitness_tips_will_guarantee_great_results&amp;rev=1362752955&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=north_korea_threatens_us_with_nuclear_strike&amp;rev=1362746874&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=focus_on_getting_fit_applying_this_advice&amp;rev=1362745454&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=news_on_critical_details_in_how_to_buy_a_car&amp;rev=1362732764&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=knowing_a_great_seo_company&amp;rev=1362692507&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=head_three_qualities_in_a_search_engine_ranking_optimization_company_albuquerque&amp;rev=1362691822&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_way_to_find_a_good_seo_reputable_company_india&amp;rev=1362691186&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=seo_agency_melbourne_bring_site_on_the_very_best_in_google&amp;rev=1362690538&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=these_fitness_tips_will_guarantee_great_results&amp;rev=1362752955&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-08T14:29:15+00:00</dc:date>
+        <dc:creator>olivia879</dc:creator>
+        <title>these_fitness_tips_will_guarantee_great_results - created</title>
+        <link>http://proa.me/wiki/doku.php?id=these_fitness_tips_will_guarantee_great_results&amp;rev=1362752955&amp;do=diff</link>
+        <description>Many people want to get into shape but just don't think it is something they can do. Use this article to help you get fit.There is good reason that trekdesk has been voted as the best product of the year.
+
+By exercising during the breaks of your show, one can watch television all they want while still working on their personal fitness.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=north_korea_threatens_us_with_nuclear_strike&amp;rev=1362746874&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-08T12:47:54+00:00</dc:date>
@@ -233,15 +243,5 @@ Broad resource might be having the plan of banning the site because of further s
         <description>The Way To Find A Good Seo Reputable Company India
 
 Over here the SEO work is dirty inside but outside the internet business page. There normally a range of better to cost effective strategies if families really want to increase clients to your website.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=seo_agency_melbourne_bring_site_on_the_very_best_in_google&amp;rev=1362690538&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-07T21:08:58+00:00</dc:date>
-        <dc:creator>elana442</dc:creator>
-        <title>seo_agency_melbourne_bring_site_on_the_very_best_in_google - created</title>
-        <link>http://proa.me/wiki/doku.php?id=seo_agency_melbourne_bring_site_on_the_very_best_in_google&amp;rev=1362690538&amp;do=diff</link>
-        <description>Seo Agency Melbourne Bring Site On The Very Best In Google
-
-People have started buying products and solutions and availing of services your internet, similarly as businessmen also started opening online extensions within services. However, you need to be very careful by however seo company.</description>
     </item>
 </rdf:RDF>

@@ -471,3 +471,5 @@ ariana213:REDACTED:Christy Scholl:we43@brookeshoney.com:user
 natashia121:REDACTED:Trish Stubbs:we43@brookeshoney.com:user
 garret448:REDACTED:Heather Halpern:we43@brookeshoney.com:user
 megan654:REDACTED:Carey Nix:EiwcoldoraAjould@hotmail.com:user
+josephina438:REDACTED:Macie Foxx:gigi@beyaas.com:user
+george538:REDACTED:Kristine Salyers:gigi@beyaas.com:user

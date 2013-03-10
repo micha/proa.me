@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-10T08:34:38+00:00</dc:date>
+       <dc:date>2013-03-10T14:00:23+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=russian_helicopter_crashes_in_congo_crew_s_fate_unknown&amp;rev=1362924003&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=seo_now_the_primary_way_to_bring_along_traffic_for_site&amp;rev=1362904468&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=group_websites_can_be_found_easily_using_seo_india&amp;rev=1362894417&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=scottish_weddings_what_does_the_future_husband_wear&amp;rev=1362889436&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_great_insurance_web_site_is_necessary_to_your_success&amp;rev=1362876898&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=routine_types_of_public_liability_applications&amp;rev=1362876039&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=insurance_your_medical_building_or_procedure&amp;rev=1362875164&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=troubles&amp;rev=1362874307&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=russian_helicopter_crashes_in_congo_crew_s_fate_unknown&amp;rev=1362924003&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-10T14:00:03+00:00</dc:date>
+        <dc:creator>strenton473</dc:creator>
+        <title>russian_helicopter_crashes_in_congo_crew_s_fate_unknown - created</title>
+        <link>http://proa.me/wiki/doku.php?id=russian_helicopter_crashes_in_congo_crew_s_fate_unknown&amp;rev=1362924003&amp;do=diff</link>
+        <description>MOSCOW, March 10 (RIA Novosti) – A Russian Mil Mi-8 helicopter crashed in the Democratic Republic of Congo and the fate of the crew is unknown, a source in Russia’s law-enforcement agencies said on Sunday.&lt;br /&gt;The helicopter, which belonged to Russian airline UTair, worked in the central African country under a UN contract.&lt;br /&gt;“According to preliminary information, a Russian Mi-8 helicopter crashed in the mountainous terrain at an altitude of 2,700 meters, some 20 km [12 miles] south-west of …</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=seo_now_the_primary_way_to_bring_along_traffic_for_site&amp;rev=1362904468&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-10T08:34:28+00:00</dc:date>
@@ -227,15 +235,5 @@ Everything consultants, therefore, need to look after their assets against claim
         <description>Insurance Your Medical Building Or Procedure
 
 In return of the safety and the insurance cover presented with to the insured individual, i would say the insuring agency charges a value known as the “premium”. Frightful nightmarish terms and highly preventable too.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=troubles&amp;rev=1362874307&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-10T00:11:47+00:00</dc:date>
-        <dc:creator>francisca147</dc:creator>
-        <title>troubles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=troubles&amp;rev=1362874307&amp;do=diff</link>
-        <description>Troubles &amp; Omissions Insurance Is An Important Part Of Business Liability
-
-It's important, therefore, to  one that has specific sensation in this area. There are plenty stages that a prospective realtor will need to pass within before becoming fully trained and as well registered.</description>
     </item>
 </rdf:RDF>

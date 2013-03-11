@@ -588,3 +588,17 @@ sebastian964:REDACTED:Steffanie Ansoony:CobirnelisoovnNobzyuko@hotmail.com:user
 anglea562:REDACTED:Omar Massengale:rt4534@wsstreetfest.com:user
 dennis59:REDACTED:Lavette Hite:rt4534@wsstreetfest.com:user
 roni486:REDACTED:Kati Weekley:rt4534@wsstreetfest.com:user
+aurore936:REDACTED:Christiana Fulton:rt4534@wsstreetfest.com:user
+marlo223:REDACTED:Ima Haggins:rt4534@wsstreetfest.com:user
+marlena75:REDACTED:Luanne Lanier:rt4534@wsstreetfest.com:user
+rodrick491:REDACTED:Gudrun Pagel:rt4534@wsstreetfest.com:user
+janet697:REDACTED:Anneliese Deal:rt4534@wsstreetfest.com:user
+bryant9:REDACTED:Nathanial Taylor:rt4534@wsstreetfest.com:user
+margret988:REDACTED:Winston Ginn:ert445@bluekitedesigns.com:user
+marianne277:REDACTED:Jamaal Shute:ert445@bluekitedesigns.com:user
+randa666:REDACTED:Jacinda Cagill:ert445@bluekitedesigns.com:user
+bronwyn254:REDACTED:Marjory Dailey:ert445@bluekitedesigns.com:user
+karissa65:REDACTED:Twana Kratzer:ert445@bluekitedesigns.com:user
+jamel163:REDACTED:Raleigh Bretz:ert445@bluekitedesigns.com:user
+garfield155:REDACTED:Domenic Salgado:ert445@bluekitedesigns.com:user
+judy428:REDACTED:Rosalina Tingley:ert445@bluekitedesigns.com:user

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-12T13:01:24+00:00</dc:date>
+       <dc:date>2013-03-12T13:21:36+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=difficulties_of_libido_max_in_health_items&amp;rev=1363094054&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=using_bowtrol_for_that_treatment_of_obese_problem_along_with_irregularity&amp;rev=1363093262&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=making_use_of_bowtrol_for_your_management_of_over_weight_issue_along_with_irregularity&amp;rev=1363093218&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=finding_safe_and_effective_hgh_products&amp;rev=1363092797&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=shopping_for_the_ideal_diamond_engagement_wedding_band_jeweler&amp;rev=1363014515&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=finding_the_perfect_maryland_moving_provider&amp;rev=1363014386&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_and_hints_on_finding_the_perfect_stone_engagement_ring_jewelry_store&amp;rev=1363014166&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=diamond_engagement_ring_insurance_prices_related_articles&amp;rev=1363013830&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=difficulties_of_libido_max_in_health_items&amp;rev=1363094054&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-12T13:14:14+00:00</dc:date>
+        <dc:creator>strenton473</dc:creator>
+        <title>difficulties_of_libido_max_in_health_items - created</title>
+        <link>http://proa.me/wiki/doku.php?id=difficulties_of_libido_max_in_health_items&amp;rev=1363094054&amp;do=diff</link>
+        <description>It's easy to supplement with synthetic bodybuilding supplements reviews and most people respond very well to this connected with treatment. Complete reversal of the negative effects within 3-6 months is not exceptional.&lt;br /&gt;&lt;br /&gt;Dream of lying in a meadow of daisies, the sun shining down on a person will. Cause you sleep? NO? Well, the subsequently unsurpassed thing is a tea made of the daisies, camomile.&lt;br /&gt;&lt;br /&gt;- his bewilderment, Prout found that fresh new hatched chicks contained four t…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=using_bowtrol_for_that_treatment_of_obese_problem_along_with_irregularity&amp;rev=1363093262&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-12T13:01:02+00:00</dc:date>
@@ -227,15 +235,5 @@ Do not really settle to your first an individual you obtain. Changing home or of
         <description>Tips And Hints On Finding The Perfect Stone Engagement Ring Jewelry Store
 
 Matching the ones are always a nice conception to keep in mind. Prior Hollywood power-couple, Ben Affleck additionally Jennifer Lopez (Bennifer) shared handful of unfortunate movies and apparently, switching the lavish taste.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=diamond_engagement_ring_insurance_prices_related_articles&amp;rev=1363013830&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-11T14:57:10+00:00</dc:date>
-        <dc:creator>johnie554</dc:creator>
-        <title>diamond_engagement_ring_insurance_prices_related_articles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=diamond_engagement_ring_insurance_prices_related_articles&amp;rev=1363013830&amp;do=diff</link>
-        <description>Diamond Engagement Ring Insurance Prices Related Articles
-
-Thus, here you possibly can learn about innumerous settings pertaining to engagement rings, including the arranging of diamond engagement rings. They can have diamond in prefer cuts like Oval, Pear or maybe Heart.</description>
     </item>
 </rdf:RDF>

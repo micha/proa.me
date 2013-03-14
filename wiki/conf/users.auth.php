@@ -830,3 +830,5 @@ trula788:REDACTED:Ernie Lakey:b2npdB2O@pad-home.com:user
 cleora927:REDACTED:Sade Delarosa:b2npdB2O@pad-home.com:user
 devin34:REDACTED:Arnold Feck:b2npdB2O@pad-home.com:user
 lindsay682:REDACTED:Edgardo Gregorio:b2npdB2O@pad-home.com:user
+elina58:REDACTED:Laurie Deal:b2npdB2O@pad-home.com:user
+latoria487:REDACTED:Cathy Waldon:L8gZQ18j@gmail.com:user

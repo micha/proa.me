@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-14T07:39:38+00:00</dc:date>
+       <dc:date>2013-03-14T08:53:00+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=shaklee_home_business_-_the_conspriracy&amp;rev=1363250039&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=insights_on_necessary_criteria_in_debloquer_iphone_4&amp;rev=1363246762&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=outlines_for_convenient_products_in_unlock_iphone_5&amp;rev=1363240902&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=redecorating_websites_that_appeal_to_the_exact_senses&amp;rev=1363239464&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=offload_my_junk_car_boulder_related_articles&amp;rev=1363235231&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=applications_and_social_bookmarking_strategies&amp;rev=1363234768&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=some_smells_could_suggest_car_disturbs&amp;rev=1363234529&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=original_technology_innovation_in_cars&amp;rev=1363234147&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=shaklee_home_business_-_the_conspriracy&amp;rev=1363250039&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-14T08:33:59+00:00</dc:date>
+        <dc:creator>annabell6</dc:creator>
+        <title>shaklee_home_business_-_the_conspriracy - created</title>
+        <link>http://proa.me/wiki/doku.php?id=shaklee_home_business_-_the_conspriracy&amp;rev=1363250039&amp;do=diff</link>
+        <description>&lt;p&gt;They have different product line called Cinch, it has many different weight management techniques that may help you to build your muscle tissue unfastened fats and free inches. Philosophy behind the skin care merchandise is that skin also needs some further care and nutritional vitamins. Successful Shaklee enterprise one should know some things. Now they're in all probability doing stronger than they have prior to now. Dr. Forrest C. Shaklee led to Shaklee in He was the inventor of the world'…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=insights_on_necessary_criteria_in_debloquer_iphone_4&amp;rev=1363246762&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-14T07:39:22+00:00</dc:date>
@@ -227,15 +235,5 @@ The truth is nobody really knows what mixture of stories, writers, actors and br
         <description>Some Smells Could Suggest Car Disturbs
 
 Armed with how the information, you can ask for the particular salesperson. They are to be able to sell at the maximum would-be price, whereas you are seeking to negotiate a deal at all-time low possible price.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=original_technology_innovation_in_cars&amp;rev=1363234147&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-14T04:09:07+00:00</dc:date>
-        <dc:creator>mabelle354</dc:creator>
-        <title>original_technology_innovation_in_cars - created</title>
-        <link>http://proa.me/wiki/doku.php?id=original_technology_innovation_in_cars&amp;rev=1363234147&amp;do=diff</link>
-        <description>Original Technology Innovation In Cars!
-
-Boise and  cities as well, have its big popular car dealers who also can walk you through the shopping process. You will be pleasantly amazed at the price and quite in general with the selection of vehicle sales.</description>
     </item>
 </rdf:RDF>

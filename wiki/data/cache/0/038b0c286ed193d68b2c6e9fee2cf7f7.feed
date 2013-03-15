@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-15T10:31:00+00:00</dc:date>
+       <dc:date>2013-03-15T11:19:48+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_online_writing_business_requires_constant_and_regular_writing&amp;rev=1363346384&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=simplifying_straightforward_top_web_hosting_services_systems&amp;rev=1363343421&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=deciding_on_real-world_systems_in_top_web_hosting_services&amp;rev=1363339795&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=no-hassle_christening_gifts_online_systems_-_insights&amp;rev=1363337069&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=france_immigration_visa_skillselect_program_august_2012&amp;rev=1363321022&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exploration_in_australia_needs_more_trades-people&amp;rev=1363320318&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=higher_education_visa_australia_articles&amp;rev=1363319561&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=rapid_programs_in_radiology_technologist_-_an_intro&amp;rev=1363318944&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_online_writing_business_requires_constant_and_regular_writing&amp;rev=1363346384&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-15T11:19:44+00:00</dc:date>
+        <dc:creator>pandora398</dc:creator>
+        <title>the_online_writing_business_requires_constant_and_regular_writing - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_online_writing_business_requires_constant_and_regular_writing&amp;rev=1363346384&amp;do=diff</link>
+        <description>Many writers do not understand that the online writing business is very different from the offline writing world. 
+
+The economics are totally different and no amount of lobbying and noise will change that.Sadly, because of this reason, many good writers have stayed away from the online writing business while others have priced themselves out of lucrative assignments from websites, simply because they want the offline world to be automatically transferred online.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=simplifying_straightforward_top_web_hosting_services_systems&amp;rev=1363343421&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-15T10:30:21+00:00</dc:date>
@@ -229,14 +239,5 @@ In similar website, the domain registration companies asks for the domain purcha
         <description>Higher Education Visa Australia Articles
 
 Employee Nomination Scheme - Subclass 121/856 allows Australian employers to assist you sponsor foreign nationals for a perpetual visa to work in Review. My partner cancelled my flight and recognized another one for the up coming week.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=rapid_programs_in_radiology_technologist_-_an_intro&amp;rev=1363318944&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-15T03:42:24+00:00</dc:date>
-        <dc:creator>elbert116</dc:creator>
-        <title>rapid_programs_in_radiology_technologist_-_an_intro - created</title>
-        <link>http://proa.me/wiki/doku.php?id=rapid_programs_in_radiology_technologist_-_an_intro&amp;rev=1363318944&amp;do=diff</link>
-        <description>Not only that he/she has to know how to prepare and put patients for x-ray and should have the skills of managing non-radioactive materials used for diagnosis.  And regardless of what career you are in that is a good thing.  Your knowledge and experience will determine your eligibility and pay scale.   
-Thus, this is a minimum of 3 hours in the ER before they are scanned.  An x-ray technician is invaluable to doctors and hospitals as these tests aid to provide the basis for a diagnosis, prognosi…</description>
     </item>
 </rdf:RDF>

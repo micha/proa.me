@@ -880,3 +880,5 @@ marianne858:REDACTED:Dona Roseman:04RyLGb0@charlesmacklin.com:user
 ron848:REDACTED:Maurine Washam:04RyLGb0@charlesmacklin.com:user
 otis272:REDACTED:Toney Darrah:04RyLGb0@charlesmacklin.com:user
 desmond252:REDACTED:Dinah Baptiste:04RyLGb0@charlesmacklin.com:user
+danica889:REDACTED:Sophie Revell:SNaGufqR@gmail.com:user
+rosie546:REDACTED:Quentin Bragg:SNaGufqR@gmail.com:user

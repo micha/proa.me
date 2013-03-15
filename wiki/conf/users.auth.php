@@ -846,3 +846,8 @@ kevin45:REDACTED:Mazie Sill:77coZo2B@wsstreetfest.com:user
 raye48:REDACTED:Shari Nations:77coZo2B@wsstreetfest.com:user
 candance633:REDACTED:Alline Passmore:77coZo2B@wsstreetfest.com:user
 gussie53:REDACTED:Mirian Bobo:77coZo2B@wsstreetfest.com:user
+leland344:REDACTED:Adeline Henriquez:77coZo2B@wsstreetfest.com:user
+rob18:REDACTED:Virgilio Fairbanks:77coZo2B@wsstreetfest.com:user
+gerardo924:REDACTED:Ernest Archie:77coZo2B@wsstreetfest.com:user
+donya788:REDACTED:Sammy Capuano:77coZo2B@wsstreetfest.com:user
+nicki733:REDACTED:Dannette Waldon:77coZo2B@wsstreetfest.com:user

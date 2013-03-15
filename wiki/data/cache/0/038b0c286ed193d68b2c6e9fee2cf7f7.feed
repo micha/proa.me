@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-15T11:19:48+00:00</dc:date>
+       <dc:date>2013-03-15T14:58:23+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=harman_kardon_sb10_3.1_soundbar-lautsprechersystem_mit_aktivem_subwoofer&amp;rev=1363359490&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_online_writing_business_requires_constant_and_regular_writing&amp;rev=1363346384&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=simplifying_straightforward_top_web_hosting_services_systems&amp;rev=1363343421&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=deciding_on_real-world_systems_in_top_web_hosting_services&amp;rev=1363339795&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=college_student_visa_for_australia&amp;rev=1363321739&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=france_immigration_visa_skillselect_program_august_2012&amp;rev=1363321022&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exploration_in_australia_needs_more_trades-people&amp;rev=1363320318&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=higher_education_visa_australia_articles&amp;rev=1363319561&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,18 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=harman_kardon_sb10_3.1_soundbar-lautsprechersystem_mit_aktivem_subwoofer&amp;rev=1363359490&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-15T14:58:10+00:00</dc:date>
+        <dc:creator>iliana17</dc:creator>
+        <title>harman_kardon_sb10_3.1_soundbar-lautsprechersystem_mit_aktivem_subwoofer - created</title>
+        <link>http://proa.me/wiki/doku.php?id=harman_kardon_sb10_3.1_soundbar-lautsprechersystem_mit_aktivem_subwoofer&amp;rev=1363359490&amp;do=diff</link>
+        <description>Harman Kardon SB10 3.1 Soundbar-Lautsprechersystem mit aktivem Subwoofer
+
+passive Soundbar für 3.1 Kanal-Betrieb mit aktivem Subwoofer
+
+Einfach, kompakt und überraschend kraftvoll. Die Soundbar SB 10 ist die superkompakte Antwort für alle Aufstellungsprobleme in Ihrem Heimkino. Es müssen keine Satelliten Lautsprecher mehr seitlich am Fernseher platziert werden und auch die Lautsprecher-Kabel sind viel einfacher und verdeckter zu verlegen als mit herkömmlichen Subwoofer Satelliten-Systemen. Schli…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=the_online_writing_business_requires_constant_and_regular_writing&amp;rev=1363346384&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-15T11:19:44+00:00</dc:date>
@@ -229,15 +241,5 @@ The government prioritized this one by allotting additional budget on on-campus 
 This important is just the basic data on visa application. You should design your EOI only after the invoice of a positive assessment tips and advice from the evaluation agency and also IELTS TRF.
 
 In similar website, the domain registration companies asks for the domain purchaser to refresh the site. Experts who are unable to include full medical registration in this country may be hired then endowed as a short-term kama'aina ( while they are i…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=higher_education_visa_australia_articles&amp;rev=1363319561&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-15T03:52:41+00:00</dc:date>
-        <dc:creator>alfred486</dc:creator>
-        <title>higher_education_visa_australia_articles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=higher_education_visa_australia_articles&amp;rev=1363319561&amp;do=diff</link>
-        <description>Higher Education Visa Australia Articles
-
-Employee Nomination Scheme - Subclass 121/856 allows Australian employers to assist you sponsor foreign nationals for a perpetual visa to work in Review. My partner cancelled my flight and recognized another one for the up coming week.</description>
     </item>
 </rdf:RDF>

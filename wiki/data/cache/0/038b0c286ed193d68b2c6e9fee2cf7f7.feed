@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-15T05:17:09+00:00</dc:date>
+       <dc:date>2013-03-15T06:23:56+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=an_analysis_of_root_aspects_of_online_dating&amp;rev=1363328577&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=eta_visa_application&amp;rev=1363324348&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=effective_online_dating_systems_across_the_usa&amp;rev=1363324124&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=australia_visa_application&amp;rev=1363323630&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=c_critical_things_small_business_pet_parents_neglect&amp;rev=1363308581&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=small_company_health_in_2013&amp;rev=1363307254&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=business_grants_what_you_need_realize&amp;rev=1363306884&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=allows_for_women_starting_a_company&amp;rev=1363306523&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=an_analysis_of_root_aspects_of_online_dating&amp;rev=1363328577&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-15T06:22:57+00:00</dc:date>
+        <dc:creator>elbert116</dc:creator>
+        <title>an_analysis_of_root_aspects_of_online_dating - created</title>
+        <link>http://proa.me/wiki/doku.php?id=an_analysis_of_root_aspects_of_online_dating&amp;rev=1363328577&amp;do=diff</link>
+        <description>Although, that may well not automatically be the case, If you do elect to try internet dating, a few internet dating tips you should consider are as follows:  1.  So to work with you away, let us shed some light on the 5 most commonly known false claims that many internet dating users put out.  - Never give out any personal information like for example your spot of work, where you live, your email address or your mobile or home phone number.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=eta_visa_application&amp;rev=1363324348&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-15T05:12:28+00:00</dc:date>
@@ -236,15 +244,5 @@ For most small businesses, which has all you will might want for your personal a
         <description>Business Grants: What You Need Realize
 
 By smiling, you are giving your support the impression that they continue to be welcome in your store understanding that you're there to help people in whatever way you do. The point typically is to put your thoughts to ideas down in writing.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=allows_for_women_starting_a_company&amp;rev=1363306523&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-15T00:15:23+00:00</dc:date>
-        <dc:creator>claud27</dc:creator>
-        <title>allows_for_women_starting_a_company - created</title>
-        <link>http://proa.me/wiki/doku.php?id=allows_for_women_starting_a_company&amp;rev=1363306523&amp;do=diff</link>
-        <description>Allows For Women Starting A Company
-
-In such a marginal business there is little or no room for sudden public quote increases in gas, food, additional basic necessities that would cut the buying power of clients. A vital aspect of a small business is really its communication system.</description>
     </item>
 </rdf:RDF>

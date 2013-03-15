@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-15T09:30:01+00:00</dc:date>
+       <dc:date>2013-03-15T10:31:00+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=simplifying_straightforward_top_web_hosting_services_systems&amp;rev=1363343421&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=deciding_on_real-world_systems_in_top_web_hosting_services&amp;rev=1363339795&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=no-hassle_christening_gifts_online_systems_-_insights&amp;rev=1363337069&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=work_permit_from_australia_related_articles&amp;rev=1363336178&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exploration_in_australia_needs_more_trades-people&amp;rev=1363320318&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=higher_education_visa_australia_articles&amp;rev=1363319561&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=rapid_programs_in_radiology_technologist_-_an_intro&amp;rev=1363318944&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=what_s_helped_boost_australia_s_workforce_training&amp;rev=1363318858&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=simplifying_straightforward_top_web_hosting_services_systems&amp;rev=1363343421&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-15T10:30:21+00:00</dc:date>
+        <dc:creator>ty37</dc:creator>
+        <title>simplifying_straightforward_top_web_hosting_services_systems - created</title>
+        <link>http://proa.me/wiki/doku.php?id=simplifying_straightforward_top_web_hosting_services_systems&amp;rev=1363343421&amp;do=diff</link>
+        <description>In - Motion web hosting service is best for those looking for choice of hosting from different geographical units.  While choosing any top 3 web hosts companies inquire about what types of services they offer.  Find out what are good about their services.  .  Sma ll Business Hosting.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=deciding_on_real-world_systems_in_top_web_hosting_services&amp;rev=1363339795&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-15T09:29:55+00:00</dc:date>
@@ -230,15 +238,5 @@ Employee Nomination Scheme - Subclass 121/856 allows Australian employers to ass
         <link>http://proa.me/wiki/doku.php?id=rapid_programs_in_radiology_technologist_-_an_intro&amp;rev=1363318944&amp;do=diff</link>
         <description>Not only that he/she has to know how to prepare and put patients for x-ray and should have the skills of managing non-radioactive materials used for diagnosis.  And regardless of what career you are in that is a good thing.  Your knowledge and experience will determine your eligibility and pay scale.   
 Thus, this is a minimum of 3 hours in the ER before they are scanned.  An x-ray technician is invaluable to doctors and hospitals as these tests aid to provide the basis for a diagnosis, prognosi…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=what_s_helped_boost_australia_s_workforce_training&amp;rev=1363318858&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-15T03:40:58+00:00</dc:date>
-        <dc:creator>meridith127</dc:creator>
-        <title>what_s_helped_boost_australia_s_workforce_training - created</title>
-        <link>http://proa.me/wiki/doku.php?id=what_s_helped_boost_australia_s_workforce_training&amp;rev=1363318858&amp;do=diff</link>
-        <description>What's Helped Boost Australia's Workforce Training
-
-That has world coming closer, countries reminiscent of australia have realized importance of all role migrants in fuelling its continuous progress of their establishments. All that it takes it so get up and running and make one great conclusion.</description>
     </item>
 </rdf:RDF>

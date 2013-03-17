@@ -889,3 +889,6 @@ ruthie16:REDACTED:Camilla Hardy:soc30pp3he@hotmail.com:user
 elina759:REDACTED:Stephane Stubbs:jerry@accordionman.us:user
 affpro:REDACTED:Michael Cooper:michael_cooper38@aol.com:user
 chang35:REDACTED:Numbers Schram:4683bnJD@gmail.com:user
+lois535:REDACTED:Mary Welty:wikirobot@zarabiajzfc.pl:user
+bryant199:REDACTED:Catharine Shroyer:email@facebook-spy.org:user
+tamra572:REDACTED:Hana Nolan:bb@premiumarea.eu:user

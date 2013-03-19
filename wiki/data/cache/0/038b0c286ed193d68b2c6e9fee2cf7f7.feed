@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-18T17:29:52+00:00</dc:date>
+       <dc:date>2013-03-18T23:23:00+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_create_a_well-researched_article&amp;rev=1363648955&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=what_every_one_dislikes_about_hair_extensions_bristol_and_why&amp;rev=1363599483&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=earning_out_air_max_an_chinese_medicine_school&amp;rev=1363586227&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=attain_stress_free_life_by_messing_around_with_acupuncture_therapy&amp;rev=1363585934&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=improvements_in_pharmaceutical_manufacturing_sciences&amp;rev=1363579640&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pair_of_delicious_healthy_soup_recipes_as_for_weight_loss&amp;rev=1363578475&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=hand_made_protein_shake_recipes&amp;rev=1363578156&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=cooking_with_different_recipes&amp;rev=1363577842&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,17 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=how_to_create_a_well-researched_article&amp;rev=1363648955&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-18T23:22:35+00:00</dc:date>
+        <dc:creator>pandora398</dc:creator>
+        <title>how_to_create_a_well-researched_article - created</title>
+        <link>http://proa.me/wiki/doku.php?id=how_to_create_a_well-researched_article&amp;rev=1363648955&amp;do=diff</link>
+        <description>Researching Your Article
+
+Unless you're already an established expert on the topic - or unless you're writing a rant or an opinion piece - you'll probably need to first do some research on the topic of your article.
+Let me say this: There's a right way and a wrong way to complete this step. Here's the number one wrong way to do it...</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=what_every_one_dislikes_about_hair_extensions_bristol_and_why&amp;rev=1363599483&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-18T09:38:03+00:00</dc:date>
@@ -231,15 +242,5 @@ Serve with an abundance of Thai jasmine rice (white or brown), and enjoy this gu
 For a dinner party potentially formal occasion chocolate mousse dessert or chocolate fondants make a lavish dessert. This is an excellent main course, which you can put on a crock pot making this can easy to prepare.
 
 Additionally, you are able to optimize famous restaurant recipes beef stroganoff to reduce the fat content or sodium heightened levels by substituting in less of ingredient or utilizing lower system alternatives. From lobsters for you to crabs and s…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=cooking_with_different_recipes&amp;rev=1363577842&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-18T03:37:22+00:00</dc:date>
-        <dc:creator>bella2</dc:creator>
-        <title>cooking_with_different_recipes - created</title>
-        <link>http://proa.me/wiki/doku.php?id=cooking_with_different_recipes&amp;rev=1363577842&amp;do=diff</link>
-        <description>Cooking With Different Recipes
-
-Sure it requires away some of the please for that sitting, but you are look really find out a fantastic just by taking a more look at what is your plate. So here I will impart you easy and quick enchilada casserole recipe.</description>
     </item>
 </rdf:RDF>

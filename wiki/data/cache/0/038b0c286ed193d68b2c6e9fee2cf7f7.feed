@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-20T06:44:14+00:00</dc:date>
+       <dc:date>2013-03-20T14:43:01+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_causes_of_autism&amp;rev=1363790557&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=realistic_event_management_plans_examined&amp;rev=1363761834&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=even_more_of_using_green_coffee_coffee_bean_extract&amp;rev=1363752426&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=rapid_fat_loss_methods_for_more_fat_loss&amp;rev=1363752046&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=building_firms_gold_coast_queensland&amp;rev=1363717423&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_car_car_repair_and_maintenance_with_regard_to_gold_coast&amp;rev=1363716718&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=party_parties_gold_coast_related_resources&amp;rev=1363716005&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=step_5_high_effective_ways_surf_institutions_gold_coast&amp;rev=1363715261&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_causes_of_autism&amp;rev=1363790557&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-20T14:42:37+00:00</dc:date>
+        <dc:creator>glendora691</dc:creator>
+        <title>the_causes_of_autism - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_causes_of_autism&amp;rev=1363790557&amp;do=diff</link>
+        <description>There are many concepts relating to the cause of Autism Range Disorder, but currently none that have been shown to be the sole cause to promote irregularities in mind advancement (with one exception - the uncommon disorder called Rett's Syndrome has actually been proven to be triggered by a certain genetic alteration).</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=realistic_event_management_plans_examined&amp;rev=1363761834&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-20T06:43:54+00:00</dc:date>
@@ -235,15 +243,5 @@ This is rather affordable and very fun to actually watch. Are on the road from t
         <description>Party Parties Gold Coast Related Resources
 
 Our New York Times article points out the fact that Nosara 'has become the ideal spot returning to learn to surf'. The coast's pirate a brief history is reflected in the reviews of buried treasure and submerged ships.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=step_5_high_effective_ways_surf_institutions_gold_coast&amp;rev=1363715261&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-19T17:47:41+00:00</dc:date>
-        <dc:creator>sherie652</dc:creator>
-        <title>step_5_high_effective_ways_surf_institutions_gold_coast - created</title>
-        <link>http://proa.me/wiki/doku.php?id=step_5_high_effective_ways_surf_institutions_gold_coast&amp;rev=1363715261&amp;do=diff</link>
-        <description>Step 5 High Effective Ways Surf Institutions Gold Coast
-
-Positioned in the Hanoi, specific bay embraces a massive 3,000 islands. Should it be you start driving from southern to the north then you see, the first place that you must come across is Coolangatta.</description>
     </item>
 </rdf:RDF>

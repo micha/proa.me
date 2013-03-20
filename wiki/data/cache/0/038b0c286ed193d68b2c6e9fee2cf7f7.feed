@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-20T05:59:37+00:00</dc:date>
+       <dc:date>2013-03-20T06:44:14+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=realistic_event_management_plans_examined&amp;rev=1363761834&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=even_more_of_using_green_coffee_coffee_bean_extract&amp;rev=1363752426&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=rapid_fat_loss_methods_for_more_fat_loss&amp;rev=1363752046&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=orange_coffee_bean_extract_for_unwanted_weight_loss_articles&amp;rev=1363751790&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_car_car_repair_and_maintenance_with_regard_to_gold_coast&amp;rev=1363716718&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=party_parties_gold_coast_related_resources&amp;rev=1363716005&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=step_5_high_effective_ways_surf_institutions_gold_coast&amp;rev=1363715261&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=you_might_can_go_high_when_on_the_topic_of_australia_s_gold_coast&amp;rev=1363714564&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=realistic_event_management_plans_examined&amp;rev=1363761834&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-20T06:43:54+00:00</dc:date>
+        <dc:creator>elbert116</dc:creator>
+        <title>realistic_event_management_plans_examined - created</title>
+        <link>http://proa.me/wiki/doku.php?id=realistic_event_management_plans_examined&amp;rev=1363761834&amp;do=diff</link>
+        <description>The exotic banquet halls with ultimate facilities are fantastic destination for amusement and fun festivals.  But that original creativity lies regarding the real mind of the event planner.  There are lots of others, and I suggest viewing the discussions to have a more detailed concept of all of the promotion tacticsthat are available to you:.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=even_more_of_using_green_coffee_coffee_bean_extract&amp;rev=1363752426&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-20T04:07:06+00:00</dc:date>
@@ -237,15 +245,5 @@ Our New York Times article points out the fact that Nosara 'has become the ideal
         <description>Step 5 High Effective Ways Surf Institutions Gold Coast
 
 Positioned in the Hanoi, specific bay embraces a massive 3,000 islands. Should it be you start driving from southern to the north then you see, the first place that you must come across is Coolangatta.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=you_might_can_go_high_when_on_the_topic_of_australia_s_gold_coast&amp;rev=1363714564&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-19T17:36:04+00:00</dc:date>
-        <dc:creator>lin3</dc:creator>
-        <title>you_might_can_go_high_when_on_the_topic_of_australia_s_gold_coast - created</title>
-        <link>http://proa.me/wiki/doku.php?id=you_might_can_go_high_when_on_the_topic_of_australia_s_gold_coast&amp;rev=1363714564&amp;do=diff</link>
-        <description>You Might Can Go High When On The Topic Of Australia's Gold Coast
-
-Movie World can be a movie themed park with Warner Bros. If the open-air experience of Gold Coast holiday doesn't interest you, you will certainly also find wonderful shopping also a wide range of parks.</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-22T19:15:56+00:00</dc:date>
+       <dc:date>2013-03-22T20:24:32+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=regular_home_improvements_for_every_home&amp;rev=1363982766&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=quite_tips_to_find_guaranteed_search_engine_optimization_company&amp;rev=1363927250&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_exactly_you_need_an_ecommerce_research_engine_company&amp;rev=1363926520&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=search_engine_optimization_company_india_is_the_present_then_future_of_online_advertising&amp;rev=1363925873&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=research_service_to_feel_you_smart&amp;rev=1363912468&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=reprogram_your_search_engine_rankings_with_the_particular_seo_service&amp;rev=1363911950&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=check_out_some_of_these_muscle_building_tips&amp;rev=1363897884&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fair_promotional_productions_related_articles&amp;rev=1363856626&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=regular_home_improvements_for_every_home&amp;rev=1363982766&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-22T20:06:06+00:00</dc:date>
+        <dc:creator>dona35</dc:creator>
+        <title>regular_home_improvements_for_every_home - created</title>
+        <link>http://proa.me/wiki/doku.php?id=regular_home_improvements_for_every_home&amp;rev=1363982766&amp;do=diff</link>
+        <description>A proper do it yourself project can enhance the associated with a person's home substantially. When engaging in home improvement, there are so many facets to consider. Use this article with regard to tips on doing home improvements the right way. Taking on home improvement projects is a challenge best accomplished with the right tools and the right information. This article has many helpful tips plus pointers that can keep you on the right track through the stages otherwise you project progresse…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=quite_tips_to_find_guaranteed_search_engine_optimization_company&amp;rev=1363927250&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-22T04:40:50+00:00</dc:date>
@@ -227,15 +235,5 @@ This guarantees the surveillance of one's site?s ranking day by daytime. Directo
         <title>check_out_some_of_these_muscle_building_tips - created</title>
         <link>http://proa.me/wiki/doku.php?id=check_out_some_of_these_muscle_building_tips&amp;rev=1363897884&amp;do=diff</link>
         <description>It can be very frustrating to attempt to build muscle without having the proper knowledge. If you are not prepared using the right information, you can end up devoting a significant amount of time and effort without making any progress toward your goals. This short article offers a wealth info and tips that will assist you build muscle effectively.There is certainly strong reason that health stores is actually voted to be the very best service of year.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=fair_promotional_productions_related_articles&amp;rev=1363856626&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-21T09:03:46+00:00</dc:date>
-        <dc:creator>yang397</dc:creator>
-        <title>fair_promotional_productions_related_articles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=fair_promotional_productions_related_articles&amp;rev=1363856626&amp;do=diff</link>
-        <description>Fair Promotional Productions Related Articles
-
-After which the manufacture of 12,921 vehicles, developing of motor homes was complete after the 1978 model same year. Professional mixing of sound also video graphics can make a brand new company's Web site the coveted by of its competitors.</description>
     </item>
 </rdf:RDF>

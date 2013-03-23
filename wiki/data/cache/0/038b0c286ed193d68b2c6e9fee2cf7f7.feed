@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-23T04:04:59+00:00</dc:date>
+       <dc:date>2013-03-23T04:22:00+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=vimax_pills_articles&amp;rev=1364011148&amp;do=diff"/>

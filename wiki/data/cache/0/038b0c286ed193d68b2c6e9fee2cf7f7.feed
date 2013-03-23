@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-23T01:03:34+00:00</dc:date>
+       <dc:date>2013-03-23T04:04:59+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=vimax_pills_articles&amp;rev=1364011148&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advice_on_living_with_severe_back_discomfort&amp;rev=1363990785&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=regular_home_improvements_for_every_home&amp;rev=1363982766&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=quite_tips_to_find_guaranteed_search_engine_optimization_company&amp;rev=1363927250&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=dial_seo_service_raleigh_and_focus_on_increasing_your_traffic_now&amp;rev=1363913486&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=what_kind_of_professional_seo_company_works&amp;rev=1363912993&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=research_service_to_feel_you_smart&amp;rev=1363912468&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=reprogram_your_search_engine_rankings_with_the_particular_seo_service&amp;rev=1363911950&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=vimax_pills_articles&amp;rev=1364011148&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-23T03:59:08+00:00</dc:date>
+        <dc:creator>strenton473</dc:creator>
+        <title>vimax_pills_articles - created</title>
+        <link>http://proa.me/wiki/doku.php?id=vimax_pills_articles&amp;rev=1364011148&amp;do=diff</link>
+        <description>Summary: This in turn will help most people maintain an erection and increase bedroom stamina. This item has been seen that penis value depends on the male's ego.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Second, it is recommend that you assume a penis enlargement pill for half a year months or so. Although a particular penis enlargement pill will give results in a few weeks it is probably better to take it for the actual longer period to get a lasting, more permanent change to your penile.&lt;br /&gt;&lt;br /&gt;David was so used …</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=advice_on_living_with_severe_back_discomfort&amp;rev=1363990785&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-22T22:19:45+00:00</dc:date>
@@ -225,15 +233,5 @@ Search Engine positions are dependent on highly complex and secret formulas foll
 He types “shoes” in to be able to Google and presses enter. For example, if your work in a business or company and is to take good their website, the course will definately teach you how you can that.
 
 Can buy the most important things information on affiliate marketing website is my credibility. Do it again the keywords at least twice in a paragraph. While you want to hire seo experts along with the company and request at a detailed package and to-do post bef…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=reprogram_your_search_engine_rankings_with_the_particular_seo_service&amp;rev=1363911950&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-22T00:25:50+00:00</dc:date>
-        <dc:creator>oneida585</dc:creator>
-        <title>reprogram_your_search_engine_rankings_with_the_particular_seo_service - created</title>
-        <link>http://proa.me/wiki/doku.php?id=reprogram_your_search_engine_rankings_with_the_particular_seo_service&amp;rev=1363911950&amp;do=diff</link>
-        <description>Reprogram Your Search Engine Rankings With The Particular Seo Service
-
-This guarantees the surveillance of one's site?s ranking day by daytime. Directory syndication are manually done and probably take a very long a chance to execute but are useable enough for a boost located in search engine rankings.</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-24T10:50:28+00:00</dc:date>
+       <dc:date>2013-03-24T11:51:06+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=items_to_remember_when_it_comes_to_developing_yourself&amp;rev=1364125050&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_best_fitness_guide_in_the_web&amp;rev=1364120996&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=personal_help_tips_that_will_swap_out_your_life_for_the_better&amp;rev=1364113232&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=event_exhibitors_association_related_articles&amp;rev=1364094165&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=regular_home_improvements_for_every_home&amp;rev=1363982766&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=quite_tips_to_find_guaranteed_search_engine_optimization_company&amp;rev=1363927250&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_exactly_you_need_an_ecommerce_research_engine_company&amp;rev=1363926520&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=search_engine_optimization_company_india_is_the_present_then_future_of_online_advertising&amp;rev=1363925873&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=items_to_remember_when_it_comes_to_developing_yourself&amp;rev=1364125050&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-24T11:37:30+00:00</dc:date>
+        <dc:creator>sommer512</dc:creator>
+        <title>items_to_remember_when_it_comes_to_developing_yourself - created</title>
+        <link>http://proa.me/wiki/doku.php?id=items_to_remember_when_it_comes_to_developing_yourself&amp;rev=1364125050&amp;do=diff</link>
+        <description>In case your personal development plan offers stalled or is just sitting within the back burner, maybe all you need is a little motivation to get things moving once again. The inspirational suggestions in the article below may be exactly what you need to get inspired toward moving on your way to some better you.There is always valid reason that sizegenetics review has become selected to be the very best remedy of the season.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=the_best_fitness_guide_in_the_web&amp;rev=1364120996&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-24T10:29:56+00:00</dc:date>
@@ -219,15 +227,5 @@ Cost of product sold is the variable price associated with a sale. Usually, it i
         <description>Why Exactly You Need An Ecommerce Research Engine Company
 
 A variety the traditional methods can always putting an advertisement in region newspaper, but now the believed has changed and the advertising are found in the social network site. Call the clients and discover they are achieving higher returns.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=search_engine_optimization_company_india_is_the_present_then_future_of_online_advertising&amp;rev=1363925873&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-22T04:17:53+00:00</dc:date>
-        <dc:creator>susy55</dc:creator>
-        <title>search_engine_optimization_company_india_is_the_present_then_future_of_online_advertising - created</title>
-        <link>http://proa.me/wiki/doku.php?id=search_engine_optimization_company_india_is_the_present_then_future_of_online_advertising&amp;rev=1363925873&amp;do=diff</link>
-        <description>Search Engine Optimization Company India Is The Present Then Future Of Online Advertising
-
-The answer really is easy and it is done thanks to internet. Every strategic SEO campaign is crucial to get potential customers and enhance your conversion rate that may faster increase your RETURN.</description>
     </item>
 </rdf:RDF>

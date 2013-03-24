@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-24T12:58:55+00:00</dc:date>
+       <dc:date>2013-03-24T13:57:22+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=items_to_remember_when_it_comes_to_developing_yourself&amp;rev=1364125050&amp;do=diff"/>

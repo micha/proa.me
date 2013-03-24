@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-24T07:25:41+00:00</dc:date>
+       <dc:date>2013-03-24T08:20:46+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=personal_help_tips_that_will_swap_out_your_life_for_the_better&amp;rev=1364113232&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=event_exhibitors_association_related_articles&amp;rev=1364094165&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_major_increasing_internationalization_in_the_lengthy_of_ipack&amp;rev=1364093558&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=potent_display_stand_ideas_for_very_first_time_exhibitors&amp;rev=1364092887&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_exactly_you_need_an_ecommerce_research_engine_company&amp;rev=1363926520&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=search_engine_optimization_company_india_is_the_present_then_future_of_online_advertising&amp;rev=1363925873&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=secrets_to_select_an_affordable_search_engine_optimization_company_for&amp;rev=1363925143&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_things_that_distinctive_features_indian_seo_installers_have&amp;rev=1363924542&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=personal_help_tips_that_will_swap_out_your_life_for_the_better&amp;rev=1364113232&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-24T08:20:32+00:00</dc:date>
+        <dc:creator>nga317</dc:creator>
+        <title>personal_help_tips_that_will_swap_out_your_life_for_the_better - created</title>
+        <link>http://proa.me/wiki/doku.php?id=personal_help_tips_that_will_swap_out_your_life_for_the_better&amp;rev=1364113232&amp;do=diff</link>
+        <description>Personal development to some people sounds a little abstract. However , it is a subject that merits severe consideration. It really just means you do the things which help you to realize your potential. The goal would be to become a more effective individual capable of reaching goals and going after dreams and ambitions. If you want some solid specifics in order to practically accomplish these beliefs, keep reading. There is always great reason that size genetics review is actually voted as the …</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=event_exhibitors_association_related_articles&amp;rev=1364094165&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-24T03:02:45+00:00</dc:date>
@@ -223,15 +231,5 @@ The answer really is easy and it is done thanks to internet. Every strategic SEO
         <description>Secrets To Select An Affordable Search Engine Optimization Company For
 
 Sometimes a problem can rise in the layout of particulars present in the websites. Conversely, seo experts Academy is refreshingly not our own same as the rest, basically well as uses strategies that many are legitimate and examined.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=the_things_that_distinctive_features_indian_seo_installers_have&amp;rev=1363924542&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-22T03:55:42+00:00</dc:date>
-        <dc:creator>yoko181</dc:creator>
-        <title>the_things_that_distinctive_features_indian_seo_installers_have - created</title>
-        <link>http://proa.me/wiki/doku.php?id=the_things_that_distinctive_features_indian_seo_installers_have&amp;rev=1363924542&amp;do=diff</link>
-        <description>The Things That Distinctive Features Indian Seo Installers Have
-
-Hence, you need to shop around to look for a competitive rate. Uncover his or current address, their internet site, then perform stuff you normally would normally do when you would prefer to obtain a good appear about a small business.</description>
     </item>
 </rdf:RDF>

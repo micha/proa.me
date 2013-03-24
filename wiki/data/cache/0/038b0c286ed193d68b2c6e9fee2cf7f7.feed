@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-24T04:50:41+00:00</dc:date>
+       <dc:date>2013-03-24T06:02:24+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=event_exhibitors_association_related_articles&amp;rev=1364094165&amp;do=diff"/>

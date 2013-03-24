@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-24T18:00:00+00:00</dc:date>
+       <dc:date>2013-03-24T18:28:36+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=individual_growth_is_equivalent_to_person_development&amp;rev=1364144086&amp;do=diff"/>

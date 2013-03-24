@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-24T18:28:36+00:00</dc:date>
+       <dc:date>2013-03-24T20:00:36+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=change_your_home_yourself_by_following_these_tips&amp;rev=1364154231&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=individual_growth_is_equivalent_to_person_development&amp;rev=1364144086&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=items_to_remember_when_it_comes_to_developing_yourself&amp;rev=1364125050&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_best_fitness_guide_in_the_web&amp;rev=1364120996&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=vimax_pills_articles&amp;rev=1364011148&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advice_on_living_with_severe_back_discomfort&amp;rev=1363990785&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=regular_home_improvements_for_every_home&amp;rev=1363982766&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=quite_tips_to_find_guaranteed_search_engine_optimization_company&amp;rev=1363927250&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=change_your_home_yourself_by_following_these_tips&amp;rev=1364154231&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-24T19:43:51+00:00</dc:date>
+        <dc:creator>chelsea387</dc:creator>
+        <title>change_your_home_yourself_by_following_these_tips - created</title>
+        <link>http://proa.me/wiki/doku.php?id=change_your_home_yourself_by_following_these_tips&amp;rev=1364154231&amp;do=diff</link>
+        <description>If you have good skills in your own home improvement, you keep little problems through snowballing out of control plus save a ton of cash. This article will make sure you pick the things you can do yourself and leave the rest towards the people who do it for a living. If you have doubts, be sure to obtain professional assistance.There's good reason that home appliances manufacturer is actually selected to be the best brand of the year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=individual_growth_is_equivalent_to_person_development&amp;rev=1364144086&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-24T16:54:46+00:00</dc:date>
@@ -215,15 +223,5 @@ They have in effect a choice of going using steady but medium ranged overhead or
         <title>regular_home_improvements_for_every_home - created</title>
         <link>http://proa.me/wiki/doku.php?id=regular_home_improvements_for_every_home&amp;rev=1363982766&amp;do=diff</link>
         <description>A proper do it yourself project can enhance the associated with a person's home substantially. When engaging in home improvement, there are so many facets to consider. Use this article with regard to tips on doing home improvements the right way. Taking on home improvement projects is a challenge best accomplished with the right tools and the right information. This article has many helpful tips plus pointers that can keep you on the right track through the stages otherwise you project progresse…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=quite_tips_to_find_guaranteed_search_engine_optimization_company&amp;rev=1363927250&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-22T04:40:50+00:00</dc:date>
-        <dc:creator>justina698</dc:creator>
-        <title>quite_tips_to_find_guaranteed_search_engine_optimization_company - created</title>
-        <link>http://proa.me/wiki/doku.php?id=quite_tips_to_find_guaranteed_search_engine_optimization_company&amp;rev=1363927250&amp;do=diff</link>
-        <description>Quite Tips To Find Guaranteed Search Engine Optimization Company!
-
-Cost of product sold is the variable price associated with a sale. Usually, it is ever seen that the self-optimization of specific site led to a effort to the small errors which unfortunately are later proven to stay very dangerous.</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-25T15:10:50+00:00</dc:date>
+       <dc:date>2013-03-25T16:50:42+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=strengthen_of_sales_using_twitter_progress_services&amp;rev=1364229865&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=female_pick_up&amp;rev=1364219534&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=excellent_personal_development_advice_anyone_can_use&amp;rev=1364215402&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_keep_readers_on_the_edge_of_their_seats_with_your_article&amp;rev=1364212381&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010370.jpg&amp;ns=tdem&amp;rev=1364205091&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010367.jpg&amp;ns=tdem&amp;rev=1364205071&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010358.jpg&amp;ns=tdem&amp;rev=1364205026&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010350.jpg&amp;ns=tdem&amp;rev=1364204989&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=strengthen_of_sales_using_twitter_progress_services&amp;rev=1364229865&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-25T16:44:25+00:00</dc:date>
+        <dc:creator>lynette148</dc:creator>
+        <title>strengthen_of_sales_using_twitter_progress_services - created</title>
+        <link>http://proa.me/wiki/doku.php?id=strengthen_of_sales_using_twitter_progress_services&amp;rev=1364229865&amp;do=diff</link>
+        <description>Strengthen Of Sales Using Twitter Progress Services
+
+Web business is getting more competitive every individual day. You can begin out by creating absolutely sure as lots of individuals available as achievable see the website url to your video or account.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=female_pick_up&amp;rev=1364219534&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-25T13:52:14+00:00</dc:date>
@@ -215,13 +225,5 @@ Instagram has a principal page where it displays most of the most popular photog
         <title>tdem:p1010358.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=tdem%3Ap1010358.jpg&amp;ns=tdem&amp;rev=1364205026&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1364205026&amp;amp;media=tdem:p1010358.jpg&quot; alt=&quot;tdem:p1010358.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=tdem%3Ap1010350.jpg&amp;ns=tdem&amp;rev=1364204989&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-25T09:49:49+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>tdem:p1010350.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=tdem%3Ap1010350.jpg&amp;ns=tdem&amp;rev=1364204989&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1364204989&amp;amp;media=tdem:p1010350.jpg&quot; alt=&quot;tdem:p1010350.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-25T17:54:27+00:00</dc:date>
+       <dc:date>2013-03-25T19:02:43+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=custom_real_twitter_followers_related_subject_matter&amp;rev=1364233459&amp;do=diff"/>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-25T11:53:16+00:00</dc:date>
+       <dc:date>2013-03-25T12:43:42+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=excellent_personal_development_advice_anyone_can_use&amp;rev=1364215402&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_keep_readers_on_the_edge_of_their_seats_with_your_article&amp;rev=1364212381&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1364209647&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=purchase_facebook_fans_to_generate_far_more_business&amp;rev=1364207876&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010358.jpg&amp;ns=tdem&amp;rev=1364205026&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010350.jpg&amp;ns=tdem&amp;rev=1364204989&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010357.jpg&amp;ns=tdem&amp;rev=1364204983&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010405.jpg&amp;ns=tdem&amp;rev=1364204975&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=excellent_personal_development_advice_anyone_can_use&amp;rev=1364215402&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-25T12:43:22+00:00</dc:date>
+        <dc:creator>renetta489</dc:creator>
+        <title>excellent_personal_development_advice_anyone_can_use - created</title>
+        <link>http://proa.me/wiki/doku.php?id=excellent_personal_development_advice_anyone_can_use&amp;rev=1364215402&amp;do=diff</link>
+        <description>With regards to your individual development you need to ensure that you are becoming information from the right supply. The most important part will be sorting out what info you should use plus which information you should give. This article will provide important tips to assist you with your personal plan.There's many reasons that sizegenetics reviews has been voted to be the right service of year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=how_to_keep_readers_on_the_edge_of_their_seats_with_your_article&amp;rev=1364212381&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-25T11:53:01+00:00</dc:date>
@@ -214,13 +222,5 @@ Instagram has a principal page where it displays most of the most popular photog
         <title>tdem:p1010357.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=tdem%3Ap1010357.jpg&amp;ns=tdem&amp;rev=1364204983&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1364204983&amp;amp;media=tdem:p1010357.jpg&quot; alt=&quot;tdem:p1010357.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=tdem%3Ap1010405.jpg&amp;ns=tdem&amp;rev=1364204975&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-25T09:49:35+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>tdem:p1010405.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=tdem%3Ap1010405.jpg&amp;ns=tdem&amp;rev=1364204975&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1364204975&amp;amp;media=tdem:p1010405.jpg&quot; alt=&quot;tdem:p1010405.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

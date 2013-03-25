@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-24T23:33:10+00:00</dc:date>
+       <dc:date>2013-03-25T00:41:08+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=second-hand-imprimante&amp;rev=1364172027&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=resources_you_should_know_about_strawberry_ketones&amp;rev=1364158572&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=well_balanced_weight_loss_with_quickest_information&amp;rev=1364158087&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=organic_and_natural_weight_loss_made_easy_when_it_comes_to_eternal_raspberry_ketone&amp;rev=1364157593&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=8_mistakes_made_by_trade_point_out_exhibitors&amp;rev=1364091602&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=kitchen_table_top_displays_why_trade_performance_exhibitors_love_them&amp;rev=1364090972&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=decent_exhibitors_said_body_to_the_final_of_the_harvest_had&amp;rev=1364090335&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=distinctly_defined_profit_objectives_for_procurment_property_investment&amp;rev=1364084765&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=second-hand-imprimante&amp;rev=1364172027&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-25T00:40:27+00:00</dc:date>
+        <dc:creator>hyon719</dc:creator>
+        <title>second-hand-imprimante - created</title>
+        <link>http://proa.me/wiki/doku.php?id=second-hand-imprimante&amp;rev=1364172027&amp;do=diff</link>
+        <description>Getting imprimante second hand is easy; all that you should do is actually comply with each of our simple interrogative course of action. Each used computer accessory ought to be acquired after offering thanks consideration on the functions with the number laptop or computer. Look at the actual features regarding adequate memory, actual slots as well as assisting software program. When you have almost all to be able, you'll want to search for second-hand models within your budget.&lt;br /&gt;&lt;br /&gt;Bod…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=resources_you_should_know_about_strawberry_ketones&amp;rev=1364158572&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-24T20:56:12+00:00</dc:date>
@@ -225,15 +233,5 @@ For the people of you who haven't been, this is a super event and a dynamite par
         <description>Decent Exhibitors Said Body To The Final Of The Harvest Had
 
 All leads have proven to be uploaded to the Cloud, improving security and minimizing hardware craving. Moreover, at the airport around Depart 25, there are three specialised live concert held in focal point.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=distinctly_defined_profit_objectives_for_procurment_property_investment&amp;rev=1364084765&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-24T00:26:05+00:00</dc:date>
-        <dc:creator>summer737</dc:creator>
-        <title>distinctly_defined_profit_objectives_for_procurment_property_investment - created</title>
-        <link>http://proa.me/wiki/doku.php?id=distinctly_defined_profit_objectives_for_procurment_property_investment&amp;rev=1364084765&amp;do=diff</link>
-        <description>Distinctly Defined Profit Objectives For Procurment Property Investment
-
-They help you out the landlord look at most of the background information obtained and assist it to evaluate a possible renter's ability to pay due to the fact promised. Usually the stunning Atlas Mountains and the main Sahara desert.</description>
     </item>
 </rdf:RDF>

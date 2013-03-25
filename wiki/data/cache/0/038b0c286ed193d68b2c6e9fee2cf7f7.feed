@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-25T19:02:43+00:00</dc:date>
+       <dc:date>2013-03-25T20:03:55+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=smart_fitness_tips_that_work_for_everyone&amp;rev=1364239385&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=custom_real_twitter_followers_related_subject_matter&amp;rev=1364233459&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=5_baby_steps_to_start_creating_twitter_followers&amp;rev=1364232828&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=4_steps_to_getting_the_twitter_followers&amp;rev=1364232221&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010390.jpg&amp;ns=tdem&amp;rev=1364205208&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010380.jpg&amp;ns=tdem&amp;rev=1364205206&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010382.jpg&amp;ns=tdem&amp;rev=1364205166&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010376.jpg&amp;ns=tdem&amp;rev=1364205161&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=smart_fitness_tips_that_work_for_everyone&amp;rev=1364239385&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-25T19:23:05+00:00</dc:date>
+        <dc:creator>lilia265</dc:creator>
+        <title>smart_fitness_tips_that_work_for_everyone - created</title>
+        <link>http://proa.me/wiki/doku.php?id=smart_fitness_tips_that_work_for_everyone&amp;rev=1364239385&amp;do=diff</link>
+        <description>Many people these days are a lot more conscience of the way they look. With that being said everyone is on the search for ways they can get fit. The truth is many people don't know where to start, what you have to do to start now. You have to keep on the lookout for new advice on getting fit and apply all of them whenever you can, tips like the ones in this post.To find many more knowledge make sure to go to my web site at health and fitness articles.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=custom_real_twitter_followers_related_subject_matter&amp;rev=1364233459&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-25T17:44:19+00:00</dc:date>
@@ -227,13 +235,5 @@ Instagram has a principal page where it displays most of the most popular photog
         <title>tdem:p1010382.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=tdem%3Ap1010382.jpg&amp;ns=tdem&amp;rev=1364205166&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1364205166&amp;amp;media=tdem:p1010382.jpg&quot; alt=&quot;tdem:p1010382.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=tdem%3Ap1010376.jpg&amp;ns=tdem&amp;rev=1364205161&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-25T09:52:41+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>tdem:p1010376.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=tdem%3Ap1010376.jpg&amp;ns=tdem&amp;rev=1364205161&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1364205161&amp;amp;media=tdem:p1010376.jpg&quot; alt=&quot;tdem:p1010376.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

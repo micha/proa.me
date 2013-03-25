@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-25T00:41:08+00:00</dc:date>
+       <dc:date>2013-03-25T02:01:37+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=solavei_wireless_phone_plans_have_paid_back_members_over_6.5_million_dollars&amp;rev=1364174930&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=second-hand-imprimante&amp;rev=1364172027&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=resources_you_should_know_about_strawberry_ketones&amp;rev=1364158572&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=well_balanced_weight_loss_with_quickest_information&amp;rev=1364158087&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=unwanted_gas_prices_impact_events&amp;rev=1364092193&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=8_mistakes_made_by_trade_point_out_exhibitors&amp;rev=1364091602&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=kitchen_table_top_displays_why_trade_performance_exhibitors_love_them&amp;rev=1364090972&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=decent_exhibitors_said_body_to_the_final_of_the_harvest_had&amp;rev=1364090335&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=solavei_wireless_phone_plans_have_paid_back_members_over_6.5_million_dollars&amp;rev=1364174930&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-25T01:28:50+00:00</dc:date>
+        <dc:creator>corey281</dc:creator>
+        <title>solavei_wireless_phone_plans_have_paid_back_members_over_6.5_million_dollars - created</title>
+        <link>http://proa.me/wiki/doku.php?id=solavei_wireless_phone_plans_have_paid_back_members_over_6.5_million_dollars&amp;rev=1364174930&amp;do=diff</link>
+        <description>Solavei wants to help You Make More Money than You are currently making. How much? That's for you to decide, but if you have a cellphone plan, you are paying too much for it and you owe it to yourself to read this!
+
+Fact is: Everyone is looking for a little more money each month, so they don’t have to stretch so much – so they have room to breathe! In fact, because of the rigors of the global economy everyone has become desensitized in order to cope, but that doesn’t solve the problem at hand – …</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=second-hand-imprimante&amp;rev=1364172027&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-25T00:40:27+00:00</dc:date>
@@ -223,15 +233,5 @@ If your target is to stop giving info away to everyone who goes over by, you nee
         <description>Kitchen Table Top Displays: Why Trade Performance Exhibitors Love Them
 
 For the people of you who haven't been, this is a super event and a dynamite party. I discussed with some together with them on the products as they are dealing and they said me that they are attaining from India or China.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=decent_exhibitors_said_body_to_the_final_of_the_harvest_had&amp;rev=1364090335&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-24T01:58:55+00:00</dc:date>
-        <dc:creator>randa818</dc:creator>
-        <title>decent_exhibitors_said_body_to_the_final_of_the_harvest_had - created</title>
-        <link>http://proa.me/wiki/doku.php?id=decent_exhibitors_said_body_to_the_final_of_the_harvest_had&amp;rev=1364090335&amp;do=diff</link>
-        <description>Decent Exhibitors Said Body To The Final Of The Harvest Had
-
-All leads have proven to be uploaded to the Cloud, improving security and minimizing hardware craving. Moreover, at the airport around Depart 25, there are three specialised live concert held in focal point.</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-26T10:56:36+00:00</dc:date>
+       <dc:date>2013-03-26T11:47:51+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_forbidden_truth_about_roofing_contractors_revealed_by_an_old_professional&amp;rev=1364298450&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_a_kollagen_free_trial&amp;rev=1364294025&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=moist_makeup_application&amp;rev=1364290783&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=great_need_of_locksmith_services&amp;rev=1364285512&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=over_the_web_car_auction_websites_can_improve_you_find_your_car_of_most_choice&amp;rev=1364281511&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=public_auction_websites_as_streams_of_vital_income&amp;rev=1364281205&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_genuine_deal_with_penny_auction_e-commerce_sites&amp;rev=1364280926&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=consume_travel_auctions_for_last_instant_travel&amp;rev=1364280626&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_forbidden_truth_about_roofing_contractors_revealed_by_an_old_professional&amp;rev=1364298450&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-26T11:47:30+00:00</dc:date>
+        <dc:creator>valery89</dc:creator>
+        <title>the_forbidden_truth_about_roofing_contractors_revealed_by_an_old_professional - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_forbidden_truth_about_roofing_contractors_revealed_by_an_old_professional&amp;rev=1364298450&amp;do=diff</link>
+        <description>&lt;p&gt;As a matter of truth, you can find that many companies have had a criticism filed, but what matters is how it was resolved. If you find out that the company has had several complaints time and time again, it is best to avoid that roofer. Be it roof repair, leaks, lacking shingles, siding, skylights, or any roofing service, our roofing contractors can maintain it for you. Our native roofers go beyond easy installation and upkeep. No must panic you probably have a sudden or critical roofing dra…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=get_a_kollagen_free_trial&amp;rev=1364294025&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-26T10:33:45+00:00</dc:date>
@@ -231,15 +239,5 @@ Producers are normally ready to upgrade any faulty items. That you may know the 
         <description>The Genuine Deal With Penny Auction E-Commerce Sites.
 
 Unquestionably the first thing to expect along with participating in penny auctions for that first time is that these types of people are nothing like regular the world wide web auctions. You should also get professional to this wonderful opportunity existence.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=consume_travel_auctions_for_last_instant_travel&amp;rev=1364280626&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-26T06:50:26+00:00</dc:date>
-        <dc:creator>cheryl668</dc:creator>
-        <title>consume_travel_auctions_for_last_instant_travel - created</title>
-        <link>http://proa.me/wiki/doku.php?id=consume_travel_auctions_for_last_instant_travel&amp;rev=1364280626&amp;do=diff</link>
-        <description>Consume Travel Auctions For Last Instant Travel
-
-A little creativity and business minded skills would also help. Anyone who has checked out penny auctions mindful the feel with thrills that most arrives as they keep a watchful eye on the hands of time destroy those secs along.</description>
     </item>
 </rdf:RDF>

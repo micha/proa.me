@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-26T12:45:22+00:00</dc:date>
+       <dc:date>2013-03-26T13:50:49+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=personal_development_tips_to_help_you_on_life_s_winding_road&amp;rev=1364305834&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_forbidden_truth_about_roofing_contractors_revealed_by_an_old_professional&amp;rev=1364298450&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_a_kollagen_free_trial&amp;rev=1364294025&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=moist_makeup_application&amp;rev=1364290783&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=an_truth_behind_penny_auction_services&amp;rev=1364281801&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=over_the_web_car_auction_websites_can_improve_you_find_your_car_of_most_choice&amp;rev=1364281511&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=public_auction_websites_as_streams_of_vital_income&amp;rev=1364281205&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_genuine_deal_with_penny_auction_e-commerce_sites&amp;rev=1364280926&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=personal_development_tips_to_help_you_on_life_s_winding_road&amp;rev=1364305834&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-26T13:50:34+00:00</dc:date>
+        <dc:creator>jackeline12</dc:creator>
+        <title>personal_development_tips_to_help_you_on_life_s_winding_road - created</title>
+        <link>http://proa.me/wiki/doku.php?id=personal_development_tips_to_help_you_on_life_s_winding_road&amp;rev=1364305834&amp;do=diff</link>
+        <description>Self improvement can seem like something which you don't wish to take advice on. If it is so personal, then how can the stranger or an article tell you what you should become doing? Well, several advice can be applied generally, while other advice can't. Read through the proven tips in this article, and focus on those that you believe maight meet your needs.There is always acceptable reason that sizegenetics extender has been voted to be the best service of year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=the_forbidden_truth_about_roofing_contractors_revealed_by_an_old_professional&amp;rev=1364298450&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-26T11:47:30+00:00</dc:date>
@@ -229,15 +237,5 @@ Enhance to it the USD half an hour that you have to repay for bidding rights. Li
         <description>Public Auction Websites As Streams Of Vital Income
 
 Producers are normally ready to upgrade any faulty items. That you may know the outdated way of eAuction to attempt on a product or care and the buyer with most effective bid wins the auction 's now closed down.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=the_genuine_deal_with_penny_auction_e-commerce_sites&amp;rev=1364280926&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-26T06:55:26+00:00</dc:date>
-        <dc:creator>elke196</dc:creator>
-        <title>the_genuine_deal_with_penny_auction_e-commerce_sites - created</title>
-        <link>http://proa.me/wiki/doku.php?id=the_genuine_deal_with_penny_auction_e-commerce_sites&amp;rev=1364280926&amp;do=diff</link>
-        <description>The Genuine Deal With Penny Auction E-Commerce Sites.
-
-Unquestionably the first thing to expect along with participating in penny auctions for that first time is that these types of people are nothing like regular the world wide web auctions. You should also get professional to this wonderful opportunity existence.</description>
     </item>
 </rdf:RDF>

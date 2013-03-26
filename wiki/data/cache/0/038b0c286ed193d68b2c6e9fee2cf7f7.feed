@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-26T20:38:44+00:00</dc:date>
+       <dc:date>2013-03-26T21:58:47+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_for_improving_the_effectiveness_of_your_fitness_plans&amp;rev=1364330629&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ati_professional_locksmithing_course_high_airport_security_locks&amp;rev=1364326186&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=urgent_high_security_locksmith_toronto_provider&amp;rev=1364325524&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=topmost_reasons_why_you_need_finger_print_locks&amp;rev=1364324819&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ought_to_be_of_emergency_locksmith_services&amp;rev=1364283690&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ultimate_penny_auctions_websites&amp;rev=1364283348&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=searching_out_a_good_locksmith_in_littleton&amp;rev=1364283072&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ideas_for_creating_your_ebay_retail_listings&amp;rev=1364283013&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=tips_for_improving_the_effectiveness_of_your_fitness_plans&amp;rev=1364330629&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-26T20:43:49+00:00</dc:date>
+        <dc:creator>may321</dc:creator>
+        <title>tips_for_improving_the_effectiveness_of_your_fitness_plans - created</title>
+        <link>http://proa.me/wiki/doku.php?id=tips_for_improving_the_effectiveness_of_your_fitness_plans&amp;rev=1364330629&amp;do=diff</link>
+        <description>Returning on track with your workout goals can mean several things, whether you are attempting to lose weight or if you are just trying to get healthy. Regardless what your motivations for improving your health and fitness are, this article will emphasize several helpful tips to help you on your way.There seemed to be several good reasons that health fitness has become voted to be the right device of year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=ati_professional_locksmithing_course_high_airport_security_locks&amp;rev=1364326186&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-26T19:29:46+00:00</dc:date>
@@ -227,15 +235,5 @@ Three effective time-bound steps are generally came after in all bidding website
         <description>Searching Out A Good Locksmith In Littleton
 
 Not only will the repair 'break into' your car moreover quite possibly harm the locking or window in the operation, but they will bill we for the service. He's to spend thousands of budget for getting trained in them art.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=ideas_for_creating_your_ebay_retail_listings&amp;rev=1364283013&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-26T07:30:13+00:00</dc:date>
-        <dc:creator>lyndsey675</dc:creator>
-        <title>ideas_for_creating_your_ebay_retail_listings - created</title>
-        <link>http://proa.me/wiki/doku.php?id=ideas_for_creating_your_ebay_retail_listings&amp;rev=1364283013&amp;do=diff</link>
-        <description>Ideas For Creating Your Ebay Retail Listings
-
-penny auctions have made a game actually an entertainment out of shopping, and it is this contain that contributes to the popularity of these sites even added. It's simple to bid and get the item of choice from this get platform.</description>
     </item>
 </rdf:RDF>

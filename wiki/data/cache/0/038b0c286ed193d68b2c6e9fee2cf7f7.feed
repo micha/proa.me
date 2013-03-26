@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-26T13:50:49+00:00</dc:date>
+       <dc:date>2013-03-26T15:04:55+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=personal_development_tips_to_help_you_on_life_s_winding_road&amp;rev=1364305834&amp;do=diff"/>

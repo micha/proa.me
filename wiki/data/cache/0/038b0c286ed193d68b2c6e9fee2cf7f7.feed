@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-26T06:02:13+00:00</dc:date>
+       <dc:date>2013-03-26T06:31:11+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=strategies_before_choosing_gas_or_electrically_powered_fireplaces&amp;rev=1364277821&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=starting_a_good_fire_for_this_fireplace&amp;rev=1364277530&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=liquid_fuel_versus_electric_fireplaces_what_s_hot&amp;rev=1364276925&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bioethanol_fuel_fireplaces_by_indian_seaside_vs&amp;rev=1364276659&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=precise_twitter_followers_are_assets&amp;rev=1364231651&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=conveniences_twitter_followers_to_buy&amp;rev=1364230463&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=strengthen_of_sales_using_twitter_progress_services&amp;rev=1364229865&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=female_pick_up&amp;rev=1364219534&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=strategies_before_choosing_gas_or_electrically_powered_fireplaces&amp;rev=1364277821&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-26T06:03:41+00:00</dc:date>
+        <dc:creator>marlena978</dc:creator>
+        <title>strategies_before_choosing_gas_or_electrically_powered_fireplaces - created</title>
+        <link>http://proa.me/wiki/doku.php?id=strategies_before_choosing_gas_or_electrically_powered_fireplaces&amp;rev=1364277821&amp;do=diff</link>
+        <description>Strategies Before Choosing Gas Or Electrically Powered Fireplaces
+
+Once you have the range company build one for then you in your yard, you should call a landscape artist then have them suggest ideas to add in in your oven. The to help combat this is to purchase fireplace insert.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=starting_a_good_fire_for_this_fireplace&amp;rev=1364277530&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-26T05:58:50+00:00</dc:date>
@@ -229,14 +239,5 @@ You have far more people to industry your product or service to. It requires you
         <description>Strengthen Of Sales Using Twitter Progress Services
 
 Web business is getting more competitive every individual day. You can begin out by creating absolutely sure as lots of individuals available as achievable see the website url to your video or account.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=female_pick_up&amp;rev=1364219534&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-25T13:52:14+00:00</dc:date>
-        <dc:creator>hettie152</dc:creator>
-        <title>female_pick_up - created</title>
-        <link>http://proa.me/wiki/doku.php?id=female_pick_up&amp;rev=1364219534&amp;do=diff</link>
-        <description>A female pick up artist is actually a lady who utilizes the PUA approaches so that you can pick up men. Whilst the get art seemed to be dominated by men for just a prolonged period of time, women have their own PUA strategies and techniques they usually don`t be reluctant to work with them. In fact the female pua adopt the tricks and tactics on the seduction group then implement them once they would like to seduce the boys they motivation. 
-Although the pick up industry has been dominated by gen…</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-27T02:52:34+00:00</dc:date>
+       <dc:date>2013-03-27T03:05:47+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=6_reasons_you_never_thought_connected_with_why_you_need_to_rent_out_that_limo&amp;rev=1364352984&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=lenox_township_community_news_tips_available_for_fall_cleaning&amp;rev=1364352423&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=holdings_cleanout_services_lighten_the_basket_full&amp;rev=1364351857&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=obtain_the_right_type_of_dumpster_professional_services_for_a_hassle_free_grasp&amp;rev=1364351282&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=moist_makeup_application&amp;rev=1364290783&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=great_need_of_locksmith_services&amp;rev=1364285512&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_single_thing_about_locksmith_edmonton&amp;rev=1364284905&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_way_becoming_a_locksmith_can_end_up_being_a_profitable_career&amp;rev=1364284290&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=6_reasons_you_never_thought_connected_with_why_you_need_to_rent_out_that_limo&amp;rev=1364352984&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-27T02:56:24+00:00</dc:date>
+        <dc:creator>albertine783</dc:creator>
+        <title>6_reasons_you_never_thought_connected_with_why_you_need_to_rent_out_that_limo - created</title>
+        <link>http://proa.me/wiki/doku.php?id=6_reasons_you_never_thought_connected_with_why_you_need_to_rent_out_that_limo&amp;rev=1364352984&amp;do=diff</link>
+        <description>6 Reasons You Never Thought Connected With Why You Need To Rent Out That Limo
+
+You need to take an immediate action that will wipe off the trash plus recycle it an environmental open manner, how could you achieve that? The world is now undeniably becoming a global village.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=lenox_township_community_news_tips_available_for_fall_cleaning&amp;rev=1364352423&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-27T02:47:03+00:00</dc:date>
@@ -225,15 +235,5 @@ Number of not any businesses that supply low charges against high very good serv
         <description>A Single Thing About Locksmith Edmonton
 
 Estefan ran out the door but also across the field and managed to get onstage just in time flying insects Iglesias. And the scam that people most often fear, such as a stranger getting at their home or car, is basically unfounded.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=the_way_becoming_a_locksmith_can_end_up_being_a_profitable_career&amp;rev=1364284290&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-26T07:51:30+00:00</dc:date>
-        <dc:creator>shawanda772</dc:creator>
-        <title>the_way_becoming_a_locksmith_can_end_up_being_a_profitable_career - created</title>
-        <link>http://proa.me/wiki/doku.php?id=the_way_becoming_a_locksmith_can_end_up_being_a_profitable_career&amp;rev=1364284290&amp;do=diff</link>
-        <description>The Way Becoming A Locksmith Can End Up Being A Profitable Career
-
-To the fatigue other competitors with the all the way down prices, you can afford in order to not include the same in the of charge in the inexperienced. However, alarm systems function really only when they are armed.</description>
     </item>
 </rdf:RDF>

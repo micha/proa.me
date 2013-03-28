@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-28T16:21:41+00:00</dc:date>
+       <dc:date>2013-03-28T17:57:14+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=build_your_own_solar_panel&amp;rev=1364492436&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=read_these_tips_if_you_prefer_a_better_house&amp;rev=1364490659&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=preturi_calculatoare-secondhand_ieftin&amp;rev=1364487357&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=are_you_experiencing_a_fitness_strategy_try_these_ideas_system.drawing.bitmap_it_work&amp;rev=1364479051&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_lethal_mistake_revealed_on_plumbers_and_how_to_prevent_it&amp;rev=1364475158&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=6_reasons_you_never_thought_connected_with_why_you_need_to_rent_out_that_limo&amp;rev=1364352984&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=lenox_township_community_news_tips_available_for_fall_cleaning&amp;rev=1364352423&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=holdings_cleanout_services_lighten_the_basket_full&amp;rev=1364351857&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=obtain_the_right_type_of_dumpster_professional_services_for_a_hassle_free_grasp&amp;rev=1364351282&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ecosystem_friendly_printing_services_help_spare_our_environment&amp;rev=1364350712&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,22 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=build_your_own_solar_panel&amp;rev=1364492436&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-28T17:40:36+00:00</dc:date>
+        <dc:creator>vickie213</dc:creator>
+        <title>build_your_own_solar_panel - created</title>
+        <link>http://proa.me/wiki/doku.php?id=build_your_own_solar_panel&amp;rev=1364492436&amp;do=diff</link>
+        <description>With energy resources dwindling fast and global warming changing climates across the globe, more people look towards renewable energies for reducing their carbon footprint.  However, even the most environmentally passionate person cannot pursue such endeavors without the proper financial resources.  The professional installation of a solar energy system can cost in the thousands, so many resourceful individuals are turning to the many great resources that help you build your own solar panel.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=read_these_tips_if_you_prefer_a_better_house&amp;rev=1364490659&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-28T17:10:59+00:00</dc:date>
+        <dc:creator>digna911</dc:creator>
+        <title>read_these_tips_if_you_prefer_a_better_house - created</title>
+        <link>http://proa.me/wiki/doku.php?id=read_these_tips_if_you_prefer_a_better_house&amp;rev=1364490659&amp;do=diff</link>
+        <description>It can be a lot of work doing do it yourself projects. Furthermore, if you're new to the whole world associated with home improvement, it's rather a bit daunting. Whether it is gathering up the needed supplies or even determining when you should call it quits and hire a professional, these tips will help guide you throughout your home improvement project.There is always justified reason that online appliances has been selected to be the right brand of the year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=preturi_calculatoare-secondhand_ieftin&amp;rev=1364487357&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-28T16:15:57+00:00</dc:date>
@@ -213,25 +229,5 @@ House renovation on completion is confident to generate enormous tons of trash. 
 If you are unsure of the your needs are, ask regarding likely needs based on as big as the basement and the associated with clutter in it. info to which may if you respond lose one's own money.
 
 Much more positive strategy for home renovation, you need to program for junk elimination plus. Tell household and family about the really good things your favorite association truly for the community. These questionable “Radio Pitch Identification meda…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=obtain_the_right_type_of_dumpster_professional_services_for_a_hassle_free_grasp&amp;rev=1364351282&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-27T02:28:02+00:00</dc:date>
-        <dc:creator>judy262</dc:creator>
-        <title>obtain_the_right_type_of_dumpster_professional_services_for_a_hassle_free_grasp - created</title>
-        <link>http://proa.me/wiki/doku.php?id=obtain_the_right_type_of_dumpster_professional_services_for_a_hassle_free_grasp&amp;rev=1364351282&amp;do=diff</link>
-        <description>Obtain The Right Type Of Dumpster Professional Services For A Hassle Free Grasp
-
-You need to take increase the responsibility handling the waste tips of the fingers without harming the environment. When you do your posses income taxes, you can read the work of anybody different who is also doing your favorite taxes.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=ecosystem_friendly_printing_services_help_spare_our_environment&amp;rev=1364350712&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-27T02:18:32+00:00</dc:date>
-        <dc:creator>hollis464</dc:creator>
-        <title>ecosystem_friendly_printing_services_help_spare_our_environment - created</title>
-        <link>http://proa.me/wiki/doku.php?id=ecosystem_friendly_printing_services_help_spare_our_environment&amp;rev=1364350712&amp;do=diff</link>
-        <description>Ecosystem Friendly Printing Services Help Spare Our Environment
-
-A dumpster holiday to wipe out your within the nba would save you three troubles namely hard work, time and cash. dumpster rentals companies offer the rubbish pick up service as each and every the time scheduled by his / her customers.</description>
     </item>
 </rdf:RDF>

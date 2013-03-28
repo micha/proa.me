@@ -11,9 +11,13 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-28T20:25:15+00:00</dc:date>
+       <dc:date>2013-03-28T21:09:21+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=here_is_how_to_write_your_press_release&amp;rev=1364504949&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=system_transfusion_reaction&amp;rev=1364504740&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=particulars_as_well_as_prerequisites_as_for_phlebotomy_training_courses&amp;rev=1364503685&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=good_phlebotomy_websites_and_blogs&amp;rev=1364502556&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=quantity_of_medical_schools_in_which_the_united_states&amp;rev=1364501480&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=going_on_a_fast_for_blood_work&amp;rev=1364500376&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=particulars_as_well_as_prerequisites_relating_to_phlebotomy_training_courses&amp;rev=1364499385&amp;do=diff"/>
@@ -30,10 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=father_christmas_barbara_ozone_dentist_offers_regarding_the_art_dental_services&amp;rev=1364361039&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=your_upcoming_car_benefits_of_having_family_dentist_professionist&amp;rev=1364360741&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=family_home_treatment_of_sensitive_teeth_amid_visits_to_the_dentist&amp;rev=1364360447&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=medical_dental_assistants_in_prisons&amp;rev=1364360152&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=suggestions_on_negotiating_with_a_tooth&amp;rev=1364359852&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=by_mouth_and_vision_insurance_for_senior_citizens&amp;rev=1364359545&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=precisely_what_should_a_residential_customer_discover_about_dumpster_rental&amp;rev=1364354173&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,46 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=here_is_how_to_write_your_press_release&amp;rev=1364504949&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-28T21:09:09+00:00</dc:date>
+        <dc:creator>selina24</dc:creator>
+        <title>here_is_how_to_write_your_press_release - created</title>
+        <link>http://proa.me/wiki/doku.php?id=here_is_how_to_write_your_press_release&amp;rev=1364504949&amp;do=diff</link>
+        <description>Creating and sending out online press releases is a simple yet fantastic method for getting the word out about your product or services; there are even specific and dedicated portals that will assist you in getting your press releases to your chosen audience in a way that actually gets you a response. Of course, not all marketers are going to find success this way but that is only because they don't focus on building strong end effective foundations first. So what steps should you be taking to e…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=system_transfusion_reaction&amp;rev=1364504740&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-28T21:05:40+00:00</dc:date>
+        <dc:creator>janette316</dc:creator>
+        <title>system_transfusion_reaction - created</title>
+        <link>http://proa.me/wiki/doku.php?id=system_transfusion_reaction&amp;rev=1364504740&amp;do=diff</link>
+        <description>System Transfusion Reaction
+
+Quite several universities give career centers and even job placement packages the use phlebotomists can discover recent phlebotomy employment listings. Companies will demonstrate knowledge of and simply help with surgical procedures.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=particulars_as_well_as_prerequisites_as_for_phlebotomy_training_courses&amp;rev=1364503685&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-28T20:48:05+00:00</dc:date>
+        <dc:creator>renato387</dc:creator>
+        <title>particulars_as_well_as_prerequisites_as_for_phlebotomy_training_courses - created</title>
+        <link>http://proa.me/wiki/doku.php?id=particulars_as_well_as_prerequisites_as_for_phlebotomy_training_courses&amp;rev=1364503685&amp;do=diff</link>
+        <description>Particulars As Well As Prerequisites As For Phlebotomy Training Courses
+
+A medical helper can be considered a connector of all trades in many offices. That these individuals acquire specialized training and several of these choose to grow to continually be certified technicians.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=good_phlebotomy_websites_and_blogs&amp;rev=1364502556&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-28T20:29:16+00:00</dc:date>
+        <dc:creator>iva945</dc:creator>
+        <title>good_phlebotomy_websites_and_blogs - created</title>
+        <link>http://proa.me/wiki/doku.php?id=good_phlebotomy_websites_and_blogs&amp;rev=1364502556&amp;do=diff</link>
+        <description>Good Phlebotomy Websites And Blogs
+
+The main conversion from glass to elective has been gradual because along with to a few of very different reasons. In just eight weeks, we will train you for a elevated paid career as a phlebotomy technician.
+
+In just exactly 12 months, we can instruct you for a higher paid occupational as Surgical Technician, medical assistant, solar energy technician, patient medical care technician and relevant website technician. Administratively, candidates is designed to…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=quantity_of_medical_schools_in_which_the_united_states&amp;rev=1364501480&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-28T20:11:20+00:00</dc:date>
@@ -185,47 +225,5 @@ Many sites can quote you great strategies to can help you have a winning moreove
         <description>Family Home Treatment Of Sensitive Teeth Amid Visits To The Dentist
 
 As of 1997, many forex countries have heeded to this approach warning and are acting entirely on it. However, if people do certainly not know that the dentist will essentially provide this service for them, they will be more most likely to go elsewhere.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=medical_dental_assistants_in_prisons&amp;rev=1364360152&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-27T04:55:52+00:00</dc:date>
-        <dc:creator>shantelle713</dc:creator>
-        <title>medical_dental_assistants_in_prisons - created</title>
-        <link>http://proa.me/wiki/doku.php?id=medical_dental_assistants_in_prisons&amp;rev=1364360152&amp;do=diff</link>
-        <description>Medical ( Dental ) Assistants In Prisons
-
-Obtaining one of the best dental clinics in Delhi is not necessarily a tough task if one single takes care of certain zones before making his final picking. Such friend has all or vast majority her teeth and no a painful sensation.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=suggestions_on_negotiating_with_a_tooth&amp;rev=1364359852&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-27T04:50:52+00:00</dc:date>
-        <dc:creator>jefferson866</dc:creator>
-        <title>suggestions_on_negotiating_with_a_tooth - created</title>
-        <link>http://proa.me/wiki/doku.php?id=suggestions_on_negotiating_with_a_tooth&amp;rev=1364359852&amp;do=diff</link>
-        <description>Suggestions On Negotiating With A Tooth
-
-These overall hospitals provide specialized medical correct. A good dental establishment always provides the services at best dental surgeons in Delhi and offers trustworthy services regarding patients.
-
-Some bacterial infections cause cavities in the existing set of teeth. These web sites let people from virtually more than the place to allow them to charge, vent, or praise all their dentist. These would include hygiene therapy, root canal, restorative s…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=by_mouth_and_vision_insurance_for_senior_citizens&amp;rev=1364359545&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-27T04:45:45+00:00</dc:date>
-        <dc:creator>randa818</dc:creator>
-        <title>by_mouth_and_vision_insurance_for_senior_citizens - created</title>
-        <link>http://proa.me/wiki/doku.php?id=by_mouth_and_vision_insurance_for_senior_citizens&amp;rev=1364359545&amp;do=diff</link>
-        <description>By Mouth And Vision Insurance For Senior Citizens
-
-It is endorsed by Shaquille O'Neil, Terrel Owens, Bode Miller and moreover many other athletes. Perfectly located at the renowned capital of India, 34 Smile Stone is an ISO 9001-2000 certified multi-specialty dental medical office in India.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=precisely_what_should_a_residential_customer_discover_about_dumpster_rental&amp;rev=1364354173&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-27T03:16:13+00:00</dc:date>
-        <dc:creator>waldo125</dc:creator>
-        <title>precisely_what_should_a_residential_customer_discover_about_dumpster_rental - created</title>
-        <link>http://proa.me/wiki/doku.php?id=precisely_what_should_a_residential_customer_discover_about_dumpster_rental&amp;rev=1364354173&amp;do=diff</link>
-        <description>Precisely What Should A Residential Customer Discover About Dumpster Rental
-
-Just whole lot of precautionary events that you need to you need to take into account when you operate with squander. The green house had potting beds and a great wall of windows that can frequently be opened with a cycle.</description>
     </item>
 </rdf:RDF>

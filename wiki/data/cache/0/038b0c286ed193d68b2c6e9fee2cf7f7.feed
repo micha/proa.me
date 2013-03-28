@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-28T12:53:36+00:00</dc:date>
+       <dc:date>2013-03-28T14:00:14+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=are_you_experiencing_a_fitness_strategy_try_these_ideas_system.drawing.bitmap_it_work&amp;rev=1364479051&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_lethal_mistake_revealed_on_plumbers_and_how_to_prevent_it&amp;rev=1364475158&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ways_to_find_home_security_systems&amp;rev=1364469683&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=goal_setting_tools_is_the_key_to_effective_personal_development&amp;rev=1364469486&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=obtain_the_right_type_of_dumpster_professional_services_for_a_hassle_free_grasp&amp;rev=1364351282&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ecosystem_friendly_printing_services_help_spare_our_environment&amp;rev=1364350712&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_for_improving_the_effectiveness_of_your_fitness_plans&amp;rev=1364330629&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ati_professional_locksmithing_course_high_airport_security_locks&amp;rev=1364326186&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=are_you_experiencing_a_fitness_strategy_try_these_ideas_system.drawing.bitmap_it_work&amp;rev=1364479051&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-28T13:57:31+00:00</dc:date>
+        <dc:creator>doreen637</dc:creator>
+        <title>are_you_experiencing_a_fitness_strategy_try_these_ideas_system.drawing.bitmap_it_work - created</title>
+        <link>http://proa.me/wiki/doku.php?id=are_you_experiencing_a_fitness_strategy_try_these_ideas_system.drawing.bitmap_it_work&amp;rev=1364479051&amp;do=diff</link>
+        <description>A lot of people are insecure about the shape of their  body, and because of that they aren't sure how you can  go about changing that will. If you feel just like you can benefit from information  that could help you get in good working condition then this article can  serves as a good resource for a person towards your fitness goals.You will find there's  valid reason that buy treadmill continues to be voted to be the ideal brand of year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=a_lethal_mistake_revealed_on_plumbers_and_how_to_prevent_it&amp;rev=1364475158&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-28T12:52:38+00:00</dc:date>
@@ -225,15 +233,5 @@ A dumpster holiday to wipe out your within the nba would save you three troubles
         <title>tips_for_improving_the_effectiveness_of_your_fitness_plans - created</title>
         <link>http://proa.me/wiki/doku.php?id=tips_for_improving_the_effectiveness_of_your_fitness_plans&amp;rev=1364330629&amp;do=diff</link>
         <description>Returning on track with your workout goals can mean several things, whether you are attempting to lose weight or if you are just trying to get healthy. Regardless what your motivations for improving your health and fitness are, this article will emphasize several helpful tips to help you on your way.There seemed to be several good reasons that health fitness has become voted to be the right device of year.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=ati_professional_locksmithing_course_high_airport_security_locks&amp;rev=1364326186&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-26T19:29:46+00:00</dc:date>
-        <dc:creator>daniell89</dc:creator>
-        <title>ati_professional_locksmithing_course_high_airport_security_locks - created</title>
-        <link>http://proa.me/wiki/doku.php?id=ati_professional_locksmithing_course_high_airport_security_locks&amp;rev=1364326186&amp;do=diff</link>
-        <description>Ati Professional Locksmithing Course High Airport Security Locks
-
-Opponent simply overwhelms the network connected with the company by sending great big packets of data so just like to slow down the producing capabilities of server. Professional locksmith services require no introduction right away.</description>
     </item>
 </rdf:RDF>

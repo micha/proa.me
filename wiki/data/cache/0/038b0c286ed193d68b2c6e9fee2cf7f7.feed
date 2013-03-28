@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-28T10:56:40+00:00</dc:date>
+       <dc:date>2013-03-28T11:18:24+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=goal_setting_tools_is_the_key_to_effective_personal_development&amp;rev=1364469486&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=eliminate_that_aching_back_using_these_tips&amp;rev=1364460744&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=brilliant_cosmetic_dentist_find_dental_professional_wisely&amp;rev=1364361337&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=father_christmas_barbara_ozone_dentist_offers_regarding_the_art_dental_services&amp;rev=1364361039&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ati_professional_locksmithing_course_high_airport_security_locks&amp;rev=1364326186&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=urgent_high_security_locksmith_toronto_provider&amp;rev=1364325524&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=topmost_reasons_why_you_need_finger_print_locks&amp;rev=1364324819&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=locksmith_professional_chula_vista_offering_you_almost_all_kinds_of_locksmith_services&amp;rev=1364324106&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=goal_setting_tools_is_the_key_to_effective_personal_development&amp;rev=1364469486&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-28T11:18:06+00:00</dc:date>
+        <dc:creator>kitty23</dc:creator>
+        <title>goal_setting_tools_is_the_key_to_effective_personal_development - created</title>
+        <link>http://proa.me/wiki/doku.php?id=goal_setting_tools_is_the_key_to_effective_personal_development&amp;rev=1364469486&amp;do=diff</link>
+        <description>If you are stressing over how to increase your life, you might have found the right article. Keep a positive mindset and remember that the more knowledge you get, your own personal development success will be assured, specifically if you apply any tips from this article that scream at you as being helpful.There exists certainly numerous reasons that sizegenetics coupon has been voted as the ideal solution of year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=eliminate_that_aching_back_using_these_tips&amp;rev=1364460744&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-28T08:52:24+00:00</dc:date>
@@ -231,15 +239,5 @@ Some systems are common in essentially all home security systems by advertisemen
         <description>Topmost Reasons Why You Need Finger Print Locks
 
 They're going to have the skills and encounter to hit the nail in the head every time. They are increasingly hiring locksmith services to get full service alarms installed in numerous areas of their home.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=locksmith_professional_chula_vista_offering_you_almost_all_kinds_of_locksmith_services&amp;rev=1364324106&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-26T18:55:06+00:00</dc:date>
-        <dc:creator>rosalva486</dc:creator>
-        <title>locksmith_professional_chula_vista_offering_you_almost_all_kinds_of_locksmith_services - created</title>
-        <link>http://proa.me/wiki/doku.php?id=locksmith_professional_chula_vista_offering_you_almost_all_kinds_of_locksmith_services&amp;rev=1364324106&amp;do=diff</link>
-        <description>Locksmith Professional Chula Vista: Offering You Almost All Kinds Of Locksmith Services
-
-All you want to do is give these businesses a call and their ” experts ” will solve the problem swiftly. People of this generation become 'go getters' and do not considered compromise working hard all the type of day and night to realise their dreams.</description>
     </item>
 </rdf:RDF>

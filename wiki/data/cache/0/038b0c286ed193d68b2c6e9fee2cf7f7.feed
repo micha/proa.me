@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-28T17:57:14+00:00</dc:date>
+       <dc:date>2013-03-28T18:41:50+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=build_your_own_solar_panel&amp;rev=1364492436&amp;do=diff"/>

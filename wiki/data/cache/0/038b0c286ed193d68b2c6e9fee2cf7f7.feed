@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-28T15:01:10+00:00</dc:date>
+       <dc:date>2013-03-28T16:21:41+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=preturi_calculatoare-secondhand_ieftin&amp;rev=1364487357&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=are_you_experiencing_a_fitness_strategy_try_these_ideas_system.drawing.bitmap_it_work&amp;rev=1364479051&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_lethal_mistake_revealed_on_plumbers_and_how_to_prevent_it&amp;rev=1364475158&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ways_to_find_home_security_systems&amp;rev=1364469683&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=holdings_cleanout_services_lighten_the_basket_full&amp;rev=1364351857&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=obtain_the_right_type_of_dumpster_professional_services_for_a_hassle_free_grasp&amp;rev=1364351282&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ecosystem_friendly_printing_services_help_spare_our_environment&amp;rev=1364350712&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_for_improving_the_effectiveness_of_your_fitness_plans&amp;rev=1364330629&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=preturi_calculatoare-secondhand_ieftin&amp;rev=1364487357&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-28T16:15:57+00:00</dc:date>
+        <dc:creator>mirian512</dc:creator>
+        <title>preturi_calculatoare-secondhand_ieftin - created</title>
+        <link>http://proa.me/wiki/doku.php?id=preturi_calculatoare-secondhand_ieftin&amp;rev=1364487357&amp;do=diff</link>
+        <description>I guess it just depends upon what you are seeking. You may get lucky and get yourself a good one, though the life in the battery is jeopardy. The device used two metal wheels to mark the X-Y coordinates of the user's hand and sported a beautiful wooden box d&amp;#233;cor. It incorporates Windows Vista because operating system, an Intel core 2 quad processor, an impressive 4GB of RAM, a 64GB hard drive capacity, 6 USB ports plus a 2. calculatoare second hand  Buying refurbished is thus an environment…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=are_you_experiencing_a_fitness_strategy_try_these_ideas_system.drawing.bitmap_it_work&amp;rev=1364479051&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-28T13:57:31+00:00</dc:date>
@@ -225,13 +233,5 @@ You need to take increase the responsibility handling the waste tips of the fing
         <description>Ecosystem Friendly Printing Services Help Spare Our Environment
 
 A dumpster holiday to wipe out your within the nba would save you three troubles namely hard work, time and cash. dumpster rentals companies offer the rubbish pick up service as each and every the time scheduled by his / her customers.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=tips_for_improving_the_effectiveness_of_your_fitness_plans&amp;rev=1364330629&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-26T20:43:49+00:00</dc:date>
-        <dc:creator>may321</dc:creator>
-        <title>tips_for_improving_the_effectiveness_of_your_fitness_plans - created</title>
-        <link>http://proa.me/wiki/doku.php?id=tips_for_improving_the_effectiveness_of_your_fitness_plans&amp;rev=1364330629&amp;do=diff</link>
-        <description>Returning on track with your workout goals can mean several things, whether you are attempting to lose weight or if you are just trying to get healthy. Regardless what your motivations for improving your health and fitness are, this article will emphasize several helpful tips to help you on your way.There seemed to be several good reasons that health fitness has become voted to be the right device of year.</description>
     </item>
 </rdf:RDF>

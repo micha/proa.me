@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-29T07:01:40+00:00</dc:date>
+       <dc:date>2013-03-29T08:02:07+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=help_make_money_and_win_prizes_as_an_online_competitions&amp;rev=1364540640&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=video_game_titles_to_play_at_home&amp;rev=1364540241&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=grab_online_prizes&amp;rev=1364539837&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=methods_claim_your_uk_national_lottery_prizes&amp;rev=1364539488&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=system_transfusion_reaction&amp;rev=1364504740&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=particulars_as_well_as_prerequisites_as_for_phlebotomy_training_courses&amp;rev=1364503685&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=quantity_of_medical_schools_in_which_the_united_states&amp;rev=1364501480&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=going_on_a_fast_for_blood_work&amp;rev=1364500376&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=help_make_money_and_win_prizes_as_an_online_competitions&amp;rev=1364540640&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-29T07:04:00+00:00</dc:date>
+        <dc:creator>forest218</dc:creator>
+        <title>help_make_money_and_win_prizes_as_an_online_competitions - created</title>
+        <link>http://proa.me/wiki/doku.php?id=help_make_money_and_win_prizes_as_an_online_competitions&amp;rev=1364540640&amp;do=diff</link>
+        <description>Help Make Money And Win Prizes As An Online Competitions
+
+The 2400 multimeter race awards a purse of four million. You can also use everything to remember user names and as a result passwords from other sites, whom can come in handy considerably when you're not entering contest.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=video_game_titles_to_play_at_home&amp;rev=1364540241&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-29T06:57:21+00:00</dc:date>
@@ -241,17 +251,5 @@ A medical helper can be considered a connector of all trades in many offices. Th
         <description>Quantity Of Medical Schools In Which The United States
 
 phlebotomy employment scenarios exist as a cell phlebotomist. According to this report 19 million American adults get triggered with clinical depression and gone of this 3%commit suicide in addition to the 60% are planning to make investments suicide.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=going_on_a_fast_for_blood_work&amp;rev=1364500376&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-28T19:52:56+00:00</dc:date>
-        <dc:creator>isiah639</dc:creator>
-        <title>going_on_a_fast_for_blood_work - created</title>
-        <link>http://proa.me/wiki/doku.php?id=going_on_a_fast_for_blood_work&amp;rev=1364500376&amp;do=diff</link>
-        <description>Going On A Fast For Blood Work
-
-A phlebotomist ought to skilled with drawing blood, healthcare procedures for blood planning together with storage, and must be well-informed about anatomy. You see inborn abilities and talents acquire fields.
-
-Even so from the lot, it's the phlebotomists who're thought to be turn out to be the pros in successfully withdrawing blood. In step with the recent research, it will be concluded that you will the soaring need for Phlebotomists associated with years to com…</description>
     </item>
 </rdf:RDF>

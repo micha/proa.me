@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-29T13:01:24+00:00</dc:date>
+       <dc:date>2013-03-29T13:56:16+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_to_make_your_bringing_up_a_child_more_effective&amp;rev=1364564241&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1364554108&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010407.jpg&amp;ns=tdem&amp;rev=1364554035&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Ap1010406.jpg&amp;ns=tdem&amp;rev=1364554009&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=copying_software&amp;rev=1364535386&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=burnt_software_for_pc&amp;rev=1364535028&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=great_free_backup_software&amp;rev=1364534691&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=system_backup_software_is_necessary_guard_for_a_business&amp;rev=1364534041&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=tips_to_make_your_bringing_up_a_child_more_effective&amp;rev=1364564241&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-29T13:37:21+00:00</dc:date>
+        <dc:creator>estrella712</dc:creator>
+        <title>tips_to_make_your_bringing_up_a_child_more_effective - created</title>
+        <link>http://proa.me/wiki/doku.php?id=tips_to_make_your_bringing_up_a_child_more_effective&amp;rev=1364564241&amp;do=diff</link>
+        <description>As being a Parent your children is perhaps the most important job you may have. It really is wise to acquaint yourself with some of the best techniques to help keep your kids are the happiest plus healthiest they can be. Take these tips to center, and you will be nicely soon on your way increasing well-adjusted children.There's always great reason that car seats has been selected as the best remedy of the season.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1364554108&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-29T10:48:28+00:00</dc:date>
@@ -239,15 +247,5 @@ When data is removed so it is not always trashed automatically. These storage un
         <description>Great Free Backup Software
 
 So a trustworthy working solution is a definite necessity. Professional backup software to Repair Wrecked BKF Files: BKF Recovery is Professional Backup Recovery software that helps with recovery of broken or crashed BKF files.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=system_backup_software_is_necessary_guard_for_a_business&amp;rev=1364534041&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-29T05:14:01+00:00</dc:date>
-        <dc:creator>mika981</dc:creator>
-        <title>system_backup_software_is_necessary_guard_for_a_business - created</title>
-        <link>http://proa.me/wiki/doku.php?id=system_backup_software_is_necessary_guard_for_a_business&amp;rev=1364534041&amp;do=diff</link>
-        <description>System Backup Software Is Necessary Guard For A Business
-
-Acronis Universal Again allows you to restore most of the full system to a tremendously dissimilar hardware, thereby eliminating a few compatibility issue. Everybody has had to using the loss of files during their computer.</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-30T14:57:04+00:00</dc:date>
+       <dc:date>2013-03-30T15:52:58+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_many_times_is_an_iphone_dropped_in_water&amp;rev=1364658763&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_top_5_most_asked_questions_about_hot_new_music&amp;rev=1364654980&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=skate_texas_200_2008&amp;rev=1364619825&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=kevin%3Askate%3Awhole000.jpg&amp;ns=kevin%3Askate&amp;rev=1364619678&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aoldproa9.jpg&amp;ns=kevin%3Askate&amp;rev=1364618721&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aoldproa2.jpg&amp;ns=kevin%3Askate&amp;rev=1364618719&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aoldproa7.jpg&amp;ns=kevin%3Askate&amp;rev=1364618716&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aoldproa4.jpg&amp;ns=kevin%3Askate&amp;rev=1364618714&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=how_many_times_is_an_iphone_dropped_in_water&amp;rev=1364658763&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-30T15:52:43+00:00</dc:date>
+        <dc:creator>paula835</dc:creator>
+        <title>how_many_times_is_an_iphone_dropped_in_water - created</title>
+        <link>http://proa.me/wiki/doku.php?id=how_many_times_is_an_iphone_dropped_in_water&amp;rev=1364658763&amp;do=diff</link>
+        <description>Ever wonder how many times a Smartphone Repair Shop gets a new customer because an iphone dropped in water? It must be often. When I was at best buy I noticed 'waterproof' iphone cases are now being sold. I decided to investigate the Smartphone repair shop business and write an article about it.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=the_top_5_most_asked_questions_about_hot_new_music&amp;rev=1364654980&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-30T14:49:40+00:00</dc:date>
@@ -209,13 +217,5 @@ On the left below is a picture of the boat with my lovely wife and me sitting on
         <title>kevin:skate:oldproa7.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aoldproa7.jpg&amp;ns=kevin%3Askate&amp;rev=1364618716&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1364618716&amp;amp;media=kevin:skate:oldproa7.jpg&quot; alt=&quot;kevin:skate:oldproa7.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aoldproa4.jpg&amp;ns=kevin%3Askate&amp;rev=1364618714&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-30T04:45:14+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>kevin:skate:oldproa4.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aoldproa4.jpg&amp;ns=kevin%3Askate&amp;rev=1364618714&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=375&amp;h=500t=1364618714&amp;amp;media=kevin:skate:oldproa4.jpg&quot; alt=&quot;kevin:skate:oldproa4.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

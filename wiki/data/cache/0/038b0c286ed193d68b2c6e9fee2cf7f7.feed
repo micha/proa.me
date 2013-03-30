@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-30T17:59:54+00:00</dc:date>
+       <dc:date>2013-03-30T18:57:30+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_you_can_effectively_develop_one_s_self_efficiently&amp;rev=1364669456&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_on_how_to_get_rid_of_arthritis&amp;rev=1364663905&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_many_times_is_an_iphone_dropped_in_water&amp;rev=1364658763&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_top_5_most_asked_questions_about_hot_new_music&amp;rev=1364654980&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aproa0000.jpg&amp;ns=kevin%3Askate&amp;rev=1364618726&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=kevin%3Askate%3Asheet001.jpg&amp;ns=kevin%3Askate&amp;rev=1364618725&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aoldproa9.jpg&amp;ns=kevin%3Askate&amp;rev=1364618721&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aoldproa2.jpg&amp;ns=kevin%3Askate&amp;rev=1364618719&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=how_you_can_effectively_develop_one_s_self_efficiently&amp;rev=1364669456&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-30T18:50:56+00:00</dc:date>
+        <dc:creator>shantelle162</dc:creator>
+        <title>how_you_can_effectively_develop_one_s_self_efficiently - created</title>
+        <link>http://proa.me/wiki/doku.php?id=how_you_can_effectively_develop_one_s_self_efficiently&amp;rev=1364669456&amp;do=diff</link>
+        <description>You must have a few knowledge of what you should expect plus expect, from helping yourself be a better person and live a much better life. You need to know what resources are available to you and who can provide you answers, in regards to what you will need for your potential future. The tips below can help you with how to start.There is always several good reasons that size genetics review continues to be voted as the very best solution of the season.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=tips_on_how_to_get_rid_of_arthritis&amp;rev=1364663905&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-30T17:18:25+00:00</dc:date>
@@ -209,13 +217,5 @@ On the left below is a picture of the boat with my lovely wife and me sitting on
         <title>kevin:skate:oldproa9.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aoldproa9.jpg&amp;ns=kevin%3Askate&amp;rev=1364618721&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=375&amp;h=500t=1364618721&amp;amp;media=kevin:skate:oldproa9.jpg&quot; alt=&quot;kevin:skate:oldproa9.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aoldproa2.jpg&amp;ns=kevin%3Askate&amp;rev=1364618719&amp;tab_details=history&amp;mediado=diff&amp;do=media">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-30T04:45:19+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>kevin:skate:oldproa2.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=kevin%3Askate%3Aoldproa2.jpg&amp;ns=kevin%3Askate&amp;rev=1364618719&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1364618719&amp;amp;media=kevin:skate:oldproa2.jpg&quot; alt=&quot;kevin:skate:oldproa2.jpg&quot; /&gt;</description>
     </item>
 </rdf:RDF>

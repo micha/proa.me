@@ -1098,3 +1098,5 @@ paula835:REDACTED:Chong Brisson:chantellp133@gmail.com:user
 wilton54:REDACTED:Glennis Heim:ground8badge@hotmail.com:user
 diane118:REDACTED:Thalia Rolf:hindssjsx@hotmail.com:user
 shantelle162:REDACTED:Kenya Woodward:warwatch56@hotmail.com:user
+rick52:REDACTED:Elvera Neale:baughbwh@hotmail.com:user
+kimberlee867:REDACTED:Rick Hall:baughbwh@hotmail.com:user

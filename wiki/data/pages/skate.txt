@@ -1,0 +1,380 @@
+ 
+Hi
+
+  
+Welcome to my wiki page. This is how my boat looks now:
+
+  
+{{:kevin:skate:proa0000.jpg?400}}
+
+  
+{{:kevin:skate:view0000.jpg?400}} {{:kevin:skate:view0001.jpg?400}}
+
+  
+These three pictures were taken during the 2008 Texas 200 cruise. Below is a slightly earlier version, at the Duckworks messabout in 2007:
+
+  
+{{:kevin:skate:Magnolia.jpg?400}} {{:kevin:skate:Messing0.jpg?400}}
+
+  
+On the left below is a picture of the boat with my lovely wife and me sitting on it at the messabout at Magnolia Beach with 20 to 25 knots howling through our hair, and no intention in the world of going sailing with a new rig in all that wind.
+
+  
+On the right, Chuck Leinweiber and John Wright inspect my work. Huh, something about this camera makes the top of my head look shiny. Odd, that.
+
+  
+Lovely. But it wasn't always like this, was it...
+
+  
+Seriously, people sometimes act impressed that I've built a boat. "A boat!" I say. "I've built nine freakin' boats, one on top of the other. Like Troy." And it's true, too; you could do excavations and find layers, a person could actually chart my progress in epoxying skill by digging down to when I thought just potting a carved wooden cleat onto a fiberglass mast with a bit of thickened epoxy was a good idea. So here's a summary of the deveopments, in the hope that someone will learn something, or at least be entertained over a cup of coffee:
+
+  
+The boat started off in my back yard in Dallas:
+
+  
+{{:kevin:skate:kobracin.jpg?400}}{{:kevin:skate:kocockpi.jpg?400}}
+
+  
+What I was thinking at the time can be seen, I guess, in what I wrote at the time on the proa_file group, which I had recently joined:
+
+  
+***************************
+
+  
+Proa_file message #226
+
+  
+Hi
+
+  
+I'm a recovering Hobie sailor, and am thinking of building a quick and easy proa to replace the now-for-sale H16. The H16 traits I'd like to avoid are:
+
+  
+Hard to set up by myself
+
+ 
+not really a singlehanders boat in any kind of wind
+
+ 
+can't drop the sail on the water to swim or just poke around
+
+ 
+needs a trailer
+
+  
+I've found recently (horror!) that I actually miss my old Sunfish, for all the above reasons. Sadly, I doubt I could go back to Sunfish speeds with any satisfaction at this point.
+
+  
+My thought is to build a light, quick to assemble cartop-able proa for afternoon and weekend sailing. I have a bunch of al poles, a nice 4 sided (lug or gunter?) sail, a dozen sheets of 1/8" 3.5'x7' doorskin ply (called ParaPly at Home Depot, I think it's a light mohagony of some kind), a gallon of epoxy, some cloth and tape, a schedule of one week, and a budget consisting of a large full change jar.
+
+  
+Basic dimensions in mind are 21'x 1.5' (1' at wl (maybe less?)) 'skinny dory' main hull, 10' beam, 14' v-hull ama. The sail is about 90 ft^2. I think this may be too small in many conditions, but would rather move up to a bigger homemade Gibbons rig if it is than make the boat shorter.
+
+  
+Steer with sweep.
+
+  
+I like the tilt mast trick. I'm trying to draw the rig now, as a dipping lug. John was kind enough to send me some pix and comments, and to beat the foolish rudder and tacking ideas out of my head.
+
+  
+I've used the 1/8" ply quite a bit and like it a lot (it's cheap!). Last year I built a 14' tortured ply kayak out of the stuff, at a total cost of about $25. I've beat it up and down every river within 100 miles, and I can't break the damned thing. It doesn't oilcan at all, and feels solid as a rock. I think I can make the main hull out of the 1/8" and still have it strong enough to sail on if I put a bit of vertical arc in the sides, and have a few stringers and a deck, and it should be very light. Of course, I may well pull a 'Goss' in the middle of Joe Poole Lake the first time it hits 20 kts windspeed, but at least the media won't be after me quite as hard as they were him!
+
+  
+I've enjoyed perusing the list archives; thanks for running the list, guys.
+
+  
+Kevin
+
+  
+**********************************
+
+  
+I apparently did at least try out the lug sail on the yard:
+
+  
+{{:kevin:skate:kolawnsh.jpg?400}}
+
+  
+I'm sure you can guess how well it worked. I don't even remember putting it up.
+
+  
+The small hull was a 'v' cross section with a lot of rocker, and two bulkheads that extended up to clamp to the two Laser topmast crossbeams. The beams had a couple of cedar plank seats lashed to them. The whole thing looked like this:
+
+  
+{{:kevin:skate:konighty.jpg?400}}
+
+  
+It's dark in the picture because it was dark outside; it was Dallas in the summer, it hadn't rained for two months, it was about 105 degrees F in the shade, and I'd taken to working at night to save my brain.
+
+  
+So I was up to the rig. I had no idea. I fitted a small crab claw on the yard but didn't sail with it until much later. I eventually made a Gibbons rig from an old jib I salvaged out of the dumpster at the local sail shop. The first day looked like this:
+
+  
+{{:kevin:skate:oldproa1.jpg?400}} {{:kevin:skate:oldproa3.jpg?400}}
+
+  
+Springs on thee trailer? I don't need no steenking springs! "Casey, can you put the battens on?" "What's a batten?"
+
+  
+{{:kevin:skate:oldproa4.jpg?400}} {{:kevin:skate:oldproa7.jpg?400}}
+
+  
+Note to self: Next time put shunting line and sheet on before Hey! We're sailing!
+
+ 
+letting sail go.
+
+  
+{{:kevin:skate:oldproa9.jpg?400}} {{:kevin:skate:oldproa2.jpg?400}}
+
+  
+All very under control. In five to ten knots. The idyllic post-sail scene, with not too many things broken.
+
+  
+So, you can see a few things here. The sail was too full. The leeboard was bolted to a plank on the lee side of the boat, and bore against a board near the waterline. That's fine, that's good, that is, yes indeed. Until you go aback. Then the leeboard rips a pine 1"x4" into splinters as you try to sail the boat around, a very comforting set of sounds I can assure you.
+
+  
+The little clip on quarterrudder actually worked fine, and the rudders I went to next were neither as simple nor as effective. I went on something of a downward spiral that I've only recently pulled out of, and often looked back on that little quarterrudder with much fondness. It did, however, tend to crunch your fingers if you tried to fit it while the boat was not at an absolute standstill.
+
+  
+On the right you can see the steering oars. They were a great deal of fun to make. They worked ok for steering, but were brilliant at keeping you from going aback. I got rid of them when I got the new sail, and was from then on cursed with going-abackness. Sadly, I'd already cut the oarlock braces off. They were in a bad place, they hung up the shunting line.
+
+  
+So, all in all it was a pretty good first attempt. The second attempt involved new rudders. I only have one picture of them:
+
+  
+{{:kevin:skate:Mk000000.jpg?400}}
+
+  
+They were still on the lee side. Hard to handle, hard to shunt. On to the Mk III rudders. Also, I'd had a mishap with the yard and sail, and the sail had always had too much shape. So, new yard, new sail, new rudders:
+
+  
+{{:kevin:skate:messabou.jpg?400}} {{:kevin:skate:messabov.jpg?400}}
+
+  
+{{:kevin:skate:messabow.jpg?400}} {{:kevin:skate:messabox.jpg?400}}
+
+  
+The rudders are now on the windward side, much better. The yard is now a carbon spar, made of two windsurfer masts joined butt to butt with several layers of carbon at the joint. The sail is a laminate cloth from Sailrite, which was hard to sew and hard to store. You couldn't stuff it, of course, you had to roll it up. The boat is still 11' wide at this point, the beams are still the Laser masts, but as I start to sail in more wind it becomes apparent that they're going to break if I keep climbing out on them. I'm ok when I'm actually over the ama, but when I'm in the middle they flex most alarmingly.
+
+  
+The leeboard was on and off here; it made the boat go to weather much better, but I still hadn't fixed the mount, so going aback made the mounting board flex most alarmingly. It eventually broke, likely a good thing.
+
+  
+The boat did not have a bungee backstay a la Gary Dierking at this point. If you went aback the rig fell down. I've come to think that that's actually not a bad thing for a high powered rig.
+
+  
+I sailed the boat this way a dozen or so times. It was wicked fast to windward in light air, one memorable day I walked past the Laser fleet in five knots. That was rather nice. Hard to shunt in more wind, though.
+
+  
+The ama was still the little ply v cross section ama. It was a 'sinker', it wouldn't hold me up, so I had to dance in and out as the wind changed. And the ply mounts to the beams were giving out. Its time was done, I got rid of it. I wanted a bigger ama, one that would hold up two people if asked. 600 lbs of volume sounded good to me. I drew some shapes I liked and read Gary Dierking's article on making a glass over solid foam ama.
+
+  
+Then it was winter again. I really should know what year I'm talking about, I guess. 2005? I think that's right. The plans were to make a new ama and new beams. So, I did. The ama went something like this:
+
+  
+{{:kevin:skate:ama00000.jpg?400}} {{:kevin:skate:ama00001.jpg?400}}
+
+  
+{{:kevin:skate:ama00002.jpg?400}} {{:kevin:skate:ama00003.jpg?400}}
+
+  
+{{:kevin:skate:ama00004.jpg?400}} {{:kevin:skate:ama00005.jpg?400}}
+
+  
+More or less following Gary's instructions.
+
+  
+The beams were a disaster, the less said about which the better. I tried to make I-beams of 1/4" ply. Way too flimsy, too weak in torsion. Then I boxed them in, added 1/8" plywood sides to make them 3"x3.5" box beams, and wrapped them in 10 oz biax cloth. Now they were strong and stiff and heavy as hell. And still 11' long, so a pain in the ass to transport. They looked like this:
+
+  
+{{:kevin:skate:Gluing00.jpg?400}} {{:kevin:skate:skate000.jpg?400}}
+
+  
+The first picture shows how the boat will be launched off the trailer, the second how it travels.
+
+  
+I also thought I should make a bungee backstay for the Gibbons, since it had fallen on me a couple of times, and I wanted a sort of universal joint for the mast base, and new sheet cleats, and a better way to handle the shunting line. So I did all that and we went sailing at Magnolia Beach before I got married.
+
+  
+{{:kevin:skate:mast0000.jpg?400}} {{:kevin:skate:sheet000.jpg?400}} {{:kevin:skate:sheet001.jpg?400}}
+
+  
+On the left is the mast base universal. The stub got epoxied and glassed to the platform, and the pvc bit got wrapped in about six layers of glass. Worked great, good idea. Perhaps the 1/2" bolts were a bit of overkill. In the middle and on the right are the sheet cleats, made of ply and glass. They also worked great. They're still in use as the aft sheet cleat on the schooner rig.
+
+  
+{{:kevin:skate:gibbons0.jpg?400}} {{:kevin:skate:skate001.jpg?400}}
+
+  
+Here's a very short video one of the beach-bound observers took with the dying flickers of life in his cell phone battery:
+
+    
+It's really just as well the battery died.
+
+  
+I wrote a post about the trip on the proa_file, when I probably remembered the details better than I do now:
+
+  
+*********************
+
+   
+Howdy
+
+  
+So, I went sailing. This is what happened, roughly:
+
+  
+I'd been wanting to do some modifications on my trailer and to my boat to make it, you know, better. So I built a new set of akas and seats, a new tramp and a new ama, did some rig modifications, and built a rail onto the trailer so that I could put the thing in the water myself. I've loaded some pictures in
+
+  
+{{http://groups.yahoo.com/group/proa_file5/files/Skate%20/}}
+
+  
+You can see the aka/seat platform mounted fore and aft as it would be when trailering, and then on the beach right before launching. The total beam is 13', the vaka cl to ama cl is just under ten. The boat is 21' long, so that seemed about right.
+
+  
+Also, I wanted new sheet cleats. There's a picture of them too. There's one at each end. The sheets are 2:1. These worked great. I also put the shuting line through a pair of spinlocks on the lee seat. It's hard to tell if this was a good idea or not.
+
+  
+Also, I wanted a sort of universal joint for the mast step rather than sitting the mast in a socket, since it's jumped out once and landed on the deck with a frightning thump.
+
+  
+Finally, (those of you not Gibbons fans can skip this bit) I wanted to re rig the Gibbons to allow for more sail shape control, and, most importantly, to keep the stress of the halyard/outhaul off the boom to mast attachment . The original rigging had the halyard coming down the mast. That pulled on the pivot rope that attaches the boom to the mast, and broke it once, which led to a broken spar. I put a sheave inside the boom at the top and ran the halyard down the boom and to a 3:1 outhaul at the boom end. There's a picture of the Gibbons hovering in the pictures folder that shows this if you look closely.
+
+  
+So, I got it all more or less done, and we went sailing. If you're familiar with the Texas coast, we went down to Magnolia Beach, just down from Port Lavaca on Matagorda Bay. We got there about 3 pm on Friday and I put the boat together. The pronoun is used advisedly, I wanted to see if I could do it myself without strain. So, yes. It's fine. From starting to untie straps to the assembled on the trailer without the rig was twenty minutes, and no strain. The platform with the mast, boom and pogo stick attached just pivot 90 degrees and get four big stainless bolts put in through the bulkheads. Then the ama is lifted up and four bolts are slipped in and tightened. Easy and fast.
+
+  
+Then came the rig. This was more effort, since I can't put the rig up in my front yard, there is a power line too close to be waving a 26' spar around with impunity, so not everything was as ducks in a row as the previous bit. It took a bit longer, but it got up too. Total assembly time, eh, honestly about an
+
+ 
+hour and a half.
+
+  
+So now, even though wunderground.com had said sunny and 10 mph, it was not sunny, and it was a breezy, about 15 and a bit gusty.
+
+  
+I have, I think, sailed this boat with the Gibbons rig about 25 times. I've had very good days, and fairly bad days, I've sailed in really light wind and, up to this weekend, in up to about 12 knots. In 12 knots the boat is a handfull. It's hard to control when shunting, the sail pulls every which way in the middle of the shunt, and it's easy to end up aback. I like the rig a lot at about 8, it's impressive, fast, showy, hovers nicely on the beach, close winded, it's all good. (Again, those of you not Gibbons fans can skip this bit) In more than 8 when you let the fore shunting line go the lower yard end swings hard to windward. Then, when the spar gets level the old lower/new upper spar tip swings hard to lee and the boat starts moving in the new direction, but heads up very fast. I was concerned with my ability to control this with the rudders. By the time you're going fast enough for the rudders to bite you're aback. I thought about making the mast longer, but that would mess up the sheeting angle, it would pull down on the boom when beating, and I'm not sure it would help anyway since the damage is done when the sail is up overhead. My solution was to control the shunting line better; I thought if I had little or no slack in the shunting line the yard would be more or less constrained to staying parallel to the vaka during the shunt, and the bad effects of the tip swinging to lee would be controlled.
+
+  
+So, that was the plan. So we went sailing. Two of us aboard for the first sail, me and Pete. Pete and I have sailed this thing a lot, he likely knows almost
+
+ 
+as much about sailing it as I do, which is ironic given that he's not in the slightest bit interested in proas, he's a dinghy racer. I return the favor by
+
+ 
+crewing his C-15 for him when we're in the same town. So, ripping reach, boat moving fast, fine fine. Ok, let's shunt. The order to shunt it:
+
+  
+Let go old sheet
+
+ 
+let go shunting line, start to shunt sail
+
+ 
+when the boat stops, raise old rudder, drop new rudder
+
+ 
+finish shunting sail
+
+ 
+sheet in and go
+
+  
+In this case I didn't have to stop shunting in the middle since I had a crew. He shunted the sail and I handled the rudders. We went aback. Fast. Really really fast. As soon as the yard started to come down to the new bow the boat rounded up really hard and tacked. We sailed it around and jibed and took off ok, but it was a bit nerve racking. Then we had one good shunt, then one more to head in and again got spun around. "Arrgh," we said, only it sounded more like "fuckity fuck fuck fuck BUGGER." Pardon my language. We got that fixed and headed in, reaching along rippingly. The bow started to go under and the ama came up, woo hoo! We both moved back and out, out to the aft crossbeam most of the way to the ama. A puff hit and we pitchpoled like a Hobie 16, right over the bows. BUGGER.
+
+  
+So, we limped in, in that it was dark and all, and the people on the beach were on the verge of calling the rescue boat for us. There's a big shipping channel about a mile out, you don't want to mess around in the dark there.
+
+  
+We (Pete and Casey and I, who, looking back on it, were the same three who launched Skate those several years ago) camped out on the beach and had a nice cookout, drank some beers and toasted my upcoming wedding with a nice single malt Casey brought along. Fine boy, Casey. Useless on a boat, but a fine boy. I slept on the tramp, which was heavenly.
+
+  
+Morning came, coffee, migas, and sail adjustment. If (and again, those of you not Gibbons fans can skip this bit) you look at the pic of the rig hovering you can see that the spar is eight inches or so down the boom from the sheave. I lengthened the pigtail on the end of the boom so I could pull the sail all the way to the sheave, so as to move the ce forward, pulled in some on the windward stay to angle the rig to windward some, did some rudder adjustments, and cursed the wind, as it was now up to a steady 20. On the one hand, that's 20, that's a lot of wind for this boat. On the other, either it freakin sails or it doesn't, and either moving the sail area forward and to windward helps or not, and I didn't really relish packing up and driving home with one short sail under my belt, and you know, if I had a Hobie 16 I'd be having the time of my life, this looks like a nice sailing breeze to me, I'm a sailor, I'm not supposed to be scared of a little wind, for crying out loud. So I waited for a lull and took off, this time on my own; Casey managed to get the dead batteries in the digital camera to take a few seconds of MOV video, which I also put in the above folder.
+
+  
+Nice, fast reach out. I moved back and aft again, and again was taking water over the bow anyway. Of course, when I say "aft", that's only the rear crossbeam, 12' from the bow, not 20' from the bow as I would be on a similar sized cat. Time to shunt, don't want to get too far out. Wham, aback, of course. This time, though, as soon as I was aback the wind got under the edge of the sail and lifted it, so the mast was still collapsed at 45 degrees, the sail was kited up at another 90 degrees to the mast and held there by the sheet, and the whole damn thing was remarkable stable that way. I moved right quick when the mast came down in case anything broke, so I was out on the lee platform. I still had a rudder down and tried to steer both up and down, but it was no good, it wouldn't do anything but slew along like that. Fortunately, I was pointed back to the beach, so that's how I sailed back in. It looked idiotic and it bent the 3" diameter aluminum mast a bit right where it bears on the pogo stick, but, on the bright side, the boat didn't break. The entire 750 pounds or so of ama volume was usually about a foot under the water, but the beams and the connections and everything held, and I got in ok. I'm frankly amazed.
+
+  
+By the way, in the middle of the funny story about how I messed up sailing, I have a caveat. This is not Gary Dierking's Gibbons rig. This is mine, I designed it, I built it, I made the untold number of assumptions one makes when deciding sail area, where the ce should go, how the rig will work with the steering arrangement, all that. Gary's Tarawa inspired me quite a lot, but the differences between a nice sailing-canoe-like boat with a bamboo spar and a polytarp 90 square foot sail to a beach-cat-like boat with a carbon spar and a laminate 170 square foot sail are perhaps more than they appear in a casual look at pictures. No part of me looking stupid is his fault, and my rig not working as well as it might doesn't mean that his boat isn't quite manageable, I'm sure it is.
+
+  
+So, observations. There are several:
+
+  
+It's a great light air boat. The best days I've had have been in 5 to 10 knots. On the other hand, it's not a beach cat. You can get on a Hobie 16 in 20 knots of wind and have a blast, this thing is a menace in that much wind.
+
+  
+So, I wonder, did I just make the sail too big? Maybe. I dunno. At this point, frankly, I want a sail that doesn't involve big spars swinging around and me sitting still while a sail powers up going one way and another before I have any rudder control, it's too stressful.
+
+  
+Also, this burying the bow thing, this makes me think. Neither time when burying the bow was I all the way out to the ama. So I have lots of righting moment side to side, but not enough fore and aft. The two answers to that are, the beam is excessive, and I need to be able to move further back on the boat.
+
+  
+The new beams and the new ama are great, and the bolt on attachment method is great. If anyone is interested I can post a few pics and a description. I
+
+ 
+would never have thought that the boat would hold up under the stress of sailing a quarter mile or so at five or six knots with the sail kited up like that and the ama under water without anything breaking.
+
+  
+Plans and conclusions and so on:
+
+  
+I'm going to lay off the Gibbons in more than 10 knots for a while. I'm also thinking that the boat has more beam than it needs. I'm also not in the mood to spend the summer in the garage on extensive modifications. So, what I think is,
+
+  
+1) I can build a set of schooner mast steps into the hulls very fast; the epoxy work is out of sight and doesn't need to be faired or pretty.
+
+  
+2) The boat has too much beam for its fore and aft stability. So, I could narrow it. So, I could make the lee platform fold, and could thus get it down to 7' or 8', and could thus trailer it all put together. My current trailer setup is as you see in the pictures bolted together and glued lumber, all done in a weekend, and I have no heartache about tearing it out and putting on a set of catamaran rollers. That would make the boat faster off the trailer, of course, but it also makes me think I'm moving back down the power/righting moment spiral, back down to a canoe with an outrigger, which at this point seems wise, what with the memory of all that water coming over the bows being so recent and all. Also, if the boat is on the trailer assembled, I could put a longer seat over the ama and be able to move back more when sailing. On the other hand, it's a lot of work to shorten the akas and move the attachment points for the ama, and to shorten the tramp, and I don't want to spend the whole damn summer, or even a significant portion of it, in the damn garage. Onwards;
+
+  
+3) I have a some fiberglass tubes and windsurfer masts that could become stayed schooner masts pretty quckly, and I could pick up a couple of used sails off Bacon or somewhere and have a 120 to 140 ft^2 rig pretty quickly; I would have a single windward stay per mast and would have to add two new sheeting points, but the majority of the work would be in taking the Gibbons stuff off the boat. I like this in particular because I'm really, really off the 'sheet it and see what happens' kick, and I hope that, for example, one might be able to control the boat in a shunt by sheeting the foresail in first. I also have visions of how calm shunting might be if I didn't have the rig flipping over my head and swinging around and all, but rather just had sails luffing off to lee, actually depowered. Gosh that sounds nice.
+
+  
+So I dunno. I have to clean out the shop and do some grading, and take my girlfriend out to dinner a few times, and just ruminate on it. If the wind dies out I may go out to Galveston and sail the boat as it is, if anyone local would like a ride, but it will have to be firmly in that 5-10 range, I've had enough
+
+ 
+adventure for a while.
+
+  
+Sorry for the length of the screed, I'm sort of thinking out loud here. Any input short of "burn the whole thing and start over" is welcome. I actually
+
+ 
+had a quite enjoyable weekend and I'm happy with the boat itself, I just need to nose out the best way to do as little work as possible and be able to do as
+
+ 
+much sailing as possible over the summer.
+
+  
+Kevin
+
+  
+*************************************
+
+  
+It's interesting for me to read that now.
+
+  
+So, what I decided to do after some further mulling was to:
+
+  
+a) narrow the boat to 8' 3". I chose, wisely, to build new beams rather than to cut the old ones short. Blech. Tired of building things, want to go sail. But that turned out well, I discovered that my fast and dirty cedar 2"x4" beams with cedar 1"x4"s glued top and bottom and a bit of uni glass on the top and bottom are both lighter and easier to make than the overbuilt box beams I was ditching. So good.
+
+  
+b) switch to a schooner rig, at least for a while. An una rig might have been a good idea, but being able to sheet the foresail in and have the CE where it should be for a minute was too appealing. Also, I have no structure where the una rig would go, there's a cockpit in the middle of the lee hull. The Gibbons still appeals to me, but it wasn't fun anymore, I was getting to the point of dumping the whole thing and buying a Hobie so I could go sailing instead of going out to break my boat every time. The pitchpole was the final straw; the Gibbons rig I had on the boat was too big for that hull to hold up. There just wasn't enough volume in the bow. I could either build a new boat for a rig I still wasn't sure I could sail in any sort of wind, or I could get an easier to handle rig.
+
+  
+And that brings us up to now. Funnily enough, the leeboard is back on the lee side of the main hull, this time on a pivot so it won't break anything if I go aback. The rig is a couple of 65 ft^2 Laser-like sails on homemade masts which are too limber, but have worked after a fashion so far. The boat travels all put together, it's faster to rig than a beachcat. Easier, too, the masts are much lighter than big beachcat mast.
+
+  
+The latest rudders work fine but also flex too much, I have a fancy kick up-kick down system I'll take some pictures of anon. So I have to fix the rudder flex, the mast flex, the rudder housing flex. I need a bigger leeboard and probably bigger rudders. The boat tacks through 100 to 110 degrees, not very good. But it's enjoyable and safe to sail, shunting is no issue, I hit ten knots on a reach under perfect control in 13 knots of wind a few weekends ago with no worries. So I'm having fun!
+
+  
+Stay tuned...
+
+  
+Our next exciting episode: [[Skate Texas 200]]
+
+
+      

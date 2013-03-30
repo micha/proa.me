@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-30T05:05:12+00:00</dc:date>
+       <dc:date>2013-03-30T05:55:00+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=skate_texas_200_2008&amp;rev=1364619825&amp;do=diff"/>

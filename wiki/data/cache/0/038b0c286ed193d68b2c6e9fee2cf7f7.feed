@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-30T15:52:58+00:00</dc:date>
+       <dc:date>2013-03-30T16:54:07+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_many_times_is_an_iphone_dropped_in_water&amp;rev=1364658763&amp;do=diff"/>

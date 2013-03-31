@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-31T08:54:25+00:00</dc:date>
+       <dc:date>2013-03-31T10:04:26+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=5_tips_for_buying_office_computers&amp;rev=1364721970&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=suggestions_to_consider_in_training_video_clips_production&amp;rev=1364712548&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=citrix_cbt_or_computer_based_videos&amp;rev=1364711925&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=out_of_camera_flash_photography&amp;rev=1364711803&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=order_you_tube_subscribers_make_you_are_video_well&amp;rev=1364709495&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bpc_training_videos_related_articles&amp;rev=1364709166&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=caliber_mlm_training_is_the_way_to_succeed&amp;rev=1364708831&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=costless_prescription_drug_discount_cards&amp;rev=1364706759&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=5_tips_for_buying_office_computers&amp;rev=1364721970&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-31T09:26:10+00:00</dc:date>
+        <dc:creator>lesli119</dc:creator>
+        <title>5_tips_for_buying_office_computers - created</title>
+        <link>http://proa.me/wiki/doku.php?id=5_tips_for_buying_office_computers&amp;rev=1364721970&amp;do=diff</link>
+        <description>Buying a computer for your office needs can be a bit scary for most business owners.&lt;br /&gt;What size do I need? What does it need to have? Can any computer do? These questions will need to be answered prior to purchase.&lt;br /&gt;Here are some tips to make sure you get the right computer for your business.&lt;br /&gt;Know What You Need&lt;br /&gt;If your business merely runs spreadsheets, office productivity software, and data entry, you're not going to need an Alienware m18x with its graphics.&lt;br /&gt;A simple and …</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=suggestions_to_consider_in_training_video_clips_production&amp;rev=1364712548&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-31T06:49:08+00:00</dc:date>
@@ -237,15 +245,5 @@ They can offer you information about the job market, ways to find jobs with the 
         <description>Caliber Mlm Training Is The Way To Succeed
 
 They does assist them of their morning living including dressing, exercising, grooming, eating and bathing. Is considered the enjoy reading to benefit the best from the ebook method of laptop repair training.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=costless_prescription_drug_discount_cards&amp;rev=1364706759&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-31T05:12:39+00:00</dc:date>
-        <dc:creator>trula597</dc:creator>
-        <title>costless_prescription_drug_discount_cards - created</title>
-        <link>http://proa.me/wiki/doku.php?id=costless_prescription_drug_discount_cards&amp;rev=1364706759&amp;do=diff</link>
-        <description>Costless Prescription Drug Discount Cards
-
-Method would wager that less in comparison 10% would sell one sweet bar... You will have to put at the very least , five dollars on the gift certificate whether you are buying fresh, new or reloading the one an individual.</description>
     </item>
 </rdf:RDF>

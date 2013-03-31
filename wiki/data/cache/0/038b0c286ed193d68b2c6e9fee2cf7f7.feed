@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-31T06:54:15+00:00</dc:date>
+       <dc:date>2013-03-31T07:58:26+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=suggestions_to_consider_in_training_video_clips_production&amp;rev=1364712548&amp;do=diff"/>

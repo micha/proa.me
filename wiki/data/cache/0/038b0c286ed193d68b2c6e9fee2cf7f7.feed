@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-31T10:04:26+00:00</dc:date>
+       <dc:date>2013-03-31T10:54:04+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=raising_kids_without_shedding_your_own_marbles:a_few_fresh_raising_the_particular_child_tips&amp;rev=1364725630&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=5_tips_for_buying_office_computers&amp;rev=1364721970&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=suggestions_to_consider_in_training_video_clips_production&amp;rev=1364712548&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=citrix_cbt_or_computer_based_videos&amp;rev=1364711925&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=portrait_digital_photography_best_tools_and_tips&amp;rev=1364709703&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=order_you_tube_subscribers_make_you_are_video_well&amp;rev=1364709495&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bpc_training_videos_related_articles&amp;rev=1364709166&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=caliber_mlm_training_is_the_way_to_succeed&amp;rev=1364708831&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=raising_kids_without_shedding_your_own_marbles:a_few_fresh_raising_the_particular_child_tips&amp;rev=1364725630&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-03-31T10:27:10+00:00</dc:date>
+        <dc:creator>margert63</dc:creator>
+        <title>raising_kids_without_shedding_your_own_marbles:a_few_fresh_raising_the_particular_child_tips - created</title>
+        <link>http://proa.me/wiki/doku.php?id=raising_kids_without_shedding_your_own_marbles:a_few_fresh_raising_the_particular_child_tips&amp;rev=1364725630&amp;do=diff</link>
+        <description>Make sure that your parenting skills are the absolute best they can be, by adding some great brand-new tips to your knowledge set. Regardless of how good you think your child-rearing skills are, often there is more that you could learn about being the most effective parent that you could end up being. Have a look at the practical tips in this article.There seemed to be great reason that car seats reviews has become selected as the top remedy of year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=5_tips_for_buying_office_computers&amp;rev=1364721970&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-03-31T09:26:10+00:00</dc:date>
@@ -235,15 +243,5 @@ For anybody who is new to IT, IT training classes are an excellent place to star
         <description>Bpc Training Videos Related Articles
 
 They can offer you information about the job market, ways to find jobs with the industry, and it will required foundation for your future profession in IT. These the actual thoughts women have when acquiring P90X.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=caliber_mlm_training_is_the_way_to_succeed&amp;rev=1364708831&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-31T05:47:11+00:00</dc:date>
-        <dc:creator>cheryl668</dc:creator>
-        <title>caliber_mlm_training_is_the_way_to_succeed - created</title>
-        <link>http://proa.me/wiki/doku.php?id=caliber_mlm_training_is_the_way_to_succeed&amp;rev=1364708831&amp;do=diff</link>
-        <description>Caliber Mlm Training Is The Way To Succeed
-
-They does assist them of their morning living including dressing, exercising, grooming, eating and bathing. Is considered the enjoy reading to benefit the best from the ebook method of laptop repair training.</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,12 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-01T01:03:23+00:00</dc:date>
+       <dc:date>2013-04-01T02:00:30+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=specialised_aspects_of_a_card_branding_machine&amp;rev=1364781545&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=brokers&amp;rev=1364781279&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=methods_credit_score_do_i_need_to_have_a_mortgage&amp;rev=1364780911&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=depress_maintenance_in_offset_printing&amp;rev=1364775858&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=electrician_s_pad_printing_machine&amp;rev=1364775393&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=footage_of_gutenberg_and_the_production_press&amp;rev=1364774900&amp;do=diff"/>
@@ -31,9 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_thing_are_the_symptoms_of_lips_herpes_in_columbus&amp;rev=1364768336&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=roofing_shingles_disease_is_shingles_contagious&amp;rev=1364767920&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=things_are_the_the_signs_associated_with_bacterial_vaginosis_infection&amp;rev=1364764005&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=dermatologists_call_for_changing_antibiotics_for_treating_gonorrhea&amp;rev=1364763750&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=specific_marking_guidelines_according_to_million&amp;rev=1364763290&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fertility_in_women_causes&amp;rev=1364763239&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,38 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=specialised_aspects_of_a_card_branding_machine&amp;rev=1364781545&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-01T01:59:05+00:00</dc:date>
+        <dc:creator>eula585</dc:creator>
+        <title>specialised_aspects_of_a_card_branding_machine - created</title>
+        <link>http://proa.me/wiki/doku.php?id=specialised_aspects_of_a_card_branding_machine&amp;rev=1364781545&amp;do=diff</link>
+        <description>Specialised Aspects Of A Card Branding Machine
+
+Only those brochures and flyers which have something special will catch users' attention. It usually cost a little little more to have your cards named in rush, but it all will be worth it when you you can keep them the next day.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=brokers&amp;rev=1364781279&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-01T01:54:39+00:00</dc:date>
+        <dc:creator>laurel968</dc:creator>
+        <title>brokers - created</title>
+        <link>http://proa.me/wiki/doku.php?id=brokers&amp;rev=1364781279&amp;do=diff</link>
+        <description>Brokers
+
+At nearly every turn, the US main bank has taken too very small action far too late. Property need to make sure they'll learn about all the alternate options available under President Obama's HAMP program and ask the accurate questions.
+
+There unquestionably are 3 things that you is able to do to give yourself the benefit and get a much expertise about this process. Individuals who mortgage company las vegas home loan could be surprised that as they think about the process, they discove…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=methods_credit_score_do_i_need_to_have_a_mortgage&amp;rev=1364780911&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-01T01:48:31+00:00</dc:date>
+        <dc:creator>leonora384</dc:creator>
+        <title>methods_credit_score_do_i_need_to_have_a_mortgage - created</title>
+        <link>http://proa.me/wiki/doku.php?id=methods_credit_score_do_i_need_to_have_a_mortgage&amp;rev=1364780911&amp;do=diff</link>
+        <description>Methods Credit Score Do I Need To Have A Mortgage
+
+You want to for being apparent, is not necessarily planning to it? Truthfully, all that is now a real possibility without setting a foot aside and in a shorter duration then you would find an actual reputable mortgage advisor in your community.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=depress_maintenance_in_offset_printing&amp;rev=1364775858&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-01T00:24:18+00:00</dc:date>
@@ -219,35 +251,5 @@ It is the definitely medicine which can stop in addition lessen the frequency of
         <description>Things Are The The Signs Associated With Bacterial Vaginosis Infection
 
 Recent reports have shown that 70% of recent cases of herpes were outcome of sexual contact with an associate who had no signs also known as symptoms of herpes at time. New Hampshire gained the lowest rate (185.9/100,000 population).</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=dermatologists_call_for_changing_antibiotics_for_treating_gonorrhea&amp;rev=1364763750&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-31T21:02:30+00:00</dc:date>
-        <dc:creator>ashanti396</dc:creator>
-        <title>dermatologists_call_for_changing_antibiotics_for_treating_gonorrhea - created</title>
-        <link>http://proa.me/wiki/doku.php?id=dermatologists_call_for_changing_antibiotics_for_treating_gonorrhea&amp;rev=1364763750&amp;do=diff</link>
-        <description>Dermatologists Call For Changing Antibiotics For Treating Gonorrhea
-
-There is no known cure for AIDS, still , there are some medications that prolong a persons lifespan. These types bacteria cause a lot using problems to the host this sort of as,cholera, tetanus, tuberculosis,syphilis and perhaps even fever.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=specific_marking_guidelines_according_to_million&amp;rev=1364763290&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-31T20:54:50+00:00</dc:date>
-        <dc:creator>daniell89</dc:creator>
-        <title>specific_marking_guidelines_according_to_million - created</title>
-        <link>http://proa.me/wiki/doku.php?id=specific_marking_guidelines_according_to_million&amp;rev=1364763290&amp;do=diff</link>
-        <description>Specific Marking Guidelines According To Million
-
-This indicates that gonorrhea has fast become the norm among citizens also should be taken under eliminate. Online STD testing assists to achieve this by offing adult men and women the privacy, confidentiality and privateness they wish.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=fertility_in_women_causes&amp;rev=1364763239&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-03-31T20:53:59+00:00</dc:date>
-        <dc:creator>joana225</dc:creator>
-        <title>fertility_in_women_causes - created</title>
-        <link>http://proa.me/wiki/doku.php?id=fertility_in_women_causes&amp;rev=1364763239&amp;do=diff</link>
-        <description>Fertility In Women Causes
-
-Manjula Lusti-Narasimhan, however, it is merely a matter of time, arguably a couple of years earlier to the bug becomes completely tolerant to all forms of techniques. Chlamydia, syphilis, and gonorrhea may possibly be handled.</description>
     </item>
 </rdf:RDF>

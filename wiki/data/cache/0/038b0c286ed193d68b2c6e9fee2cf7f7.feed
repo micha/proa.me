@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-01T09:40:19+00:00</dc:date>
+       <dc:date>2013-04-01T11:00:46+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bath_refinishing_-_what_s_it&amp;rev=1364814024&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_to_help_you_meet_your_own_fitness_goals&amp;rev=1364807904&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_items_safe_and_secure_in_addition_to_reliable_movers&amp;rev=1364790794&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=choose_personalized_moving_and_packing_products&amp;rev=1364790301&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=with_no_credit_check_home_loans&amp;rev=1364782436&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=kenosha_home_mortgage_for_your_new_home&amp;rev=1364782122&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=strategies_to_consider_when_ordering_catalogue_printing&amp;rev=1364781920&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=borrowing_options_and_grants_for_first_year_home_buyers&amp;rev=1364781724&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=bath_refinishing_-_what_s_it&amp;rev=1364814024&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-01T11:00:24+00:00</dc:date>
+        <dc:creator>cliff7</dc:creator>
+        <title>bath_refinishing_-_what_s_it - created</title>
+        <link>http://proa.me/wiki/doku.php?id=bath_refinishing_-_what_s_it&amp;rev=1364814024&amp;do=diff</link>
+        <description>&lt;p&gt;For long lasting results, make sure to ask your refinisher for some maintenance and basic care suggestions. How do I go about the refinishing process? There are two methods that you can refinish your bathtub; you can decide to do it your self, or you can name in the professionals. Cover the realm around the tub with thick plastic tarps and plastic duct tape, and canopy your self with long, thick rubber gloves, goggles, a respirator mask and cover-all clothing. You'll apply the paint with an e…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=tips_to_help_you_meet_your_own_fitness_goals&amp;rev=1364807904&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-01T09:18:24+00:00</dc:date>
@@ -235,15 +243,5 @@ Involving circumstances bely an important associated with the Fed's ability to s
         <description>Strategies To Consider When Ordering Catalogue Printing
 
 Anyone directly competing intended for the exact same customers or alternatively who offer a similar products and services is going to be our direct competition. You will be able to find far too many treatments for you to list.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=borrowing_options_and_grants_for_first_year_home_buyers&amp;rev=1364781724&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T02:02:04+00:00</dc:date>
-        <dc:creator>neal913</dc:creator>
-        <title>borrowing_options_and_grants_for_first_year_home_buyers - created</title>
-        <link>http://proa.me/wiki/doku.php?id=borrowing_options_and_grants_for_first_year_home_buyers&amp;rev=1364781724&amp;do=diff</link>
-        <description>Borrowing Options And Grants For First Year Home Buyers
-
-Attorney-backed loan modification companies can deliver sound advice on choosing loans modification plan and staying ready afterward. The truth is that this will only just increase a home buyer's payment.</description>
     </item>
 </rdf:RDF>

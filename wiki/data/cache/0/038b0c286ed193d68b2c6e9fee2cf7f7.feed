@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-01T08:50:52+00:00</dc:date>
+       <dc:date>2013-04-01T09:40:19+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_to_help_you_meet_your_own_fitness_goals&amp;rev=1364807904&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_items_safe_and_secure_in_addition_to_reliable_movers&amp;rev=1364790794&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=choose_personalized_moving_and_packing_products&amp;rev=1364790301&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=moving_forward_articles_page_2&amp;rev=1364790045&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=kenosha_home_mortgage_for_your_new_home&amp;rev=1364782122&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=strategies_to_consider_when_ordering_catalogue_printing&amp;rev=1364781920&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=borrowing_options_and_grants_for_first_year_home_buyers&amp;rev=1364781724&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=specialised_aspects_of_a_card_branding_machine&amp;rev=1364781545&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=tips_to_help_you_meet_your_own_fitness_goals&amp;rev=1364807904&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-01T09:18:24+00:00</dc:date>
+        <dc:creator>zachary611</dc:creator>
+        <title>tips_to_help_you_meet_your_own_fitness_goals - created</title>
+        <link>http://proa.me/wiki/doku.php?id=tips_to_help_you_meet_your_own_fitness_goals&amp;rev=1364807904&amp;do=diff</link>
+        <description>Physical fitness can be defined as an equilibrium of physical condition plus mental health. When people achieve a solid level of fitness, it not just helps them physically yet mentally, and also physically. Go through this article to return to the tips below if you are someone looking to get in shape.There is always great reason that fitness equipment has become selected to be the right brand of the season.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=get_items_safe_and_secure_in_addition_to_reliable_movers&amp;rev=1364790794&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-01T04:33:14+00:00</dc:date>
@@ -237,15 +245,5 @@ Anyone directly competing intended for the exact same customers or alternatively
         <description>Borrowing Options And Grants For First Year Home Buyers
 
 Attorney-backed loan modification companies can deliver sound advice on choosing loans modification plan and staying ready afterward. The truth is that this will only just increase a home buyer's payment.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=specialised_aspects_of_a_card_branding_machine&amp;rev=1364781545&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T01:59:05+00:00</dc:date>
-        <dc:creator>eula585</dc:creator>
-        <title>specialised_aspects_of_a_card_branding_machine - created</title>
-        <link>http://proa.me/wiki/doku.php?id=specialised_aspects_of_a_card_branding_machine&amp;rev=1364781545&amp;do=diff</link>
-        <description>Specialised Aspects Of A Card Branding Machine
-
-Only those brochures and flyers which have something special will catch users' attention. It usually cost a little little more to have your cards named in rush, but it all will be worth it when you you can keep them the next day.</description>
     </item>
 </rdf:RDF>

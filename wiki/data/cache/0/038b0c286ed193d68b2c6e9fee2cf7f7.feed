@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-01T19:20:08+00:00</dc:date>
+       <dc:date>2013-04-01T21:03:23+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=make_use_of_these_tips_for_assistance_with_personal_help&amp;rev=1364849426&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=need_advice_to_assist_you_manage_joint_disease_check_beneath_for_excellent_tips&amp;rev=1364843992&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_junk_removal_transformed_our_lives_in_the_newest_year&amp;rev=1364819357&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bath_refinishing_-_what_s_it&amp;rev=1364814024&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=residential_home_loan_rate_modification&amp;rev=1364783325&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=two_main_mortgage_documents_over_foreclosure&amp;rev=1364783034&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=score_a_texas_reverse_mortgage&amp;rev=1364782725&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=with_no_credit_check_home_loans&amp;rev=1364782436&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=make_use_of_these_tips_for_assistance_with_personal_help&amp;rev=1364849426&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-01T20:50:26+00:00</dc:date>
+        <dc:creator>omar312</dc:creator>
+        <title>make_use_of_these_tips_for_assistance_with_personal_help - created</title>
+        <link>http://proa.me/wiki/doku.php?id=make_use_of_these_tips_for_assistance_with_personal_help&amp;rev=1364849426&amp;do=diff</link>
+        <description>Choosing to better yourself is a good goal to put. Personal development - the ability of making even more out of yourself - can be an enriching, highly rewarding process. Will not require an all-encompassing master plan, either. You are able to kick off a self improvement regular (or improve your present one) with a few simple ideas like these:There exists certainly strong reason that peyronie s disease has been voted as the right device of the year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=need_advice_to_assist_you_manage_joint_disease_check_beneath_for_excellent_tips&amp;rev=1364843992&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-01T19:19:52+00:00</dc:date>
@@ -229,15 +237,5 @@ Them translates into more people putting on income, which will increase joblessn
 Losses on stocks are charge deductions. After all, as the market of last resort, north america . consumer has, time and your time again, been able to you want to keep growing world economy robust and so secure.
 
 From a practical point to do with view, it may be previously best interests of the heir to simply allow the last measure lender to lay claim to the place and sell it off strategy to to recover as much of your investment as possible. These products are esse…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=with_no_credit_check_home_loans&amp;rev=1364782436&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T02:13:56+00:00</dc:date>
-        <dc:creator>raleigh15</dc:creator>
-        <title>with_no_credit_check_home_loans - created</title>
-        <link>http://proa.me/wiki/doku.php?id=with_no_credit_check_home_loans&amp;rev=1364782436&amp;do=diff</link>
-        <description>With No Credit Check Home Loans
-
-The bankruptcy estate is a unique entity from you as a person. Much better interest rates and unfavorable package could end up costing lots more in the long run instead of continuing to pay on some kind of upside-down mortgage.</description>
     </item>
 </rdf:RDF>

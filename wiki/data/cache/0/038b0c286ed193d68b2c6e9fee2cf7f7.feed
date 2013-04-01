@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-01T12:04:45+00:00</dc:date>
+       <dc:date>2013-04-01T12:54:48+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_junk_removal_transformed_our_lives_in_the_newest_year&amp;rev=1364819357&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bath_refinishing_-_what_s_it&amp;rev=1364814024&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_to_help_you_meet_your_own_fitness_goals&amp;rev=1364807904&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_items_safe_and_secure_in_addition_to_reliable_movers&amp;rev=1364790794&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=score_a_texas_reverse_mortgage&amp;rev=1364782725&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=with_no_credit_check_home_loans&amp;rev=1364782436&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=kenosha_home_mortgage_for_your_new_home&amp;rev=1364782122&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=strategies_to_consider_when_ordering_catalogue_printing&amp;rev=1364781920&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=how_junk_removal_transformed_our_lives_in_the_newest_year&amp;rev=1364819357&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-01T12:29:17+00:00</dc:date>
+        <dc:creator>melody67</dc:creator>
+        <title>how_junk_removal_transformed_our_lives_in_the_newest_year - created</title>
+        <link>http://proa.me/wiki/doku.php?id=how_junk_removal_transformed_our_lives_in_the_newest_year&amp;rev=1364819357&amp;do=diff</link>
+        <description>&lt;p&gt;Large, flat objects needs to be placed on top of the load to carry all the pieces down securely. The tie downs will be secured over the flat objects to push every little thing down into the bed of the truck. The junk will keep at the back of the truck as soon as it's tied down. They will do all the mandatory segregation. They will do all the necessary hauling. Moreover, they would be the one who shall correctly get rid of them. Do not make junk meals simply accessible. Do not hold junk food a…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=bath_refinishing_-_what_s_it&amp;rev=1364814024&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-01T11:00:24+00:00</dc:date>
@@ -233,15 +241,5 @@ The bankruptcy estate is a unique entity from you as a person. Much better inter
         <description>Kenosha Home Mortgage For Your New Home
 
 Involving circumstances bely an important associated with the Fed's ability to service guide the economy: Sometimes every surprise is in order. However, the utilize may not be excluded with primary loans either.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=strategies_to_consider_when_ordering_catalogue_printing&amp;rev=1364781920&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T02:05:20+00:00</dc:date>
-        <dc:creator>christina236</dc:creator>
-        <title>strategies_to_consider_when_ordering_catalogue_printing - created</title>
-        <link>http://proa.me/wiki/doku.php?id=strategies_to_consider_when_ordering_catalogue_printing&amp;rev=1364781920&amp;do=diff</link>
-        <description>Strategies To Consider When Ordering Catalogue Printing
-
-Anyone directly competing intended for the exact same customers or alternatively who offer a similar products and services is going to be our direct competition. You will be able to find far too many treatments for you to list.</description>
     </item>
 </rdf:RDF>

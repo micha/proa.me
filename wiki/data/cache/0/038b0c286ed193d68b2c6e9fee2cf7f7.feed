@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-01T11:00:46+00:00</dc:date>
+       <dc:date>2013-04-01T12:04:45+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bath_refinishing_-_what_s_it&amp;rev=1364814024&amp;do=diff"/>

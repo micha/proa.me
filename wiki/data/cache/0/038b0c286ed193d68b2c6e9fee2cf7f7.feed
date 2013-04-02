@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-02T07:36:33+00:00</dc:date>
+       <dc:date>2013-04-02T08:52:46+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fitness_boot_camp_workout_plan&amp;rev=1364892718&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=build_up_muscle_and_reach_your_ambitions&amp;rev=1364892281&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_fabulous_brief_overview_of_fitness_fitness_centres&amp;rev=1364887983&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=target_information_form_template_in_health_and_well_being_articles&amp;rev=1364887753&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=their_home_gym_workout_plan&amp;rev=1364887217&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=usual_weight_loss_on_weight_viewers&amp;rev=1364871173&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_right_way_to_tighten_sagging_skin_after_reduction_supplement&amp;rev=1364871017&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advantages_of_taking_diet_pills_for_weight_reduction&amp;rev=1364870680&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_initial_years_of_computers_in_endeavor&amp;rev=1364866296&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=desktop_tools_programming_training_and_development&amp;rev=1364866076&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,26 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=fitness_boot_camp_workout_plan&amp;rev=1364892718&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T08:51:58+00:00</dc:date>
+        <dc:creator>tanja828</dc:creator>
+        <title>fitness_boot_camp_workout_plan - created</title>
+        <link>http://proa.me/wiki/doku.php?id=fitness_boot_camp_workout_plan&amp;rev=1364892718&amp;do=diff</link>
+        <description>Fitness Boot Camp Workout Plan
+
+A pair of white athletic socks would do great for you practical trainer, as you are a sequined head band tends to make your trendier trainer go goo-goo for the gaudy goodie. A new person has to warm moving upward before the original exercise happens.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=build_up_muscle_and_reach_your_ambitions&amp;rev=1364892281&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T08:44:41+00:00</dc:date>
+        <dc:creator>janet81</dc:creator>
+        <title>build_up_muscle_and_reach_your_ambitions - created</title>
+        <link>http://proa.me/wiki/doku.php?id=build_up_muscle_and_reach_your_ambitions&amp;rev=1364892281&amp;do=diff</link>
+        <description>Build Up Muscle And Reach Your Ambitions
+
+Generally speaking, this elliptical trainer trainer surpasses lots of those leading contenders and can be particularly purchased at a reasonable fees . Now slowly twist sideways the actual world opposite direction.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=a_fabulous_brief_overview_of_fitness_fitness_centres&amp;rev=1364887983&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-02T07:33:03+00:00</dc:date>
@@ -235,25 +255,5 @@ The protein shakes are sold over-the-counter throughout Connecticut, as well as 
         <description>Advantages Of Taking Diet Pills For Weight Reduction
 
 You should try to find out about the long run benefits of the pills. However, if your company measure more than just kilograms lost, you have alternate in order to help you track progress and turn motivated to lose weight.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=the_initial_years_of_computers_in_endeavor&amp;rev=1364866296&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-02T01:31:36+00:00</dc:date>
-        <dc:creator>graig54</dc:creator>
-        <title>the_initial_years_of_computers_in_endeavor - created</title>
-        <link>http://proa.me/wiki/doku.php?id=the_initial_years_of_computers_in_endeavor&amp;rev=1364866296&amp;do=diff</link>
-        <description>The Initial Years Of Computers In Endeavor
-
-This company could ask for some added sum for the placement technical support for IT jobs in Hyderabad. The to begin with of these deals with personal computer issues such as installation, bringing up-to-date a PC and diagnosing computer hardware problems.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=desktop_tools_programming_training_and_development&amp;rev=1364866076&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-02T01:27:56+00:00</dc:date>
-        <dc:creator>enriqueta314</dc:creator>
-        <title>desktop_tools_programming_training_and_development - created</title>
-        <link>http://proa.me/wiki/doku.php?id=desktop_tools_programming_training_and_development&amp;rev=1364866076&amp;do=diff</link>
-        <description>Desktop Tools Programming Training And Development
-
-Euphonie Is Nine Years Reputed Re-training Firm providing QUALITY Training at Corporate and Individual. A software application testing course is useful for that graduates like to became software package program testing engineers.</description>
     </item>
 </rdf:RDF>

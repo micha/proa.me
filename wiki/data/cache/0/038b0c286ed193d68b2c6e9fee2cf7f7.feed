@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-02T13:02:31+00:00</dc:date>
+       <dc:date>2013-04-02T13:56:34+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_life_span_of_a_mother_or_father_tips_and_tricks&amp;rev=1364909759&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exactly_how_much_does_a_wedding_dj_ask_for&amp;rev=1364901009&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=disc-jockey_music_mixer_tutorial&amp;rev=1364900030&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bridesmaid_band_vs&amp;rev=1364899498&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=home_trainer_workout_for_fitness_and_one_of_the_effects&amp;rev=1364886281&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=symbols_of_crystal_methane_use_all_through_health_articles&amp;rev=1364885990&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=drinking_water_and_weight_loss&amp;rev=1364873667&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=some_of_the_secret_of_losing_weight_expertly&amp;rev=1364873448&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_life_span_of_a_mother_or_father_tips_and_tricks&amp;rev=1364909759&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T13:35:59+00:00</dc:date>
+        <dc:creator>barrie21</dc:creator>
+        <title>the_life_span_of_a_mother_or_father_tips_and_tricks - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_life_span_of_a_mother_or_father_tips_and_tricks&amp;rev=1364909759&amp;do=diff</link>
+        <description>As being a parent can be a difficult task by itself. As being a Parent entails time, care, like, and self-discipline, all folded into one major job. This article will provide you with an amount of suggestions to manage your child-rearing abilities, and keep yourself rational and happy whilst your children remain calm plus well-behaved.There's numerous reasons that infant car seat review has become voted to be the greatest product of year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=exactly_how_much_does_a_wedding_dj_ask_for&amp;rev=1364901009&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-02T11:10:09+00:00</dc:date>
@@ -245,15 +253,5 @@ Continuous equipment upkeep must be very vital for the long existence of your fi
 Remember, it is absolutely critical that you perform every one truly as is outlined. Fat 30lbs in 30 days believes excessive, especially since most pro's suggest losing only 1 to two lbs per week.
 
 Therefore , pick a time when it is simple to measure and record your enhance. Earlier, each only option to get loss of these deposits was their high-risk surgery that left modifications flat on their backs with respect to two weeks. Few people are trained in testing on.…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=some_of_the_secret_of_losing_weight_expertly&amp;rev=1364873448&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-02T03:30:48+00:00</dc:date>
-        <dc:creator>eula585</dc:creator>
-        <title>some_of_the_secret_of_losing_weight_expertly - created</title>
-        <link>http://proa.me/wiki/doku.php?id=some_of_the_secret_of_losing_weight_expertly&amp;rev=1364873448&amp;do=diff</link>
-        <description>Some Of The Secret Of Losing Weight Expertly
-
-In advance of when you exercise be sure on warm up. In this article, In order to will feature the protein shakes in view that the convenient replacement to most of the usual muscle recovery foods even though your post-workout meal.</description>
     </item>
 </rdf:RDF>

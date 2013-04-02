@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-02T01:46:32+00:00</dc:date>
+       <dc:date>2013-04-02T02:33:37+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_initial_years_of_computers_in_endeavor&amp;rev=1364866296&amp;do=diff"/>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-02T13:56:34+00:00</dc:date>
+       <dc:date>2013-04-02T14:41:14+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=getting_fit_could_be_enjoyable_and_exciting_to_suit_your_needs&amp;rev=1364913655&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_life_span_of_a_mother_or_father_tips_and_tricks&amp;rev=1364909759&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exactly_how_much_does_a_wedding_dj_ask_for&amp;rev=1364901009&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=disc-jockey_music_mixer_tutorial&amp;rev=1364900030&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=overall_health_routines_for_men&amp;rev=1364886573&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=home_trainer_workout_for_fitness_and_one_of_the_effects&amp;rev=1364886281&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=symbols_of_crystal_methane_use_all_through_health_articles&amp;rev=1364885990&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=drinking_water_and_weight_loss&amp;rev=1364873667&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=getting_fit_could_be_enjoyable_and_exciting_to_suit_your_needs&amp;rev=1364913655&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T14:40:55+00:00</dc:date>
+        <dc:creator>samara91</dc:creator>
+        <title>getting_fit_could_be_enjoyable_and_exciting_to_suit_your_needs - created</title>
+        <link>http://proa.me/wiki/doku.php?id=getting_fit_could_be_enjoyable_and_exciting_to_suit_your_needs&amp;rev=1364913655&amp;do=diff</link>
+        <description>Attaining your workout goals is no easy task. People spend years trying out different programs, learn that none of them really work. Sadly, these people did not have the right method or mentality within meeting their fitness goals. This informative article includes an amount of tips that will help you be successful within achieving your fitness goals.There's justified reason that best treadmill for home has become voted to be the best service of the season.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=the_life_span_of_a_mother_or_father_tips_and_tricks&amp;rev=1364909759&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-02T13:35:59+00:00</dc:date>
@@ -241,17 +249,5 @@ Thomson, PhD, RD, Associate Educator Nutritional Sciences, University of Arizona
 Natalie specializes in chiropractic healing, allergies elimination, needle-less acupuncture, NET-neuro-emotional plan , and nutrition. Also, it will help you'll increase your strength.
 
 Continuous equipment upkeep must be very vital for the long existence of your fitness gear. I would say the Powertec Workbench Leverage Gym definitely is durable fitness equipment made provide you with you a complete body exercise routine. What are you s…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=drinking_water_and_weight_loss&amp;rev=1364873667&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-02T03:34:27+00:00</dc:date>
-        <dc:creator>christina236</dc:creator>
-        <title>drinking_water_and_weight_loss - created</title>
-        <link>http://proa.me/wiki/doku.php?id=drinking_water_and_weight_loss&amp;rev=1364873667&amp;do=diff</link>
-        <description>Drinking Water And Weight Loss
-
-Remember, it is absolutely critical that you perform every one truly as is outlined. Fat 30lbs in 30 days believes excessive, especially since most pro's suggest losing only 1 to two lbs per week.
-
-Therefore , pick a time when it is simple to measure and record your enhance. Earlier, each only option to get loss of these deposits was their high-risk surgery that left modifications flat on their backs with respect to two weeks. Few people are trained in testing on.…</description>
     </item>
 </rdf:RDF>

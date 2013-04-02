@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-02T08:52:46+00:00</dc:date>
+       <dc:date>2013-04-02T09:26:33+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=training_session_schedule_for_men&amp;rev=1364892874&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fitness_boot_camp_workout_plan&amp;rev=1364892718&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=build_up_muscle_and_reach_your_ambitions&amp;rev=1364892281&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_fabulous_brief_overview_of_fitness_fitness_centres&amp;rev=1364887983&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=decline_made_easier_with_2_3_dnp&amp;rev=1364871443&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=usual_weight_loss_on_weight_viewers&amp;rev=1364871173&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_right_way_to_tighten_sagging_skin_after_reduction_supplement&amp;rev=1364871017&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advantages_of_taking_diet_pills_for_weight_reduction&amp;rev=1364870680&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=training_session_schedule_for_men&amp;rev=1364892874&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T08:54:34+00:00</dc:date>
+        <dc:creator>henrietta247</dc:creator>
+        <title>training_session_schedule_for_men - created</title>
+        <link>http://proa.me/wiki/doku.php?id=training_session_schedule_for_men&amp;rev=1364892874&amp;do=diff</link>
+        <description>Training Session Schedule For Men
+
+Shifting the incline also shifts the unique area. Hydronated fats are the kinds together with fat found in almost solitary processed food and consists most typically associated with soybean and bad palm kernel oils.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=fitness_boot_camp_workout_plan&amp;rev=1364892718&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-02T08:51:58+00:00</dc:date>
@@ -245,15 +255,5 @@ In the instance that exercising is new to you, be sure to take well-known rest b
         <description>The Right Way To Tighten Sagging Skin After Reduction Supplement
 
 The protein shakes are sold over-the-counter throughout Connecticut, as well as in the other states and online. One standard supplement for losing weight you just have likely heard of may be the acai berry.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=advantages_of_taking_diet_pills_for_weight_reduction&amp;rev=1364870680&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-02T02:44:40+00:00</dc:date>
-        <dc:creator>jarrod882</dc:creator>
-        <title>advantages_of_taking_diet_pills_for_weight_reduction - created</title>
-        <link>http://proa.me/wiki/doku.php?id=advantages_of_taking_diet_pills_for_weight_reduction&amp;rev=1364870680&amp;do=diff</link>
-        <description>Advantages Of Taking Diet Pills For Weight Reduction
-
-You should try to find out about the long run benefits of the pills. However, if your company measure more than just kilograms lost, you have alternate in order to help you track progress and turn motivated to lose weight.</description>
     </item>
 </rdf:RDF>

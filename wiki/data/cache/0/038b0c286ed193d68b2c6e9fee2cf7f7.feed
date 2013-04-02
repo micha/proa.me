@@ -11,9 +11,20 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-02T02:33:37+00:00</dc:date>
+       <dc:date>2013-04-02T03:41:54+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=drinking_water_and_weight_loss&amp;rev=1364873667&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=some_of_the_secret_of_losing_weight_expertly&amp;rev=1364873448&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=your_foods_to_eat_to_lose_body-weight&amp;rev=1364872931&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=selecting_thyroid_hormones_for_weight_deprivation&amp;rev=1364872647&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_methods_to_maintain_a_healthy_weight_failure&amp;rev=1364872344&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=strawberry_ketone_is_ideal_for_loss&amp;rev=1364872023&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fat_and_hemorrhoids&amp;rev=1364871735&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=decline_made_easier_with_2_3_dnp&amp;rev=1364871443&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=usual_weight_loss_on_weight_viewers&amp;rev=1364871173&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_right_way_to_tighten_sagging_skin_after_reduction_supplement&amp;rev=1364871017&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advantages_of_taking_diet_pills_for_weight_reduction&amp;rev=1364870680&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_initial_years_of_computers_in_endeavor&amp;rev=1364866296&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=desktop_tools_programming_training_and_development&amp;rev=1364866076&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=financially-rewarding_and_important_software_training_curriculum&amp;rev=1364865549&amp;do=diff"/>
@@ -23,17 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fully_grasp_the_basics_in_a_peachtree_introduction_training_class&amp;rev=1364864358&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=guidebook_business_with_training_and_becoming_a_consultant&amp;rev=1364863802&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=property_and_assets_software_training_related_articles&amp;rev=1364863629&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=what_type_fleet_management_solutions_software_seriously_should_you_use&amp;rev=1364863296&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=enjoy_your_personal_detox_foot_bath_at_house&amp;rev=1364860949&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=assume_you_required_an_auto_crash_legal_representative_hire_with_care&amp;rev=1364852065&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=useful_tips_to_help_make_great_juices_at_homes&amp;rev=1364850775&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=make_use_of_these_tips_for_assistance_with_personal_help&amp;rev=1364849426&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=need_advice_to_assist_you_manage_joint_disease_check_beneath_for_excellent_tips&amp;rev=1364843992&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_junk_removal_transformed_our_lives_in_the_newest_year&amp;rev=1364819357&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bath_refinishing_-_what_s_it&amp;rev=1364814024&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_to_help_you_meet_your_own_fitness_goals&amp;rev=1364807904&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=get_items_safe_and_secure_in_addition_to_reliable_movers&amp;rev=1364790794&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=choose_personalized_moving_and_packing_products&amp;rev=1364790301&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,126 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=drinking_water_and_weight_loss&amp;rev=1364873667&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T03:34:27+00:00</dc:date>
+        <dc:creator>christina236</dc:creator>
+        <title>drinking_water_and_weight_loss - created</title>
+        <link>http://proa.me/wiki/doku.php?id=drinking_water_and_weight_loss&amp;rev=1364873667&amp;do=diff</link>
+        <description>Drinking Water And Weight Loss
+
+Remember, it is absolutely critical that you perform every one truly as is outlined. Fat 30lbs in 30 days believes excessive, especially since most pro's suggest losing only 1 to two lbs per week.
+
+Therefore , pick a time when it is simple to measure and record your enhance. Earlier, each only option to get loss of these deposits was their high-risk surgery that left modifications flat on their backs with respect to two weeks. Few people are trained in testing on.…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=some_of_the_secret_of_losing_weight_expertly&amp;rev=1364873448&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T03:30:48+00:00</dc:date>
+        <dc:creator>eula585</dc:creator>
+        <title>some_of_the_secret_of_losing_weight_expertly - created</title>
+        <link>http://proa.me/wiki/doku.php?id=some_of_the_secret_of_losing_weight_expertly&amp;rev=1364873448&amp;do=diff</link>
+        <description>Some Of The Secret Of Losing Weight Expertly
+
+In advance of when you exercise be sure on warm up. In this article, In order to will feature the protein shakes in view that the convenient replacement to most of the usual muscle recovery foods even though your post-workout meal.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=your_foods_to_eat_to_lose_body-weight&amp;rev=1364872931&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T03:22:11+00:00</dc:date>
+        <dc:creator>roni711</dc:creator>
+        <title>your_foods_to_eat_to_lose_body-weight - created</title>
+        <link>http://proa.me/wiki/doku.php?id=your_foods_to_eat_to_lose_body-weight&amp;rev=1364872931&amp;do=diff</link>
+        <description>Your Foods To Eat To Lose Body-Weight
+
+Across the 'Sole Source' diet your site are allowed 3 (or five for a man) Cambridge delicacies per day, and nothing else, other than plenty of the lake. Extremely crucial to gain thyroid well being!
+
+However, even constant dieting and exercise is not really always enough for some everyday people to lose weight. Occasionally the food served in Mandarin chinese schools consists of small price of rice bowl, miso soup, tofu, and vegetables. The meals at the ret…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=selecting_thyroid_hormones_for_weight_deprivation&amp;rev=1364872647&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T03:17:27+00:00</dc:date>
+        <dc:creator>sang285</dc:creator>
+        <title>selecting_thyroid_hormones_for_weight_deprivation - created</title>
+        <link>http://proa.me/wiki/doku.php?id=selecting_thyroid_hormones_for_weight_deprivation&amp;rev=1364872647&amp;do=diff</link>
+        <description>Selecting Thyroid Hormones For Weight Deprivation
+
+You are able to the reputation of the lender selling the pills. when you pop the top without a body building protein beveled you don't expect it for you to be contaminated with heavy precious metals - but don't be that sure.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=easy_methods_to_maintain_a_healthy_weight_failure&amp;rev=1364872344&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T03:12:24+00:00</dc:date>
+        <dc:creator>kaylee553</dc:creator>
+        <title>easy_methods_to_maintain_a_healthy_weight_failure - created</title>
+        <link>http://proa.me/wiki/doku.php?id=easy_methods_to_maintain_a_healthy_weight_failure&amp;rev=1364872344&amp;do=diff</link>
+        <description>Easy Methods To Maintain A Healthy Weight Failure
+
+The actual event that your looking out for failure diets that work, this truly be on your list. The healthy guideline for proportion control entertains the concept of the set and specific number related with servings of each food institution per day.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=strawberry_ketone_is_ideal_for_loss&amp;rev=1364872023&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T03:07:03+00:00</dc:date>
+        <dc:creator>tara665</dc:creator>
+        <title>strawberry_ketone_is_ideal_for_loss - created</title>
+        <link>http://proa.me/wiki/doku.php?id=strawberry_ketone_is_ideal_for_loss&amp;rev=1364872023&amp;do=diff</link>
+        <description>Strawberry Ketone Is Ideal For  Loss
+
+This diet revolves around users taking dish replacement protein shakes and other healthy protein supplements such as a healthy protein bar. These weakened state leads to farther reductions in metabolism.
+
+Post discovers the three easy uncomplicated steps for preparing More suggestions. There are also sufficient quantities of prints of fats which is key in the body as effortlessly. The typical American now in a natural way takes in Around 25% on his/her calor…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=fat_and_hemorrhoids&amp;rev=1364871735&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T03:02:15+00:00</dc:date>
+        <dc:creator>cyril215</dc:creator>
+        <title>fat_and_hemorrhoids - created</title>
+        <link>http://proa.me/wiki/doku.php?id=fat_and_hemorrhoids&amp;rev=1364871735&amp;do=diff</link>
+        <description>Fat And Hemorrhoids
+
+Cancer treatments may have the same affect. Now you may are aware what you would like and when you need it, you have to ensure which usually these measurements regarding success usually are reasonable.
+
+Is a lot more how much fun you could very well realise it is once you undoubtedly start. It will also add in which to a spring to your manoeuvre because you will not are more embarrassed by how you come across. That should be great for weight elimination. Goals can be desired…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=decline_made_easier_with_2_3_dnp&amp;rev=1364871443&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T02:57:23+00:00</dc:date>
+        <dc:creator>rusty928</dc:creator>
+        <title>decline_made_easier_with_2_3_dnp - created</title>
+        <link>http://proa.me/wiki/doku.php?id=decline_made_easier_with_2_3_dnp&amp;rev=1364871443&amp;do=diff</link>
+        <description>Decline Made Easier With 2 3 Dnp
+
+There are many people who have garnered a considerable amount of lbs and keep wondering “how had done that happen?” in the beginning. Repeat workout twenty times-make sure you seems the muscles moving.
+
+You've heard so much about the kids - that they work, the player don't work; that they are typical healthy and that they could kill you. Learn significantly possible about diabetes, food, and also the to cleanse and maintain almost all of the vital organs. Abunda…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=usual_weight_loss_on_weight_viewers&amp;rev=1364871173&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T02:52:53+00:00</dc:date>
+        <dc:creator>alejandrina452</dc:creator>
+        <title>usual_weight_loss_on_weight_viewers - created</title>
+        <link>http://proa.me/wiki/doku.php?id=usual_weight_loss_on_weight_viewers&amp;rev=1364871173&amp;do=diff</link>
+        <description>Usual Weight Loss On Weight Viewers
+
+In the instance that exercising is new to you, be sure to take well-known rest breaks. Most related with the bakery goods contain unnatural additives, along with processed flour, both of which are relatively pro-oxidative.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_right_way_to_tighten_sagging_skin_after_reduction_supplement&amp;rev=1364871017&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T02:50:17+00:00</dc:date>
+        <dc:creator>felice657</dc:creator>
+        <title>the_right_way_to_tighten_sagging_skin_after_reduction_supplement - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_right_way_to_tighten_sagging_skin_after_reduction_supplement&amp;rev=1364871017&amp;do=diff</link>
+        <description>The Right Way To Tighten Sagging Skin After Reduction Supplement
+
+The protein shakes are sold over-the-counter throughout Connecticut, as well as in the other states and online. One standard supplement for losing weight you just have likely heard of may be the acai berry.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=advantages_of_taking_diet_pills_for_weight_reduction&amp;rev=1364870680&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-02T02:44:40+00:00</dc:date>
+        <dc:creator>jarrod882</dc:creator>
+        <title>advantages_of_taking_diet_pills_for_weight_reduction - created</title>
+        <link>http://proa.me/wiki/doku.php?id=advantages_of_taking_diet_pills_for_weight_reduction&amp;rev=1364870680&amp;do=diff</link>
+        <description>Advantages Of Taking Diet Pills For Weight Reduction
+
+You should try to find out about the long run benefits of the pills. However, if your company measure more than just kilograms lost, you have alternate in order to help you track progress and turn motivated to lose weight.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=the_initial_years_of_computers_in_endeavor&amp;rev=1364866296&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-02T01:31:36+00:00</dc:date>
@@ -133,99 +253,5 @@ For each group, there were some typical screen recording services you can make a
         <description>Property And Assets Software Training Related Articles
 
 As a result, we have an ever-growing listing of satisfied clients. Related expense - You would possibly usually trying to help keep expenses straight down and feel that most education content should be a lot identical.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=what_type_fleet_management_solutions_software_seriously_should_you_use&amp;rev=1364863296&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-02T00:41:36+00:00</dc:date>
-        <dc:creator>janet81</dc:creator>
-        <title>what_type_fleet_management_solutions_software_seriously_should_you_use - created</title>
-        <link>http://proa.me/wiki/doku.php?id=what_type_fleet_management_solutions_software_seriously_should_you_use&amp;rev=1364863296&amp;do=diff</link>
-        <description>What Type Fleet Management Solutions Software Seriously Should You Use
-
-For a short price, people can get a powerful tool that will teach them to talk fluent Italian. Don't for all time let the lack of fantastic advanced degree keep you by using pursuing a career instead created by a job that you are not looking.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=enjoy_your_personal_detox_foot_bath_at_house&amp;rev=1364860949&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-02T00:02:29+00:00</dc:date>
-        <dc:creator>corey699</dc:creator>
-        <title>enjoy_your_personal_detox_foot_bath_at_house - created</title>
-        <link>http://proa.me/wiki/doku.php?id=enjoy_your_personal_detox_foot_bath_at_house&amp;rev=1364860949&amp;do=diff</link>
-        <description>The HotSpa Best Foot Spa is not just extremely simple on the feet, but is made to be easy to utilize, and easy to clean. The tub holds 3.2 quarts of water and can be cleared effortlessly and conveniently. Waterproof toe touch controls make the unit incredibly simple to control.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=assume_you_required_an_auto_crash_legal_representative_hire_with_care&amp;rev=1364852065&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T21:34:25+00:00</dc:date>
-        <dc:creator>paula58</dc:creator>
-        <title>assume_you_required_an_auto_crash_legal_representative_hire_with_care - created</title>
-        <link>http://proa.me/wiki/doku.php?id=assume_you_required_an_auto_crash_legal_representative_hire_with_care&amp;rev=1364852065&amp;do=diff</link>
-        <description>Deciding on a working with an attorney could be an uphill struggle because this is actually not something you accomplish day-to-day and this is actually vital to the excellence of your scenario. Choosing a professional could be your best option. Primarily if you get a remarkably abnormal sort of instance, an overall practicing attorney is probably not visiting be actually the optimal alternative for you. You could assume that a professional could cost you more however overall your opportunities …</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=useful_tips_to_help_make_great_juices_at_homes&amp;rev=1364850775&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T21:12:55+00:00</dc:date>
-        <dc:creator>desmond489</dc:creator>
-        <title>useful_tips_to_help_make_great_juices_at_homes - created</title>
-        <link>http://proa.me/wiki/doku.php?id=useful_tips_to_help_make_great_juices_at_homes&amp;rev=1364850775&amp;do=diff</link>
-        <description>There are numerous vegatables and fruits ideal for juicing and making delicious and nutritious beverages rich in minerals and vitamins. Juicing is a significantly better alternative than buying bottled juice through the supermarket. Fresh juice from natural produce is not merely healthy, but very tasty also!</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=make_use_of_these_tips_for_assistance_with_personal_help&amp;rev=1364849426&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T20:50:26+00:00</dc:date>
-        <dc:creator>omar312</dc:creator>
-        <title>make_use_of_these_tips_for_assistance_with_personal_help - created</title>
-        <link>http://proa.me/wiki/doku.php?id=make_use_of_these_tips_for_assistance_with_personal_help&amp;rev=1364849426&amp;do=diff</link>
-        <description>Choosing to better yourself is a good goal to put. Personal development - the ability of making even more out of yourself - can be an enriching, highly rewarding process. Will not require an all-encompassing master plan, either. You are able to kick off a self improvement regular (or improve your present one) with a few simple ideas like these:There exists certainly strong reason that peyronie s disease has been voted as the right device of the year.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=need_advice_to_assist_you_manage_joint_disease_check_beneath_for_excellent_tips&amp;rev=1364843992&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T19:19:52+00:00</dc:date>
-        <dc:creator>francisca566</dc:creator>
-        <title>need_advice_to_assist_you_manage_joint_disease_check_beneath_for_excellent_tips - created</title>
-        <link>http://proa.me/wiki/doku.php?id=need_advice_to_assist_you_manage_joint_disease_check_beneath_for_excellent_tips&amp;rev=1364843992&amp;do=diff</link>
-        <description>Many arthritis want to find ways to treat and stop it from occurring. While arthritis is typically not treatable, there are certainly ways to prevent this and address it. The purpose of this informative article has useful suggestions for treating this problem.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=how_junk_removal_transformed_our_lives_in_the_newest_year&amp;rev=1364819357&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T12:29:17+00:00</dc:date>
-        <dc:creator>melody67</dc:creator>
-        <title>how_junk_removal_transformed_our_lives_in_the_newest_year - created</title>
-        <link>http://proa.me/wiki/doku.php?id=how_junk_removal_transformed_our_lives_in_the_newest_year&amp;rev=1364819357&amp;do=diff</link>
-        <description>&lt;p&gt;Large, flat objects needs to be placed on top of the load to carry all the pieces down securely. The tie downs will be secured over the flat objects to push every little thing down into the bed of the truck. The junk will keep at the back of the truck as soon as it's tied down. They will do all the mandatory segregation. They will do all the necessary hauling. Moreover, they would be the one who shall correctly get rid of them. Do not make junk meals simply accessible. Do not hold junk food a…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=bath_refinishing_-_what_s_it&amp;rev=1364814024&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T11:00:24+00:00</dc:date>
-        <dc:creator>cliff7</dc:creator>
-        <title>bath_refinishing_-_what_s_it - created</title>
-        <link>http://proa.me/wiki/doku.php?id=bath_refinishing_-_what_s_it&amp;rev=1364814024&amp;do=diff</link>
-        <description>&lt;p&gt;For long lasting results, make sure to ask your refinisher for some maintenance and basic care suggestions. How do I go about the refinishing process? There are two methods that you can refinish your bathtub; you can decide to do it your self, or you can name in the professionals. Cover the realm around the tub with thick plastic tarps and plastic duct tape, and canopy your self with long, thick rubber gloves, goggles, a respirator mask and cover-all clothing. You'll apply the paint with an e…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=tips_to_help_you_meet_your_own_fitness_goals&amp;rev=1364807904&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T09:18:24+00:00</dc:date>
-        <dc:creator>zachary611</dc:creator>
-        <title>tips_to_help_you_meet_your_own_fitness_goals - created</title>
-        <link>http://proa.me/wiki/doku.php?id=tips_to_help_you_meet_your_own_fitness_goals&amp;rev=1364807904&amp;do=diff</link>
-        <description>Physical fitness can be defined as an equilibrium of physical condition plus mental health. When people achieve a solid level of fitness, it not just helps them physically yet mentally, and also physically. Go through this article to return to the tips below if you are someone looking to get in shape.There is always great reason that fitness equipment has become selected to be the right brand of the season.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=get_items_safe_and_secure_in_addition_to_reliable_movers&amp;rev=1364790794&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T04:33:14+00:00</dc:date>
-        <dc:creator>robt942</dc:creator>
-        <title>get_items_safe_and_secure_in_addition_to_reliable_movers - created</title>
-        <link>http://proa.me/wiki/doku.php?id=get_items_safe_and_secure_in_addition_to_reliable_movers&amp;rev=1364790794&amp;do=diff</link>
-        <description>Get Items Safe And Secure In Addition To Reliable Movers
-
-Call two or three local moving companies and ask you for rates for your specific occasions. This high will slowly spin towards the east on Friday, but we will begin on see increasing clouds throughout time.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=choose_personalized_moving_and_packing_products&amp;rev=1364790301&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-01T04:25:01+00:00</dc:date>
-        <dc:creator>kathey193</dc:creator>
-        <title>choose_personalized_moving_and_packing_products - created</title>
-        <link>http://proa.me/wiki/doku.php?id=choose_personalized_moving_and_packing_products&amp;rev=1364790301&amp;do=diff</link>
-        <description>Choose Personalized Moving And Packing Products
-
-When buying a house, usually get what you pay for, so if a huge show place with 6 bedrooms and multiple floors is on sale with regard to dirt cheap, there is remain catch. This excellent well known company is made for moving belongings.</description>
     </item>
 </rdf:RDF>

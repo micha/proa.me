@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-03T09:58:22+00:00</dc:date>
+       <dc:date>2013-04-03T10:48:55+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=weight_loss_advice_that_really_works&amp;rev=1364984883&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=plans_on_how_to_get_eliminate_arthritis&amp;rev=1364979848&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=welcome_to_breville_juicer_reviews&amp;rev=1364967494&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=identifying_astute_solutions_of_juicer_review&amp;rev=1364950793&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=factors_to_request_your_wedding_disk_jockey&amp;rev=1364897625&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=suggestions_to_start_your_own_mobile_disk_jockey_business&amp;rev=1364897296&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=record_of_jam_pony_express_dj_s&amp;rev=1364897090&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=training_session_schedule_for_men&amp;rev=1364892874&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=weight_loss_advice_that_really_works&amp;rev=1364984883&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-03T10:28:03+00:00</dc:date>
+        <dc:creator>garfield887</dc:creator>
+        <title>weight_loss_advice_that_really_works - created</title>
+        <link>http://proa.me/wiki/doku.php?id=weight_loss_advice_that_really_works&amp;rev=1364984883&amp;do=diff</link>
+        <description>You cannot go on encountering this anymore. Unwanted weight is spiraling away from a problem. You may have more pain in your joint parts, your joints are hurting, or are unable to stop thinking of excess fat. These advice to center.There is acceptable reason that current health articles on stress continues to be selected as the best brand of year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=plans_on_how_to_get_eliminate_arthritis&amp;rev=1364979848&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-03T09:04:08+00:00</dc:date>
@@ -221,15 +229,5 @@ Instead, we pay attention to your clients and their guests by the first moment w
         <description>Record Of Jam Pony Express Dj's
 
 He's in most cases thought of as one of your nicest of the group along with a loud and comedic personality. There are each of our family and friends of the actual bride who wait to secure them at the gate within the house.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=training_session_schedule_for_men&amp;rev=1364892874&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-02T08:54:34+00:00</dc:date>
-        <dc:creator>henrietta247</dc:creator>
-        <title>training_session_schedule_for_men - created</title>
-        <link>http://proa.me/wiki/doku.php?id=training_session_schedule_for_men&amp;rev=1364892874&amp;do=diff</link>
-        <description>Training Session Schedule For Men
-
-Shifting the incline also shifts the unique area. Hydronated fats are the kinds together with fat found in almost solitary processed food and consists most typically associated with soybean and bad palm kernel oils.</description>
     </item>
 </rdf:RDF>

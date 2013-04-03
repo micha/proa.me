@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-03T16:40:48+00:00</dc:date>
+       <dc:date>2013-04-03T18:02:50+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=great_tips_to_keep_your_joint_disease_at_bay&amp;rev=1365010986&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=weight_loss_advice_that_really_works&amp;rev=1364984883&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=plans_on_how_to_get_eliminate_arthritis&amp;rev=1364979848&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=welcome_to_breville_juicer_reviews&amp;rev=1364967494&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=getting_a_dj_gig&amp;rev=1364897977&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=factors_to_request_your_wedding_disk_jockey&amp;rev=1364897625&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=suggestions_to_start_your_own_mobile_disk_jockey_business&amp;rev=1364897296&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=record_of_jam_pony_express_dj_s&amp;rev=1364897090&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=great_tips_to_keep_your_joint_disease_at_bay&amp;rev=1365010986&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-03T17:43:06+00:00</dc:date>
+        <dc:creator>lawrence171</dc:creator>
+        <title>great_tips_to_keep_your_joint_disease_at_bay - created</title>
+        <link>http://proa.me/wiki/doku.php?id=great_tips_to_keep_your_joint_disease_at_bay&amp;rev=1365010986&amp;do=diff</link>
+        <description>Joint disease is a serious ailment that can affect many different kinds of all ages.There's good reason that does provailen work has been voted to be the best device of the year.
+
+Numerous arthritis sufferers feel alone and isolated. You should attempt to join support groups so you can look for a support group. Organizations on or offline can assist you deal with your own issues relating to joint disease. You will be able to discuss coping strategies to deal and more tips among people who unders…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=weight_loss_advice_that_really_works&amp;rev=1364984883&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-03T10:28:03+00:00</dc:date>
@@ -219,15 +229,5 @@ Gentrification hasn't are packaged at the cost of genuineness. As of Saturday, D
         <description>Suggestions To Start Your Own Mobile Disk Jockey Business
 
 Instead, we pay attention to your clients and their guests by the first moment we arrive to the picture. Anyway i said earlier that there is often a difference between a full-time organization and part-time hobbyist.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=record_of_jam_pony_express_dj_s&amp;rev=1364897090&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-02T10:04:50+00:00</dc:date>
-        <dc:creator>felice657</dc:creator>
-        <title>record_of_jam_pony_express_dj_s - created</title>
-        <link>http://proa.me/wiki/doku.php?id=record_of_jam_pony_express_dj_s&amp;rev=1364897090&amp;do=diff</link>
-        <description>Record Of Jam Pony Express Dj's
-
-He's in most cases thought of as one of your nicest of the group along with a loud and comedic personality. There are each of our family and friends of the actual bride who wait to secure them at the gate within the house.</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-03T04:48:21+00:00</dc:date>
+       <dc:date>2013-04-03T05:40:32+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=welcome_to_breville_juicer_reviews&amp;rev=1364967494&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=identifying_astute_solutions_of_juicer_review&amp;rev=1364950793&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=discovering_methods_in_exactly_what_are_the_causes_of_wrongful_death&amp;rev=1364947376&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_new_analysis_on_major_criteria_in_juicer_reviews&amp;rev=1364946830&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=record_of_jam_pony_express_dj_s&amp;rev=1364897090&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=training_session_schedule_for_men&amp;rev=1364892874&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fitness_boot_camp_workout_plan&amp;rev=1364892718&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=build_up_muscle_and_reach_your_ambitions&amp;rev=1364892281&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=welcome_to_breville_juicer_reviews&amp;rev=1364967494&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-03T05:38:14+00:00</dc:date>
+        <dc:creator>daisy245</dc:creator>
+        <title>welcome_to_breville_juicer_reviews - created</title>
+        <link>http://proa.me/wiki/doku.php?id=welcome_to_breville_juicer_reviews&amp;rev=1364967494&amp;do=diff</link>
+        <description>The chomping juicer works with reasonably reduced speed, and can removing juice from green leaves, wheat lawn, vegetables and fruits. It breaks up the fruits and veggies and grates the fiber to produce a paste. Later on this paste is pressed out and therefore juices flow down with the strainer and reach the lesser compartment. Juices made from this juicer consist of much fiber, minerals and vitamins. And so consuming juices made from this juicer are considered much healthier. Apart from preparin…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=identifying_astute_solutions_of_juicer_review&amp;rev=1364950793&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-03T00:59:53+00:00</dc:date>
@@ -225,15 +233,5 @@ Shifting the incline also shifts the unique area. Hydronated fats are the kinds 
         <description>Fitness Boot Camp Workout Plan
 
 A pair of white athletic socks would do great for you practical trainer, as you are a sequined head band tends to make your trendier trainer go goo-goo for the gaudy goodie. A new person has to warm moving upward before the original exercise happens.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=build_up_muscle_and_reach_your_ambitions&amp;rev=1364892281&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-02T08:44:41+00:00</dc:date>
-        <dc:creator>janet81</dc:creator>
-        <title>build_up_muscle_and_reach_your_ambitions - created</title>
-        <link>http://proa.me/wiki/doku.php?id=build_up_muscle_and_reach_your_ambitions&amp;rev=1364892281&amp;do=diff</link>
-        <description>Build Up Muscle And Reach Your Ambitions
-
-Generally speaking, this elliptical trainer trainer surpasses lots of those leading contenders and can be particularly purchased at a reasonable fees . Now slowly twist sideways the actual world opposite direction.</description>
     </item>
 </rdf:RDF>

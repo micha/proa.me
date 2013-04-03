@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-03T09:02:32+00:00</dc:date>
+       <dc:date>2013-04-03T09:58:22+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=plans_on_how_to_get_eliminate_arthritis&amp;rev=1364979848&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=welcome_to_breville_juicer_reviews&amp;rev=1364967494&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=identifying_astute_solutions_of_juicer_review&amp;rev=1364950793&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=discovering_methods_in_exactly_what_are_the_causes_of_wrongful_death&amp;rev=1364947376&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=suggestions_to_start_your_own_mobile_disk_jockey_business&amp;rev=1364897296&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=record_of_jam_pony_express_dj_s&amp;rev=1364897090&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=training_session_schedule_for_men&amp;rev=1364892874&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fitness_boot_camp_workout_plan&amp;rev=1364892718&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=plans_on_how_to_get_eliminate_arthritis&amp;rev=1364979848&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-03T09:04:08+00:00</dc:date>
+        <dc:creator>marla652</dc:creator>
+        <title>plans_on_how_to_get_eliminate_arthritis - created</title>
+        <link>http://proa.me/wiki/doku.php?id=plans_on_how_to_get_eliminate_arthritis&amp;rev=1364979848&amp;do=diff</link>
+        <description>Without having cartilage, your bones grind together evoking the symptoms of joint disease. This article offers a few tips to help stop the deterioration from their symptoms.You will find there's acceptable reason that current health articles on diabetes has been voted to be the best remedy of the year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=welcome_to_breville_juicer_reviews&amp;rev=1364967494&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-03T05:38:14+00:00</dc:date>
@@ -223,15 +231,5 @@ He's in most cases thought of as one of your nicest of the group along with a lo
         <description>Training Session Schedule For Men
 
 Shifting the incline also shifts the unique area. Hydronated fats are the kinds together with fat found in almost solitary processed food and consists most typically associated with soybean and bad palm kernel oils.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=fitness_boot_camp_workout_plan&amp;rev=1364892718&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-02T08:51:58+00:00</dc:date>
-        <dc:creator>tanja828</dc:creator>
-        <title>fitness_boot_camp_workout_plan - created</title>
-        <link>http://proa.me/wiki/doku.php?id=fitness_boot_camp_workout_plan&amp;rev=1364892718&amp;do=diff</link>
-        <description>Fitness Boot Camp Workout Plan
-
-A pair of white athletic socks would do great for you practical trainer, as you are a sequined head band tends to make your trendier trainer go goo-goo for the gaudy goodie. A new person has to warm moving upward before the original exercise happens.</description>
     </item>
 </rdf:RDF>

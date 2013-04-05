@@ -11,9 +11,22 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-05T18:47:34+00:00</dc:date>
+       <dc:date>2013-04-05T20:04:17+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=women_risk_for_std_s&amp;rev=1365191486&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=in_order_to_get_tested_for_stds&amp;rev=1365191286&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_you_actually_desired_to_apprehend_about_std_testing&amp;rev=1365191133&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=vocational_school_confidential_forum_in_health_resources&amp;rev=1365190928&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=sexually_transmitted_disease_testing_procedure&amp;rev=1365190461&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=practically_all_you_actually_desired_to_be_aware_about_std_testing&amp;rev=1365190221&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=directory_of_sexually_transmitted_diseases&amp;rev=1365189971&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=likelihood_of_hiv_and_stds_from_even_sex_know_the_fact&amp;rev=1365189720&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=females_risk_for_std_s&amp;rev=1365189485&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_house_testing_for_std_s&amp;rev=1365189227&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=publishing_other_services&amp;rev=1365188980&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=girls_risk_for_std_s&amp;rev=1365188813&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pleasing_speech_topics_for_college_applicants&amp;rev=1365188506&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=chocolate_fundraising_is_a_sweet_deal&amp;rev=1365183371&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=delicious_chocolate_recipes_to_make_time_special&amp;rev=1365183156&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_on_how_to_make_white_chocolate&amp;rev=1365182967&amp;do=diff"/>
@@ -21,19 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=info_about_where_to_sell_gold_and_silver_cash&amp;rev=1365182769&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=be_sold_your_unwanted_gold_in_montreal&amp;rev=1365182532&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fabulous_things_you_can_create_with_bulk_chocolates&amp;rev=1365182370&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=swiss_flavour_of_chocolate&amp;rev=1365182156&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=retail_gold_online_tips_for_some_secure_transaction&amp;rev=1365182075&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=chocolate_can_keep_the_blood_circulation_in_a_normal_state&amp;rev=1365181936&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=i_m_looking_to_sell_my_gold_jewelry&amp;rev=1365181846&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=chocolate_diamond_jewelry_what_are_chocolate_diamonds&amp;rev=1365181717&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=convenient_methods_to_sell_gold_loose_change_online&amp;rev=1365181615&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=as_well_as_tricks_to_making_chocolate_covered_fruits&amp;rev=1365181523&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ways_to_sell_gold_jewelry_for_salary&amp;rev=1365181387&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_chocolate_frosting_recipe&amp;rev=1365181319&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=platinum_jewellery_buyers_cashstop_gold&amp;rev=1365181145&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=eating_delicious_chocolate_fondue&amp;rev=1365181126&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=throw_an_edible_image_chocolate_party&amp;rev=1365181022&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_person_hold_or_sell_gold&amp;rev=1365180896&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,152 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=women_risk_for_std_s&amp;rev=1365191486&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:51:26+00:00</dc:date>
+        <dc:creator>ina81</dc:creator>
+        <title>women_risk_for_std_s - created</title>
+        <link>http://proa.me/wiki/doku.php?id=women_risk_for_std_s&amp;rev=1365191486&amp;do=diff</link>
+        <description>Women Risk For Std's
+
+Barely walk in, no appointment ought to be required. Gonorrhea is one of the almost common STDs and a handful of companies have an at-home pee test that you can transfer away for results.
+
+These symptoms will appear reduced after a about a one particular week to a month, but fl citrus will stay dormant for years, and later making it challenging for the individual to fight trojans. One talk will take place at 11:15am at the Homestead campus out of Miami Dade College. Stop by…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=in_order_to_get_tested_for_stds&amp;rev=1365191286&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:48:06+00:00</dc:date>
+        <dc:creator>vina615</dc:creator>
+        <title>in_order_to_get_tested_for_stds - created</title>
+        <link>http://proa.me/wiki/doku.php?id=in_order_to_get_tested_for_stds&amp;rev=1365191286&amp;do=diff</link>
+        <description>In Order To Get Tested For Stds
+
+You can also inquire in case the person has skilled any mysterious physiological indicators. Due to the fact the new HPV vaccines, all people are aware of HPV and how certain strains may cause cervical cancer.
+
+Speaker, it comes as being a surprise to most Americans a lot more about that the largest abortion home in America is also biggest bank recipient of federal funding listed below Title X. With this test, the identity and health of the pateint is maintained …</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_you_actually_desired_to_apprehend_about_std_testing&amp;rev=1365191133&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:45:33+00:00</dc:date>
+        <dc:creator>prudence893</dc:creator>
+        <title>the_you_actually_desired_to_apprehend_about_std_testing - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_you_actually_desired_to_apprehend_about_std_testing&amp;rev=1365191133&amp;do=diff</link>
+        <description>The You Actually Desired To Apprehend About Std Testing
+
+Then you'll then know if you have a single thing and what you have. It has become important that the patient realizes that he or she would be infected so that he and / or she may not pass that disease to other people.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=vocational_school_confidential_forum_in_health_resources&amp;rev=1365190928&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:42:08+00:00</dc:date>
+        <dc:creator>millie967</dc:creator>
+        <title>vocational_school_confidential_forum_in_health_resources - created</title>
+        <link>http://proa.me/wiki/doku.php?id=vocational_school_confidential_forum_in_health_resources&amp;rev=1365190928&amp;do=diff</link>
+        <description>Vocational School Confidential Forum In Health Resources
+
+They are basically this home laboratory service. Gonorrhea is one of the many common STDs and a variety companies have an at-home pee test that you can transfer away for results.
+
+While you experience unusual symptoms through your genitalia and urination primarily when you have been intimately promiscuous, the need for std list is even more necessary and minimize the spread of health problems. As a way to many, the thought of on the way t…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=sexually_transmitted_disease_testing_procedure&amp;rev=1365190461&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:34:21+00:00</dc:date>
+        <dc:creator>tierra456</dc:creator>
+        <title>sexually_transmitted_disease_testing_procedure - created</title>
+        <link>http://proa.me/wiki/doku.php?id=sexually_transmitted_disease_testing_procedure&amp;rev=1365190461&amp;do=diff</link>
+        <description>Sexually Transmitted Disease Testing Procedure
+
+1st detection is good, but preventative is still better. Cephalosporins such as Ceclor and Keflex eventually emerged as what well professionals called the last set of defense in a hostilities scientists were clearly losing.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=practically_all_you_actually_desired_to_be_aware_about_std_testing&amp;rev=1365190221&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:30:21+00:00</dc:date>
+        <dc:creator>elodia294</dc:creator>
+        <title>practically_all_you_actually_desired_to_be_aware_about_std_testing - created</title>
+        <link>http://proa.me/wiki/doku.php?id=practically_all_you_actually_desired_to_be_aware_about_std_testing&amp;rev=1365190221&amp;do=diff</link>
+        <description>Practically All You Actually Desired To Be Aware About Std Testing
+
+However, Cyrus Sullivan is welcoming the submission info other people who are who have contracted an STD. Some may possibly need circulatory system samples, even though other persons demand urine specimen.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=directory_of_sexually_transmitted_diseases&amp;rev=1365189971&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:26:11+00:00</dc:date>
+        <dc:creator>micaela818</dc:creator>
+        <title>directory_of_sexually_transmitted_diseases - created</title>
+        <link>http://proa.me/wiki/doku.php?id=directory_of_sexually_transmitted_diseases&amp;rev=1365189971&amp;do=diff</link>
+        <description>Directory Of Sexually Transmitted Diseases
+
+Adhering to issue is: the place would you buy std testing? Growing committed suicide and or mortally wounded their children for many next “reasons”, real or perceived many cultural and others personal.
+
+The many compress lumps on the *Censored! Some of associated with testers also offer cost-free visits and possibilities for cure would need to a patient check encouraging for any STDs, these equally Chlamydia, syphilis, herpes, gonorrhea, hepatitis, HIV…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=likelihood_of_hiv_and_stds_from_even_sex_know_the_fact&amp;rev=1365189720&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:22:00+00:00</dc:date>
+        <dc:creator>lyla459</dc:creator>
+        <title>likelihood_of_hiv_and_stds_from_even_sex_know_the_fact - created</title>
+        <link>http://proa.me/wiki/doku.php?id=likelihood_of_hiv_and_stds_from_even_sex_know_the_fact&amp;rev=1365189720&amp;do=diff</link>
+        <description>Likelihood Of Hiv And Stds From Even Sex Know The Fact
+
+In either case, it is still embarrassing to acquire your sexual info, especially it concerning an STD, posted over the internet where everyone can see the item. Centers for Disease Control along with Prevention.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=females_risk_for_std_s&amp;rev=1365189485&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:18:05+00:00</dc:date>
+        <dc:creator>trula686</dc:creator>
+        <title>females_risk_for_std_s - created</title>
+        <link>http://proa.me/wiki/doku.php?id=females_risk_for_std_s&amp;rev=1365189485&amp;do=diff</link>
+        <description>Females Risk For Std's
+
+This article will a closer look at even men can get tested concerning STD's. The rate of gonorrhea among the same area was 739 per 100,000 along with the rate of HIV cases getting 14 per 100,000.
+
+They are able to require proof of income use be sure to bring ante up stubs and photo ID. HIV testing sites in Chicago, illinois are important places to adopt the first step in Aids treatment, education and prevention. The study, which experts claim was conducted by researchers …</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_house_testing_for_std_s&amp;rev=1365189227&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:13:47+00:00</dc:date>
+        <dc:creator>hermelinda525</dc:creator>
+        <title>the_house_testing_for_std_s - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_house_testing_for_std_s&amp;rev=1365189227&amp;do=diff</link>
+        <description>The House Testing For Std's
+
+STD testing located in this sort of scenarios is just recommended early. You can apply many world famous gynecologists and / or doctors who write myriad superior articles on HIV related trouble.
+
+This makes some sort of patient feel better and be longer. A predisposition towards hereditary problems isn't a guarantee that the assessed will develop these health ailments at a later date. This balm should be avoided for experience children as well as men and women who ar…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=publishing_other_services&amp;rev=1365188980&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:09:40+00:00</dc:date>
+        <dc:creator>jan653</dc:creator>
+        <title>publishing_other_services - created</title>
+        <link>http://proa.me/wiki/doku.php?id=publishing_other_services&amp;rev=1365188980&amp;do=diff</link>
+        <description>Publishing “Other Services”
+
+The second is a package where you take the sample and test it yourself and look the results yourself. They probably require proof of income too be sure to bring cover stubs and photo ID.
+
+Get scheduled for a std dating check these days to detect out the answers you wish to have to know. Most, if not all, will savor this opportunity. I'll tell you they both come by using a life sentence of heartache also pain, no more partying them stops here? Though STD result on bot…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=girls_risk_for_std_s&amp;rev=1365188813&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:06:53+00:00</dc:date>
+        <dc:creator>alida456</dc:creator>
+        <title>girls_risk_for_std_s - created</title>
+        <link>http://proa.me/wiki/doku.php?id=girls_risk_for_std_s&amp;rev=1365188813&amp;do=diff</link>
+        <description>Girls Risk For Std's
+
+Warts is thought to lie inactive in 75% of the reproductive-age population. Whether your entire family engage in oral, anal as well as vaginal sex, you will having said that be susceptible to the disorder.
+
+If Beethoven actually had syphilis is been debated for decades. If you don't have an cell phone handy, the processor chip can also be inserted for your computer. Do not put out of diagnosis and testing for in the future if you don't want so that you endure the complicati…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=pleasing_speech_topics_for_college_applicants&amp;rev=1365188506&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T19:01:46+00:00</dc:date>
+        <dc:creator>jane384</dc:creator>
+        <title>pleasing_speech_topics_for_college_applicants - created</title>
+        <link>http://proa.me/wiki/doku.php?id=pleasing_speech_topics_for_college_applicants&amp;rev=1365188506&amp;do=diff</link>
+        <description>Pleasing Speech Topics For College Applicants
+
+If your trial comes back positive they will most likely begin treating you immediately. Their AIDS Foundation of Chicago's purpose is to fight, locally with nationally, against HIV and Supplements and to help those dealing with from it.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=chocolate_fundraising_is_a_sweet_deal&amp;rev=1365183371&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-05T17:36:11+00:00</dc:date>
@@ -111,145 +257,5 @@ Extra thing, the prospect of IMF sales is not new. In addition, you can run on t
         <description>Fabulous Things You Can Create With Bulk Chocolates
 
 With labels intended with distinctive graphics and slogans, customers can select out the best candies immediately. She make you play any game you wanted, you got to be silly and goofy, and you may have candy before dinner.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=swiss_flavour_of_chocolate&amp;rev=1365182156&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T17:15:56+00:00</dc:date>
-        <dc:creator>tessa88</dc:creator>
-        <title>swiss_flavour_of_chocolate - created</title>
-        <link>http://proa.me/wiki/doku.php?id=swiss_flavour_of_chocolate&amp;rev=1365182156&amp;do=diff</link>
-        <description>Swiss Flavour Of Chocolate
-
-There are very few individuals who do not like to eat chocolate truffle. You probably be under the misconception that Gourmet Belgian Chocolates should be preserved in the refrigerator.
-
-What is the mortal on earth who doesn't love chocolate milk ban?? Let's a few more nations in the perspective of candy diet per fashion. However, if you put in chocolate that is not pre-melted, rrt's going to take about 30-40 minutes vendor chocolate starts flowing from the fountain. …</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=retail_gold_online_tips_for_some_secure_transaction&amp;rev=1365182075&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T17:14:35+00:00</dc:date>
-        <dc:creator>joana225</dc:creator>
-        <title>retail_gold_online_tips_for_some_secure_transaction - created</title>
-        <link>http://proa.me/wiki/doku.php?id=retail_gold_online_tips_for_some_secure_transaction&amp;rev=1365182075&amp;do=diff</link>
-        <description>Retail Gold Online: Tips For Some Secure Transaction
-
-Some of the items have got appeared on the show tend to be rather unique: pinball machines, packed animals, used clothing, dentures, as well as the prosthetic limbs. Right before I answer that, I'll result in another question.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=chocolate_can_keep_the_blood_circulation_in_a_normal_state&amp;rev=1365181936&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T17:12:16+00:00</dc:date>
-        <dc:creator>nicky769</dc:creator>
-        <title>chocolate_can_keep_the_blood_circulation_in_a_normal_state - created</title>
-        <link>http://proa.me/wiki/doku.php?id=chocolate_can_keep_the_blood_circulation_in_a_normal_state&amp;rev=1365181936&amp;do=diff</link>
-        <description>Chocolate Can Keep The Blood Circulation In A Normal State
-
-Another very enjoyable way to taste the deliciousness of Belgian chocolate is in a hot chocolate drink. You can even order the chocolate fountains, which makes a beautiful centerpiece at any gathering and can be had.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=i_m_looking_to_sell_my_gold_jewelry&amp;rev=1365181846&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T17:10:46+00:00</dc:date>
-        <dc:creator>herschel123</dc:creator>
-        <title>i_m_looking_to_sell_my_gold_jewelry - created</title>
-        <link>http://proa.me/wiki/doku.php?id=i_m_looking_to_sell_my_gold_jewelry&amp;rev=1365181846&amp;do=diff</link>
-        <description>I'm Looking To Sell My Gold Jewelry
-
-Keep in mind that you always have the regarding picking up the customer the person you are very comfortable with and also you really are in control of this transaction. Gather these items and prepare to get rid of gold and take the profitable.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=chocolate_diamond_jewelry_what_are_chocolate_diamonds&amp;rev=1365181717&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T17:08:37+00:00</dc:date>
-        <dc:creator>renae996</dc:creator>
-        <title>chocolate_diamond_jewelry_what_are_chocolate_diamonds - created</title>
-        <link>http://proa.me/wiki/doku.php?id=chocolate_diamond_jewelry_what_are_chocolate_diamonds&amp;rev=1365181717&amp;do=diff</link>
-        <description>Chocolate Diamond Jewelry: What Are Chocolate Diamonds
-
-It really is not effortless to come across an priced reeasonably token which will inspire elation. When frozen, place 1/4 of yogurt in medium container; drizzle with 1/4 of Chocolate Swirl; repeat with remaining yogurt and chocolate.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=convenient_methods_to_sell_gold_loose_change_online&amp;rev=1365181615&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T17:06:55+00:00</dc:date>
-        <dc:creator>riley525</dc:creator>
-        <title>convenient_methods_to_sell_gold_loose_change_online - created</title>
-        <link>http://proa.me/wiki/doku.php?id=convenient_methods_to_sell_gold_loose_change_online&amp;rev=1365181615&amp;do=diff</link>
-        <description>Convenient Methods To Sell Gold Loose Change Online
-
-Part along with why it hasn't been competent to do so is because permitting the sales requires an 85% majority vote from the IMF's 185 member countries. But insuring your commodity uniquely gold is not even a cost.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=as_well_as_tricks_to_making_chocolate_covered_fruits&amp;rev=1365181523&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T17:05:23+00:00</dc:date>
-        <dc:creator>babara889</dc:creator>
-        <title>as_well_as_tricks_to_making_chocolate_covered_fruits - created</title>
-        <link>http://proa.me/wiki/doku.php?id=as_well_as_tricks_to_making_chocolate_covered_fruits&amp;rev=1365181523&amp;do=diff</link>
-        <description>As Well As Tricks To Making Chocolate Covered Fruits
-
-All you need are your separate quilting projects and a variety of chocolates to get started. Perfect with a glass of milk, chocolate cookies can participate in after school, just before bed, and during any season of the season.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=ways_to_sell_gold_jewelry_for_salary&amp;rev=1365181387&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T17:03:07+00:00</dc:date>
-        <dc:creator>doreen368</dc:creator>
-        <title>ways_to_sell_gold_jewelry_for_salary - created</title>
-        <link>http://proa.me/wiki/doku.php?id=ways_to_sell_gold_jewelry_for_salary&amp;rev=1365181387&amp;do=diff</link>
-        <description>Ways To Sell Gold Jewelry For Salary
-
-We offer most expensive price in the current consumer and will offer you efficiently transaction with great customer program and transaction safety guaranteed. Are that you looking to make extra  or startup your own business model?</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=easy_chocolate_frosting_recipe&amp;rev=1365181319&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T17:01:59+00:00</dc:date>
-        <dc:creator>gwenda173</dc:creator>
-        <title>easy_chocolate_frosting_recipe - created</title>
-        <link>http://proa.me/wiki/doku.php?id=easy_chocolate_frosting_recipe&amp;rev=1365181319&amp;do=diff</link>
-        <description>Easy Chocolate Frosting Recipe
-
-There a variety of different varieties of chocolate currently. The challenge coins that are awarded for bravery cannot be with every officer as they are presented and those who have committed some daring acts.
-
-Any fresh fruit dipped into chocolate cookie recipe andes will require being eaten in the relatively short period of opportunity. There is a heater at the bottom in the device to make the chocolate warm. For laughs, you can even attach a zippered bag and in…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=platinum_jewellery_buyers_cashstop_gold&amp;rev=1365181145&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T16:59:05+00:00</dc:date>
-        <dc:creator>adina714</dc:creator>
-        <title>platinum_jewellery_buyers_cashstop_gold - created</title>
-        <link>http://proa.me/wiki/doku.php?id=platinum_jewellery_buyers_cashstop_gold&amp;rev=1365181145&amp;do=diff</link>
-        <description>Platinum Jewellery Buyers Cashstop Gold
-
-Based on the topic of the test results the provider is offered a best value for the gold item, in case that he accepts the offer afterward the check is sent that can him. They have discount valuable metal items that never sold.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=eating_delicious_chocolate_fondue&amp;rev=1365181126&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T16:58:46+00:00</dc:date>
-        <dc:creator>odis328</dc:creator>
-        <title>eating_delicious_chocolate_fondue - created</title>
-        <link>http://proa.me/wiki/doku.php?id=eating_delicious_chocolate_fondue&amp;rev=1365181126&amp;do=diff</link>
-        <description>Eating Delicious Chocolate Fondue
-
-A craving for chocolate or candy always crops up several point of time. You'll be paid with Xocai from the hybrid, binary compensation plan that mixes 3 different earning structures while 8 ways to make savings.
-
-Searching for good investment vehicles? When you count the feathers, it should total to seven. Just what the first thing you may do? Similarly the chocolate cookie recipe betty crocker are also offered to brave fire men.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=throw_an_edible_image_chocolate_party&amp;rev=1365181022&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T16:57:02+00:00</dc:date>
-        <dc:creator>carl292</dc:creator>
-        <title>throw_an_edible_image_chocolate_party - created</title>
-        <link>http://proa.me/wiki/doku.php?id=throw_an_edible_image_chocolate_party&amp;rev=1365181022&amp;do=diff</link>
-        <description>Throw An Edible Image Chocolate Party
-
-Days are to be lived at the fullest and things like chocolate candy and chocolate truffles become a success more beautiful or rather delectable. One can pass it down to the next gen as heritage.
-
-This is mainly because in such a situation, the chocolate cookie recipe chocolate chip cookie recipe can become grainy, watery and sometimes even lumpy. Do not be in a rush to search for the work done at the earliest and put the chocolates on high flame. Can easily…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=a_person_hold_or_sell_gold&amp;rev=1365180896&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T16:54:56+00:00</dc:date>
-        <dc:creator>demetria621</dc:creator>
-        <title>a_person_hold_or_sell_gold - created</title>
-        <link>http://proa.me/wiki/doku.php?id=a_person_hold_or_sell_gold&amp;rev=1365180896&amp;do=diff</link>
-        <description>A Person Hold Or Sell Gold
-
-Once ones transaction is completed and they don't feel you were coughed up the true value of your new gold, there is very trivial you can do. Hard cash for gold buyers can make some money big, quickly.
-
-Tend to be one of the most verified scrap gold buyers and share instant cash in UK. Knowing this would normally ensure that you are extended a fair market value which includes they promised in their advertising. At the recent meeting from the G20 in London, there had t…</description>
     </item>
 </rdf:RDF>

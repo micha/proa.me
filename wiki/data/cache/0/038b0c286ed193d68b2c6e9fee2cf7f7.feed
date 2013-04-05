@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-05T07:31:45+00:00</dc:date>
+       <dc:date>2013-04-05T08:58:12+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exotic_bamboo_platform_beds&amp;rev=1365152135&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exactly_what_do_detox_foot_baths_do&amp;rev=1365130245&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_friendship_bracelets_method&amp;rev=1365128641&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=associated_with_original_parts_before_buying_old_cars&amp;rev=1365127198&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=quick_cash_loans&amp;rev=1365124588&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=no_hassle_payday_loans_hassle_free_finance&amp;rev=1365123897&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=leading_personal_loans&amp;rev=1365123261&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=payday_loans_apply_now_and_blessed_to_have_a_perfect_loan&amp;rev=1365122540&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=exotic_bamboo_platform_beds&amp;rev=1365152135&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T08:55:35+00:00</dc:date>
+        <dc:creator>ariana68</dc:creator>
+        <title>exotic_bamboo_platform_beds - created</title>
+        <link>http://proa.me/wiki/doku.php?id=exotic_bamboo_platform_beds&amp;rev=1365152135&amp;do=diff</link>
+        <description>Exotic Bamboo Platform Beds
+
+If your dog is a small teacup or your cat is really a certain breed such as Siamese, you might use Thai prints, or Abyssinian cats might like African prints. The assembly is not complicated all pieces are included in your order.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=exactly_what_do_detox_foot_baths_do&amp;rev=1365130245&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-05T02:50:45+00:00</dc:date>
@@ -237,15 +247,5 @@ Anyone who is long-term unemployed or has never held down a real job have to get
 The non-public loans are actually given for the basis of your credit set. You also can use the unsecured loans for lots of payments such as credit card payments, bill payment, emergency cash and many more.
 
 Through all my research I found the best resource for new investors and even seasoned investors: Yahoo! As the business owner you may possibly possess a multitude of original visions as well as strategies all the same if missing some suitable business Going Listed here…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=payday_loans_apply_now_and_blessed_to_have_a_perfect_loan&amp;rev=1365122540&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T00:42:20+00:00</dc:date>
-        <dc:creator>doreen368</dc:creator>
-        <title>payday_loans_apply_now_and_blessed_to_have_a_perfect_loan - created</title>
-        <link>http://proa.me/wiki/doku.php?id=payday_loans_apply_now_and_blessed_to_have_a_perfect_loan&amp;rev=1365122540&amp;do=diff</link>
-        <description>Payday Loans: Apply Now And Blessed To Have A Perfect Loan
-
-However, can be important to understand that rejected loan applications have been rejected for a reason. But with a careful preparation, large unsecured bank loans can get the green floor lamp.</description>
     </item>
 </rdf:RDF>

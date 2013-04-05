@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-05T02:45:09+00:00</dc:date>
+       <dc:date>2013-04-05T03:45:04+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=exactly_what_do_detox_foot_baths_do&amp;rev=1365130245&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_friendship_bracelets_method&amp;rev=1365128641&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=associated_with_original_parts_before_buying_old_cars&amp;rev=1365127198&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=additionally_car_repairs_so_expensive&amp;rev=1365127051&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=no_hassle_payday_loans_hassle_free_finance&amp;rev=1365123897&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=leading_personal_loans&amp;rev=1365123261&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=payday_loans_apply_now_and_blessed_to_have_a_perfect_loan&amp;rev=1365122540&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=payday_personal_loans&amp;rev=1365121897&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=exactly_what_do_detox_foot_baths_do&amp;rev=1365130245&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T02:50:45+00:00</dc:date>
+        <dc:creator>archie67</dc:creator>
+        <title>exactly_what_do_detox_foot_baths_do - created</title>
+        <link>http://proa.me/wiki/doku.php?id=exactly_what_do_detox_foot_baths_do&amp;rev=1365130245&amp;do=diff</link>
+        <description>Detoxing on a routine basis will enhance your wellness and clean your body. The ionic Detox Foot Bath is the easiest and most effective method to cleanse, and you could do it from the conveniences of your own home!
+
+For a typical clawfoot tub refinishing project, you will most likely pay in the neighborhood of $ 500. If the bathtub has to be removed from your house in order to have substantial repair works, you can anticipate to spend additional contractor fees in order for this to take place. A…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=easy_friendship_bracelets_method&amp;rev=1365128641&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-05T02:24:01+00:00</dc:date>
@@ -237,17 +247,5 @@ Through all my research I found the best resource for new investors and even sea
         <description>Payday Loans: Apply Now And Blessed To Have A Perfect Loan
 
 However, can be important to understand that rejected loan applications have been rejected for a reason. But with a careful preparation, large unsecured bank loans can get the green floor lamp.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=payday_personal_loans&amp;rev=1365121897&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T00:31:37+00:00</dc:date>
-        <dc:creator>adina714</dc:creator>
-        <title>payday_personal_loans - created</title>
-        <link>http://proa.me/wiki/doku.php?id=payday_personal_loans&amp;rev=1365121897&amp;do=diff</link>
-        <description>Payday Personal Loans
-
-The lenders will deduct the cash advance loan including the interest directly inside the checking account. But the process does require clear information, with personal and financial goals produced in a Letter of Intent.
-
-If there are too many notings by lenders for exactly the same loan, it could work adversely for you. Consolidation refers to restructuring the array of existing click the up coming site in such technique as to lighten the financial load, making the debt m…</description>
     </item>
 </rdf:RDF>

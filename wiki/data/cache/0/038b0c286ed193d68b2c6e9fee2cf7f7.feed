@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-05T12:56:51+00:00</dc:date>
+       <dc:date>2013-04-05T13:51:42+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=be_the_best_that_you_can_be&amp;rev=1365169887&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_initial_decoration_of_bedroom_with_ottoman_beds&amp;rev=1365155897&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=transform_the_look_of_your_home_without_being_worried_of_expenses&amp;rev=1365155705&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=buying_adjustable_beds_for_home_use&amp;rev=1365155530&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=designer_dog_beds_related_articles&amp;rev=1365153292&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=bedroom_makeover_metal_headboards&amp;rev=1365153093&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=vastu_shastra_tips_for_a_sleeping_quarters&amp;rev=1365153052&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pet_beds_for_small_dogs&amp;rev=1365152905&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=be_the_best_that_you_can_be&amp;rev=1365169887&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-05T13:51:27+00:00</dc:date>
+        <dc:creator>gonzalo135</dc:creator>
+        <title>be_the_best_that_you_can_be - created</title>
+        <link>http://proa.me/wiki/doku.php?id=be_the_best_that_you_can_be&amp;rev=1365169887&amp;do=diff</link>
+        <description>The various tools needed for personal development are different for everybody and it can be difficult to find just the right advice to get started on on the path. Here you will find several tips that you can apply to your everyday life. Your trip to a new and improved you, begins today.There is certainly acceptable reason that peyronie s plaque has been voted to be the greatest product of year.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=the_initial_decoration_of_bedroom_with_ottoman_beds&amp;rev=1365155897&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-05T09:58:17+00:00</dc:date>
@@ -237,17 +245,5 @@ There are also bright cheery colors for terry-clothed beds. Actually when beds a
         <description>Vastu Shastra Tips For A Sleeping Quarters
 
 This provides a more unique design that creates a contemporary look for your bedroom by introducing new design elements in to your dcor that aren't static. Storage beds are ideal for the kid's room or for the guest place.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=pet_beds_for_small_dogs&amp;rev=1365152905&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T09:08:25+00:00</dc:date>
-        <dc:creator>domenic366</dc:creator>
-        <title>pet_beds_for_small_dogs - created</title>
-        <link>http://proa.me/wiki/doku.php?id=pet_beds_for_small_dogs&amp;rev=1365152905&amp;do=diff</link>
-        <description>Pet Beds For Small Dogs
-
-Once you're finished constructing the trundle bed frame, you can paint it. Both mattresses as well hand tufted with felt collars and have brass vents to extend air circulation throughout the kind of mattress.
-
-Gone forever are the days when a bed is just a largish rectangular object that sat inside the of your room and 2 choices of bed would be between a wooden frame or alternatively a storage divan. In addition to being the cheapest type of bed, bunk beds and biscuits a…</description>
     </item>
 </rdf:RDF>

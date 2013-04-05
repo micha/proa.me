@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-05T18:03:30+00:00</dc:date>
+       <dc:date>2013-04-05T18:47:34+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=chocolate_fundraising_is_a_sweet_deal&amp;rev=1365183371&amp;do=diff"/>

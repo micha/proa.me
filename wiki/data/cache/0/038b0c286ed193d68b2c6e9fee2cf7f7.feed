@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-06T06:32:05+00:00</dc:date>
+       <dc:date>2013-04-06T07:09:30+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=excellent_personalized_gift_ideas&amp;rev=1365232148&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=some_inspirational_christening_gifts_ideas&amp;rev=1365231878&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=xbox_360_console_3_red_light_error&amp;rev=1365217197&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=gears_of_war_cheats_for_xbox_360_console&amp;rev=1365216981&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=cheapest_xbox_360_price&amp;rev=1365216810&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=invention_of_the_wheel&amp;rev=1365214871&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=most_anticipated_xbox_360_games_of_2012&amp;rev=1365214724&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=characteristics_of_smart_racing_wheels&amp;rev=1365214675&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=console_reviews&amp;rev=1365214581&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=repaint_your_alloy_wheels_to_get_yourself_a_new_look&amp;rev=1365214470&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,26 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=excellent_personalized_gift_ideas&amp;rev=1365232148&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-06T07:09:08+00:00</dc:date>
+        <dc:creator>carl292</dc:creator>
+        <title>excellent_personalized_gift_ideas - created</title>
+        <link>http://proa.me/wiki/doku.php?id=excellent_personalized_gift_ideas&amp;rev=1365232148&amp;do=diff</link>
+        <description>Excellent Personalized Gift Ideas
+
+There are unique variations of baby beds available in the market, regardless of the baby bed used it is essential that the bedding properly match your bed. Of course, it is always recommended to choose a baby bed carefully.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=some_inspirational_christening_gifts_ideas&amp;rev=1365231878&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-06T07:04:38+00:00</dc:date>
+        <dc:creator>margit696</dc:creator>
+        <title>some_inspirational_christening_gifts_ideas - created</title>
+        <link>http://proa.me/wiki/doku.php?id=some_inspirational_christening_gifts_ideas&amp;rev=1365231878&amp;do=diff</link>
+        <description>Some Inspirational Christening Gifts Ideas
+
+Baby bedding, however, are a great choice of gift for infants. These are beautiful and very thoughtful presents that can either be used as the child grows older, or may be presented from a box that is as a nice as the set it procures.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=xbox_360_console_3_red_light_error&amp;rev=1365217197&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-06T02:59:57+00:00</dc:date>
@@ -239,27 +259,5 @@ At 15 ms monitor is fine if one were to type on it or surf the net. With feature
         <description>Characteristics Of Smart Racing Wheels
 
 Allow the rust to soak in the oil for 10 to 30 mins then scrub the rust stains away. Furthermore, the stair-climbing alternative for wheelchairs is totally beneficial, specially on those emergency situations when climbing stairs.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=console_reviews&amp;rev=1365214581&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-06T02:16:21+00:00</dc:date>
-        <dc:creator>alida456</dc:creator>
-        <title>console_reviews - created</title>
-        <link>http://proa.me/wiki/doku.php?id=console_reviews&amp;rev=1365214581&amp;do=diff</link>
-        <description>Console Reviews
-
-It adopts real-life motions as for anybody who is in the real world. Here, the sensor's head-tracking feature really comes into to play, allowing the subject to move freely in a general area without necessarily leaving the frame.
-
-About author :- Compare Game Consoles Prices is best site for game consoles in UK. This means that your purchase of your old games will stop being wasted. All in all, the Sony PS3 controllers Slim is sure to bring hours of enjoyment to the whole of the…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=repaint_your_alloy_wheels_to_get_yourself_a_new_look&amp;rev=1365214470&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-06T02:14:30+00:00</dc:date>
-        <dc:creator>anjanette341</dc:creator>
-        <title>repaint_your_alloy_wheels_to_get_yourself_a_new_look - created</title>
-        <link>http://proa.me/wiki/doku.php?id=repaint_your_alloy_wheels_to_get_yourself_a_new_look&amp;rev=1365214470&amp;do=diff</link>
-        <description>Repaint Your Alloy Wheels To Get Yourself A New Look!
-
-Great aftermarket VW rims are as safe as factory wheels, but offer more versatility. Custom rims are perhaps the easiest and most cost-effective way giving your ride a custom look, even without doing anything .</description>
     </item>
 </rdf:RDF>

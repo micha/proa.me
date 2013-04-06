@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-06T00:13:14+00:00</dc:date>
+       <dc:date>2013-04-06T01:57:17+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=claw_foot_bath_tubs&amp;rev=1365207724&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=gold&amp;rev=1365198392&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=author_we_love_skylanders&amp;rev=1365198204&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=print_skylanders_ninjini_the_awesome_magic_giant&amp;rev=1365198037&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=dog_kennels_for_sale_with_automobile_delivery_charges&amp;rev=1365195867&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=toy_fair_2012_skylanders_giants_hands&amp;rev=1365195765&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=women_risk_for_std_s&amp;rev=1365191486&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=in_order_to_get_tested_for_stds&amp;rev=1365191286&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=claw_foot_bath_tubs&amp;rev=1365207724&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-06T00:22:04+00:00</dc:date>
+        <dc:creator>todd786</dc:creator>
+        <title>claw_foot_bath_tubs - created</title>
+        <link>http://proa.me/wiki/doku.php?id=claw_foot_bath_tubs&amp;rev=1365207724&amp;do=diff</link>
+        <description>To totally take advantage of the item, the BioEnergiser detox foot spa is recommended to be utilized at least two times a week and for 30 mins each session. A total of 30 treatments will suffice to achieve preferred results.
+
+This is the spot where you must switch over the Detox foot baths. Here are some locations where you can choose these foot baths and appreciate the healthy living.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=gold&amp;rev=1365198392&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-05T21:46:32+00:00</dc:date>
@@ -235,17 +245,5 @@ Should make it source of online video games is Pogo6. The spine story to skyland
 Barely walk in, no appointment ought to be required. Gonorrhea is one of the almost common STDs and a handful of companies have an at-home pee test that you can transfer away for results.
 
 These symptoms will appear reduced after a about a one particular week to a month, but fl citrus will stay dormant for years, and later making it challenging for the individual to fight trojans. One talk will take place at 11:15am at the Homestead campus out of Miami Dade College. Stop by…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=in_order_to_get_tested_for_stds&amp;rev=1365191286&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-05T19:48:06+00:00</dc:date>
-        <dc:creator>vina615</dc:creator>
-        <title>in_order_to_get_tested_for_stds - created</title>
-        <link>http://proa.me/wiki/doku.php?id=in_order_to_get_tested_for_stds&amp;rev=1365191286&amp;do=diff</link>
-        <description>In Order To Get Tested For Stds
-
-You can also inquire in case the person has skilled any mysterious physiological indicators. Due to the fact the new HPV vaccines, all people are aware of HPV and how certain strains may cause cervical cancer.
-
-Speaker, it comes as being a surprise to most Americans a lot more about that the largest abortion home in America is also biggest bank recipient of federal funding listed below Title X. With this test, the identity and health of the pateint is maintained …</description>
     </item>
 </rdf:RDF>

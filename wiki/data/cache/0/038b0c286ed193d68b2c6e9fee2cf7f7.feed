@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-07T14:02:54+00:00</dc:date>
+       <dc:date>2013-04-07T14:52:40+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=webcam_work_secrets&amp;rev=1365336073&amp;do=diff"/>

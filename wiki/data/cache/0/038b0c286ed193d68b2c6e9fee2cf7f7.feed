@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-08T10:04:52+00:00</dc:date>
+       <dc:date>2013-04-08T11:02:33+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advice_on_how_your_can_enhance_in_your_personal_development&amp;rev=1365416058&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=body_toning_books&amp;rev=1365410802&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ladder_shelves_to_add_a_creative_touch_to_your_home&amp;rev=1365410650&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=moveable_barbecue_grills_handy_for_taking_to_the_beach&amp;rev=1365410518&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=billiard_table_dimensions_and_specifications&amp;rev=1365403003&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=pools_r_us_has_a_unique_pool_info&amp;rev=1365402643&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=selecting_the_right_pool_liner_for_your_pool_area&amp;rev=1365402468&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=diy_swimming_pool_kits&amp;rev=1365402294&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=advice_on_how_your_can_enhance_in_your_personal_development&amp;rev=1365416058&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-08T10:14:18+00:00</dc:date>
+        <dc:creator>meta266</dc:creator>
+        <title>advice_on_how_your_can_enhance_in_your_personal_development - created</title>
+        <link>http://proa.me/wiki/doku.php?id=advice_on_how_your_can_enhance_in_your_personal_development&amp;rev=1365416058&amp;do=diff</link>
+        <description>For a few, choosing the life span they want to live is something that  seems most certainly only a possibility inside the pages of a tale  book. Cinderella will be, of course , fiction. Life choices, however , are reality. Regardless of whether we are aware of it or not, our options  determine outcome. There seemed to be acceptable reason that &lt;a  href=” &lt;http://duranbook.com/index.php?p=blogs/viewstory/262401&gt;”&gt;sizegenetics&lt;/a&gt; is actually selected as the best  remedy of the season.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=body_toning_books&amp;rev=1365410802&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-08T08:46:42+00:00</dc:date>
@@ -235,15 +243,5 @@ Even though you may realise it is the leak, might be another thing. May find thr
         <description>Selecting The Right Pool Liner For Your Pool Area
 
 To find out, have a large pot then you should grow it full of normal as well as use it the first pool action. A swimming pool is a playground area where individuals, especially kids can play in the pool water and have fun.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=diy_swimming_pool_kits&amp;rev=1365402294&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-08T06:24:54+00:00</dc:date>
-        <dc:creator>stormy545</dc:creator>
-        <title>diy_swimming_pool_kits - created</title>
-        <link>http://proa.me/wiki/doku.php?id=diy_swimming_pool_kits&amp;rev=1365402294&amp;do=diff</link>
-        <description>Diy Swimming Pool Kits
-
-Being transplanted Bostonian now living in Tampa, I am clueless in the knowledge of maintaining a swimming pool area. The very best things about living here in Tampa are the weather, and achieving our own solar-heated swimming beach.</description>
     </item>
 </rdf:RDF>

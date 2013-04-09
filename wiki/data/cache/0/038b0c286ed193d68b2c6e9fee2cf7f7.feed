@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-08T22:51:46+00:00</dc:date>
+       <dc:date>2013-04-08T23:49:58+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=hiring_an_iphone_application_developer_for_use_in_your_project&amp;rev=1365461570&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=new_functions_of_iphone_5&amp;rev=1365461393&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=i_phone_advantages_and_disadvantages&amp;rev=1365461066&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_iphone_4_as_a_games_console&amp;rev=1365460869&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=not_enough_fm_radio_for_iphone_very_best_known_only_to_apple&amp;rev=1365436350&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ways_to_manually_calculate_scrap_gold_prices&amp;rev=1365436186&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=iphone_data_recovery_the_disaster_recovery_is_possible&amp;rev=1365436168&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=gold_bars_investment&amp;rev=1365435991&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=hiring_an_iphone_application_developer_for_use_in_your_project&amp;rev=1365461570&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-08T22:52:50+00:00</dc:date>
+        <dc:creator>marlena978</dc:creator>
+        <title>hiring_an_iphone_application_developer_for_use_in_your_project - created</title>
+        <link>http://proa.me/wiki/doku.php?id=hiring_an_iphone_application_developer_for_use_in_your_project&amp;rev=1365461570&amp;do=diff</link>
+        <description>Hiring An Iphone Application Developer For Use In Your Project
+
+Secondly, such releasing services must guarantee that all services and uses of the iPhone are going function with. So to attracts more sales for business is by creating awareness about the benefits of business product.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=new_functions_of_iphone_5&amp;rev=1365461393&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-08T22:49:53+00:00</dc:date>
@@ -241,15 +251,5 @@ But seriously whats the best technique grind money? If you have found someone a 
         <description>Iphone Data Recovery: The Disaster Recovery Is Possible
 
 Once we continue our debate With exactly why is Instagram For Android much When compared with New iphone 4, it crucial to possess a look in the functions. Choosing not to update at all can make a host of issues later for.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=gold_bars_investment&amp;rev=1365435991&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-08T15:46:31+00:00</dc:date>
-        <dc:creator>monty455</dc:creator>
-        <title>gold_bars_investment - created</title>
-        <link>http://proa.me/wiki/doku.php?id=gold_bars_investment&amp;rev=1365435991&amp;do=diff</link>
-        <description>Gold Bars Investment
-
-Platinum does not tarnish or fade easily because it is usually 95% pure and is resistant against corrosion. Become on the lookout for fake coins, with coins appraised by the silver coin expert avoiding large differences in value tag.</description>
     </item>
 </rdf:RDF>

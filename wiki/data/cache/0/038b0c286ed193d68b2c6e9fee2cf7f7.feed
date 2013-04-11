@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-11T00:54:56+00:00</dc:date>
+       <dc:date>2013-04-11T01:46:27+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=buying_apple_refurbished_and_used_mac_laptops_is_a_wise_choice&amp;rev=1365643262&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=email_hosting_service_connected_articles&amp;rev=1365637473&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=seo_pakistan_related_articles&amp;rev=1365557791&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=be_an_seo_expert_and_earn_a_good_income&amp;rev=1365557462&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=variations_of_proposing_and_choosing_a_ring_for_engagement&amp;rev=1365548418&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_particular_ideal_diamond_engagement_ring_jeweler&amp;rev=1365548203&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_4_c_s_and_cheap_engagement_rings&amp;rev=1365547994&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=a_person_pick_your_own_engagement_ring&amp;rev=1365547784&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,14 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=buying_apple_refurbished_and_used_mac_laptops_is_a_wise_choice&amp;rev=1365643262&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-11T01:21:02+00:00</dc:date>
+        <dc:creator>ha563</dc:creator>
+        <title>buying_apple_refurbished_and_used_mac_laptops_is_a_wise_choice - created</title>
+        <link>http://proa.me/wiki/doku.php?id=buying_apple_refurbished_and_used_mac_laptops_is_a_wise_choice&amp;rev=1365643262&amp;do=diff</link>
+        <description>Students can find used laptops from other candidates, or local computer stores to offer discounts to students. There are many companies in “college towns” which gives students the opportunity to exchange goods for resale.&lt;br /&gt;&lt;br /&gt;In order to copy information from one DVD disc to another, DVD burner hardware is necessary. The manufacture and selling of disks brought this ability into existence and has now developed an interface that is user-friendly. Producing movies and TV shows in mass quant…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=email_hosting_service_connected_articles&amp;rev=1365637473&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-10T23:44:33+00:00</dc:date>
@@ -235,17 +243,5 @@ By pairing the emerald green with another color, the result can surely spectacul
 Of program it will viewed as fortunate bride certainly need to her fianc?? Diamonds grader helps make a watchful accounting of the blemishes and inclusions of the diamond getting a clarity grading method.
 
 Lawn to finding the best Sell gold online, we all know that everyone as essential as the marriage proposal, plus it's likewise as critical as your wedding reception itself. Whether you choose the diamond, gold, platinum or even the silver ring, you should …</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=a_person_pick_your_own_engagement_ring&amp;rev=1365547784&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-09T22:49:44+00:00</dc:date>
-        <dc:creator>lyla459</dc:creator>
-        <title>a_person_pick_your_own_engagement_ring - created</title>
-        <link>http://proa.me/wiki/doku.php?id=a_person_pick_your_own_engagement_ring&amp;rev=1365547784&amp;do=diff</link>
-        <description>A Person Pick Your Own Engagement Ring
-
-Well-liked in the world of colored Diamonds, Argyle mine in Australia is one of the main sources of rare pink and natural red diamonds in the earth. And so go on and have some fun comparing prices too!
-
-Therefore start working on enjoy yourself shopping around to boot! The metal consideration is more n easy. If youre looking to mix things up, the marquise, pear and heart-shaped stones add a twist towards normal diamond Diamonds. Hence it is important to be…</description>
     </item>
 </rdf:RDF>

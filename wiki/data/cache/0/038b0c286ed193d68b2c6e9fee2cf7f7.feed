@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-10T23:49:59+00:00</dc:date>
+       <dc:date>2013-04-11T00:54:56+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=email_hosting_service_connected_articles&amp;rev=1365637473&amp;do=diff"/>

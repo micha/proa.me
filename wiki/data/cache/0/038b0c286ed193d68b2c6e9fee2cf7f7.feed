@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-11T21:48:37+00:00</dc:date>
+       <dc:date>2013-04-11T22:53:20+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=are_aware_of_different_types_of_cvs_and_your_importance&amp;rev=1365705523&amp;do=diff"/>

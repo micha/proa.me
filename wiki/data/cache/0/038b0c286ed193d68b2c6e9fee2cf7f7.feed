@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-12T08:54:14+00:00</dc:date>
+       <dc:date>2013-04-12T09:55:02+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=skate_2009_t200_prep_page&amp;rev=1365756601&amp;do=diff"/>

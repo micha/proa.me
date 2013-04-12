@@ -11,9 +11,14 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-12T06:57:38+00:00</dc:date>
+       <dc:date>2013-04-12T07:59:00+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fingerprint_attendance_related_articles&amp;rev=1365751411&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=facial_biometrics_access_control_related_articles&amp;rev=1365751191&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=biometrics_clinical_trials_related_articles&amp;rev=1365750842&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=biometric_authentication_for_enhanced_security&amp;rev=1365750473&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=are_biometric_access_control_system_benefit_the_price&amp;rev=1365749874&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_best_way_to_improve_credit_score_after_bankruptcy&amp;rev=1365749755&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=government_credit_card_debt_relief&amp;rev=1365749443&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_accept_credit_cards&amp;rev=1365748770&amp;do=diff"/>
@@ -29,11 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=free_cv_templates_related_articles&amp;rev=1365705374&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_right_way_to_present_volunteer_information_on_your_cv&amp;rev=1365705139&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_way_to_present_volunteer_information_on_your_cv&amp;rev=1365704993&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=ten_important_guidelines_on_how_compose_a_cv&amp;rev=1365704649&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=an_operating_compliance_cv_template&amp;rev=1365704277&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=cv_template_articles&amp;rev=1365704272&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=thoughts_for_creating_the_best_cv&amp;rev=1365704019&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=use_cv_templates_to_guide_the_writing_of_a_perfect_cv&amp;rev=1365703942&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,56 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=fingerprint_attendance_related_articles&amp;rev=1365751411&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-12T07:23:31+00:00</dc:date>
+        <dc:creator>enriqueta314</dc:creator>
+        <title>fingerprint_attendance_related_articles - created</title>
+        <link>http://proa.me/wiki/doku.php?id=fingerprint_attendance_related_articles&amp;rev=1365751411&amp;do=diff</link>
+        <description>Fingerprint Attendance Related Articles
+
+The Samsung D860 digital camera sticks to cooking thai food with no frills, and is really a great camera for those of which are starting out as amateur photography. Biometrics is emerging as a demand for security industry.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=facial_biometrics_access_control_related_articles&amp;rev=1365751191&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-12T07:19:51+00:00</dc:date>
+        <dc:creator>enid463</dc:creator>
+        <title>facial_biometrics_access_control_related_articles - created</title>
+        <link>http://proa.me/wiki/doku.php?id=facial_biometrics_access_control_related_articles&amp;rev=1365751191&amp;do=diff</link>
+        <description>Facial Biometrics Access Control Related Articles
+
+The biometric test is only for applicants who are 14 yrs or older. biometrics for Defence 2008 describes the applications of defence markets as well as the relevant markets, aligned with specific data and independent opinion.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=biometrics_clinical_trials_related_articles&amp;rev=1365750842&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-12T07:14:02+00:00</dc:date>
+        <dc:creator>darby365</dc:creator>
+        <title>biometrics_clinical_trials_related_articles - created</title>
+        <link>http://proa.me/wiki/doku.php?id=biometrics_clinical_trials_related_articles&amp;rev=1365750842&amp;do=diff</link>
+        <description>Biometrics Clinical Trials Related Articles
+
+In case, they find it always be unsatisfactory, a RFE (Request for evidence) notice will be fed to the applicant. The a biometric application that collects attendance information through fingerprint and retina scan.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=biometric_authentication_for_enhanced_security&amp;rev=1365750473&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-12T07:07:53+00:00</dc:date>
+        <dc:creator>rusty443</dc:creator>
+        <title>biometric_authentication_for_enhanced_security - created</title>
+        <link>http://proa.me/wiki/doku.php?id=biometric_authentication_for_enhanced_security&amp;rev=1365750473&amp;do=diff</link>
+        <description>Biometric Authentication For Enhanced Security
+
+Electronic Door Lock - This is really a keyless type of lock. An 8 megapixel digital camera is the Nokia E7 a competitive cameraphone in an age when each release seems to offer more megapixels and features than the final.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=are_biometric_access_control_system_benefit_the_price&amp;rev=1365749874&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-12T06:57:54+00:00</dc:date>
+        <dc:creator>graig54</dc:creator>
+        <title>are_biometric_access_control_system_benefit_the_price - created</title>
+        <link>http://proa.me/wiki/doku.php?id=are_biometric_access_control_system_benefit_the_price&amp;rev=1365749874&amp;do=diff</link>
+        <description>Are Biometric Access Control System Benefit The Price
+
+biometrics is a technology that is gaining traction once again as the trusted identification resource and a trustworthy tool for retail businesses look at. Digital door locks are now readily the trendy homeowner.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=the_best_way_to_improve_credit_score_after_bankruptcy&amp;rev=1365749755&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-12T06:55:55+00:00</dc:date>
@@ -193,59 +243,5 @@ Posting flyers at colleges inside addition to high schools (for part-time/summer
         <description>The Way To Present Volunteer Information On Your Cv
 
 Don't add too many images, and always make sure visuals elements are relevant and increase the content you curriculum vitae - not taking away from information technology. What if you hired resume writing services that may help you?</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=ten_important_guidelines_on_how_compose_a_cv&amp;rev=1365704649&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-11T18:24:09+00:00</dc:date>
-        <dc:creator>babara889</dc:creator>
-        <title>ten_important_guidelines_on_how_compose_a_cv - created</title>
-        <link>http://proa.me/wiki/doku.php?id=ten_important_guidelines_on_how_compose_a_cv&amp;rev=1365704649&amp;do=diff</link>
-        <description>Ten Important Guidelines On How Compose A Cv
-
-A particular CV plays a highly significant role in your search for job, by attracting potential employers, recruiters and agencies to phone you in for an interview. Signifies it contains only the information relevant to the job.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=an_operating_compliance_cv_template&amp;rev=1365704277&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-11T18:17:57+00:00</dc:date>
-        <dc:creator>roni711</dc:creator>
-        <title>an_operating_compliance_cv_template - created</title>
-        <link>http://proa.me/wiki/doku.php?id=an_operating_compliance_cv_template&amp;rev=1365704277&amp;do=diff</link>
-        <description>An Operating Compliance Cv Template
-
-Past managerial or supervisory positions can really help you get the job simultaneously. This poll also reported that 17 % could be put off an applicant if the CV was poorly laid out and another 16 percent said that CVs had been too long were not loved.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=cv_template_articles&amp;rev=1365704272&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-11T18:17:52+00:00</dc:date>
-        <dc:creator>gwenda173</dc:creator>
-        <title>cv_template_articles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=cv_template_articles&amp;rev=1365704272&amp;do=diff</link>
-        <description>Cv Template Articles
-
-It's unrealistic believe about that you'll be able to find out every concept in med school on your own, so you shouldn't be too proud to ask for help. Use proper punctuation and avoid spelling and grammar mistakes.
-
-Need to highlight your daily routine and activities you love to appreciate from morning to night. Image format CV tempalte from a Google Image Search provide you with some tip of determined by of other people's CV pattern. You should to note that a builder is a …</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=thoughts_for_creating_the_best_cv&amp;rev=1365704019&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-11T18:13:39+00:00</dc:date>
-        <dc:creator>kaylee553</dc:creator>
-        <title>thoughts_for_creating_the_best_cv - created</title>
-        <link>http://proa.me/wiki/doku.php?id=thoughts_for_creating_the_best_cv&amp;rev=1365704019&amp;do=diff</link>
-        <description>Thoughts For Creating The Best Cv
-
-Moreover, other special skills and talents will make you unique and surpass the standards qualifications. Few truly important things are easy, but here are six keys to aid you write an interview-generating resume.
-
-Younger graduates or college pass-outs become be targeted when they is the starting their careers soon and would require well-written resumes. That you solved a shipping problem probably doesn't matter at a company with limited transportation issues.…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=use_cv_templates_to_guide_the_writing_of_a_perfect_cv&amp;rev=1365703942&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-11T18:12:22+00:00</dc:date>
-        <dc:creator>odis328</dc:creator>
-        <title>use_cv_templates_to_guide_the_writing_of_a_perfect_cv - created</title>
-        <link>http://proa.me/wiki/doku.php?id=use_cv_templates_to_guide_the_writing_of_a_perfect_cv&amp;rev=1365703942&amp;do=diff</link>
-        <description>Use Cv Templates To Guide The Writing Of A Perfect Cv
-
-Once your CV is shortlisted, the first thing that employers do is provide a call. So just don't download a totally free CV off the Internet and forward it along to your employer after changing the brand.</description>
     </item>
 </rdf:RDF>

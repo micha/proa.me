@@ -1,0 +1,202 @@
+
+In the beginning, I got a GPS. It wasn't waterproof, and I didn't have a way to transfer its data to a computer, so I mostly used it to tell me that I was about where I thought I was; I'd only turn it on once an hour or so. Useful, but not earthshaking. It would tell me how fast I was going, too, and I almost ran into a tree stump on Lake Lewisville when I tried to take a picture of the stupid thing showing 11 knots and didn't see the tree fast approaching. "There has got," I thought, "to be a better way to do this than this."
+
+  
+Well, of course there is. A modern GPS which you leave on all the time you're sailing will happily download the data to a spreadsheet for you. Isn't that nice? I think it's nice. My friend Laurent has such a GPS, and he went sailing with me, and he sent me the files. They looked like this, when I opened them:
+
+  
+{{:kevin:skate:original.jpg?500}}
+
+  
+So, clearly this is not the most useful way to look at the data. For one thing, the headings are off. It's easy to fix that, and to delete columns you don't need. If you're interested in the boat's performance what you want is the course and the speed. Be careful, though! Look at column M. That's speed, right? Sure. In mph, fine. But it's rounded to the nearest integer. Whey you're going 4 mph and you're possibly off by as much as .5 mph, that's a .5/4 = .125 = 12.5% error! You don't want the speeds rounded to the nearest mph. What to do?
+
+  
+First, I don't use the lat and long data in the first few columns. No doubt one could, and other applications do, but I don't when I'm just trying to chart something about boat performance. So get rid of those, and get rid of the altitude data, too, you don't need that. Highlight the columns of data and delete them, and label the remaining data columns correctly. You should now have this:
+
+  
+{{:kevin:skate:gps00000.jpg?500}}
+
+  
+Ok, that's nice. But the data is in a bad form to try to use it now. Column C is the time of each leg, but it's in HH:MM:SS format, that's no good. You want it just as an integer number of seconds. And column F is the course, but it has a ~ or something after each entry, that will also mess up trying to plot the data. So we have to fix that. First highlight column C, and pick the "Data" menu, then pick "Text to Columns". Leave the first page checked as "Delimited", go to page 2, check the box next to "space", and next to "other", then next to "other" put ":", so you have this:
+
+  
+{{:kevin:skate:gps00001.jpg?500}}
+
+  
+Click "Next", go to page 3. Pick colum 1, column 2 and column 4, and for each click the "Do not import" button. So you have this:
+
+  
+{{:kevin:skate:gps00002.jpg?500}}
+
+  
+Note that only column 3 will be imported, that's the seconds. That's what we want. Click "Finish", and you get this:
+
+  
+{{:kevin:skate:gps00003.jpg?500}}
+
+  
+Disaster! The data is all gone!
+
+  
+No it's not. The cells are still in HH:MM:SS format. You have to change them. Leave them highlighted, and select "Format", then "Cells", then from the menu select "General". Then you should see only the seconds:
+
+  
+{{:kevin:skate:gps00004.jpg?500}}
+
+  
+Now to get rid of the ~ thing after the data, select column F, do "Text to Columns" again, this time copy the little ~ thing, paste it in as a seperator on page 2, and don't import it if it shows up as a column. So you end up with this:
+
+  
+{{:kevin:skate:gps00005.jpg?500}}
+
+  
+Ok, fine. You have the data in a reasonable form. Now you can make a graph; for example, an easy graph to make is just speed on one axis and course on the other. To do that here, highlight columns D and F, then click on the graph icon at the top, then select "X Y (scatter)". then "Finish". You should get something like this:
+
+  
+{{:kevin:skate:gps00006.jpg?500}}
+
+  
+Hey! A graph! Neat.
+
+  
+Ok, but it has some problems. One thing is what I noted at the beginning, that the speeds are all integers, that's not good. The second thing is that it's speed vs true course, when what's much more useful is speed vs course relative to the wind.
+
+  
+The first thing is easiest to fix. Make a column called "Distance (miles)", one called "Time (hours)", and one called "Speed (calculated) (mph)".
+
+  
+Now, under "Distance (miles)", you want to divide the distance in feet by 5280. Thus:
+
+  
+{{:kevin:skate:gps00007.jpg?500}}
+
+  
+(the = entered first tells Excel you're entering a formula). Hit "enter", and go to the next cell. Under "Time (hours)", I would enter "=c11/3600", since there are 3600 seconds in an hour. Now under "Speed", I would enter "= h11/i11", and then enter. You should see this:
+
+  
+{{:kevin:skate:gps00008.jpg?500}}
+
+  
+Why look! We have a value for the speed that's not rounded off to the nearest integer. Neato.
+
+  
+Now highlight all 3 of those columns all the way down, and go to Edit -&gt; Fill -&gt; Down, or hit Ctrl-D. You should get:
+
+  
+{{:kevin:skate:gps00009.jpg?500}}
+
+  
+Now if you copy the course column to column K, highlight J and K, and make a graph, you get this:
+
+  
+{{:kevin:skate:gps0000A.jpg?500}}
+
+  
+Good, that's better, I guess. The speeds are not all rounded to the integer, you can see a bit better how they're actually distributed.
+
+  
+What we really want, though, is a polar, like this:
+
+  
+{{:kevin:skate:polar000.jpg?500}}
+
+  
+Neato, huh? It's useful to make a graph to predict how your boat will perform in various winds, as the above graph does for different wind strengths. I would be happy as a first step to just plot my data points in polar form like this, with windward at the top, and each point representing a speed at that heading.
+
+  
+To do that I need to take several steps:
+
+  
+Calculate the course off the wind, subtracting from the wind direction the day I was sailing
+
+  
+Convert the course off the wind to radians, since that's what the spreadsheet likes to use for the sin and cos functions.
+
+  
+Rotate the course off the wind so the polar will face up (otherwise, 0 radians or degrees would be to the right. It's usual to have 0 degrees off the wind at the top of the polar).
+
+  
+Finally, convert our "polar form" of speed and direction off the wind to a "rectangular form" point the spreadsheet will graph.
+
+  
+The columns I already have are:
+
+  
+Leg course (true)
+
+  
+leg length (miles)
+
+  
+leg time (hours)
+
+  
+leg speed (mph calculated)
+
+  
+The equations for the rest are:
+
+  
+Course off wind:
+
+ 
+=140-[leg course true]
+
+  
+since my wind direction was 140
+
+  
+Course off wind in radians:
+
+ 
+=[Course off wind]*3.14/180
+
+  
+Course off wind w wind direction up:
+
+ 
+=[Course off wind in radians]+3.14/2
+
+  
+x axis:
+
+ 
+=[leg speed (mph calculated)]*COS(Course off wind w wind direction up)
+
+  
+y axis:
+
+ 
+=[leg speed (mph calculated)]*SIN(Course off wind w wind direction up)
+
+  
+Then highlight the last two columns and make a scatter plot. You should end up with something like this:
+
+  
+{{:kevin:skate:gps0000B.jpg?500}}
+
+  
+What the heck? Huh. It would appear that the GPS is under the impression I was going something like 60 knots at various times while sailing. Must have been windy. And because of those outliers, the rest of the graph is compressed and can't be seen.
+
+  
+What to do? Get rid of them, they're mistakes. Select the Data tab at the top of the page, and sort by your "leg speed (mph true)" column. Then go to the end and find where the thing is losing its mind; there will be a dozen or so entries with speeds that are clearly wrong. Highlight all those and delete all those rows of data.
+
+  
+Now do it again; select the two X-axis and Y-axis columns and make a graph (there's no need to re-order the data). Now it should look like this:
+
+  
+{{:kevin:skate:gps0000C.jpg?500}}
+
+  
+That, I must confess, is good enough for me. It can be read as a polar. It gives a pretty good picture of the sailing trip, if you look carefully. That big leg sticking out to the lower left was a very fast half day of broad reaching in big wind and flat water; there's really no way to reconcile that to the rest of the data, it was in different conditions. In constructing a standard polar set of curves such as the ones above I'd throw it out and try to construct a curve that had the same wind and minimal wave conditions for all points of sail. But I think the above technique of just graphing all the points has something to be said for it too; it gives you a good look at that particular trip. This is a collection of all the points from five days of sailing, but I've also made similar polars for each day.
+
+  
+Of course, once you've done this once you can paste your new GPS data into it and have a new graph for each day in no time.
+
+  
+Hope this is helpful, and please email me or leave a comment if something is unclear.
+
+  
+Kevin O'Neill
+
+ 

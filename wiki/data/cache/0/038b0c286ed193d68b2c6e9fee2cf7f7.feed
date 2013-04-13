@@ -11,9 +11,15 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-13T01:57:13+00:00</dc:date>
+       <dc:date>2013-04-13T02:24:48+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=plustek_scanners_related_articles&amp;rev=1365819887&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=3d_scanners_related_articles&amp;rev=1365819494&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=scanner_shopping_guide&amp;rev=1365819291&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=canon_dr_scanners_related_articles&amp;rev=1365819080&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=selling_tech_gadgets_how_to_sell_film_scanners&amp;rev=1365818831&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=selecting_a_document_manager_scanner&amp;rev=1365818389&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_pos_barcode_scanners_can_remodel_your_business_efficiency&amp;rev=1365818175&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=high_volume_scanners_related_articles&amp;rev=1365818054&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_an_id_scanner_works&amp;rev=1365817797&amp;do=diff"/>
@@ -28,12 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=erection_problems_in_diabetes&amp;rev=1365781426&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=male_impotence_causes_related_articles&amp;rev=1365781227&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=treating_erectile_dysfunction_naturally&amp;rev=1365780995&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=impotence_is_a_reality&amp;rev=1365780777&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=accutane_side_effects_for_men&amp;rev=1365780647&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=best_erectile_dysfunction_remedies&amp;rev=1365780359&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=black_hair_care_products_online_related_articles&amp;rev=1365778606&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=good_hair_care_for_mature_women&amp;rev=1365778398&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=purchase_hair_care_products_online&amp;rev=1365778210&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,68 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=plustek_scanners_related_articles&amp;rev=1365819887&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T02:24:47+00:00</dc:date>
+        <dc:creator>tenisha356</dc:creator>
+        <title>plustek_scanners_related_articles - created</title>
+        <link>http://proa.me/wiki/doku.php?id=plustek_scanners_related_articles&amp;rev=1365819887&amp;do=diff</link>
+        <description>Plustek Scanners Related Articles
+
+In the article, I will inform you vehicle to separate excellent driver scanners from the incompetent ones. New surveillance systems, employing complex algorithms, allows operators of CCTV to zero in on suspicious behaviour.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=3d_scanners_related_articles&amp;rev=1365819494&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T02:18:14+00:00</dc:date>
+        <dc:creator>kathryn719</dc:creator>
+        <title>3d_scanners_related_articles - created</title>
+        <link>http://proa.me/wiki/doku.php?id=3d_scanners_related_articles&amp;rev=1365819494&amp;do=diff</link>
+        <description>3D Scanners Related Articles
+
+These scanners make scanning and exchanging of documents a easy task for all offices. offer advanced features like customizable sound alarms for underage IDs and configurable age thresholds for unique scanning applications.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=scanner_shopping_guide&amp;rev=1365819291&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T02:14:51+00:00</dc:date>
+        <dc:creator>tessa88</dc:creator>
+        <title>scanner_shopping_guide - created</title>
+        <link>http://proa.me/wiki/doku.php?id=scanner_shopping_guide&amp;rev=1365819291&amp;do=diff</link>
+        <description>Scanner Shopping Guide
+
+The clarity of light and also the quality of the lens will impact any irregularities in photographs. In order to improve the benefits of an ID checker, the ID checker end up being used in every transaction.
+
+It exposes the diseases and other physical ailments which one may not want to reveal. An accuracy rate of 98.8% was recorded in a recent study of biometric face recognition system using 2D and 3D images. Some from the questions that you should ask would include the ki…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=canon_dr_scanners_related_articles&amp;rev=1365819080&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T02:11:20+00:00</dc:date>
+        <dc:creator>nicky769</dc:creator>
+        <title>canon_dr_scanners_related_articles - created</title>
+        <link>http://proa.me/wiki/doku.php?id=canon_dr_scanners_related_articles&amp;rev=1365819080&amp;do=diff</link>
+        <description>Canon Dr Scanners Related Articles
+
+The image their machine produces is only an outline of the body and operates faster than the Rapiscan model. On the inside mean time, we hope that you simply have found this breakdown of pen scanner types informative.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=selling_tech_gadgets_how_to_sell_film_scanners&amp;rev=1365818831&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T02:07:11+00:00</dc:date>
+        <dc:creator>renae996</dc:creator>
+        <title>selling_tech_gadgets_how_to_sell_film_scanners - created</title>
+        <link>http://proa.me/wiki/doku.php?id=selling_tech_gadgets_how_to_sell_film_scanners&amp;rev=1365818831&amp;do=diff</link>
+        <description>Selling Tech Gadgets: How To Sell Film Scanners
+
+It is going to you enter the words “greatest driver updater” and lookup with Google, you will get the benefits. Mode of sampling of this a part of the body is also complex because it must be done from various perspectives.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=selecting_a_document_manager_scanner&amp;rev=1365818389&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T01:59:49+00:00</dc:date>
+        <dc:creator>gwenda173</dc:creator>
+        <title>selecting_a_document_manager_scanner - created</title>
+        <link>http://proa.me/wiki/doku.php?id=selecting_a_document_manager_scanner&amp;rev=1365818389&amp;do=diff</link>
+        <description>Selecting A Document Manager Scanner
+
+Using biometric technology, patients can safely be administered treatment and avoid the probability of adverse health effects associated with misidentification. Canon DR 2580C has earned PCMAG Editor's Choice award.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=how_pos_barcode_scanners_can_remodel_your_business_efficiency&amp;rev=1365818175&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-13T01:56:15+00:00</dc:date>
@@ -183,67 +245,5 @@ The individuals of the new study received one 20 milligram dose of tadalafil (Ci
 Mentioned earlier, there are erectile dysfunction treatments. Regular exercise releases tension, relaxes the muscles, joints and limps assists execrate excess sweat and other waste products from the complete.
 
 On the other hand it may be sometimes due to one simple circumstance! The urination dysfunction in case of BPH eases within a week of using the device. So save your for better things in life, penis enlargement pills and exercises just don't work. Th…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=impotence_is_a_reality&amp;rev=1365780777&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T15:32:57+00:00</dc:date>
-        <dc:creator>jan653</dc:creator>
-        <title>impotence_is_a_reality - created</title>
-        <link>http://proa.me/wiki/doku.php?id=impotence_is_a_reality&amp;rev=1365780777&amp;do=diff</link>
-        <description>Impotence Is A Reality
-
-Saw palmetto extract is utilised in baldness remedies to counter estrogen (feminine hormone) production. Much better in health and decrease involving symptoms of the prostate disorder usually comes promptly.
-
-Indeed, it will not be for a specified duration when people will turn to alternative therapies in finding relief for impotence, especially that pharmacological agents and surgical interventions will have available expensive, and more side effects are attached on thes…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=accutane_side_effects_for_men&amp;rev=1365780647&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T15:30:47+00:00</dc:date>
-        <dc:creator>alida456</dc:creator>
-        <title>accutane_side_effects_for_men - created</title>
-        <link>http://proa.me/wiki/doku.php?id=accutane_side_effects_for_men&amp;rev=1365780647&amp;do=diff</link>
-        <description>Accutane Side Effects For Men
-
-Several illnesses crop up as as a consequence of deficiencies. Therefore, treatment with herbs does not compare with Dr Allen's Device for Prostate Treatment which tackles the cause of Benign Prostatic Hypertrophy naturally.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=best_erectile_dysfunction_remedies&amp;rev=1365780359&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T15:25:59+00:00</dc:date>
-        <dc:creator>jane384</dc:creator>
-        <title>best_erectile_dysfunction_remedies - created</title>
-        <link>http://proa.me/wiki/doku.php?id=best_erectile_dysfunction_remedies&amp;rev=1365780359&amp;do=diff</link>
-        <description>Best Erectile Dysfunction Remedies
-
-Several normal Viagra, Cialis and Levitra users are turning on track options that do not trigger aspect results. When you levitra online make sure how the web site or the pharmacy from where you buy the medicine is authentic or known.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=black_hair_care_products_online_related_articles&amp;rev=1365778606&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T14:56:46+00:00</dc:date>
-        <dc:creator>ericka834</dc:creator>
-        <title>black_hair_care_products_online_related_articles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=black_hair_care_products_online_related_articles&amp;rev=1365778606&amp;do=diff</link>
-        <description>Black Hair Care Products Online Related Articles
-
-Specifically created and targeted to work using a woman's biochemistry, the entire Keranique hair treatment system soothes and revitalizes hair effectively. Marketing benefit of biotin is its role in the growth of hairs.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=good_hair_care_for_mature_women&amp;rev=1365778398&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T14:53:18+00:00</dc:date>
-        <dc:creator>clementine894</dc:creator>
-        <title>good_hair_care_for_mature_women - created</title>
-        <link>http://proa.me/wiki/doku.php?id=good_hair_care_for_mature_women&amp;rev=1365778398&amp;do=diff</link>
-        <description>Good Hair Care For Mature Women
-
-hair extensions have and always will function as a best way to change your hairstyle without modifying your own locks. These shampoos are formulated with essential what help you to get associated with various problems of curly hair follicules.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=purchase_hair_care_products_online&amp;rev=1365778210&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T14:50:10+00:00</dc:date>
-        <dc:creator>rey879</dc:creator>
-        <title>purchase_hair_care_products_online - created</title>
-        <link>http://proa.me/wiki/doku.php?id=purchase_hair_care_products_online&amp;rev=1365778210&amp;do=diff</link>
-        <description>Purchase Hair Care Products Online
-
-The less knots you might have prior a person wash it, the much less you are going to have when you are carried online. A well-balanced diet containing high-quality protein, B-12 and iron are usually very important for healthy hair.</description>
     </item>
 </rdf:RDF>

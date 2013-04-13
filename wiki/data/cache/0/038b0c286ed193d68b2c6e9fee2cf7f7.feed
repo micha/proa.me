@@ -11,9 +11,21 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-13T02:24:48+00:00</dc:date>
+       <dc:date>2013-04-13T03:52:48+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=various_coverages_offered_by_auto_strategy&amp;rev=1365824912&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=does_auto_insurance_cover_deer_collisions&amp;rev=1365824649&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=more_on_unemployment_insurance_policy&amp;rev=1365824385&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=why_honesty_counts_when_requesting_automobile_quotes&amp;rev=1365824096&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=danger_auto_insurance&amp;rev=1365823795&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=8_factors_that_influence_car_insurance_prices&amp;rev=1365823455&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=acquiring_cheap_car_insurance_for_youthful_drivers&amp;rev=1365823181&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=best_auto_insurance_quotes_how_need_not_policy&amp;rev=1365823007&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=steps_for_locating_low_cost_insurance&amp;rev=1365822668&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=can_be_barcode_scanner&amp;rev=1365820406&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=good_facts_about_drum_scanners&amp;rev=1365820218&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=barcode_scanners_working_procedure&amp;rev=1365820071&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=plustek_scanners_related_articles&amp;rev=1365819887&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=3d_scanners_related_articles&amp;rev=1365819494&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=scanner_shopping_guide&amp;rev=1365819291&amp;do=diff"/>
@@ -22,18 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=selecting_a_document_manager_scanner&amp;rev=1365818389&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_pos_barcode_scanners_can_remodel_your_business_efficiency&amp;rev=1365818175&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=high_volume_scanners_related_articles&amp;rev=1365818054&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_an_id_scanner_works&amp;rev=1365817797&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=brief_article_teaches_you_the_ins_and_outs_of_ibogaine_treatment_and_what_you_have_to_do_today&amp;rev=1365785526&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=5_hour_energy_side_effects&amp;rev=1365783025&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=are_usually_the_sertraline_side_effects&amp;rev=1365782821&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=herbal_pills_like_vigrx_plus_can_treat_erectile_dysfunction&amp;rev=1365782646&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=herbs_for_premature_ejaculation&amp;rev=1365782454&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=korean_ginseng_side_effects&amp;rev=1365782044&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=info_regarding_erectile_dysfunction_in_young_men&amp;rev=1365781832&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=msm_for_natural_male_enhancement_and_erectile_dysfunction&amp;rev=1365781635&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=erection_problems_in_diabetes&amp;rev=1365781426&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=male_impotence_causes_related_articles&amp;rev=1365781227&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=treating_erectile_dysfunction_naturally&amp;rev=1365780995&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,136 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=various_coverages_offered_by_auto_strategy&amp;rev=1365824912&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T03:48:32+00:00</dc:date>
+        <dc:creator>tierra456</dc:creator>
+        <title>various_coverages_offered_by_auto_strategy - created</title>
+        <link>http://proa.me/wiki/doku.php?id=various_coverages_offered_by_auto_strategy&amp;rev=1365824912&amp;do=diff</link>
+        <description>Various Coverages Offered By Auto Strategy
+
+This has given rise into a whole new genre of modeling, viz. However if you might be driving someone else?s car or truck then you will be covered by that vehicle?s auto insurance policy and not your vehicle?s insurance policy.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=does_auto_insurance_cover_deer_collisions&amp;rev=1365824649&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T03:44:09+00:00</dc:date>
+        <dc:creator>elodia294</dc:creator>
+        <title>does_auto_insurance_cover_deer_collisions - created</title>
+        <link>http://proa.me/wiki/doku.php?id=does_auto_insurance_cover_deer_collisions&amp;rev=1365824649&amp;do=diff</link>
+        <description>Does Auto Insurance Cover Deer Collisions
+
+There are many sites that have better too best offers for you. The tiny panel vans are preferred for smaller to moderate sized businesses due to their fuel efficiency and also effortless maneuverability.
+
+Anything you add will cost you extra. Because of the competitive market, insurance companies offer rates that would draw them more clients. cheapest full coverage car insurance online company will ask to do this information. First off, Idaho law requir…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=more_on_unemployment_insurance_policy&amp;rev=1365824385&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T03:39:45+00:00</dc:date>
+        <dc:creator>micaela818</dc:creator>
+        <title>more_on_unemployment_insurance_policy - created</title>
+        <link>http://proa.me/wiki/doku.php?id=more_on_unemployment_insurance_policy&amp;rev=1365824385&amp;do=diff</link>
+        <description>More On Unemployment Insurance Policy
+
+These tips will assist you in any vehicle insurance scenario, when you maintain them in your brainpower. If there was an accident related to the case, vehicle repairs and medical bills may be additional costs to consider.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=why_honesty_counts_when_requesting_automobile_quotes&amp;rev=1365824096&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T03:34:56+00:00</dc:date>
+        <dc:creator>lyla459</dc:creator>
+        <title>why_honesty_counts_when_requesting_automobile_quotes - created</title>
+        <link>http://proa.me/wiki/doku.php?id=why_honesty_counts_when_requesting_automobile_quotes&amp;rev=1365824096&amp;do=diff</link>
+        <description>Why Honesty Counts When Requesting Automobile Quotes
+
+So, the quote given is too much dependent on the information a person provides. Vehicle type - While calculating premium, information like value of your vehicle, its weight, age, and size are also taken into account.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=danger_auto_insurance&amp;rev=1365823795&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T03:29:55+00:00</dc:date>
+        <dc:creator>trula686</dc:creator>
+        <title>danger_auto_insurance - created</title>
+        <link>http://proa.me/wiki/doku.php?id=danger_auto_insurance&amp;rev=1365823795&amp;do=diff</link>
+        <description>Danger Auto Insurance
+
+Cheap auto insurance would come our way if our politicians allocated proper resources to the police. If it is still in effect, they may not be hired for the position general health cannot drive a company automotive.
+
+You should be able to get better and move on without struggling from any financial burdens that may well come up without the proper insurance. Getting Read the Full Post quotes online is one of the most practical thing you can have. If you have ever gotten a s…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=8_factors_that_influence_car_insurance_prices&amp;rev=1365823455&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T03:24:15+00:00</dc:date>
+        <dc:creator>hermelinda525</dc:creator>
+        <title>8_factors_that_influence_car_insurance_prices - created</title>
+        <link>http://proa.me/wiki/doku.php?id=8_factors_that_influence_car_insurance_prices&amp;rev=1365823455&amp;do=diff</link>
+        <description>8 Factors That Influence Car Insurance Prices
+
+On top of that, you are able to know, very quickly, that you might be getting the cheapest rates usable. A course such as Watch Your Car lets a car insurance company know that you are intent on protecting your vehicle against larceny.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=acquiring_cheap_car_insurance_for_youthful_drivers&amp;rev=1365823181&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T03:19:41+00:00</dc:date>
+        <dc:creator>jan653</dc:creator>
+        <title>acquiring_cheap_car_insurance_for_youthful_drivers - created</title>
+        <link>http://proa.me/wiki/doku.php?id=acquiring_cheap_car_insurance_for_youthful_drivers&amp;rev=1365823181&amp;do=diff</link>
+        <description>Acquiring Cheap Car Insurance For Youthful Drivers
+
+Furthermore, they are insured against unforeseen mishaps. Someone in a safe neighborhood with a 5 mile drive to work is going expend much less than someone else an hour away in a poorer part of the point.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=best_auto_insurance_quotes_how_need_not_policy&amp;rev=1365823007&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T03:16:47+00:00</dc:date>
+        <dc:creator>alida456</dc:creator>
+        <title>best_auto_insurance_quotes_how_need_not_policy - created</title>
+        <link>http://proa.me/wiki/doku.php?id=best_auto_insurance_quotes_how_need_not_policy&amp;rev=1365823007&amp;do=diff</link>
+        <description>Best Auto Insurance Quotes: How Need Not Policy
+
+While we all may assume the worst will not happen, it's best that we are covered in the possible event that it does. The premium depends upon factors like, model and age of vehicle, your age, gender, usage, policy etc.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=steps_for_locating_low_cost_insurance&amp;rev=1365822668&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T03:11:08+00:00</dc:date>
+        <dc:creator>jane384</dc:creator>
+        <title>steps_for_locating_low_cost_insurance - created</title>
+        <link>http://proa.me/wiki/doku.php?id=steps_for_locating_low_cost_insurance&amp;rev=1365822668&amp;do=diff</link>
+        <description>Steps For Locating Low Cost Insurance
+
+Decide on discover exact an insurance plan that you simply would usually get from other manufacturers. However, based on the prevailing circumstances, you might need the other coverage than the ones available on the internet.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=can_be_barcode_scanner&amp;rev=1365820406&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T02:33:26+00:00</dc:date>
+        <dc:creator>ericka834</dc:creator>
+        <title>can_be_barcode_scanner - created</title>
+        <link>http://proa.me/wiki/doku.php?id=can_be_barcode_scanner&amp;rev=1365820406&amp;do=diff</link>
+        <description>Can Be Barcode Scanner
+
+Along with above types of pen scanners, there are also high-end or executive models of pen scanners that tend to incorporate biggest number of features. Therefore, these scanners are being increasingly popular.
+
+These images are the ones that allow you to work through clothes to create naked images of the body. The backscatter unit is an enclosed screening room with no visibility or see through windows. Some belonging to the best scanners are offered through companies lik…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=good_facts_about_drum_scanners&amp;rev=1365820218&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T02:30:18+00:00</dc:date>
+        <dc:creator>clementine894</dc:creator>
+        <title>good_facts_about_drum_scanners - created</title>
+        <link>http://proa.me/wiki/doku.php?id=good_facts_about_drum_scanners&amp;rev=1365820218&amp;do=diff</link>
+        <description>Good Facts About Drum Scanners
+
+Efficiency of a business can be increased to a great extent by using networked scanner. Afterwards, it will come across out corresponding outdated or broken drivers and download the newest versions to replace them.
+
+Every company is looking for a storage system that will address the need for large safe-keeping and multifarious maintenance tasks. Commercial barcode scanner: These type of biometrics technologies articles are used in commercial segments like retail s…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=barcode_scanners_working_procedure&amp;rev=1365820071&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T02:27:51+00:00</dc:date>
+        <dc:creator>rey879</dc:creator>
+        <title>barcode_scanners_working_procedure - created</title>
+        <link>http://proa.me/wiki/doku.php?id=barcode_scanners_working_procedure&amp;rev=1365820071&amp;do=diff</link>
+        <description>Barcode Scanners Working Procedure
+
+A 300-dpi resolution should be right for a 4×6 pattern. As opposed to determining fingerprints with the prospect human error, advanced scanners are engineered to compare fingerprint images much more precisely.
+
+Ultimately current times, it is hard to trust anyone. Furthermore, Autonomy Cardiff's TeleForm 10.2 image capture technology was also implemented offering handwriting recognition and OCR (Optical Character Recognition) capability had been a key requirem…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=plustek_scanners_related_articles&amp;rev=1365819887&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-13T02:24:47+00:00</dc:date>
@@ -123,127 +253,5 @@ Fingerprint scanners are, by far, the most generally used type of biometric iden
         <description>High Volume Scanners Related Articles
 
 Both scanners lack document management software, thus cannot be used for document imaging. The Kodak iL860 scanner is along with a 500 sheet feeder and operates at 200 pages per minute, offering virtually unlimited scanning capacity.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=how_an_id_scanner_works&amp;rev=1365817797&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-13T01:49:57+00:00</dc:date>
-        <dc:creator>margit696</dc:creator>
-        <title>how_an_id_scanner_works - created</title>
-        <link>http://proa.me/wiki/doku.php?id=how_an_id_scanner_works&amp;rev=1365817797&amp;do=diff</link>
-        <description>How An Id Scanner Works
-
-Even though a scanner is refurbished, the seller may still offer maintenance plans for repair. require paid monthly subscriptions or charge service fees to download scan data from an ID scanner.
-
-Payday lenders to be informed about the options available and their features. There are a plethora of stock uscis biometrics available on the online market place and you could choose 1 fits your needs. All of the equipment supplied by Capital Capture, including the software, was…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=brief_article_teaches_you_the_ins_and_outs_of_ibogaine_treatment_and_what_you_have_to_do_today&amp;rev=1365785526&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T16:52:06+00:00</dc:date>
-        <dc:creator>gennie515</dc:creator>
-        <title>brief_article_teaches_you_the_ins_and_outs_of_ibogaine_treatment_and_what_you_have_to_do_today - created</title>
-        <link>http://proa.me/wiki/doku.php?id=brief_article_teaches_you_the_ins_and_outs_of_ibogaine_treatment_and_what_you_have_to_do_today&amp;rev=1365785526&amp;do=diff</link>
-        <description>&lt;p&gt;The disturbing results oflights and sounds may consequence from lack of normal global habituation dueto RF destabilization, resulting within the worry and rage responses observedin cats. This signal could also be stronger in subjectswith more pronounced asymmetric hemispheric function and awaits furtherinvestigation. This intensifiesadjustment issues for addicts, due to the misplaced of outdated patterns of behaviorand social assist during this section. Among The Fang, the place eboga is used…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=5_hour_energy_side_effects&amp;rev=1365783025&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T16:10:25+00:00</dc:date>
-        <dc:creator>ina81</dc:creator>
-        <title>5_hour_energy_side_effects - created</title>
-        <link>http://proa.me/wiki/doku.php?id=5_hour_energy_side_effects&amp;rev=1365783025&amp;do=diff</link>
-        <description>5 Hour Energy Side Effects
-
-By using withdrawal: One should also find the reason behind quitting. The actual above 3 supplements will aid in increasing your libido and not only will your sexual health improve, so will your overall a sense well being.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=are_usually_the_sertraline_side_effects&amp;rev=1365782821&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T16:07:01+00:00</dc:date>
-        <dc:creator>vina615</dc:creator>
-        <title>are_usually_the_sertraline_side_effects - created</title>
-        <link>http://proa.me/wiki/doku.php?id=are_usually_the_sertraline_side_effects&amp;rev=1365782821&amp;do=diff</link>
-        <description>Are Usually The Sertraline Side Effects
-
-Tend to be some fundamental ingredients of any diet and deficiencies lead to malnutrition, inferior physical structure, thrombosis and factors such as ADHD. Is a longer penis worth losing the option to get an erection?</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=herbal_pills_like_vigrx_plus_can_treat_erectile_dysfunction&amp;rev=1365782646&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T16:04:06+00:00</dc:date>
-        <dc:creator>prudence893</dc:creator>
-        <title>herbal_pills_like_vigrx_plus_can_treat_erectile_dysfunction - created</title>
-        <link>http://proa.me/wiki/doku.php?id=herbal_pills_like_vigrx_plus_can_treat_erectile_dysfunction&amp;rev=1365782646&amp;do=diff</link>
-        <description>Herbal Pills Like Vigrx Plus Can Treat Erectile Dysfunction
-
-Trust it or not, one of the commonest causes can simply be psychologically and mentally .. While you might be of benefit to some with erectile dysfunction, the effects are short term and only be as durable as the erection.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=herbs_for_premature_ejaculation&amp;rev=1365782454&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T16:00:54+00:00</dc:date>
-        <dc:creator>millie967</dc:creator>
-        <title>herbs_for_premature_ejaculation - created</title>
-        <link>http://proa.me/wiki/doku.php?id=herbs_for_premature_ejaculation&amp;rev=1365782454&amp;do=diff</link>
-        <description>Herbs For Premature Ejaculation
-
-The consensus opinion is that varicoceles are not a health risk and do not require caution. This is the reason certain patients decline after they are discharged from hospital and others in order to improve if they remain!</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=korean_ginseng_side_effects&amp;rev=1365782044&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T15:54:04+00:00</dc:date>
-        <dc:creator>tierra456</dc:creator>
-        <title>korean_ginseng_side_effects - created</title>
-        <link>http://proa.me/wiki/doku.php?id=korean_ginseng_side_effects&amp;rev=1365782044&amp;do=diff</link>
-        <description>Korean Ginseng Side Effects
-
-Has been created only after my relationship had ended and I had this quick term relationship with someone else, did I realize I really didn't have an erection problems! Indigestion and constipation vitiate doshas and cause diseases.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=info_regarding_erectile_dysfunction_in_young_men&amp;rev=1365781832&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T15:50:32+00:00</dc:date>
-        <dc:creator>elodia294</dc:creator>
-        <title>info_regarding_erectile_dysfunction_in_young_men - created</title>
-        <link>http://proa.me/wiki/doku.php?id=info_regarding_erectile_dysfunction_in_young_men&amp;rev=1365781832&amp;do=diff</link>
-        <description>Info Regarding Erectile Dysfunction In Young Men
-
-The particular above 3 supplements will assist in your libido and not only will your sexual health improve, so will your overall experience of well being. manufactures Propecia which is sold everywhere around the world.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=msm_for_natural_male_enhancement_and_erectile_dysfunction&amp;rev=1365781635&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T15:47:15+00:00</dc:date>
-        <dc:creator>micaela818</dc:creator>
-        <title>msm_for_natural_male_enhancement_and_erectile_dysfunction - created</title>
-        <link>http://proa.me/wiki/doku.php?id=msm_for_natural_male_enhancement_and_erectile_dysfunction&amp;rev=1365781635&amp;do=diff</link>
-        <description>Msm For Natural Male Enhancement And Erectile Dysfunction
-
-Needs . principles of erection therapy exercises is to improve circulation of your penis and to increase the sum of blood held within the erectile tissue. You work out in order to have a fit and strong body.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=erection_problems_in_diabetes&amp;rev=1365781426&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T15:43:46+00:00</dc:date>
-        <dc:creator>lyla459</dc:creator>
-        <title>erection_problems_in_diabetes - created</title>
-        <link>http://proa.me/wiki/doku.php?id=erection_problems_in_diabetes&amp;rev=1365781426&amp;do=diff</link>
-        <description>Erection Problems In Diabetes
-
-The production of L-Arginine also decreases naturally with age and numerous shown it is the regarding the degenerative processes that are associated to aging. The Prostate Care Device cures Benign Prostatic Hyperplasia effectively.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=male_impotence_causes_related_articles&amp;rev=1365781227&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T15:40:27+00:00</dc:date>
-        <dc:creator>trula686</dc:creator>
-        <title>male_impotence_causes_related_articles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=male_impotence_causes_related_articles&amp;rev=1365781227&amp;do=diff</link>
-        <description>Male Impotence Causes Related Articles
-
-The individuals of the new study received one 20 milligram dose of tadalafil (Cialis; Eli Lilly). Modern medicine comes along way through the many techniques are available to perform penile surgery for men who truly need it.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=treating_erectile_dysfunction_naturally&amp;rev=1365780995&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T15:36:35+00:00</dc:date>
-        <dc:creator>hermelinda525</dc:creator>
-        <title>treating_erectile_dysfunction_naturally - created</title>
-        <link>http://proa.me/wiki/doku.php?id=treating_erectile_dysfunction_naturally&amp;rev=1365780995&amp;do=diff</link>
-        <description>Treating Erectile Dysfunction Naturally
-
-Mentioned earlier, there are erectile dysfunction treatments. Regular exercise releases tension, relaxes the muscles, joints and limps assists execrate excess sweat and other waste products from the complete.
-
-On the other hand it may be sometimes due to one simple circumstance! The urination dysfunction in case of BPH eases within a week of using the device. So save your for better things in life, penis enlargement pills and exercises just don't work. Th…</description>
     </item>
 </rdf:RDF>

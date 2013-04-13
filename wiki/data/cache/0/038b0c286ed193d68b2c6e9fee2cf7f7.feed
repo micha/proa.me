@@ -11,9 +11,12 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-13T00:40:21+00:00</dc:date>
+       <dc:date>2013-04-13T01:57:13+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_pos_barcode_scanners_can_remodel_your_business_efficiency&amp;rev=1365818175&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=high_volume_scanners_related_articles&amp;rev=1365818054&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_an_id_scanner_works&amp;rev=1365817797&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=brief_article_teaches_you_the_ins_and_outs_of_ibogaine_treatment_and_what_you_have_to_do_today&amp;rev=1365785526&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=5_hour_energy_side_effects&amp;rev=1365783025&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=are_usually_the_sertraline_side_effects&amp;rev=1365782821&amp;do=diff"/>
@@ -31,9 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=black_hair_care_products_online_related_articles&amp;rev=1365778606&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=good_hair_care_for_mature_women&amp;rev=1365778398&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=purchase_hair_care_products_online&amp;rev=1365778210&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=about_hair_care&amp;rev=1365778016&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=variety_of_macadamia_hair_care_products&amp;rev=1365777597&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=hair_diseases_and_hair_care_as_well_as_products&amp;rev=1365777424&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,38 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=how_pos_barcode_scanners_can_remodel_your_business_efficiency&amp;rev=1365818175&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T01:56:15+00:00</dc:date>
+        <dc:creator>odis328</dc:creator>
+        <title>how_pos_barcode_scanners_can_remodel_your_business_efficiency - created</title>
+        <link>http://proa.me/wiki/doku.php?id=how_pos_barcode_scanners_can_remodel_your_business_efficiency&amp;rev=1365818175&amp;do=diff</link>
+        <description>How Pos Barcode Scanners Can Remodel Your Business Efficiency
+
+Fingerprint scanners are, by far, the most generally used type of biometric identification device. It can be a plus point that foods high in protein use the scanner at your personal home too for doing your office work in a relaxed types.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=high_volume_scanners_related_articles&amp;rev=1365818054&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T01:54:14+00:00</dc:date>
+        <dc:creator>carl292</dc:creator>
+        <title>high_volume_scanners_related_articles - created</title>
+        <link>http://proa.me/wiki/doku.php?id=high_volume_scanners_related_articles&amp;rev=1365818054&amp;do=diff</link>
+        <description>High Volume Scanners Related Articles
+
+Both scanners lack document management software, thus cannot be used for document imaging. The Kodak iL860 scanner is along with a 500 sheet feeder and operates at 200 pages per minute, offering virtually unlimited scanning capacity.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=how_an_id_scanner_works&amp;rev=1365817797&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-13T01:49:57+00:00</dc:date>
+        <dc:creator>margit696</dc:creator>
+        <title>how_an_id_scanner_works - created</title>
+        <link>http://proa.me/wiki/doku.php?id=how_an_id_scanner_works&amp;rev=1365817797&amp;do=diff</link>
+        <description>How An Id Scanner Works
+
+Even though a scanner is refurbished, the seller may still offer maintenance plans for repair. require paid monthly subscriptions or charge service fees to download scan data from an ID scanner.
+
+Payday lenders to be informed about the options available and their features. There are a plethora of stock uscis biometrics available on the online market place and you could choose 1 fits your needs. All of the equipment supplied by Capital Capture, including the software, was…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=brief_article_teaches_you_the_ins_and_outs_of_ibogaine_treatment_and_what_you_have_to_do_today&amp;rev=1365785526&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-12T16:52:06+00:00</dc:date>
@@ -213,37 +245,5 @@ hair extensions have and always will function as a best way to change your hairs
         <description>Purchase Hair Care Products Online
 
 The less knots you might have prior a person wash it, the much less you are going to have when you are carried online. A well-balanced diet containing high-quality protein, B-12 and iron are usually very important for healthy hair.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=about_hair_care&amp;rev=1365778016&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T14:46:56+00:00</dc:date>
-        <dc:creator>tenisha356</dc:creator>
-        <title>about_hair_care - created</title>
-        <link>http://proa.me/wiki/doku.php?id=about_hair_care&amp;rev=1365778016&amp;do=diff</link>
-        <description>About Hair Care
-
-It has been used in traditional medicine to buy long time and it is assumed that regular massaging of its oil on the scalp may recover lost hair. There can be a big cost difference between one method and another.
-
-Of course, it is a bit expensive to have them completed, but sometimes you must spoil yourself and love the great things existence. Within the cases, real hair extensions before and after or synthetic, you can choose from a wide variety of weaving and styling devices. …</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=variety_of_macadamia_hair_care_products&amp;rev=1365777597&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T14:39:57+00:00</dc:date>
-        <dc:creator>kathryn719</dc:creator>
-        <title>variety_of_macadamia_hair_care_products - created</title>
-        <link>http://proa.me/wiki/doku.php?id=variety_of_macadamia_hair_care_products&amp;rev=1365777597&amp;do=diff</link>
-        <description>Variety Of Macadamia Hair Care Products
-
-These methods aim to prove that hair care doesn't have to cost the earth. Incorporating these techniques will support a person consider far better care of one's hair particularly if you are looking for to have more robust significantly more stunning hair.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=hair_diseases_and_hair_care_as_well_as_products&amp;rev=1365777424&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-12T14:37:04+00:00</dc:date>
-        <dc:creator>tessa88</dc:creator>
-        <title>hair_diseases_and_hair_care_as_well_as_products - created</title>
-        <link>http://proa.me/wiki/doku.php?id=hair_diseases_and_hair_care_as_well_as_products&amp;rev=1365777424&amp;do=diff</link>
-        <description>Hair Diseases And Hair Care As Well As Products
-
-From pre-styled synthetic weaves to highly versatile natural weaves, there are a number of extension types that can be easily personalized for a custom strong. It may even lead to additional problems for your hair style.</description>
     </item>
 </rdf:RDF>

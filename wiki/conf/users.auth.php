@@ -1282,3 +1282,5 @@ deangelo883:REDACTED:Marlo Chr:jonnygandy342@gmail.com:user
 multihuller:REDACTED:Othmar Karschulin:contact@multihull.de:user
 christina519:REDACTED:Shirlee Hundley:Belen925Adv@aol.com:user
 cassie454:REDACTED:Graig Passmore:Belen925Adv@aol.com:user
+coralee421:REDACTED:Elvina Foote:betsy@accordionman.us:user
+camelia91:REDACTED:Carma Fritsch:emily@accordionman.us:user

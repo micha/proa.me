@@ -11,12 +11,15 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-14T08:58:04+00:00</dc:date>
+       <dc:date>2013-04-14T09:49:27+00:00</dc:date>
         <items>
             <rdf:Seq>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Akalapuna1.jpg&amp;ns=wiki&amp;rev=1365927494&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1365931820&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Akalapuna0.jpg&amp;ns=wiki&amp;rev=1365931606&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Akalapuna1.jpg&amp;ns=wiki&amp;rev=1365930649&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Akalapuna3.jpg&amp;ns=wiki&amp;rev=1365930387&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=wiki%3Akalapuna2.jpg&amp;ns=wiki&amp;rev=1365930225&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=marina&amp;rev=1365922578&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1365921656&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=best_new_jersey_auto_insurance_companies&amp;rev=1365826145&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=acquiring_cheap_car_insurance_for_youthful_drivers&amp;rev=1365825891&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=auto_insurance_application_advice&amp;rev=1365825671&amp;do=diff"/>
@@ -31,9 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=steps_for_locating_low_cost_insurance&amp;rev=1365822668&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=can_be_barcode_scanner&amp;rev=1365820406&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=good_facts_about_drum_scanners&amp;rev=1365820218&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=barcode_scanners_working_procedure&amp;rev=1365820071&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=plustek_scanners_related_articles&amp;rev=1365819887&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=3d_scanners_related_articles&amp;rev=1365819494&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,13 +42,51 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
-    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Akalapuna1.jpg&amp;ns=wiki&amp;rev=1365927494&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+    <item rdf:about="http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1365931820&amp;do=diff">
         <dc:format>text/html</dc:format>
-        <dc:date>2013-04-14T08:18:14+00:00</dc:date>
+        <dc:date>2013-04-14T09:30:20+00:00</dc:date>
         <dc:creator>multihuller</dc:creator>
-        <title>wiki:kalapuna1.jpg - created</title>
-        <link>http://proa.me/wiki/doku.php?image=wiki%3Akalapuna1.jpg&amp;ns=wiki&amp;rev=1365927494&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
-        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=419t=1365927494&amp;amp;media=wiki:kalapuna1.jpg&quot; alt=&quot;wiki:kalapuna1.jpg&quot; /&gt;</description>
+        <title>wiki:first_page</title>
+        <link>http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1365931820&amp;do=diff</link>
+        <description>Technical data:
+ Length Vaka     8,00 m  26,25 ft Length Ama      5,00 m  16,40 ft Beam over all   3,75 m  12,30 ft Weight          220 kg  485 lbs  Sail Area       18m2    193 sqft Designer       O.Karschulin Builder        O.Karschulin
+
+
+Description
+
+In autumn of 2009 I started building a bigger proa for coastal cruising. My “boatyard” in the garden was very small and always “open air”. Hence I designed a boat for fast and simple building in plywood and GRP. But nevertheless it took about a ye…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Akalapuna0.jpg&amp;ns=wiki&amp;rev=1365931606&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-14T09:26:46+00:00</dc:date>
+        <dc:creator>multihuller</dc:creator>
+        <title>wiki:kalapuna0.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=wiki%3Akalapuna0.jpg&amp;ns=wiki&amp;rev=1365931606&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=435t=1365931606&amp;amp;media=wiki:kalapuna0.jpg&quot; alt=&quot;wiki:kalapuna0.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Akalapuna1.jpg&amp;ns=wiki&amp;rev=1365930649&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-14T09:10:49+00:00</dc:date>
+        <dc:creator>multihuller</dc:creator>
+        <title>wiki:kalapuna1.jpg</title>
+        <link>http://proa.me/wiki/doku.php?image=wiki%3Akalapuna1.jpg&amp;ns=wiki&amp;rev=1365930649&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=435t=1365930649&amp;amp;media=wiki:kalapuna1.jpg&quot; alt=&quot;wiki:kalapuna1.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Akalapuna3.jpg&amp;ns=wiki&amp;rev=1365930387&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-14T09:06:27+00:00</dc:date>
+        <dc:creator>multihuller</dc:creator>
+        <title>wiki:kalapuna3.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=wiki%3Akalapuna3.jpg&amp;ns=wiki&amp;rev=1365930387&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=367t=1365930387&amp;amp;media=wiki:kalapuna3.jpg&quot; alt=&quot;wiki:kalapuna3.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?image=wiki%3Akalapuna2.jpg&amp;ns=wiki&amp;rev=1365930225&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-14T09:03:45+00:00</dc:date>
+        <dc:creator>multihuller</dc:creator>
+        <title>wiki:kalapuna2.jpg - created</title>
+        <link>http://proa.me/wiki/doku.php?image=wiki%3Akalapuna2.jpg&amp;ns=wiki&amp;rev=1365930225&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=298t=1365930225&amp;amp;media=wiki:kalapuna2.jpg&quot; alt=&quot;wiki:kalapuna2.jpg&quot; /&gt;</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=marina&amp;rev=1365922578&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -59,16 +97,6 @@
         <description>NOTE This page will probably disappear soon, as there is now an excellent compilation of all the bigger cruising proas at &lt;http://www.multihull.de/proadirectory/&gt;
 
 This page is intended to have links to all the known proas out there. Can we do it? Yes we can! (paraphrasing)</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1365921656&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-14T06:40:56+00:00</dc:date>
-        <dc:creator>tdem</dc:creator>
-        <title>wiki:first_page - [Managing images] </title>
-        <link>http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1365921656&amp;do=diff</link>
-        <description>This is a short introduction on how to create a page on Wikiproa. I'll be moving a page across from the old wikiproa as an example.
-
-For more detailed information, you could read the Dokuwiki manual. For a quick reference on editing pages, read the syntax page.</description>
     </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=best_new_jersey_auto_insurance_companies&amp;rev=1365826145&amp;do=diff">
         <dc:format>text/html</dc:format>
@@ -219,37 +247,5 @@ These images are the ones that allow you to work through clothes to create naked
 Efficiency of a business can be increased to a great extent by using networked scanner. Afterwards, it will come across out corresponding outdated or broken drivers and download the newest versions to replace them.
 
 Every company is looking for a storage system that will address the need for large safe-keeping and multifarious maintenance tasks. Commercial barcode scanner: These type of biometrics technologies articles are used in commercial segments like retail s…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=barcode_scanners_working_procedure&amp;rev=1365820071&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-13T02:27:51+00:00</dc:date>
-        <dc:creator>rey879</dc:creator>
-        <title>barcode_scanners_working_procedure - created</title>
-        <link>http://proa.me/wiki/doku.php?id=barcode_scanners_working_procedure&amp;rev=1365820071&amp;do=diff</link>
-        <description>Barcode Scanners Working Procedure
-
-A 300-dpi resolution should be right for a 4×6 pattern. As opposed to determining fingerprints with the prospect human error, advanced scanners are engineered to compare fingerprint images much more precisely.
-
-Ultimately current times, it is hard to trust anyone. Furthermore, Autonomy Cardiff's TeleForm 10.2 image capture technology was also implemented offering handwriting recognition and OCR (Optical Character Recognition) capability had been a key requirem…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=plustek_scanners_related_articles&amp;rev=1365819887&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-13T02:24:47+00:00</dc:date>
-        <dc:creator>tenisha356</dc:creator>
-        <title>plustek_scanners_related_articles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=plustek_scanners_related_articles&amp;rev=1365819887&amp;do=diff</link>
-        <description>Plustek Scanners Related Articles
-
-In the article, I will inform you vehicle to separate excellent driver scanners from the incompetent ones. New surveillance systems, employing complex algorithms, allows operators of CCTV to zero in on suspicious behaviour.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=3d_scanners_related_articles&amp;rev=1365819494&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-13T02:18:14+00:00</dc:date>
-        <dc:creator>kathryn719</dc:creator>
-        <title>3d_scanners_related_articles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=3d_scanners_related_articles&amp;rev=1365819494&amp;do=diff</link>
-        <description>3D Scanners Related Articles
-
-These scanners make scanning and exchanging of documents a easy task for all offices. offer advanced features like customizable sound alarms for underage IDs and configurable age thresholds for unique scanning applications.</description>
     </item>
 </rdf:RDF>

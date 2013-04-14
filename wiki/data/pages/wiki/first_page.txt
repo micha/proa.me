@@ -64,6 +64,8 @@ Close the media manager, and then open it again. Your new namespace should be li
 
 Notice how the current namespace is listed at the top. You can now easily upload more pictures into your namespace. Hold the control (CTRL) button while selecting files to select more than one. Press ok. A list of files will appear. Press the "Upload" button to to upload them into your namespace.
 
+You can also drag and drop images into the upload area!
+
 ==== Inserting Images ====
 
 In the edit area, place your cursor where you want the picture to appear. Open the media manager, open your namespace and select the picture you want to insert. A little menu with a bunch of buttons will pop up:

@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-14T05:47:47+00:00</dc:date>
+       <dc:date>2013-04-14T07:00:43+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=marina&amp;rev=1365922578&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1365921656&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=best_new_jersey_auto_insurance_companies&amp;rev=1365826145&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=acquiring_cheap_car_insurance_for_youthful_drivers&amp;rev=1365825891&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=auto_insurance_application_advice&amp;rev=1365825671&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=plustek_scanners_related_articles&amp;rev=1365819887&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=3d_scanners_related_articles&amp;rev=1365819494&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=scanner_shopping_guide&amp;rev=1365819291&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=canon_dr_scanners_related_articles&amp;rev=1365819080&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=selling_tech_gadgets_how_to_sell_film_scanners&amp;rev=1365818831&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,26 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=marina&amp;rev=1365922578&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-14T06:56:18+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>marina - [Marina] </title>
+        <link>http://proa.me/wiki/doku.php?id=marina&amp;rev=1365922578&amp;do=diff</link>
+        <description>NOTE This page will probably disappear soon, as there is now an excellent compilation of all the bigger cruising proas at &lt;http://www.multihull.de/proadirectory/&gt;
+
+This page is intended to have links to all the known proas out there. Can we do it? Yes we can! (paraphrasing)</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1365921656&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-14T06:40:56+00:00</dc:date>
+        <dc:creator>tdem</dc:creator>
+        <title>wiki:first_page - [Managing images] </title>
+        <link>http://proa.me/wiki/doku.php?id=wiki:first_page&amp;rev=1365921656&amp;do=diff</link>
+        <description>This is a short introduction on how to create a page on Wikiproa. I'll be moving a page across from the old wikiproa as an example.
+
+For more detailed information, you could read the Dokuwiki manual. For a quick reference on editing pages, read the syntax page.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=best_new_jersey_auto_insurance_companies&amp;rev=1365826145&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-13T04:09:05+00:00</dc:date>
@@ -235,25 +255,5 @@ These scanners make scanning and exchanging of documents a easy task for all off
 The clarity of light and also the quality of the lens will impact any irregularities in photographs. In order to improve the benefits of an ID checker, the ID checker end up being used in every transaction.
 
 It exposes the diseases and other physical ailments which one may not want to reveal. An accuracy rate of 98.8% was recorded in a recent study of biometric face recognition system using 2D and 3D images. Some from the questions that you should ask would include the ki…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=canon_dr_scanners_related_articles&amp;rev=1365819080&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-13T02:11:20+00:00</dc:date>
-        <dc:creator>nicky769</dc:creator>
-        <title>canon_dr_scanners_related_articles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=canon_dr_scanners_related_articles&amp;rev=1365819080&amp;do=diff</link>
-        <description>Canon Dr Scanners Related Articles
-
-The image their machine produces is only an outline of the body and operates faster than the Rapiscan model. On the inside mean time, we hope that you simply have found this breakdown of pen scanner types informative.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=selling_tech_gadgets_how_to_sell_film_scanners&amp;rev=1365818831&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-13T02:07:11+00:00</dc:date>
-        <dc:creator>renae996</dc:creator>
-        <title>selling_tech_gadgets_how_to_sell_film_scanners - created</title>
-        <link>http://proa.me/wiki/doku.php?id=selling_tech_gadgets_how_to_sell_film_scanners&amp;rev=1365818831&amp;do=diff</link>
-        <description>Selling Tech Gadgets: How To Sell Film Scanners
-
-It is going to you enter the words “greatest driver updater” and lookup with Google, you will get the benefits. Mode of sampling of this a part of the body is also complex because it must be done from various perspectives.</description>
     </item>
 </rdf:RDF>

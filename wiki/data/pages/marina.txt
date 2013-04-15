@@ -1,32 +1,10 @@
 ====== Marina ======
 
-**NOTE** This page will probably disappear soon, as there is now an excellent compilation of all the bigger cruising proas at http://www.multihull.de/proadirectory/
+**NOTE** Othmar has created a compilation of all known cruising proas at http://www.multihull.de/proadirectory/
 
-This page is intended to have links to all the known proas out there. Can we do it? Yes we can! //(paraphrasing)//
+There are various ways we could format this page, some options below
 
-===== Pacific Bee (Ex Cimba) =====
-{{ :marina:pacific_bee.jpg?300|}} 
+| [[kalapuna|{{:wiki:kalapuna0.jpg?200|}}]]|[[kalapuna]], and add a description here |
+| [[kalapuna|{{:wiki:kalapuna0.jpg?200|}}]]|[[kalapuna]], the next proa on the list |
 
-Length: 38ft
-
-Beam: ??
-
-Weight: ???
-
-Sail Area: ???
-
-[[Pacific Bee|more details]]
-
-===== Jzerro =====
-
-{{ :marina:pacific_bee.jpg?300| }}
-
-Length: ??
-
-Beam: ??
-
-Weight: ??
-
-Sail Area: ??
-
-[[jzerro|more details]]
+[[kalapuna|{{:wiki:kalapuna0.jpg?200|optional description}}]]

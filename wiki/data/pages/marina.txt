@@ -4,7 +4,6 @@
 
 There are various ways we could format this page, some options below
 
-| [[kalapuna|{{:wiki:kalapuna0.jpg?200|}}]]|[[kalapuna]], and add a description here |
-| [[kalapuna|{{:wiki:kalapuna0.jpg?200|}}]]|[[kalapuna]], the next proa on the list |
+| [[kalapuna|{{:wiki:kalapuna0.jpg?150|}}]] | [[Kalapuna]] - 8m pacific proa, built 2010/11 of plywood/epoxy by own plans, sailing in Aegean Sea, SW-Turkey|
 
-[[kalapuna|{{:wiki:kalapuna0.jpg?200|optional description}}]]
+| [[kalapuna|{{:wiki:kalapuna0.jpg?150|}}]]|[[new]], the next proa on the list |

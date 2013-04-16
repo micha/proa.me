@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-16T18:00:04+00:00</dc:date>
+       <dc:date>2013-04-16T18:21:26+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_be_a_professional_magician&amp;rev=1366135326&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=turn_into_a_magician_with_online_free_magic_tricks&amp;rev=1366135079&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=best_magician_related_articles&amp;rev=1366134829&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=traditional_counseling_i_want_to_be_a_brisbane_magician&amp;rev=1366134568&amp;do=diff"/>
@@ -33,7 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=study_more_all_over_computer_backgammon&amp;rev=1366026864&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=is_satellite_direct_the_most_popular_yet_the_most_hated_internet_tv_software_right_now&amp;rev=1366026862&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=safety_measures_for_a_personal_computer&amp;rev=1366026637&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=computer_revive_schools_teach_personal_computer&amp;rev=1366026402&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,16 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=how_to_be_a_professional_magician&amp;rev=1366135326&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-16T18:02:06+00:00</dc:date>
+        <dc:creator>maggie297</dc:creator>
+        <title>how_to_be_a_professional_magician - created</title>
+        <link>http://proa.me/wiki/doku.php?id=how_to_be_a_professional_magician&amp;rev=1366135326&amp;do=diff</link>
+        <description>How To Be A Professional Magician
+
+Without doubt common magician acts is light beer illusion. However, since a small movement could catch attention, ought to be an agreement between the magician and the assistant used be still and when start moving again.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=turn_into_a_magician_with_online_free_magic_tricks&amp;rev=1366135079&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-16T17:57:59+00:00</dc:date>
@@ -229,15 +239,5 @@ However, if you accept congenital software, the adequacy of accomplishing Backup
         <description>Safety Measures For A Personal Computer
 
 Tritton AX 720 Digital Gaming Headset- A further true “large-performance” gaming audio method which combines excellent audio AND voice communication. However, these portable computers can verify to be bulky.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=computer_revive_schools_teach_personal_computer&amp;rev=1366026402&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-15T11:46:42+00:00</dc:date>
-        <dc:creator>lyla459</dc:creator>
-        <title>computer_revive_schools_teach_personal_computer - created</title>
-        <link>http://proa.me/wiki/doku.php?id=computer_revive_schools_teach_personal_computer&amp;rev=1366026402&amp;do=diff</link>
-        <description>Computer Revive Schools Teach Personal Computer
-
-This really is actual important decidedly in corporations and business enterprises that appearance advice as revenues. Now, more than ever, work is no longer geography dependent and much office work can be completed because of the comfort of home.</description>
     </item>
 </rdf:RDF>

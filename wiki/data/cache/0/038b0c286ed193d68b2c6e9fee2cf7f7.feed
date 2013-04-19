@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-19T11:06:11+00:00</dc:date>
+       <dc:date>2013-04-19T18:25:57+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=las_tablas_panama_real_estate_report&amp;rev=1366342656&amp;do=diff"/>

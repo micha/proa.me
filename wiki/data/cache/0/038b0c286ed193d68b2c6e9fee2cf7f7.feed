@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-23T01:22:19+00:00</dc:date>
+       <dc:date>2013-04-23T03:55:39+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=develop_a_professional_website_design_to_generate_interest&amp;rev=1366689074&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=expert_tips_to_develop_website_design&amp;rev=1366688600&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wet_basements_toronto_related_articles&amp;rev=1366644905&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=drywall_vs_drop_ceiling_for_basements&amp;rev=1366632461&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=feng_shui_and_clutter_in_attics_and_basements&amp;rev=1366632206&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=extending_the_life_of_adelaide_billiard_tables&amp;rev=1366594360&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=coin_operated_pool_tables_generate_money&amp;rev=1366594005&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tips_on_how_to_multiply_your_youtube_video_views_considerably&amp;rev=1366522400&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=as_well_as_drawbacks_cons:optimize_youtube_videos&amp;rev=1366522211&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wondering_how_to_make_money_with_youtube&amp;rev=1366521790&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,26 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=develop_a_professional_website_design_to_generate_interest&amp;rev=1366689074&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-23T03:51:14+00:00</dc:date>
+        <dc:creator>felice657</dc:creator>
+        <title>develop_a_professional_website_design_to_generate_interest - created</title>
+        <link>http://proa.me/wiki/doku.php?id=develop_a_professional_website_design_to_generate_interest&amp;rev=1366689074&amp;do=diff</link>
+        <description>Develop A Professional Website Design To Generate Interest
+
+The trend right now end up being to utilize CSS to serve device based multiple layouts and screen dimensions so that the website is displayed properly. Permits you to decide the regular of individuals you're selecting.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=expert_tips_to_develop_website_design&amp;rev=1366688600&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-23T03:43:20+00:00</dc:date>
+        <dc:creator>jarrod882</dc:creator>
+        <title>expert_tips_to_develop_website_design - created</title>
+        <link>http://proa.me/wiki/doku.php?id=expert_tips_to_develop_website_design&amp;rev=1366688600&amp;do=diff</link>
+        <description>Expert Tips To Develop Website Design
+
+More importantly, your site should contain details on the product that the selling. May possibly include information such as your number, physical address, email target, and a map with directions in your business.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=wet_basements_toronto_related_articles&amp;rev=1366644905&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-22T15:35:05+00:00</dc:date>
@@ -225,25 +245,5 @@ The contemporary and striking beech finish body of one's table along with its sh
         <description>Tips On How To Multiply Your Youtube Video Views Considerably
 
 with luck this is adequate, because I am going to use it at home with regards to love to create by myself workouts. Additionally like FLVTO because, like Xenra, you can convert the YouTube music or audio file into several formats.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=as_well_as_drawbacks_cons:optimize_youtube_videos&amp;rev=1366522211&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-21T05:30:11+00:00</dc:date>
-        <dc:creator>lesli75</dc:creator>
-        <title>as_well_as_drawbacks_cons:optimize_youtube_videos - created</title>
-        <link>http://proa.me/wiki/doku.php?id=as_well_as_drawbacks_cons:optimize_youtube_videos&amp;rev=1366522211&amp;do=diff</link>
-        <description>As Well As Drawbacks Cons: Optimize Youtube Videos
-
-A dumb condition will annoy you that a sound recorder such as that can only record audio from flash for 60 seconds. With a straightforward and easy-to-use device, any Windows client can effortlessly add melodies to their videos.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=wondering_how_to_make_money_with_youtube&amp;rev=1366521790&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-21T05:23:10+00:00</dc:date>
-        <dc:creator>shani281</dc:creator>
-        <title>wondering_how_to_make_money_with_youtube - created</title>
-        <link>http://proa.me/wiki/doku.php?id=wondering_how_to_make_money_with_youtube&amp;rev=1366521790&amp;do=diff</link>
-        <description>Wondering How To Make Money With Youtube
-
-video marketing could be particularly lucrative. I'm mentioning it though, because no article on this subject would be comprehensive without system the dark side of promoting accounting websites and practices.</description>
     </item>
 </rdf:RDF>

@@ -11,9 +11,11 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-24T10:00:30+00:00</dc:date>
+       <dc:date>2013-04-24T16:03:23+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_vagina_bible_study&amp;rev=1366806907&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=you_beautiful_and_wonderfully_made_bible_verse&amp;rev=1366805759&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=jump_advancement_bible_critique&amp;rev=1366776118&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_great_news_bible&amp;rev=1366775537&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_potency_of_confessing_the_bible&amp;rev=1366774985&amp;do=diff"/>
@@ -32,8 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=identifying_potential_basement_flooding_problems&amp;rev=1366631950&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=explanations_why_you_should_waterproof_your_basement&amp;rev=1366631694&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=basement_renovations_and_black_mold&amp;rev=1366631434&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=basement_remodeling_design_and_ideas&amp;rev=1366631173&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=finishing_basements_related_articles&amp;rev=1366630466&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,28 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_vagina_bible_study&amp;rev=1366806907&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-24T12:35:07+00:00</dc:date>
+        <dc:creator>tara665</dc:creator>
+        <title>the_vagina_bible_study - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_vagina_bible_study&amp;rev=1366806907&amp;do=diff</link>
+        <description>The Vagina Bible Study
+
+Broken into three components, ebook, audio and ballet dance videos, these user friendly formats allow a person navigate through every ballet exercise with ease. Get to the vicinity of to God and he will arrive dear to you.
+
+Zondervan, who publishes the NIV Bible states they will have sold over 215 million copies in its various shapes. Scholars representing more than 20 denominations ensured that a truly internationally relevant and simple to know text was developed. Sever…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=you_beautiful_and_wonderfully_made_bible_verse&amp;rev=1366805759&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-24T12:15:59+00:00</dc:date>
+        <dc:creator>jarrod882</dc:creator>
+        <title>you_beautiful_and_wonderfully_made_bible_verse - created</title>
+        <link>http://proa.me/wiki/doku.php?id=you_beautiful_and_wonderfully_made_bible_verse&amp;rev=1366805759&amp;do=diff</link>
+        <description>You Beautiful And Wonderfully Made Bible Verse
+
+Hosting a Bible study is the best way to fellowship with pals and to learn more about God's word. Bible Sermons usually equip evangelists as the central priority and this lets them consistently proclaim the gospel.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=jump_advancement_bible_critique&amp;rev=1366776118&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-24T04:01:58+00:00</dc:date>
@@ -227,25 +249,5 @@ You will that waterproofing against rising damp is also essential. If you feel t
         <description>Basement Renovations And Black Mold
 
 Hurdle is getting subscribers the leaks, the next part of the checklist is to along with the leak and stop it from recurring. And if you're one of those conspiracy theorists who doesn't trust customer testimonials, put your fears unwind.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=basement_remodeling_design_and_ideas&amp;rev=1366631173&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-22T11:46:13+00:00</dc:date>
-        <dc:creator>rusty928</dc:creator>
-        <title>basement_remodeling_design_and_ideas - created</title>
-        <link>http://proa.me/wiki/doku.php?id=basement_remodeling_design_and_ideas&amp;rev=1366631173&amp;do=diff</link>
-        <description>Basement Remodeling Design And Ideas
-
-This is especially true is a good basement is carpeted. Additionally, throw rugs can be placed in specific play areas to help define the room while giving children a place to build with blocks or roll their 4×4 trucks.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=finishing_basements_related_articles&amp;rev=1366630466&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-22T11:34:26+00:00</dc:date>
-        <dc:creator>jarrod882</dc:creator>
-        <title>finishing_basements_related_articles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=finishing_basements_related_articles&amp;rev=1366630466&amp;do=diff</link>
-        <description>Finishing Basements Related Articles
-
-The layout within the basement usually limits the volume of natural light used in basement lighting. There are choices in gloss finishes, while homeowners prefer a semi- or high-gloss, while others enjoy another rugged, less glossy look.</description>
     </item>
 </rdf:RDF>

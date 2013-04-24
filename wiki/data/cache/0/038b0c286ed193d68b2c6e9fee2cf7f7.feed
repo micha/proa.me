@@ -11,7 +11,7 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-24T06:15:57+00:00</dc:date>
+       <dc:date>2013-04-24T07:31:29+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=jump_advancement_bible_critique&amp;rev=1366776118&amp;do=diff"/>

@@ -11,9 +11,12 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-23T23:17:24+00:00</dc:date>
+       <dc:date>2013-04-24T06:00:46+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=jump_advancement_bible_critique&amp;rev=1366776118&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_great_news_bible&amp;rev=1366775537&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_potency_of_confessing_the_bible&amp;rev=1366774985&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=economical_and_motivated_website_design_for_your_business&amp;rev=1366692225&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=amazines_free_website_design_article_archive_for_may_2011&amp;rev=1366691494&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=communication_is_integral_in_website_design&amp;rev=1366691124&amp;do=diff"/>
@@ -31,9 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=basement_renovations_and_black_mold&amp;rev=1366631434&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=basement_remodeling_design_and_ideas&amp;rev=1366631173&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=finishing_basements_related_articles&amp;rev=1366630466&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=billiard_tables_for_sale_related_articles&amp;rev=1366596823&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_methods_to_maintain_perth_pool_tables_well&amp;rev=1366596294&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=antique_pool_tables_new_york_related_articles&amp;rev=1366595995&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,38 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=jump_advancement_bible_critique&amp;rev=1366776118&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-24T04:01:58+00:00</dc:date>
+        <dc:creator>roni711</dc:creator>
+        <title>jump_advancement_bible_critique - created</title>
+        <link>http://proa.me/wiki/doku.php?id=jump_advancement_bible_critique&amp;rev=1366776118&amp;do=diff</link>
+        <description>Jump Advancement Bible Critique
+
+Just as there are words in English with several meanings, there are words in Aramaic with several meanings. Bible Sermons usually equip evangelists as the central priority and this makes it possible for consistently proclaim the gospel.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_great_news_bible&amp;rev=1366775537&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-24T03:52:17+00:00</dc:date>
+        <dc:creator>sang285</dc:creator>
+        <title>the_great_news_bible - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_great_news_bible&amp;rev=1366775537&amp;do=diff</link>
+        <description>The Great News Bible
+
+Nowadays, computers developed their ability to deal with foreign language fonts such as Greek, Hebrew and English. The pro version of Aldiko let you adjust the E-book margins so that you just see all of the message.
+
+The excellent aspect however, is the fact that even most of these readers will surely feel convinced and guaranteed that it's going to be worth the the labor simply because this will virtually be the really last e-book they ever ought to buy on the matter. God …</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_potency_of_confessing_the_bible&amp;rev=1366774985&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-24T03:43:05+00:00</dc:date>
+        <dc:creator>kaylee553</dc:creator>
+        <title>the_potency_of_confessing_the_bible - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_potency_of_confessing_the_bible&amp;rev=1366774985&amp;do=diff</link>
+        <description>The Potency Of Confessing The Bible
+
+For example, right now in the actual Testament I'm reading the Epistle to the Hebrews. While learning the Bible is the joyful task of a lifetime, I'd like to offer several suggestions that can enrich your Bible studies.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=economical_and_motivated_website_design_for_your_business&amp;rev=1366692225&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-23T04:43:45+00:00</dc:date>
@@ -215,35 +247,5 @@ This is especially true is a good basement is carpeted. Additionally, throw rugs
         <description>Finishing Basements Related Articles
 
 The layout within the basement usually limits the volume of natural light used in basement lighting. There are choices in gloss finishes, while homeowners prefer a semi- or high-gloss, while others enjoy another rugged, less glossy look.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=billiard_tables_for_sale_related_articles&amp;rev=1366596823&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-22T02:13:43+00:00</dc:date>
-        <dc:creator>eula585</dc:creator>
-        <title>billiard_tables_for_sale_related_articles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=billiard_tables_for_sale_related_articles&amp;rev=1366596823&amp;do=diff</link>
-        <description>Billiard Tables For Sale Related Articles
-
-Additional accessories include pool cue wall or floor racks, pool chalk holders, spectator chairs, cocktail tables, pool table brushes, and other ancillary accessories. And as history now shows, he undeniably stayed true to his word.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=easy_methods_to_maintain_perth_pool_tables_well&amp;rev=1366596294&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-22T02:04:54+00:00</dc:date>
-        <dc:creator>roni711</dc:creator>
-        <title>easy_methods_to_maintain_perth_pool_tables_well - created</title>
-        <link>http://proa.me/wiki/doku.php?id=easy_methods_to_maintain_perth_pool_tables_well&amp;rev=1366596294&amp;do=diff</link>
-        <description>Easy Methods To Maintain Perth Pool Tables Well
-
-Virtually all pub style pool tables that you'll find in the UK are English tables. Many times you can glance at the top of the line cue stick with the best tip, length and weight, and it doesn't feel right in both your hands.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=antique_pool_tables_new_york_related_articles&amp;rev=1366595995&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-22T01:59:55+00:00</dc:date>
-        <dc:creator>sang285</dc:creator>
-        <title>antique_pool_tables_new_york_related_articles - created</title>
-        <link>http://proa.me/wiki/doku.php?id=antique_pool_tables_new_york_related_articles&amp;rev=1366595995&amp;do=diff</link>
-        <description>Antique Pool Tables New York Related Articles
-
-If you don't have a pool table to offer, you'll likely discover that a bit of your potential business fades just a little. We can major distributor of games room products supplying all parts in the UK, Ireland and mainland European.</description>
     </item>
 </rdf:RDF>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://proa.me/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://proa.me/wiki/feed.php">
+        <title>Wikiproa take_that_spare_tire</title>
+        <description></description>
+        <link>http://proa.me/wiki/</link>
+        <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
+       <dc:date>2013-04-25T14:26:47+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=take_that_spare_tire:weight_loss_made_simple&amp;rev=1360605885&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico">
+        <title>Wikiproa</title>
+        <link>http://proa.me/wiki/</link>
+        <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=take_that_spare_tire:weight_loss_made_simple&amp;rev=1360605885&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-02-11T18:04:45+00:00</dc:date>
+        <title>take_that_spare_tire:weight_loss_made_simple</title>
+        <link>http://proa.me/wiki/doku.php?id=take_that_spare_tire:weight_loss_made_simple&amp;rev=1360605885&amp;do=diff</link>
+        <description>It can be hard to lose weight. You may start out raring to go, but as time passes, your motivation may dwindle. Here you will find out the secrets of those who have not only been able to shed unwanted pounds, but also have been able to keep them at bay.&lt;br /&gt;&lt;br /&gt;Before you do anything else, you should ask yourself why you want to lose weight, and then set your goals. Is there some special occasion that you need to lose weight for? Is there a specific weight loss goal you want to achieve? Is yo…</description>
+    </item>
+</rdf:RDF>

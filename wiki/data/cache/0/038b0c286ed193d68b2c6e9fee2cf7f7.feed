@@ -11,9 +11,12 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-04-27T04:13:26+00:00</dc:date>
+       <dc:date>2013-04-27T05:45:17+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=promote_a_jewelry_business_at_industry_events&amp;rev=1367036752&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=six_advantages_to_virtual_trade_shows&amp;rev=1367036289&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=marketing_for_trade_shows_and_conference_graphics&amp;rev=1367036050&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=using_printed_pens_for_trade_shows&amp;rev=1367035795&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=top_7_biggest_mistakes_exhibitors_make_at_trade_shows&amp;rev=1367035564&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_visual_advertising_perspective_of_organizations_at_trade_shows&amp;rev=1367035313&amp;do=diff"/>
@@ -31,9 +34,6 @@
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advantages_of_red_wine&amp;rev=1367031750&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=add_cheap_resveratrol_to_a_balanced_nutrition&amp;rev=1367031565&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=using_trade_show_booths_at_community_outdoor_fair&amp;rev=1367031499&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=discover_what_red_wine_has_got_an_individual&amp;rev=1367031379&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=event_psychology:know_the_crowd&amp;rev=1367031238&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=generate._becker_lists_antioxidant_sources_your_health_tv&amp;rev=1367031199&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,38 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=promote_a_jewelry_business_at_industry_events&amp;rev=1367036752&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-27T04:25:52+00:00</dc:date>
+        <dc:creator>eula585</dc:creator>
+        <title>promote_a_jewelry_business_at_industry_events - created</title>
+        <link>http://proa.me/wiki/doku.php?id=promote_a_jewelry_business_at_industry_events&amp;rev=1367036752&amp;do=diff</link>
+        <description>Promote A Jewelry Business At Industry Events
+
+The phrase goes, “You were given two ears and one mouth,” as well as was done for a root cause. Working a booth allows a company to press the flesh and promote having a passion that simply can't be located in traditional advertising.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=six_advantages_to_virtual_trade_shows&amp;rev=1367036289&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-27T04:18:09+00:00</dc:date>
+        <dc:creator>roni711</dc:creator>
+        <title>six_advantages_to_virtual_trade_shows - created</title>
+        <link>http://proa.me/wiki/doku.php?id=six_advantages_to_virtual_trade_shows&amp;rev=1367036289&amp;do=diff</link>
+        <description>Six Advantages To Virtual Trade Shows
+
+Fishing trade shows are brilliant ways encourage the interest of the fishing trade industry, making it very proficient both in the local and international market. But is social networking relevant to B2B companies?</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=marketing_for_trade_shows_and_conference_graphics&amp;rev=1367036050&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-27T04:14:10+00:00</dc:date>
+        <dc:creator>sang285</dc:creator>
+        <title>marketing_for_trade_shows_and_conference_graphics - created</title>
+        <link>http://proa.me/wiki/doku.php?id=marketing_for_trade_shows_and_conference_graphics&amp;rev=1367036050&amp;do=diff</link>
+        <description>Marketing For Trade Shows And Conference Graphics
+
+They will manage to have this happen by creating event settings possess highly visible and therefore place promote your branding initiatives. These are all devices that people include every day.
+
+Those few that do not probably recognize how this positioning would positively impact their reputation, their ability to meet their business goals, the need for their company, and their profits. Using a compatible video matrix switch in between, the com…</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=using_printed_pens_for_trade_shows&amp;rev=1367035795&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-04-27T04:09:55+00:00</dc:date>
@@ -215,35 +247,5 @@ Nonetheless, it will need lots of red wine (along the ranges of 3 litres) before
         <description>Using Trade Show Booths At Community Outdoor Fair
 
 The walls fit together and make out any sun giving the protection that you need. Vibrant colors, effective promotional language, and positioning are vital elements for driving traffic to your exhibit location.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=discover_what_red_wine_has_got_an_individual&amp;rev=1367031379&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-27T02:56:19+00:00</dc:date>
-        <dc:creator>sheron169</dc:creator>
-        <title>discover_what_red_wine_has_got_an_individual - created</title>
-        <link>http://proa.me/wiki/doku.php?id=discover_what_red_wine_has_got_an_individual&amp;rev=1367031379&amp;do=diff</link>
-        <description>Discover What Red Wine Has Got An Individual!
-
-However, other dietary factors could contribute specific. Resveratrol juice contains a high dosage of Trans-Resveratrol that may offer all the effects presented above and even some get been still being studied.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=event_psychology:know_the_crowd&amp;rev=1367031238&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-27T02:53:58+00:00</dc:date>
-        <dc:creator>rusty928</dc:creator>
-        <title>event_psychology:know_the_crowd - created</title>
-        <link>http://proa.me/wiki/doku.php?id=event_psychology:know_the_crowd&amp;rev=1367031238&amp;do=diff</link>
-        <description>Event Psychology: Know The Crowd
-
-The benefit of a trade show is that they works effectively to bring different professionals from one or more industrial sector under one covering. Let your existing customers and prospects know you will stop in attendance.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=generate._becker_lists_antioxidant_sources_your_health_tv&amp;rev=1367031199&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-27T02:53:19+00:00</dc:date>
-        <dc:creator>domenic366</dc:creator>
-        <title>generate._becker_lists_antioxidant_sources_your_health_tv - created</title>
-        <link>http://proa.me/wiki/doku.php?id=generate._becker_lists_antioxidant_sources_your_health_tv&amp;rev=1367031199&amp;do=diff</link>
-        <description>Generate. Becker Lists Antioxidant Sources Your Health Tv
-
-In the technique of naturopathy, naturopathic doctors heal their patient's illness by using kind of power. Pc or google tv to develop the pill was sold to the drug company GlaxoSmithKline in 2008 for $720 million.</description>
     </item>
 </rdf:RDF>

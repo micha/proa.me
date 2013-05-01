@@ -11,9 +11,10 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-03-11T12:33:40+00:00</dc:date>
+       <dc:date>2013-05-01T05:06:56+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=self_improvement_101:the_very_best_tricks_and_tips&amp;rev=1365406040&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -22,4 +23,11 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=self_improvement_101:the_very_best_tricks_and_tips&amp;rev=1365406040&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-08T07:27:20+00:00</dc:date>
+        <title>self_improvement_101:the_very_best_tricks_and_tips</title>
+        <link>http://proa.me/wiki/doku.php?id=self_improvement_101:the_very_best_tricks_and_tips&amp;rev=1365406040&amp;do=diff</link>
+        <description>Personal development gives you the opportunity to mold yourself in to the best person in your mind and soul. The following article will give you some helpful suggestions to help show you on your trip.There exists certainly many reasons that size genetics reviews is actually voted as the top product of the season.</description>
+    </item>
 </rdf:RDF>

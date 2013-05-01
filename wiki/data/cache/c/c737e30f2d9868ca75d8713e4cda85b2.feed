@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://proa.me/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://proa.me/wiki/feed.php">
+        <title>Wikiproa enhancing_your_home</title>
+        <description></description>
+        <link>http://proa.me/wiki/</link>
+        <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
+       <dc:date>2013-05-01T01:37:42+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico">
+        <title>Wikiproa</title>
+        <link>http://proa.me/wiki/</link>
+        <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
+    </image>
+</rdf:RDF>

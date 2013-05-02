@@ -11,29 +11,29 @@
         <description></description>
         <link>http://proa.me/wiki/</link>
         <image rdf:resource="http://proa.me/wiki/lib/tpl/modified/images/favicon.ico" />
-       <dc:date>2013-05-02T18:17:33+00:00</dc:date>
+       <dc:date>2013-05-02T19:57:14+00:00</dc:date>
         <items>
             <rdf:Seq>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_brand_new_winterize_your_sprinkler_systems&amp;rev=1367524422&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=the_right_way_to_install_a_sprinkler_system&amp;rev=1367524166&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=several_categories_of_lawn_sprinkler_systems_for_your_home&amp;rev=1367523891&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_operate_the_different_parts_of_a_fire_sprinkler&amp;rev=1367523622&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=lawn_irrigation_versus_watering_lawns_with_sprinklers&amp;rev=1367523203&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=different_kinds_of_sprinkler_systems&amp;rev=1367522807&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=denims_right_watering_system:drip_irrigation_or_sprinklers&amp;rev=1367522392&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=set_of_jeans_right_watering_system:drip_irrigation_or_sprinklers&amp;rev=1367522053&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=understanding_the_legal_aspects_of_insurance&amp;rev=1367521510&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=resume_writing_tips_for_legal_nurse_consultant&amp;rev=1367521305&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=settling_medical_malpractice_lawsuits&amp;rev=1367520820&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=wrongful_death_statute_of_limitations&amp;rev=1367520302&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=paralegal_job_description&amp;rev=1367519793&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=legal_definition_of_immediate_family_member&amp;rev=1367519532&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=knowing_the_legal_aspects_of_insurance&amp;rev=1367519267&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=attorneys_in_boise_ldahoone_solution_in_the_many_legal_troubles&amp;rev=1367519106&amp;do=diff"/>
+                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_you_can_make_debt_collectors_pay_for_illegal_voicemails&amp;rev=1367518807&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1367404771&amp;do=diff"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Aimg_0026.jpg&amp;ns=tdem&amp;rev=1367379291&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
                 <rdf:li rdf:resource="http://proa.me/wiki/doku.php?image=tdem%3Aimg_0028.jpg&amp;ns=tdem&amp;rev=1367379277&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=top_organic_skin_care_moisturisers_for_greasy_skin&amp;rev=1367342817&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=best_skin_care_products_available_online&amp;rev=1367342520&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=great_things_about_exuberance_beauty_organic_skin_maintenance_systems&amp;rev=1367342244&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=away_the_best_ways_on_ways_to_remove_skin_tags&amp;rev=1367341954&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=spa_covers&amp;rev=1367328463&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=easy_methods_to_replace_a_spa_pump&amp;rev=1367328246&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=what_is_available_from_a_medical_spa&amp;rev=1367327743&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=fresh_day_spa_experience_for_everyone_anytime&amp;rev=1367327466&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=how_to_pick_an_appropriate_day_spa&amp;rev=1367327192&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=10_hot_tips_to_make_your_spa_profitable_in_the_shortest_period_of_time&amp;rev=1367326612&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=spa_packages_make_the_ultimate_gift_for_any_occasion&amp;rev=1367326303&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=top_things_to_look_for_when_hiring_spa_employees&amp;rev=1367326016&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=advantages_of_a_spa_jacuzzi&amp;rev=1367325448&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=what_is_the_best_skin_firming_face_cream_on_the_market&amp;rev=1367297837&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=does_microdermabrasion_thin_your_skin&amp;rev=1367297320&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=cholesterol_skin_care_proves_highly_effective&amp;rev=1367297025&amp;do=diff"/>
-                <rdf:li rdf:resource="http://proa.me/wiki/doku.php?id=low_quality_skin_care_functions&amp;rev=1367296719&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -42,6 +42,182 @@
         <link>http://proa.me/wiki/</link>
         <url>http://proa.me/wiki/lib/tpl/modified/images/favicon.ico</url>
     </image>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_brand_new_winterize_your_sprinkler_systems&amp;rev=1367524422&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T19:53:42+00:00</dc:date>
+        <dc:creator>roni711</dc:creator>
+        <title>the_brand_new_winterize_your_sprinkler_systems - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_brand_new_winterize_your_sprinkler_systems&amp;rev=1367524422&amp;do=diff</link>
+        <description>The Brand New Winterize Your Sprinkler Systems
+
+When using timber, you will need to stay the pieces together and drive a rebar through them to cling the wood in place. This can be the time to break the ice cream maker and frozen pops tray to keep everyone cool on the inside.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=the_right_way_to_install_a_sprinkler_system&amp;rev=1367524166&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T19:49:26+00:00</dc:date>
+        <dc:creator>sang285</dc:creator>
+        <title>the_right_way_to_install_a_sprinkler_system - created</title>
+        <link>http://proa.me/wiki/doku.php?id=the_right_way_to_install_a_sprinkler_system&amp;rev=1367524166&amp;do=diff</link>
+        <description>The Right Way To Install A Sprinkler System
+
+Runners meet at the Quad City Times parking lot at 6:00 pm ready to run. All detectors also come with one main pipe that is entirely responsible to pushing the water out of the system your detector has noticed smoke.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=several_categories_of_lawn_sprinkler_systems_for_your_home&amp;rev=1367523891&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T19:44:51+00:00</dc:date>
+        <dc:creator>kaylee553</dc:creator>
+        <title>several_categories_of_lawn_sprinkler_systems_for_your_home - created</title>
+        <link>http://proa.me/wiki/doku.php?id=several_categories_of_lawn_sprinkler_systems_for_your_home&amp;rev=1367523891&amp;do=diff</link>
+        <description>Several Categories Of Lawn Sprinkler Systems For Your Home
+
+As to keep your wood covered, that can be a personal preference. Hunter Pro-ASV valves are only as dependable whilst the Hunter nameand Hunter is a remarkably respected brand name in irrigation, a top performer since their debut in 1981.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=how_to_operate_the_different_parts_of_a_fire_sprinkler&amp;rev=1367523622&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T19:40:22+00:00</dc:date>
+        <dc:creator>tara665</dc:creator>
+        <title>how_to_operate_the_different_parts_of_a_fire_sprinkler - created</title>
+        <link>http://proa.me/wiki/doku.php?id=how_to_operate_the_different_parts_of_a_fire_sprinkler&amp;rev=1367523622&amp;do=diff</link>
+        <description>How To Operate The Different Parts Of A Fire Sprinkler
+
+More importantly, this system has virtually eliminated problems with run-off. Lawns are stupid, especially the strip of lawn between the sidewalk and the street, often known as parkway or park strip.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=lawn_irrigation_versus_watering_lawns_with_sprinklers&amp;rev=1367523203&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T19:33:23+00:00</dc:date>
+        <dc:creator>cyril215</dc:creator>
+        <title>lawn_irrigation_versus_watering_lawns_with_sprinklers - created</title>
+        <link>http://proa.me/wiki/doku.php?id=lawn_irrigation_versus_watering_lawns_with_sprinklers&amp;rev=1367523203&amp;do=diff</link>
+        <description>Lawn Irrigation Versus Watering Lawns With Sprinklers
+
+These handy inventions are an integral a part of our world today. However, to consume any wet areas even utilizing the water completely shut off, then that is often a giveaway that something might be wrong with the sprinkler.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=different_kinds_of_sprinkler_systems&amp;rev=1367522807&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T19:26:47+00:00</dc:date>
+        <dc:creator>rusty928</dc:creator>
+        <title>different_kinds_of_sprinkler_systems - created</title>
+        <link>http://proa.me/wiki/doku.php?id=different_kinds_of_sprinkler_systems&amp;rev=1367522807&amp;do=diff</link>
+        <description>Different Kinds Of Sprinkler Systems
+
+Impact . what chlorine does if experience ever been swimming in a public pool. Whatever involving raised bed you use, generally there are many, you can expect to have the raised bed to help your garden easier to work plus more productive.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=denims_right_watering_system:drip_irrigation_or_sprinklers&amp;rev=1367522392&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T19:19:52+00:00</dc:date>
+        <dc:creator>felice657</dc:creator>
+        <title>denims_right_watering_system:drip_irrigation_or_sprinklers - created</title>
+        <link>http://proa.me/wiki/doku.php?id=denims_right_watering_system:drip_irrigation_or_sprinklers&amp;rev=1367522392&amp;do=diff</link>
+        <description>Denims Right Watering System: Drip Irrigation Or Sprinklers
+
+In your home you live, in what associated with neighborhood, the most significant reaction to planting a parkway garden is inspiring others to plant their gardens. A number of house fires may end up in having to demolish home.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=set_of_jeans_right_watering_system:drip_irrigation_or_sprinklers&amp;rev=1367522053&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T19:14:13+00:00</dc:date>
+        <dc:creator>jarrod882</dc:creator>
+        <title>set_of_jeans_right_watering_system:drip_irrigation_or_sprinklers - created</title>
+        <link>http://proa.me/wiki/doku.php?id=set_of_jeans_right_watering_system:drip_irrigation_or_sprinklers&amp;rev=1367522053&amp;do=diff</link>
+        <description>Set Of Jeans Right Watering System: Drip Irrigation Or Sprinklers
+
+Additionally, a head must be competent to operate no matter what the temperature inside the building is also. Most sprinklers are heat activated, only spraying water once the temperature reaches a certain level.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=understanding_the_legal_aspects_of_insurance&amp;rev=1367521510&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T19:05:10+00:00</dc:date>
+        <dc:creator>graig54</dc:creator>
+        <title>understanding_the_legal_aspects_of_insurance - created</title>
+        <link>http://proa.me/wiki/doku.php?id=understanding_the_legal_aspects_of_insurance&amp;rev=1367521510&amp;do=diff</link>
+        <description>Understanding The Legal Aspects Of Insurance
+
+Since, the laws regarding medical negligence range between one state to the other, the judgements of one state court may not be acceptable in another jurisdiction. Creating a false abuse allegation is a terrible thing to do to a toddler.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=resume_writing_tips_for_legal_nurse_consultant&amp;rev=1367521305&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T19:01:45+00:00</dc:date>
+        <dc:creator>enriqueta314</dc:creator>
+        <title>resume_writing_tips_for_legal_nurse_consultant - created</title>
+        <link>http://proa.me/wiki/doku.php?id=resume_writing_tips_for_legal_nurse_consultant&amp;rev=1367521305&amp;do=diff</link>
+        <description>Resume Writing Tips For Legal Nurse Consultant
+
+You can take care of education expenses of your children and pay your medical debts. The client may also produce a waiver in advance but end up being fully informed of how the same what purpose the disclosures end up being made.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=settling_medical_malpractice_lawsuits&amp;rev=1367520820&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T18:53:40+00:00</dc:date>
+        <dc:creator>enid463</dc:creator>
+        <title>settling_medical_malpractice_lawsuits - created</title>
+        <link>http://proa.me/wiki/doku.php?id=settling_medical_malpractice_lawsuits&amp;rev=1367520820&amp;do=diff</link>
+        <description>Settling Medical Malpractice Lawsuits
+
+It's got to however be noted that numerous drunk driving cases are trashed on technicalities due to incorrect arrest procedures being followed, inconsistent dockets, etc. These so called experts are experts in testimony.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=wrongful_death_statute_of_limitations&amp;rev=1367520302&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T18:45:02+00:00</dc:date>
+        <dc:creator>darby365</dc:creator>
+        <title>wrongful_death_statute_of_limitations - created</title>
+        <link>http://proa.me/wiki/doku.php?id=wrongful_death_statute_of_limitations&amp;rev=1367520302&amp;do=diff</link>
+        <description>Wrongful Death Statute Of Limitations
+
+Unlike a loan, if you lose your case you owe nothing in pay out. If your work injury causes a permanent injury (meaning that you are not back to 100%), then you've receive compensation for your condition.
+
+These drugs possess a low potential for abuse in comparison with the drugs in Schedule IV, can be used as medical use, and have a prospective for limited physical dependence or psychological dependence as compared for the drugs in Schedule IV. Wakley deci…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=paralegal_job_description&amp;rev=1367519793&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T18:36:33+00:00</dc:date>
+        <dc:creator>valery885</dc:creator>
+        <title>paralegal_job_description - created</title>
+        <link>http://proa.me/wiki/doku.php?id=paralegal_job_description&amp;rev=1367519793&amp;do=diff</link>
+        <description>Paralegal Job Description
+
+Along with the car accident victim and reassuring the car accident injury victim is means of harming the claimants case. Requesting for plaintiff funding does not impact the agreement between you too attorney in any way.
+
+A criminal lawyer will work along with you through the rest of ought to be familiar. The growth of false accusations of abuse in child custody proceedings click the up coming website staten island is very upsetting. Personal recommendations can carry …</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=legal_definition_of_immediate_family_member&amp;rev=1367519532&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T18:32:12+00:00</dc:date>
+        <dc:creator>rusty443</dc:creator>
+        <title>legal_definition_of_immediate_family_member - created</title>
+        <link>http://proa.me/wiki/doku.php?id=legal_definition_of_immediate_family_member&amp;rev=1367519532&amp;do=diff</link>
+        <description>Legal Definition Of Immediate Family Member
+
+The easy definition of the word “tort” is injury or wrongful turn. The cycle has three distinct phases: the tension-building phase, and the violent incident, followed with the 'make-up' or 'honeymoon' phase.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=knowing_the_legal_aspects_of_insurance&amp;rev=1367519267&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T18:27:47+00:00</dc:date>
+        <dc:creator>henrietta247</dc:creator>
+        <title>knowing_the_legal_aspects_of_insurance - created</title>
+        <link>http://proa.me/wiki/doku.php?id=knowing_the_legal_aspects_of_insurance&amp;rev=1367519267&amp;do=diff</link>
+        <description>Knowing The Legal Aspects Of Insurance
+
+In addition, starting in January 2006, the disability insurer would stop paying him benefits until he repaid the overpaid benefits. As accidents happen in elevators, so do in escalators.
+
+MetLife leaned most on Dr. Must take this activity partly due to fear and partly due to not being aware constitutes medical malpractice. In the same time, Social Security had awarded Lanier $60,440 in retroactive benefits to April 2003. A rentals are an investment that co…</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=attorneys_in_boise_ldahoone_solution_in_the_many_legal_troubles&amp;rev=1367519106&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T18:25:06+00:00</dc:date>
+        <dc:creator>tanja828</dc:creator>
+        <title>attorneys_in_boise_ldahoone_solution_in_the_many_legal_troubles - created</title>
+        <link>http://proa.me/wiki/doku.php?id=attorneys_in_boise_ldahoone_solution_in_the_many_legal_troubles&amp;rev=1367519106&amp;do=diff</link>
+        <description>Attorneys In Boise Ldahoone Solution In The Many Legal Troubles
+
+Lanier heard from MetLife again on September 20. Note: This article is not developed to provide legal advice upon an individual should rely in making any decisions regarding the instituting or prosecuting of a legal litigation.</description>
+    </item>
+    <item rdf:about="http://proa.me/wiki/doku.php?id=how_you_can_make_debt_collectors_pay_for_illegal_voicemails&amp;rev=1367518807&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T18:20:07+00:00</dc:date>
+        <dc:creator>janet81</dc:creator>
+        <title>how_you_can_make_debt_collectors_pay_for_illegal_voicemails - created</title>
+        <link>http://proa.me/wiki/doku.php?id=how_you_can_make_debt_collectors_pay_for_illegal_voicemails&amp;rev=1367518807&amp;do=diff</link>
+        <description>How You Can Make Debt Collectors Pay For Illegal Voicemails
+
+Medical malpractice, and medical negligence are merely two broad category examples of torts. Secondly, the health care professional breached his duty by failing to do his duties in line the actual use of relevant standards of care.</description>
+    </item>
     <item rdf:about="http://proa.me/wiki/doku.php?id=tdem_s_boat&amp;rev=1367404771&amp;do=diff">
         <dc:format>text/html</dc:format>
         <dc:date>2013-05-01T10:39:31+00:00</dc:date>
@@ -67,177 +243,5 @@ I've been busy making a mast step in the boat, for a free standing mast to use w
         <title>tdem:img_0028.jpg - created</title>
         <link>http://proa.me/wiki/doku.php?image=tdem%3Aimg_0028.jpg&amp;ns=tdem&amp;rev=1367379277&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
         <description>&lt;img src=&quot;/wiki/lib/exe/fetch.php?w=500&amp;h=375t=1367379277&amp;amp;media=tdem:img_0028.jpg&quot; alt=&quot;tdem:img_0028.jpg&quot; /&gt;</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=top_organic_skin_care_moisturisers_for_greasy_skin&amp;rev=1367342817&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T17:26:57+00:00</dc:date>
-        <dc:creator>maggie297</dc:creator>
-        <title>top_organic_skin_care_moisturisers_for_greasy_skin - created</title>
-        <link>http://proa.me/wiki/doku.php?id=top_organic_skin_care_moisturisers_for_greasy_skin&amp;rev=1367342817&amp;do=diff</link>
-        <description>Top Organic Skin Care Moisturisers For Greasy Skin
-
-Apply after cleansing, avoiding eye and mouth career fields. Look at the weekly ads online anti aging skin care company sites, and wonder magazines for coupons and specials on anti aging skin maintenance systems.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=best_skin_care_products_available_online&amp;rev=1367342520&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T17:22:00+00:00</dc:date>
-        <dc:creator>launa27</dc:creator>
-        <title>best_skin_care_products_available_online - created</title>
-        <link>http://proa.me/wiki/doku.php?id=best_skin_care_products_available_online&amp;rev=1367342520&amp;do=diff</link>
-        <description>Best Skin Care Products Available Online
-
-Orange juice and pureed apple are also excellent cleansers. Intragen 5 by Revlon professional will concentrate on these areas with using a simple to apply patch which should be positioned clean dry skin near the shoulders region.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=great_things_about_exuberance_beauty_organic_skin_maintenance_systems&amp;rev=1367342244&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T17:17:24+00:00</dc:date>
-        <dc:creator>isabel658</dc:creator>
-        <title>great_things_about_exuberance_beauty_organic_skin_maintenance_systems - created</title>
-        <link>http://proa.me/wiki/doku.php?id=great_things_about_exuberance_beauty_organic_skin_maintenance_systems&amp;rev=1367342244&amp;do=diff</link>
-        <description>Great Things About Exuberance Beauty Organic Skin Maintenance Systems
-
-There are specific natural makeup products like mineral vegan hydro cream foundation, complete indulgence, mineral eye shadow, mineral blush, mascara, lipstick etc. Growth hormone has been used with regard to anti-aging treatment.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=away_the_best_ways_on_ways_to_remove_skin_tags&amp;rev=1367341954&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T17:12:34+00:00</dc:date>
-        <dc:creator>janette316</dc:creator>
-        <title>away_the_best_ways_on_ways_to_remove_skin_tags - created</title>
-        <link>http://proa.me/wiki/doku.php?id=away_the_best_ways_on_ways_to_remove_skin_tags&amp;rev=1367341954&amp;do=diff</link>
-        <description>Away The Best Ways On Ways To Remove Skin Tags
-
-If any sexual terms are on the label, think twice about using it on your skin or every other part of your body. This can be and could very possibly be especially for products that don't go through any rigid testing and packaging.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=spa_covers&amp;rev=1367328463&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T13:27:43+00:00</dc:date>
-        <dc:creator>graig54</dc:creator>
-        <title>spa_covers - created</title>
-        <link>http://proa.me/wiki/doku.php?id=spa_covers&amp;rev=1367328463&amp;do=diff</link>
-        <description>Spa Covers &amp; Spa Covers
-
-All other studies, without exception, reported similar results. It will be significant to understand the terms and scenarios of the dealers and observe all costs that you has to pay to avoid any unpleasant surprises later on.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=easy_methods_to_replace_a_spa_pump&amp;rev=1367328246&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T13:24:06+00:00</dc:date>
-        <dc:creator>enriqueta314</dc:creator>
-        <title>easy_methods_to_replace_a_spa_pump - created</title>
-        <link>http://proa.me/wiki/doku.php?id=easy_methods_to_replace_a_spa_pump&amp;rev=1367328246&amp;do=diff</link>
-        <description>Easy Methods To Replace A Spa Pump
-
-Working a specific joint, muscle or muscle group, the practitioner can access deeper layers belonging to the soft tissue. Since their vitamins can be stored considerable typically not harmful, although a lot can still come with significances.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=what_is_available_from_a_medical_spa&amp;rev=1367327743&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T13:15:43+00:00</dc:date>
-        <dc:creator>enid463</dc:creator>
-        <title>what_is_available_from_a_medical_spa - created</title>
-        <link>http://proa.me/wiki/doku.php?id=what_is_available_from_a_medical_spa&amp;rev=1367327743&amp;do=diff</link>
-        <description>What Is Available From A Medical Spa
-
-Further, mineral springs are blessed with natural minerals and trace elements such as magnesium, sodium, calcium, potassium, manganese, iron, iodine, bromine and sulphur. The treatment is completed utilizing the aromatherapy facial.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=fresh_day_spa_experience_for_everyone_anytime&amp;rev=1367327466&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T13:11:06+00:00</dc:date>
-        <dc:creator>jacinda43</dc:creator>
-        <title>fresh_day_spa_experience_for_everyone_anytime - created</title>
-        <link>http://proa.me/wiki/doku.php?id=fresh_day_spa_experience_for_everyone_anytime&amp;rev=1367327466&amp;do=diff</link>
-        <description>Fresh Day Spa Experience For Everyone Anytime
-
-The nature of these “crystals” has to be elucidated or demonstrated scientifically. Getting day spa products in your spa you will be in a very create right kind of environment which will be able to draw consumers.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=how_to_pick_an_appropriate_day_spa&amp;rev=1367327192&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T13:06:32+00:00</dc:date>
-        <dc:creator>darby365</dc:creator>
-        <title>how_to_pick_an_appropriate_day_spa - created</title>
-        <link>http://proa.me/wiki/doku.php?id=how_to_pick_an_appropriate_day_spa&amp;rev=1367327192&amp;do=diff</link>
-        <description>How To Pick An Appropriate Day Spa &amp; Spa Treatment
-
-As a result of specificity of administration according to age groups, liquid vitamins.come towards the help of many parents who require to supplement their children's diet. Adjust the water if necessary produce a wet paste.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=10_hot_tips_to_make_your_spa_profitable_in_the_shortest_period_of_time&amp;rev=1367326612&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T12:56:52+00:00</dc:date>
-        <dc:creator>valery885</dc:creator>
-        <title>10_hot_tips_to_make_your_spa_profitable_in_the_shortest_period_of_time - created</title>
-        <link>http://proa.me/wiki/doku.php?id=10_hot_tips_to_make_your_spa_profitable_in_the_shortest_period_of_time&amp;rev=1367326612&amp;do=diff</link>
-        <description>10 Hot Tips To Make Your Spa Profitable In The Shortest Period Of Time
-
-Insect activity . mineral or hot spring, you need to include cold water treatments. Day spa gift certificates are a part of a spa promotion scheme your own will buy day spa gift cards and give it to anyone you choose.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=spa_packages_make_the_ultimate_gift_for_any_occasion&amp;rev=1367326303&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T12:51:43+00:00</dc:date>
-        <dc:creator>rusty443</dc:creator>
-        <title>spa_packages_make_the_ultimate_gift_for_any_occasion - created</title>
-        <link>http://proa.me/wiki/doku.php?id=spa_packages_make_the_ultimate_gift_for_any_occasion&amp;rev=1367326303&amp;do=diff</link>
-        <description>Spa Packages Make The Ultimate Gift For Any Occasion!
-
-It can also be a mode to try new spa therapy too. A yearly spending on vitamins and/or vitamin supplements reached seven billion dollars last year, according to figures designed by the industry.
-
-Fat-soluble vitamins include vitamins A, D, E and K. Here are five simple suggestions to keep your resistance in top gear. Antioxidants, vitamins and minerals pills are required since today's foods no longer provides all the nutrition to assist a bo…</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=top_things_to_look_for_when_hiring_spa_employees&amp;rev=1367326016&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T12:46:56+00:00</dc:date>
-        <dc:creator>henrietta247</dc:creator>
-        <title>top_things_to_look_for_when_hiring_spa_employees - created</title>
-        <link>http://proa.me/wiki/doku.php?id=top_things_to_look_for_when_hiring_spa_employees&amp;rev=1367326016&amp;do=diff</link>
-        <description>Top Things To Look For When Hiring Spa Employees
-
-They do not see the proper use of the laser hair treatment and do not follow the correct safe procedures, leading to scars and burning of the affected skin. It is definitely a great retreat to experience a Brisbane day spa.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=advantages_of_a_spa_jacuzzi&amp;rev=1367325448&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T12:37:28+00:00</dc:date>
-        <dc:creator>janet81</dc:creator>
-        <title>advantages_of_a_spa_jacuzzi - created</title>
-        <link>http://proa.me/wiki/doku.php?id=advantages_of_a_spa_jacuzzi&amp;rev=1367325448&amp;do=diff</link>
-        <description>Advantages Of A Spa Jacuzzi
-
-They are be an effective way to obtain out of the office accessible back looking and feeling aged refreshed. Such pampering mineral spring spas can be present in Baden-Baden in Germany, Spa in Belgium and Bath in The united kingdomt.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=what_is_the_best_skin_firming_face_cream_on_the_market&amp;rev=1367297837&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T04:57:17+00:00</dc:date>
-        <dc:creator>eula585</dc:creator>
-        <title>what_is_the_best_skin_firming_face_cream_on_the_market - created</title>
-        <link>http://proa.me/wiki/doku.php?id=what_is_the_best_skin_firming_face_cream_on_the_market&amp;rev=1367297837&amp;do=diff</link>
-        <description>What Is The Best Skin Firming Face Cream On The Market
-
-This will allow you to obtain rid of the clogged pores of the skin. Combined with current daily skin care regime and albumins could be that special product that gives your face that healthy look that the been looking for.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=does_microdermabrasion_thin_your_skin&amp;rev=1367297320&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T04:48:40+00:00</dc:date>
-        <dc:creator>roni711</dc:creator>
-        <title>does_microdermabrasion_thin_your_skin - created</title>
-        <link>http://proa.me/wiki/doku.php?id=does_microdermabrasion_thin_your_skin&amp;rev=1367297320&amp;do=diff</link>
-        <description>Does Microdermabrasion Thin Your Skin
-
-Practically any vegetable oil can be used as being a moisturizer, as well. Beauty Angels unique combination and holistic approach towards a more beautiful, youthful and healthier you turn it into the ultimate anti-aging and fitness solution.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=cholesterol_skin_care_proves_highly_effective&amp;rev=1367297025&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T04:43:45+00:00</dc:date>
-        <dc:creator>sang285</dc:creator>
-        <title>cholesterol_skin_care_proves_highly_effective - created</title>
-        <link>http://proa.me/wiki/doku.php?id=cholesterol_skin_care_proves_highly_effective&amp;rev=1367297025&amp;do=diff</link>
-        <description>Cholesterol Skin Care Proves Highly Effective
-
-Every woman, regardless of age, desires a fresh and glowing cases. Recipes to Bid Your Red dry skin FarewellIf the sorry state of the skin makes you see red, at your perusal are some recipes, to restore the natural moisture of your skin.</description>
-    </item>
-    <item rdf:about="http://proa.me/wiki/doku.php?id=low_quality_skin_care_functions&amp;rev=1367296719&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2013-04-30T04:38:39+00:00</dc:date>
-        <dc:creator>kaylee553</dc:creator>
-        <title>low_quality_skin_care_functions - created</title>
-        <link>http://proa.me/wiki/doku.php?id=low_quality_skin_care_functions&amp;rev=1367296719&amp;do=diff</link>
-        <description>Low Quality Skin Care Functions
-
-Remember it takes skin care in any case 6 weeks to 3 months to show real results for reducing the signs of growing. Lessen lines with anti-aging serums that utilize various collagen/elastin boosters to remodel the skin.</description>
     </item>
 </rdf:RDF>
